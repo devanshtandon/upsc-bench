@@ -1,0 +1,31 @@
+[project]
+name = "upsc-bench"
+version = "0.1.0"
+description = "LLM evaluation benchmark based on India's UPSC Civil Services Preliminary Examination"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "litellm>=1.40.0",
+    "pyyaml>=6.0",
+    "pydantic>=2.0",
+    "requests>=2.31",
+    "pillow>=10.0",
+    "tqdm>=4.66",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "ruff>=0.4",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

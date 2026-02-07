@@ -1,0 +1,35 @@
+# Historical UPSC Prelims cutoff marks (General category)
+# Source: UPSC official notifications
+# GS Paper I is out of 200, CSAT Paper II qualifying at 33%
+
+cutoffs:
+  2024:
+    gs1: 93.34
+    csat_qualifying: 66  # 33% of 200
+  2023:
+    gs1: 91.09
+    csat_qualifying: 66
+  2022:
+    gs1: 87.54
+    csat_qualifying: 66
+  2021:
+    gs1: 87.54
+    csat_qualifying: 66
+  2020:
+    gs1: 92.51
+    csat_qualifying: 66
+
+# Marks per question
+marking_scheme:
+  gs1:
+    correct: 2.0
+    wrong: -0.66
+    unanswered: 0.0
+    total_questions: 100
+    max_marks: 200
+  csat:
+    correct: 2.5
+    wrong: -0.83
+    unanswered: 0.0
+    total_questions: 80
+    max_marks: 200

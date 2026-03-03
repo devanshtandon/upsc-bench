@@ -1,22 +1,23 @@
 # UPSC Bench — Project State & Instructions
 
 ## RESUME HERE — Immediate Next Action
-**Connect GitHub remote and push. Then expand the benchmark to more models and years.**
+**Run the Mains evaluation pipeline, then deploy.**
 
-The project is functional end-to-end: questions are parsed, answer keys are merged, benchmarks have been run against 4 models on 2024+2025 papers, and the Next.js leaderboard displays real results. The git history is clean on the `main` branch (3 commits) but no remote is configured yet.
+Prelims is complete and polished: 4 models, 2024+2025, cleaned GS1 2025 data, interactive quiz feature. The Mains pipeline is built but not yet run. Next steps:
 
 Steps to resume:
-1. Add GitHub remote: `git remote add origin <REPO_URL>` and push
-2. Optionally add more models (Claude Sonnet, DeepSeek R1) to the benchmark
-3. Optionally add more years (2020-2023) once PDFs are parsed
-4. Deploy the frontend (Vercel or similar)
+1. Run the Mains benchmark: `python -m benchmark.mains_runner --config config/mains_claude_opus.yaml` (repeat for each model)
+2. Grade all Mains answers using in-session parallel subagents (Claude Code as judge)
+3. Generate updated leaderboard with Mains results
+4. Build frontend Mains view (ExamToggle, Mains tabs, rubric breakdown)
+5. Deploy the frontend (Vercel or similar)
 
 ---
 
 ## Project Overview
-UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services Preliminary Examination. It evaluates whether frontier AI models can pass the same exam that millions of Indian aspirants prepare years for. The project has a Python backend (data pipeline + evaluation harness) and a Next.js frontend (leaderboard website).
+UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services Examination — both the Preliminary (objective MCQ) and Mains (subjective essay/long-form) stages. It evaluates whether frontier AI models can pass the same exam that millions of Indian aspirants prepare years for. The project has a Python backend (data pipeline + evaluation harness) and a Next.js frontend (leaderboard website).
 
-## Current Status: Phase 4 — Polish & Release
+## Current Status: Phase 5 — Mains Evaluation
 
 ### What's DONE:
 1. **Project structure** — All directories, pyproject.toml, .gitignore, .env.example, README.md
@@ -29,30 +30,44 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services P
    - `data/answer_keys/gs1_2025.json` — 100 questions
    - `data/answer_keys/csat_2025.json` — 80 questions
 6. **Parsed questions** — `data/processed/upsc_bench.json` — 357 questions total (197 GS1, 160 CSAT across 2024+2025)
+   - GS1 2025 data cleaned: fixed word-per-line formatting, III→Ill/m corruption, garbage text, OCR artifacts (90/100 questions affected)
 7. **Benchmark results** — 4 models evaluated on 2024+2025: GPT-5.2, Gemini 3.1 Pro, Claude Opus 4.6, Gemini 2.5 Flash
+   - GS1 2025 re-run on cleaned data: all models improved (+3 to +19 marks)
 8. **Real leaderboard data** — `results/leaderboard.json` and `web/data/leaderboard.json` with actual scores, estimated AIR, pass/fail
 9. **Next.js frontend** — Fully built, `npm run build` passes cleanly
    - Leaderboard with score bars, breakdown grid, estimated AIR, cutoff rows
-   - Year selector (2024, 2025), paper tabs (Overall, GS1, CSAT)
+   - Year selector (2024, 2025), paper tabs (Prelims Score, GS1, CSAT)
    - Methodology page with "Why This Matters" section and cultural links
    - "UPSC Bench" intro with 3 paragraphs on exam context
    - Indian government aesthetic: saffron/navy/green/cream/gold
-10. **Git** — 3 commits on `main` branch, working tree clean, no remote configured yet
+10. **Interactive quiz** — 5-question GS1 2025 quiz with instant feedback, extrapolated score, and AI model comparison
+11. **Git** — Clean `main` branch, GitHub remote configured
+12. **Prelims ranking fix** — Renamed "Overall" → "Prelims Score", rank by GS1 marks with CSAT as pass/fail qualifier, CSAT badge under score, fixed cutoff row
+13. **Mains pipeline** — `benchmark/mains_solver.py`, `mains_scorer.py`, `mains_runner.py`, DB schema, grading infrastructure, model configs
+14. **Mains question data** — `data/mains_questions/mains_2025.json` — 2025 Mains questions (Essay + GS1-4)
 
 ### What's NOT DONE:
-1. Add GitHub remote and push
-2. Evaluate more models (Claude Sonnet, DeepSeek R1)
-3. Add years 2020-2023 (PDFs downloaded for some, not parsed)
-4. Deploy frontend (Vercel)
-5. Write proper README for open source release
+1. ~~Add GitHub remote and push~~ (done)
+2. Run Mains benchmark (all 4 models answer Mains 2025 questions)
+3. Grade Mains answers via in-session parallel subagents
+4. Generate Mains leaderboard results
+5. Frontend: ExamToggle (Prelims/Mains), Mains tabs, rubric breakdown
+6. Update About/Methodology page with Mains methodology
+7. Evaluate more models (Claude Sonnet, DeepSeek R1)
+8. Add Prelims years 2020-2023 (PDFs downloaded for some, not parsed)
+9. Deploy frontend (Vercel)
+10. Write proper README for open source release
 
 ## Git History
 ```
-f566af8 Add complete project: evaluation harness, data pipeline, Next.js leaderboard
-1a8b958 Polish leaderboard UI: consistent fonts, column hierarchy, methodology callout
-294a172 Initial project setup: directory structure, pyproject.toml, configs
+<latest commits from this session will be added after commit>
+adf5103 Fix Prelims rankings: rank by GS1 marks instead of combined GS1+CSAT
+969795e Update CLAUDE.md checkpoint: project state after UI polish session
+ffd5da4 Add complete project: evaluation harness, data pipeline, Next.js leaderboard
+73fe510 Polish leaderboard UI: consistent fonts, column hierarchy, methodology callout
+37d8ff7 Initial project setup: directory structure, pyproject.toml, configs
 ```
-Branch: `main` (renamed from `master`)
+Branch: `main`
 
 ## Data Summary
 
@@ -90,9 +105,12 @@ Years: 2024, 2025 | Papers: GS1, CSAT
 ## Key Technical Details
 
 ### Scoring System
-- **GS Paper I**: 100 questions, +2.0 correct, -0.66 wrong, 0 unanswered, max 200
-- **CSAT Paper II**: 80 questions, +2.5 correct, -0.83 wrong, 0 unanswered, max 200
-- **Pass criteria**: GS1 score > year-specific General category cutoff; CSAT >= 66/200 (33%)
+- **Prelims GS Paper I**: 100 questions, +2.0 correct, -0.66 wrong, 0 unanswered, max 200
+- **Prelims CSAT Paper II**: 80 questions, +2.5 correct, -0.83 wrong, 0 unanswered, max 200
+- **Prelims pass criteria**: GS1 score > year-specific General category cutoff; CSAT >= 66/200 (33%)
+- **Mains**: Essay (250 marks) + GS1-4 (250 marks each) = 1250 marks total (excluding Optional)
+- **Mains scoring**: LLM-as-judge (Claude Opus) with 5-dimension rubric, debiased grading
+- **Mains pass criteria**: Total score > proportional cutoff (~571/1250, derived from full exam cutoff)
 
 ### Cutoffs (from config/cutoffs.yaml)
 | Year | GS1 | CSAT |
@@ -128,11 +146,16 @@ upsc-bench/
 ├── .gitignore                         <- Excludes PDFs, .env, .next/, node_modules
 ├── README.md
 ├── config/
-│   ├── cutoffs.yaml                   <- Historical UPSC cutoffs 2020-2025
+│   ├── cutoffs.yaml                   <- Historical UPSC cutoffs 2020-2025 (Prelims + Mains)
+│   ├── judge.yaml                     <- Mains grading rubric weights
 │   ├── claude_opus.yaml
 │   ├── gpt5.yaml
 │   ├── gemini_3_pro.yaml
-│   └── gemini_flash.yaml
+│   ├── gemini_flash.yaml
+│   ├── mains_claude_opus.yaml         <- Mains model configs
+│   ├── mains_gpt5.yaml
+│   ├── mains_gemini_3_pro.yaml
+│   └── mains_gemini_flash.yaml
 ├── data/
 │   ├── pdfs/                          <- Question paper PDFs (gitignored)
 │   ├── answer_keys/
@@ -149,6 +172,8 @@ upsc-bench/
 │   │   ├── answers_csat_part[1-2].json
 │   │   └── my_answers.json            <- Self-eval answers
 │   ├── images/                        <- Extracted question images
+│   ├── mains_questions/
+│   │   └── mains_2025.json            <- Structured Mains questions (Essay + GS1-4)
 │   └── rank_mapping.json              <- Score-to-rank mapping data
 ├── pipeline/
 │   ├── extract_pdf.py                 <- PDF to image conversion
@@ -158,12 +183,17 @@ upsc-bench/
 │   └── build_dataset.py               <- Pipeline orchestrator
 ├── benchmark/
 │   ├── grader.py                      <- Regex answer extraction + grading
-│   ├── scorer.py                      <- UPSC marks calculation
-│   ├── solver.py                      <- LiteLLM prompt construction
-│   ├── db.py                          <- SQLite operations
-│   └── runner.py                      <- Main eval loop
+│   ├── scorer.py                      <- UPSC Prelims marks calculation
+│   ├── solver.py                      <- LiteLLM prompt construction (MCQ)
+│   ├── db.py                          <- SQLite operations (Prelims + Mains tables)
+│   ├── runner.py                      <- Main Prelims eval loop
+│   ├── mains_solver.py                <- Mains long-form answer prompt construction
+│   ├── mains_scorer.py                <- Mains marks aggregation
+│   └── mains_runner.py                <- Mains answer collection pipeline
 ├── scripts/
 │   ├── generate_leaderboard.py        <- Aggregate results -> leaderboard.json
+│   ├── clean_gs1_2025.py              <- GS1 2025 data quality cleanup script
+│   ├── grade_mains.py                 <- Prepare grading input + merge grading output
 │   ├── self_eval.py                   <- Self-evaluation script
 │   ├── merge_and_build.py             <- Merge + build pipeline
 │   ├── merge_answers.py               <- Answer merging utility
@@ -180,7 +210,8 @@ upsc-bench/
     │   │   ├── layout.tsx
     │   │   ├── page.tsx               <- Main leaderboard page
     │   │   ├── globals.css            <- Global styles + animations
-    │   │   └── about/page.tsx         <- Methodology + "Why This Matters"
+    │   │   ├── about/page.tsx         <- Methodology + "Why This Matters"
+    │   │   └── quiz/page.tsx          <- Interactive 5-question quiz
     │   ├── components/
     │   │   ├── Header.tsx             <- SVG Ashoka Chakra + title + stats
     │   │   ├── Leaderboard.tsx        <- Ranking table with cutoff rows
@@ -188,9 +219,11 @@ upsc-bench/
     │   │   ├── YearSelector.tsx       <- Year filter pills
     │   │   ├── PaperTabs.tsx          <- Paper type toggle
     │   │   ├── PassFailBadge.tsx      <- Pass/fail indicator
+    │   │   ├── QuestionCard.tsx       <- Quiz question display with options
     │   │   └── Footer.tsx             <- Tricolor + disclaimer
     │   ├── lib/
     │   │   ├── data.ts                <- Data loading + filtering + ranking
+    │   │   ├── quiz.ts                <- Quiz logic: sampling, scoring, rank extrapolation
     │   │   └── constants.ts           <- Colors, model display names
     │   └── types/index.ts             <- TypeScript interfaces
     ├── package.json
@@ -198,6 +231,42 @@ upsc-bench/
 ```
 
 ## Session Log (latest first)
+
+### Session 7 (2026-03-02) — GS1 2025 data cleanup + benchmark re-runs
+- Created `scripts/clean_gs1_2025.py`: targeted cleanup for GS1 2025 PDF parsing artifacts
+  - Fixed word-per-line formatting (47 questions), III→Ill/m corruption (18 questions), LVPK garbage text (5+ options), l→I Roman numeral (4 questions), tilde artifacts, bracket OCR, Q93 corruption
+  - 90/100 GS1 2025 questions modified, all other data untouched
+- Re-ran all 4 models on cleaned GS1 2025 data:
+  - Gemini 3.1 Pro: 148.10 → 151.44 (+3.34)
+  - GPT-5.2: 144.14 → 149.46 (+5.32)
+  - Claude Opus 4.6: 140.80 → 155.44 (+14.64)
+  - Gemini 2.5 Flash: 121.52 → 140.14 (+18.62)
+- Updated leaderboard.json with new scores (rankings unchanged)
+- Investigated "unanswered" results: none are intentional skips — caused by API errors, grader regex misses, or truncated outputs
+- Design decision: keep "always answer" prompt (no skip option) as primary benchmark — random guessing is ~break-even with UPSC marking scheme
+
+### Session 6 (2026-03-02) — Interactive quiz feature
+- Built quiz at /quiz: 5 random GS1 2025 questions with instant feedback
+- Created QuestionCard.tsx with paragraph-based rendering (fixed whitespace-pre-line issue)
+- Created quiz.ts with question sampling, scoring, and rank extrapolation
+- Added quiz callout on main page, quiz link in footer
+- Added RawQuestion type to types/index.ts
+- Copied upsc_bench.json and rank_mapping.json to web/data/
+
+### Session 5 (2026-03-02) — Mains evaluation pipeline
+- Built complete Mains pipeline: mains_solver.py, mains_scorer.py, mains_runner.py
+- Extended benchmark/db.py with mains_results table
+- Created grading infrastructure: scripts/grade_mains.py + config/judge.yaml
+- Collected and structured 2025 Mains questions (Essay + GS1-4) into data/mains_questions/mains_2025.json
+- Created model configs for Mains (config/mains_*.yaml)
+- Added Mains cutoffs to config/cutoffs.yaml
+- Updated CLAUDE.md with session 4+5 changes
+
+### Session 4 (2026-03-02) — Prelims ranking fix
+- Fixed ranking: renamed "Overall" → "Prelims Score", sort by GS1 marks (not combined GS1+CSAT)
+- CSAT treated as qualifying (pass/fail) only — displayed as badge under Prelims Score
+- Fixed cutoff row positioning
+- Committed as adf5103
 
 ### Session 3 (2026-03-02) — UI polish + content + bug fix
 - Fixed missing `label` prop on trailing CutoffRow in Leaderboard.tsx

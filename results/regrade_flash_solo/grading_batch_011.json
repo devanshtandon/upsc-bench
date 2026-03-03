@@ -1,0 +1,162 @@
+[
+  {
+    "question_id": "mains_gs3_2025_q9",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer categorizes terrorism in India into four dimensions (cross-border, LWE, hinterland, narco-terrorism) with contemporary examples, then lists counter-measures across legislative, institutional, technological, financial, and developmental domains. It concludes with India's zero tolerance policy and diplomatic efforts.",
+        "analysis": "The answer covers the question's three demands (manifestation, examples, counter-measures) competently. The four-dimensional categorization is a reasonable framework, and the examples cited (Poonch/Rajouri attacks, Dantewada IED blast, Mangaluru blast, drone smuggling in Punjab) are broadly accurate and contemporary. Counter-measures are well-enumerated with relevant acronyms (UAPA, NIA, NATGRID, CIBMS, SAMADHAN). However, the answer lacks analytical depth — it reads more like a bulleted list than a critical examination. There is no discussion of root causes, the evolving nature of cyber-terrorism, or the effectiveness of these counter-measures. The Mangaluru 2022 blast categorization as 'lone wolf hinterland terrorism' is acceptable but could be more precise. The answer exceeds the 150-word limit significantly (229 words), which is a notable deduction. No mention of challenges in counter-terrorism or civil liberties concerns.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.2, "justification": "Facts are largely correct, covers manifestations and counter-measures adequately, but misses cyber-terrorism, radicalization depth, and effectiveness evaluation of counter-measures."},
+          "structure_flow": {"score": 1.4, "justification": "Well-organized with clear subheadings and logical flow from manifestation to counter-measures to conclusion, though somewhat formulaic."},
+          "depth_examples": {"score": 1.2, "justification": "Provides specific contemporary examples (Poonch, Dantewada, Mangaluru) and names specific schemes/laws, but examples lack detail and data."},
+          "analytical_depth": {"score": 0.4, "justification": "Minimal critical analysis — no discussion of why counter-measures succeed or fail, no mention of civil liberties trade-offs or effectiveness metrics."},
+          "presentation": {"score": 0.5, "justification": "Clear language and formatting but significantly exceeds the 150-word limit (229 words), which warrants a deduction."}
+        },
+        "total_score": 5.7,
+        "max_marks": 10,
+        "brief_feedback": "Competent enumeration of terrorism types and counter-measures with relevant examples, but lacks analytical depth and significantly exceeds word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q10",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer defines LWE/Naxalism, discusses its impact on people across three dimensions (human rights, development, economic exploitation), and outlines government measures through security, developmental, and economic/legal categories. It cites a 73% decline in LWE violence since 2010.",
+        "analysis": "This is a well-structured answer that addresses all three parts of the question: definition, impact on people, and government measures. The definition is accurate (CPI-Maoist, protracted people's war, Red Corridor). The impact section covers civilian suffering, infrastructure destruction, and extortion effectively. The SAMADHAN doctrine expansion is accurate, and the mention of COBRA, Greyhounds, Aspirational Districts Programme, and ROFR Act shows good breadth of knowledge. The 73% decline statistic adds credibility. However, the answer exceeds word limit substantially (238 vs 150 words). It lacks discussion of root causes (land alienation, tribal exploitation, mining displacement) beyond a surface mention. The analytical dimension is weak — it doesn't critically examine whether security-heavy approaches have created new problems (fake encounters, displacement) or whether developmental schemes have actually reached intended beneficiaries. The 2026 elimination target is mentioned but not critically evaluated.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.4, "justification": "Factually strong with accurate definitions, correct scheme names, and relevant statistics; covers all three question demands well."},
+          "structure_flow": {"score": 1.4, "justification": "Clear tripartite structure with logical progression from definition to impact to measures; well-organized sub-sections."},
+          "depth_examples": {"score": 1.3, "justification": "Good range of specific schemes (SAMADHAN, COBRA, Greyhounds, RRP, Eklavya schools, ROFR Act) with the 73% decline statistic, though examples lack granular detail."},
+          "analytical_depth": {"score": 0.4, "justification": "Descriptive rather than analytical — does not critically examine feasibility of 2026 elimination target, effectiveness of dual approach, or unintended consequences of security operations."},
+          "presentation": {"score": 0.5, "justification": "Clear and well-formatted but exceeds the 150-word limit significantly (238 words)."}
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Comprehensive coverage of LWE definition, impact, and government measures with good scheme knowledge, but lacks critical analysis and exceeds word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q11",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer explains the Fiscal Health Index as a tool built on four pillars (fiscal deficit, own tax revenue, debt-to-GSDP, interest payments ratio) and elaborates how it encourages prudent fiscal policies through performance-based incentives, competitive federalism, transparency, shift to capital expenditure, and early warning systems.",
+        "analysis": "The answer demonstrates strong knowledge of fiscal federalism concepts and links FHI to multiple real institutional mechanisms (FRBM Act, 15th Finance Commission, SDLs, UDAY scheme). The four-pillar framework is reasonable and well-explained. The mechanisms for encouraging fiscal discipline are analytically sound — competitive federalism, market signaling through creditworthiness, and early warning systems are genuine insights. However, there are concerns: the FHI is not a widely established, standardized index in Indian public finance — the answer treats it as though it is a well-defined existing tool, which may overstate its current institutional status. The answer significantly exceeds word limit (410 vs 250 words). The mention of off-budget borrowings and $5 trillion economy in the conclusion is relevant but generic. Some state examples (Punjab, West Bengal, Maharashtra, Gujarat) add concreteness. Overall, this is a strong theoretical answer but could have been more critical about the limitations of composite indices.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.4, "justification": "Covers fiscal metrics comprehensively with accurate references to FRBM, Finance Commission, SDLs; some risk of overstating FHI as an established tool, but the conceptual content is solid."},
+          "structure_flow": {"score": 2.2, "justification": "Excellent logical structure with clear introduction, two main sections, and conclusion; easy to follow the argument from assessment to incentive mechanisms."},
+          "depth_examples": {"score": 2.0, "justification": "Good references to 15th Finance Commission, UDAY, specific states, SDLs; the four-pillar breakdown with indicators is detailed and informative."},
+          "analytical_depth": {"score": 0.9, "justification": "Shows analytical thinking through competitive federalism and market signaling arguments, but lacks critical examination of index limitations, gaming risks, or data reliability issues."},
+          "presentation": {"score": 0.7, "justification": "Well-written and clear but substantially exceeds word limit (410 vs 250 words), which is a significant issue."}
+        },
+        "total_score": 9.2,
+        "max_marks": 15,
+        "brief_feedback": "Analytically sound treatment of fiscal health assessment with strong institutional references, but exceeds word limit and could be more critical about index limitations."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q12",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer explains the PLI scheme's rationale (reducing import dependency, scaling manufacturing, enhancing competitiveness, employment generation), lists achievements with data (investments, electronics exports, pharma, FDI, jobs), and suggests improvements (deep localization, timely disbursement, MSME inclusion, R&D integration, infrastructure support).",
+        "analysis": "This is a competent answer that addresses all three parts of the question systematically. The rationale section correctly identifies the core motivations behind PLI. The achievements section is data-rich — citing Rs 1.97 lakh crore outlay, Rs 1.03 lakh crore investments, Rs 8.61 lakh crore production, $15 billion smartphone exports, and 8 lakh jobs — which strengthens the answer considerably. The improvement suggestions are practical and well-reasoned, particularly the point about transitioning from assembly to deep localization and MSME inclusion. However, the answer is descriptive and does not critically evaluate whether PLI distorts market competition, creates subsidy dependency, or whether the incentive structure favors large conglomerates over genuine innovation. The figures cited need verification — some may be approximate or aspirational rather than realized. The 'Assembling vs Innovating' framing in the conclusion is effective. Word limit exceeded significantly (399 vs 250).",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.6, "justification": "Strong factual content with specific data points on investments, production, and exports; rationale and improvement suggestions are relevant and accurate."},
+          "structure_flow": {"score": 2.2, "justification": "Clean tripartite structure matching the question's three demands; logical flow from rationale to achievements to improvements."},
+          "depth_examples": {"score": 2.2, "justification": "Excellent use of specific data (Rs 1.97 lakh crore, $15 billion exports, 8 lakh jobs) and concrete examples (Apple, Samsung manufacturing); PM Gati Shakti integration point adds depth."},
+          "analytical_depth": {"score": 0.6, "justification": "Improvement suggestions show some analytical thinking but no critical examination of PLI's market-distortion effects, subsidy dependency risks, or sectoral performance disparities."},
+          "presentation": {"score": 0.7, "justification": "Well-written with strong conclusion, but substantially exceeds word limit (399 vs 250 words)."}
+        },
+        "total_score": 9.3,
+        "max_marks": 15,
+        "brief_feedback": "Data-rich and well-structured answer covering PLI rationale, achievements, and improvements, but lacks critical analysis of scheme limitations and significantly exceeds word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q13",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer identifies five factors for groundwater depletion (Green Revolution, subsidized electricity, inadequate recharging, lack of legal framework, climate change) and six government initiatives (Atal Bhujal Yojana, Jal Shakti Abhiyan, PMKSY, NAQUIM, Model Groundwater Bill, Mission Amrit Sarovar). It references CGWB data and the Easement Act of 1882.",
+        "analysis": "This is a strong answer that covers both parts of the question comprehensively. The factors section is analytically sound — the mention of the Indian Easement Act 1882 and its implication for groundwater as private property is a sophisticated point that demonstrates genuine understanding. The 251 bcm extraction figure and the 30-50% nitrogen efficiency statistic add credibility. The government initiatives section names specific schemes with brief but relevant descriptions, including the World Bank linkage for ABY and the specific focus on 256 districts for JSA. The conclusion effectively ties together the answer with the SDG 6 reference. However, the answer exceeds word limit (392 vs 250). The analytical dimension could be stronger — there is no discussion of inter-state water disputes, groundwater markets, or the political economy of power subsidies. The answer also doesn't discuss why existing measures have been insufficient despite years of implementation.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.6, "justification": "Factually accurate with strong data (251 bcm extraction, 60% irrigation, 80% rural drinking water, 17% over-exploited blocks); correct identification of root causes and relevant schemes."},
+          "structure_flow": {"score": 2.2, "justification": "Well-organized with clear introduction, two main sections matching the question, and a cohesive conclusion; logical progression throughout."},
+          "depth_examples": {"score": 2.2, "justification": "Excellent references including Easement Act 1882, CGWB data, World Bank-funded ABY with Rs 6,000 crore figure, NAQUIM's heli-borne surveys, and specific scheme details."},
+          "analytical_depth": {"score": 0.7, "justification": "Some analytical depth in the Easement Act point and the consumption-to-stewardship framing, but lacks critical evaluation of scheme effectiveness and political economy constraints."},
+          "presentation": {"score": 0.7, "justification": "Clear prose and effective formatting, but exceeds word limit significantly (392 vs 250 words)."}
+        },
+        "total_score": 9.4,
+        "max_marks": 15,
+        "brief_feedback": "Comprehensive and data-rich coverage of groundwater depletion factors and government measures, with the Easement Act reference showing depth, but lacks critical evaluation and exceeds word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q14",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer outlines the scope of food processing industries in India across five dimensions (economic contribution, raw material advantage, market demand, waste reduction, export potential) and lists government measures for employment generation including PMKSY, PLI scheme, PMFME, Operation Greens, FDI policy, and skill development through NIFTEM.",
+        "analysis": "The answer addresses both parts of the question adequately with a range of relevant points. The scope section correctly identifies India's agricultural production leadership and the opportunity in low processing rates (<10%). Government measures are comprehensive, covering major schemes (PMKSY, PLI, PMFME, Operation Greens) with reasonable detail including specific outlay figures (Rs 10,900 crore for PLI). The mention of 100% FDI under automatic route and NABARD's food processing fund shows breadth. However, the answer is essentially a well-organized list rather than a critical examination. It doesn't discuss challenges (cold chain gaps, quality standards compliance, fragmented landholdings limiting supply), nor does it evaluate whether these schemes have actually generated the promised employment. The Rs 92,000 crore post-harvest loss figure is commonly cited but its methodology is debatable. The answer exceeds word limit substantially (450 vs 250). The doubling farmers' income goal in the conclusion is now outdated.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.4, "justification": "Accurate facts on scope and schemes; correctly cites processing rate (<10%), FDI policy, and scheme outlays, though some figures may be approximate."},
+          "structure_flow": {"score": 2.0, "justification": "Clear structure matching the question's two parts with introduction and conclusion; well-organized sub-points but somewhat formulaic."},
+          "depth_examples": {"score": 2.0, "justification": "Good range of specific schemes with financial outlays (PLI Rs 10,900 crore, NABARD Rs 2,000 crore), FDI policy details, and institutional references (NIFTEM)."},
+          "analytical_depth": {"score": 0.5, "justification": "Largely descriptive — no critical analysis of scheme effectiveness, implementation challenges, or why food processing growth has been slower than potential despite these interventions."},
+          "presentation": {"score": 0.6, "justification": "Clear and readable but significantly exceeds word limit (450 vs 250 words), the most excessive in this batch."}
+        },
+        "total_score": 8.5,
+        "max_marks": 15,
+        "brief_feedback": "Broad coverage of food processing scope and government schemes with decent data, but overly descriptive, lacks critical analysis of implementation gaps, and substantially exceeds word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q15",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer discusses nanotechnology's agricultural applications (nano-sensors, nano-fertilizers, smart delivery systems, post-harvest nano-coatings, water purification) and how these uplift farmers' socio-economic status through cost reduction, yield increase, climate resilience, and environmental sustainability. It mentions IFFCO Nano Urea as a key example and references the Nano Mission.",
+        "analysis": "This is one of the stronger answers in the batch. The technical content is generally accurate — IFFCO Nano Urea is a real product, the nitrogen efficiency figure (30-50%) is in the right range, and the nano-sensor applications are correctly described. The socio-economic uplift section effectively connects technical features to farmer-level outcomes, particularly the concrete comparison of one 500ml Nano Urea bottle replacing a 45kg bag of conventional urea, which is an excellent example. The mention of nanotoxicity as a challenge shows balanced thinking. However, the answer could be more critical — it doesn't discuss the high cost barrier for marginal farmers, the limited scientific evidence for some nano-claims, or the regulatory challenges in approving nano-agri-inputs. The second Green Revolution framing is aspirational but not well-substantiated. Word limit exceeded (415 vs 250). The Nano Mission mention is somewhat generic.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.4, "justification": "Technically accurate on nano-applications in agriculture; IFFCO Nano Urea, nitrogen efficiency, and nano-sensor applications are correctly described; slight risk of overselling benefits."},
+          "structure_flow": {"score": 2.2, "justification": "Excellent structure with clear delineation between technical advancements and socio-economic uplift, matching the question's two demands perfectly."},
+          "depth_examples": {"score": 2.2, "justification": "Strong specific example with IFFCO Nano Urea replacement ratio; good use of Nano Mission reference, nanotoxicity concern, and concrete applications like nano-coatings and nano-priming."},
+          "analytical_depth": {"score": 0.7, "justification": "Shows some balance by mentioning nanotoxicity and cost barriers, but doesn't critically evaluate scientific evidence for nano-claims or the gap between lab promise and field reality."},
+          "presentation": {"score": 0.7, "justification": "Well-written with effective framing, but significantly exceeds word limit (415 vs 250 words)."}
+        },
+        "total_score": 9.2,
+        "max_marks": 15,
+        "brief_feedback": "Strong technical treatment with excellent concrete examples like IFFCO Nano Urea, but overly optimistic about nano-agriculture benefits without sufficient critical evaluation, and exceeds word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q16",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer identifies five challenges for India's semiconductor industry (capital intensity, infrastructure, complex supply chain, lack of foundries, talent gap) and details the India Semiconductor Mission's features including financial incentives, DLI scheme, SCL modernization, compound semiconductor support, and talent development through C2S programme.",
+        "analysis": "This is a well-constructed answer that covers both parts of the question thoroughly. The challenges section is accurate and specific — the $5-10 billion fab cost, the requirement for ultra-pure water and uninterrupted power, EUV lithography dependency, and the design-vs-fabrication gap (20% of world's design engineers) are all relevant and well-articulated. The ISM section correctly cites the Rs 76,000 crore outlay, 50% fiscal support, DLI scheme, SCL Mohali modernization, and the C2S programme targeting 85,000 engineers. The conclusion effectively grounds the discussion with real project examples (Tata-PSMC Dholera, Micron Gujarat). However, the answer lacks analytical depth — it doesn't discuss geopolitical considerations (US CHIPS Act, China restrictions), why previous semiconductor initiatives failed (the FAB-India proposal of 2007), or the realistic timeline for India to achieve manufacturing capability. Word limit exceeded (407 vs 250). The $24 billion import figure needs verification.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.6, "justification": "Strong factual accuracy on challenges, ISM features, and specific figures (Rs 76,000 crore, 50% fiscal support, $5-10B fab cost); correct identification of key projects."},
+          "structure_flow": {"score": 2.2, "justification": "Clean structure with clear separation of challenges and ISM features matching the question's two demands; effective introduction and conclusion."},
+          "depth_examples": {"score": 2.2, "justification": "Excellent concrete references including Tata-PSMC Dholera, Micron Gujarat, SCL Mohali, C2S programme with 85,000 engineers target, and EUV lithography machines."},
+          "analytical_depth": {"score": 0.6, "justification": "Primarily descriptive — doesn't engage with geopolitical dimensions, historical failures, or realistic assessment of India's competitive position vis-a-vis Taiwan/South Korea/China."},
+          "presentation": {"score": 0.7, "justification": "Professional tone and clear formatting, but exceeds word limit substantially (407 vs 250 words)."}
+        },
+        "total_score": 9.3,
+        "max_marks": 15,
+        "brief_feedback": "Factually strong and well-organized coverage of semiconductor challenges and ISM features with good real-world examples, but lacks geopolitical and historical analytical depth, and exceeds word limit."
+      }
+    ]
+  }
+]

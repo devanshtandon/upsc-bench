@@ -1,0 +1,162 @@
+[
+  {
+    "question_id": "mains_gs3_2025_q1",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer distinguishes HDI and IHDI using a tabular comparison, provides India-specific data (HDI rank 134, score 0.644, IHDI loss of ~31%), and argues IHDI is better because it captures distribution, guides policy, and reflects ground reality. It links to SDG 10 and Indian schemes.",
+        "analysis": "This is a well-structured answer that covers the core distinction competently. The tabular format is effective for a comparison question. The India-specific data (HDI rank, IHDI loss percentage) adds concrete grounding. However, the answer contains a factual error: the HDI calculation uses a geometric mean, not a 'simple average' as stated in the table — and then contradictingly describes it as 'geometric mean' in the components row. The IHDI discussion is somewhat surface-level — it mentions the Atkinson index but does not explain how the discount works. The policy linkages (Ayushman Bharat, PM POSHAN) feel bolted on rather than organically connected to the IHDI argument. At 298 words, it nearly doubles the 150-word limit, which is a significant presentation issue. The 'Antyodaya' reference is a nice touch but feels performative. Overall, a solid but not exceptional answer.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.4, "justification": "Core distinction is correct and India-specific data is largely accurate, but the contradictory description of HDI calculation (geometric mean vs. simple average) is a notable factual inconsistency."},
+          "structure_flow": {"score": 1.4, "justification": "Well-organized with table, India reference section, and numbered reasons; logical flow from definition to application to conclusion."},
+          "depth_examples": {"score": 1.3, "justification": "Good use of HDR 2023-24 data, specific HDI/IHDI scores, and scheme names, but examples like Ayushman Bharat are loosely connected to the IHDI argument."},
+          "analytical_depth": {"score": 0.5, "justification": "The analysis of why IHDI is better remains at a descriptive level; lacks deeper critique such as IHDI's own limitations or comparison with MPI."},
+          "presentation": {"score": 0.4, "justification": "Nearly double the word limit (298 vs 150) is a major penalty; language is clear but verbose."}
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Competent comparison with good India-specific data but undermined by a factual inconsistency in HDI calculation description, surface-level analysis, and grossly exceeding the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q2",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer identifies four challenges (trade fragmentation, supply chain disruptions, WTO decline, regional bloc exclusion) and four strategies (aggressive bilateralism, domestic manufacturing via PLI, logistics improvement, export diversification) facing India in the protectionist global order.",
+        "analysis": "This is a competent answer that addresses both parts of the question — challenges and remedies. The mention of CBAM, RCEP exit, and India-UAE CEPA shows good topical awareness. The challenges are well-identified though somewhat predictable. The strategies section is solid with concrete schemes (PLI, Gati Shakti, NLP) but stays at a listing level without deeper analysis of trade-offs. For instance, it doesn't discuss how India's own protectionist tendencies (high tariffs, import duties) create friction in bilateral negotiations. The 'China Plus One' framing in the conclusion is apt. The logistics cost figure of 14% of GDP is commonly cited but contested — some estimates put it lower now. At 237 words, it exceeds the 150-word limit substantially. The answer lacks discussion of the impact on services exports, which is India's actual comparative advantage.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.4, "justification": "Challenges and strategies are largely accurate and relevant; the logistics cost figure is debatable but commonly cited; misses the services trade dimension which is critical for India."},
+          "structure_flow": {"score": 1.4, "justification": "Clean two-part structure matching the two-part question, with intro and conclusion; well-organized numbered points."},
+          "depth_examples": {"score": 1.2, "justification": "Good use of specific schemes (CEPA, ECTA, PLI, Gati Shakti) and data points, but examples are listed rather than analyzed in depth."},
+          "analytical_depth": {"score": 0.5, "justification": "Stays at the surface — doesn't examine contradictions in India's own trade policy or explore how bilateralism may disadvantage smaller economies; lacks critical edge."},
+          "presentation": {"score": 0.5, "justification": "Exceeds word limit significantly (237 vs 150); language is clear and professional."}
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Well-structured and topically aware answer covering both challenges and remedies, but lacks analytical depth on India's own trade policy contradictions and significantly exceeds the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q3",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer categorizes factors influencing farmers' HVC selection into four groups: economic/market factors, infrastructure/technology, resource endowment, and government policy/institutional support, citing schemes like MIDH and e-NAM.",
+        "analysis": "This answer provides a reasonably comprehensive overview of factors affecting crop selection. The categorization into four groups is logical and covers the major dimensions. However, the question asks about factors 'influencing the decision' which implies a behavioral and ground-reality perspective, but the answer reads more like a textbook listing of enabling conditions. It misses important factors like traditional knowledge, crop rotation practices, social/community influences, risk aversion psychology of farmers, and agro-climatic suitability. The claim that 'small and marginal farmers often prefer HVCs' is an oversimplification — many such farmers are actually more risk-averse and stick to staples because they cannot absorb losses. The mention of the '4% agricultural growth target' in the introduction is not clearly sourced. At 252 words, it far exceeds the 150-word limit. The answer is competent but somewhat generic.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.2, "justification": "Covers major factors correctly but the claim about small farmers preferring HVCs is misleading; misses agro-climatic, cultural, and behavioral factors that genuinely drive decision-making."},
+          "structure_flow": {"score": 1.4, "justification": "Well-organized with clear categorization into four thematic groups; intro and conclusion present."},
+          "depth_examples": {"score": 1.1, "justification": "Mentions MIDH, e-NAM, PMKSY, and FPOs which are relevant, but examples are listed without concrete case studies from specific regions or crops."},
+          "analytical_depth": {"score": 0.4, "justification": "Treats farmers' decisions as rational optimization without exploring risk aversion, information asymmetry, or the reality that most farmers don't freely 'choose' crops — they are constrained by debt, tradition, and markets."},
+          "presentation": {"score": 0.4, "justification": "Exceeds word limit by over 60% (252 vs 150); clear language but verbose and could be more concise."}
+        },
+        "total_score": 5.5,
+        "max_marks": 10,
+        "brief_feedback": "Organized and covers key factors but reads as a textbook listing rather than genuine analysis of farmer decision-making; misses behavioral and agro-climatic dimensions and significantly exceeds word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q4",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer defines agricultural supply chain management and discusses its scope (infrastructure, digital integration, value addition, direct linkages) and significance (farmer income, food security, price stability, export potential), citing government schemes throughout.",
+        "analysis": "This is a standard answer that covers both scope and significance as asked. The scope section identifies relevant areas — cold chains, e-NAM, food processing, and FPOs. The significance section links SCM to broader objectives like food security and export potential. The post-harvest loss figure of Rs. 92,000 crore annually adds concrete grounding. However, the answer stays at a superficial level — it doesn't discuss the actual challenges in implementing SCM (fragmented landholdings, APMC restrictions, lack of private investment, poor rural connectivity). The 'TOP' reference is apt but could be elaborated. The mention of a '$100 billion agri-export target' needs context. The answer reads like a scheme-listing exercise rather than analytical writing. At 214 words, it exceeds the word limit but less egregiously than others. The conclusion about shifting from 'production-centric' to 'demand-driven' agriculture is a good framing.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.2, "justification": "Core content on scope and significance is accurate; post-harvest loss figures are reasonable; but PMKSY acronym is confusingly used (it usually refers to Pradhan Mantri Krishi Sinchayee Yojana, not Kisan Sampada Yojana)."},
+          "structure_flow": {"score": 1.4, "justification": "Clean two-part structure with scope and significance well-separated; logical progression from definition to scope to significance to conclusion."},
+          "depth_examples": {"score": 1.2, "justification": "Good range of schemes and data points cited (Kisan Rail, e-NAM, Agri-Stack, FPOs, TOP, Gati Shakti), though they are listed rather than analyzed."},
+          "analytical_depth": {"score": 0.4, "justification": "Doesn't discuss implementation challenges like APMC monopoly, fragmented holdings, or why existing SCM interventions have underperformed; stays descriptive."},
+          "presentation": {"score": 0.5, "justification": "Exceeds word limit by about 40% (214 vs 150); language is professional and clear."}
+        },
+        "total_score": 5.7,
+        "max_marks": 10,
+        "brief_feedback": "Covers scope and significance adequately with relevant scheme references, but lacks analytical depth on implementation challenges and the PMKSY acronym usage is confusing."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q5",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer describes India's fusion energy journey from ADITYA and SST-1 to ITER partnership, details five specific Indian contributions to ITER (cryostat, in-wall shielding, cooling systems, cryolines, RF sources), and discusses future prospects including strategic autonomy, net-zero goals, and DEMO reactor development.",
+        "analysis": "This is one of the stronger answers in the batch. It demonstrates genuine technical knowledge about India's ITER contributions — the cryostat manufactured by L&T, the 9.1% cost share, and specific component contributions. The mention of IPR, ADITYA, and SST-1 shows awareness of India's domestic fusion program. The future prospects section connects fusion to India's broader energy and climate goals effectively. However, some claims need scrutiny: calling DEMO 'India's indigenous fusion reactor' is misleading — DEMO is an international next-step project, not specifically Indian. The answer could have mentioned the SST-2 (upgrade) or India's specific Tritium breeding blanket research. The 'holy grail' language is cliched. At 244 words, it exceeds the word limit significantly. Despite these issues, the technical depth and specificity elevate this answer above the typical GS response.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.6, "justification": "Strong technical accuracy on ITER contributions and India's fusion history; the characterization of DEMO as 'India's indigenous fusion reactor' is inaccurate — it's a multinational project."},
+          "structure_flow": {"score": 1.5, "justification": "Excellent three-part structure matching the question's demands: domestic history, ITER contributions, and future prospects; flows logically."},
+          "depth_examples": {"score": 1.5, "justification": "Impressively specific — L&T cryostat manufacturing, 9.1% cost share, five named component contributions, IPR institute reference; among the most concrete examples in this batch."},
+          "analytical_depth": {"score": 0.5, "justification": "Connects fusion to energy trilemma and net-zero goals but doesn't critically examine timelines, cost overruns at ITER, or the reality that commercial fusion remains decades away."},
+          "presentation": {"score": 0.4, "justification": "Significantly exceeds word limit (244 vs 150); some cliched language ('holy grail'); otherwise clear and well-written."}
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Technically strong answer with impressive specificity on India's ITER contributions, but inaccurately describes DEMO as indigenous and lacks critical assessment of fusion's realistic timeline."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q6",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer outlines four pathways to energy independence (renewable expansion, green hydrogen, electric mobility, nuclear energy) and four biotechnology contributions (advanced biofuels, waste-to-energy, synthetic biology, biomass gasification), concluding with a link between the Green Hydrogen Mission and Bio-E3 Policy.",
+        "analysis": "The answer addresses both parts of the question and the biotechnology angle is reasonably well-covered, which is the more challenging part. The mention of 2G/3G biofuels, E20 blending, SATAT scheme, and synthetic biology for carbon capture shows good topical awareness. However, the first part on clean technology pathways is very generic — these are standard talking points that any preparation material would cover. The answer doesn't adequately address the '2047' horizon — what specific milestones and phased transitions are needed over 20+ years? The biotechnology section, while listing relevant areas, doesn't discuss the actual state of these technologies in India (most are nascent or lab-scale). The 80% import dependency figure for fossil fuels is broadly correct. The Bio-E3 Policy reference in the conclusion is a good contemporary touch. At 223 words, it exceeds the word limit. The connection between biotechnology and energy independence could be more tightly argued.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.2, "justification": "Content is broadly accurate; Panchamrit goals, green hydrogen targets, and biotech applications are correctly identified; but doesn't distinguish between aspirational targets and ground reality."},
+          "structure_flow": {"score": 1.3, "justification": "Two-part structure matching the question; clean numbered format; but the two sections feel disconnected — biotechnology should be integrated into the energy independence argument rather than treated separately."},
+          "depth_examples": {"score": 1.2, "justification": "Good scheme references (FAME-II, PLI, SATAT, Bio-E3 Policy) and specific targets (500 GW, 5 MMT hydrogen); but lacks concrete examples of biotechnology actually being deployed for energy in India."},
+          "analytical_depth": {"score": 0.4, "justification": "Doesn't critically examine feasibility — India's actual RE capacity vs targets, the massive gap in biofuel technology readiness, or the 2047 timeline's realism given current trajectory."},
+          "presentation": {"score": 0.5, "justification": "Exceeds word limit by about 50% (223 vs 150); clear language and professional formatting."}
+        },
+        "total_score": 5.6,
+        "max_marks": 10,
+        "brief_feedback": "Addresses both clean technology pathways and biotechnology's role but stays at a listing level without critically examining feasibility or connecting the two parts into a coherent argument."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q7",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer defines CCUS, explains its three components (capture, utilization, storage), and discusses its role in climate change mitigation through four areas: hard-to-abate sectors, net-zero targets, carbon removal, and hydrogen economy. It also mentions Indian government initiatives.",
+        "analysis": "This is a solid, well-rounded answer. The definition is clear and accurate, covering all three components of CCUS. The role section identifies the most important applications — hard-to-abate sectors, negative emissions through DAC and BECCS, and the blue hydrogen link. The IEA statistic (15% of cumulative emission reductions) adds credibility. The India-specific section with NITI Aayog's roadmap, DST-Mission Innovation, and ONGC's CO2-EOR efforts shows good awareness of domestic developments. However, the answer doesn't discuss the fundamental criticisms of CCUS — that it can serve as a justification for continued fossil fuel use ('moral hazard'), that costs remain prohibitively high, or that storage permanence is uncertain. The mention of 'energy penalties' in the conclusion is the only nod to challenges. At 260 words, it substantially exceeds the word limit. The answer is comprehensive but lacks critical balance.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.4, "justification": "Technically accurate definition and role assessment; IEA data, DAC, BECCS, blue hydrogen connections are all correct; India-specific initiatives are accurately cited."},
+          "structure_flow": {"score": 1.5, "justification": "Excellent organization: definition, role in climate change, government initiatives, and conclusion; flows naturally from concept to application to Indian context."},
+          "depth_examples": {"score": 1.4, "justification": "Strong range of examples — IEA statistic, DAC, BECCS, NITI Aayog roadmap, ONGC CO2-EOR, DST-Mission Innovation; more concrete than most answers in this batch."},
+          "analytical_depth": {"score": 0.4, "justification": "Presents CCUS almost entirely positively; doesn't address the moral hazard critique, cost barriers, storage risks, or the debate about whether CCUS delays genuine decarbonization."},
+          "presentation": {"score": 0.4, "justification": "Substantially exceeds word limit (260 vs 150); clear and professional language throughout."}
+        },
+        "total_score": 6.1,
+        "max_marks": 10,
+        "brief_feedback": "Technically strong with good India-specific references and clear structure, but uncritically presents CCUS without engaging with its significant limitations and controversies."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q8",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer explains seawater intrusion, identifies four causes (over-exploitation, sea level rise, anthropogenic factors, geological factors) and five remedial measures (managed aquifer recharge, hydraulic barriers, regulatory framework, technological interventions, nature-based solutions), with India-specific examples throughout.",
+        "analysis": "This is a well-constructed answer that covers the question's demands comprehensively. The causes section correctly identifies the primary driver (over-exploitation) and secondary factors (SLR, mangrove destruction, geological permeability). The mention of Chennai and Gujarat as specific affected regions grounds the answer in Indian reality. The remedial measures are diverse, ranging from technological (geophysical mapping, subsurface dykes) to regulatory (CRZ norms, CGWA) to nature-based (mangrove restoration). The Atal Bhujal Yojana reference is apt. However, the 17% population figure for coastal areas needs verification. The answer doesn't discuss the differential vulnerability of different coastal regions (east coast vs west coast, deltaic vs rocky). The mention of 'Indo-Gangetic delta' having high permeability is accurate but could be more specific (Sundarbans). At 240 words, it significantly exceeds the word limit. The answer is solid but follows a predictable format without deeper analytical insight into why existing measures have failed.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.4, "justification": "Causes and remedies are accurately identified; Chennai and Gujarat references are appropriate; coastal population figure is approximately correct; subsurface dykes and MAR are relevant technical solutions."},
+          "structure_flow": {"score": 1.4, "justification": "Clean two-part structure with causes and remedies well-separated; numbered points with clear categorization; intro contextualizes the issue."},
+          "depth_examples": {"score": 1.3, "justification": "Good use of specific examples — Chennai, Gujarat, CRZ norms, Atal Bhujal Yojana, CGWA, heliborne surveys, subsurface dykes; more varied than typical GS answers."},
+          "analytical_depth": {"score": 0.5, "justification": "Identifies interconnections (climate change driving SLR driving intrusion) but doesn't examine why existing regulations like CRZ have failed to prevent the problem, or explore trade-offs between development and aquifer protection."},
+          "presentation": {"score": 0.4, "justification": "Exceeds word limit by 60% (240 vs 150); language is clear and well-organized."}
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Comprehensive coverage of causes and remedies with good India-specific grounding, but lacks critical analysis of why existing regulatory frameworks have been insufficient and significantly exceeds the word limit."
+      }
+    ]
+  }
+]

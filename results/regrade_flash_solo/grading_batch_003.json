@@ -1,0 +1,72 @@
+[
+  {
+    "question_id": "mains_essay_2025_q5",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The essay interprets the muddy water proverb as an argument for strategic patience and non-interference, applying it across psychology, governance (1991 Indian reforms), international relations (Middle East interventions), environmental stewardship (rewilding, Chernobyl), and the digital age. It includes a counterpoint paragraph acknowledging that some problems like systemic injustice and epidemics require active intervention rather than passivity.",
+        "analysis": "The essay demonstrates strong thematic coherence, sustaining the muddy water metaphor throughout without losing sight of the central argument. The breadth of domains covered is commendable and the counterpoint paragraph distinguishing internal from external turbulence shows genuine analytical sophistication. However, several examples lack specificity -- the Middle East section names no particular country, conflict, or outcome, and the psychology section relies on generalities rather than named studies or thinkers. The framing of the 1991 economic reforms as 'leaving it alone' is a meaningful oversimplification; liberalization was itself a deliberate, active policy intervention by the Narasimha Rao government, not non-interference. The essay also misses an opportunity to engage with Indian philosophical traditions beyond the Taoist Wu Wei opening -- the Bhagavad Gita's concept of nishkama karma or Buddhist equanimity would have added depth. The writing is polished but follows a repetitive paragraph template that makes it feel formulaic rather than organically argued.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 22.5,
+            "justification": "Covers six distinct domains (psychology, governance, IR, environment, digital age, counterpoint) with generally accurate facts, though the characterization of 1991 reforms as non-interference is a factual stretch and the Middle East discussion is vague."
+          },
+          "structure_flow": {
+            "score": 17.5,
+            "justification": "Clear thesis statement in the introduction, logical progression through thematic domains, and a conclusion that ties back to the central metaphor; the structure is strong but somewhat formulaic with each paragraph following an identical pattern."
+          },
+          "depth_examples": {
+            "score": 13.75,
+            "justification": "The 1991 reforms, Chernobyl rewilding, and Masterly Inactivity policy are relevant case studies, but several lack the granular detail a top-scoring essay would require -- no specific data, no named leaders in IR section, and the environmental examples remain at a surface level."
+          },
+          "analytical_depth": {
+            "score": 14.5,
+            "justification": "The internal-versus-external turbulence framework is a genuinely insightful analytical distinction, and the counterpoint paragraph avoids the trap of one-sided argumentation; however, most domain paragraphs restate the thesis rather than deepening it with new analytical layers."
+          },
+          "presentation": {
+            "score": 9.0,
+            "justification": "Word count is within the 1200-word limit, language is fluent and error-free, and readability is high, though the prose has a polished-but-generic quality that lacks the distinctive voice UPSC examiners reward."
+          }
+        },
+        "total_score": 77.25,
+        "max_marks": 125,
+        "brief_feedback": "A well-structured and broadly argued essay with good thematic coherence, but it lacks the granular specificity in examples and the depth of analytical engagement that would push it from adequate into truly strong territory."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_essay_2025_q6",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The essay explores Emerson's observation by contrasting the short-term perspective of daily experience with the long-term wisdom accumulated over years, applying this across personal growth, governance (1991 reforms), historical events (Jallianwala Bagh, Sack of Rome), environmental degradation, scientific discovery (Edison, mRNA vaccines), and social movements. It includes a counterpoint noting that the passage of years can also entrench prejudice and complacency if not accompanied by active reflection.",
+        "analysis": "The essay correctly attributes the quote to Emerson and deploys a wider range of specific examples than Essay Q5 -- Mandela's 27 years in prison, Jallianwala Bagh as catalyst for independence, Edison's iterative failures, and mRNA vaccine development are all well-chosen and contextually apt. The governance section reuses the 1991 reforms example (identical to Essay Q5), which would be noted negatively if an examiner were reading both essays from the same candidate. The environmental section, while thematically relevant, relies on familiar platitudes about intergenerational responsibility without offering specific data on emissions trajectories or biodiversity loss rates. The social movements paragraph is the weakest -- it gestures at gender equality and caste discrimination without naming the Dalit movement, specific legislation like the Protection of Civil Rights Act, or any landmark court judgments. The counterpoint about years entrenching prejudice is a valuable addition but is underdeveloped in a single paragraph. Most critically, the essay exceeds the 1200-word limit by approximately 115 words, which is a clear violation that UPSC examiners penalize, signaling poor discipline in time-constrained conditions.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 23.25,
+            "justification": "Covers seven distinct domains with generally accurate facts and a wider range of named examples than average; however, the social movements section is vague, and the environmental section lacks specific data or case studies."
+          },
+          "structure_flow": {
+            "score": 17.0,
+            "justification": "The introduction establishes the days-versus-years framework clearly, each paragraph follows logically, and the conclusion uses the effective pixels-versus-picture metaphor; however, like Essay Q5, it follows a rigidly formulaic paragraph template."
+          },
+          "depth_examples": {
+            "score": 14.5,
+            "justification": "Mandela's 27-year imprisonment, Jallianwala Bagh's catalytic role, Edison's iterative process, and mRNA vaccine backstory are well-chosen and specific; the 1991 reforms are recycled from the companion essay, and the social movements section lacks any named movement, law, or judicial decision."
+          },
+          "analytical_depth": {
+            "score": 13.75,
+            "justification": "The days-versus-years framing is maintained consistently and the counterpoint about years entrenching prejudice adds nuance, but the analysis across paragraphs tends to restate the thesis through new examples rather than building progressively deeper layers of argument."
+          },
+          "presentation": {
+            "score": 7.25,
+            "justification": "Language is fluent and the prose is readable, but exceeding the 1200-word limit by approximately 115 words is a clear violation that would be penalized in real UPSC evaluation, reflecting poor discipline in managing essay length."
+          }
+        },
+        "total_score": 75.75,
+        "max_marks": 125,
+        "brief_feedback": "A broadly competent essay with several well-chosen historical and scientific examples, but it is penalized for exceeding the word limit, recycling the 1991 reforms example, and offering surface-level treatment of social movements."
+      }
+    ]
+  }
+]

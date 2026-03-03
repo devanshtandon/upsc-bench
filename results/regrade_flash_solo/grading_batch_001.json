@@ -1,0 +1,72 @@
+[
+  {
+    "question_id": "mains_essay_2025_q1",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The essay argues that truth is fundamentally objective and universal ('colorless'), drawing on examples from natural science, history, law, ethics, art, and contemporary digital culture. It acknowledges the post-modernist critique that truth can be a construct of power, but ultimately maintains that epistemic humility and collaborative inquiry can reconcile subjective perspectives into a unified, colorless truth.",
+        "analysis": "The essay demonstrates impressive breadth, covering scientific truth, historical narratives (1857), legal philosophy (Lady Justice, Kesavananda Bharati), ethics (Mandela, UDHR), literary universals (Kalidasa, Shakespeare, Tolstoy), and contemporary challenges (post-truth, algorithms). The structure is clear and well-organized with a strong thesis in the introduction and a resonant conclusion. However, the essay suffers from a tendency toward surface-level treatment of each domain rather than deep engagement with any one area. The Foucault paragraph is the most analytically interesting but arrives too late and is not sufficiently developed. Many examples are predictable and somewhat 'textbook' — Gandhi's experiments with truth, Lady Justice's blindfold, Mandela and apartheid — which suggests competent knowledge but limited originality. The Kesavananda Bharati reference is somewhat forced in the context of 'colorless truth.' The essay also occasionally conflates different senses of 'color' (racial, ideological, perspectival) without sufficiently differentiating them, which weakens the philosophical rigor. The writing is fluent but tends toward verbosity and repetition of the central metaphor without deepening it.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 22.5,
+            "justification": "Covers science, history, law, ethics, literature, contemporary media, and post-modernism — very broad coverage, but many examples are conventional and lack specificity or fresh data points."
+          },
+          "structure_flow": {
+            "score": 15.0,
+            "justification": "Clear thesis-body-conclusion structure with logical progression from science to humanities to critique; introduction and conclusion are well-crafted though the body paragraphs follow a somewhat mechanical pattern."
+          },
+          "depth_examples": {
+            "score": 12.5,
+            "justification": "Examples are numerous but largely illustrative rather than deeply analyzed — 1857, Mandela, Kesavananda Bharati are mentioned but not probed with specific evidence, statistics, or nuanced comparison; the essay trades depth for breadth."
+          },
+          "analytical_depth": {
+            "score": 13.0,
+            "justification": "The post-modernist critique paragraph shows some original thinking and the 'symphony of colors blending into white light' metaphor is effective, but overall the analysis stays at a fairly conventional level without challenging the premise deeply or offering truly novel insights."
+          },
+          "presentation": {
+            "score": 8.0,
+            "justification": "Language is polished and fluent with appropriate use of Sanskrit terms and literary references; slightly over word limit at 1289 words; readability is high though some passages are overly ornate."
+          }
+        },
+        "total_score": 71.0,
+        "max_marks": 125,
+        "brief_feedback": "A well-structured and broadly informative essay that covers many domains competently but lacks the depth of analysis and originality that would distinguish a top-tier Mains answer — too many familiar examples treated at surface level."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_essay_2025_q2",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The essay interprets Sun Tzu's maxim through the lens of modern strategic thought, arguing that soft power, economic statecraft, deterrence, cyber warfare, and diplomatic engagement have superseded kinetic warfare as the primary means of subduing adversaries. It draws on the Cold War, China's BRI, India's strategic traditions, nuclear deterrence, and economic sanctions as illustrative case studies.",
+        "analysis": "This is a stronger essay than the first. The breadth of coverage is excellent — Cold War containment, China's BRI and salami-slicing, Chanakya's Arthashastra, India's Vaccine Maitri, nuclear deterrence (MAD, Kargil), cyber and grey-zone warfare, and economic sanctions (SWIFT weaponization). The essay demonstrates genuine analytical depth, particularly in the paragraph on limitations and ethical dilemmas, which avoids the trap of one-sided argumentation. The connection between Sun Tzu and Chanakya is well-drawn and relevant for a UPSC audience. However, some claims are stated without sufficient evidentiary backing — for instance, the assertion that China's BRI constitutes 'debt-book diplomacy' is presented as fact rather than a contested interpretation. The 'Cold Start' doctrine reference is somewhat imprecise (India has never officially acknowledged it). The essay slightly exceeds the word limit at 1233 words but within acceptable range. The writing is confident and well-organized, with each paragraph serving a clear purpose in the overall argument. The conclusion, while adequate, is somewhat generic and does not add new insight beyond summarizing the argument.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 24.0,
+            "justification": "Covers historical (Cold War), contemporary (BRI, cyber warfare, sanctions), Indian (Chanakya, surgical strikes, Vaccine Maitri), and theoretical (MAD, Grand Strategy, soft power) dimensions with strong factual grounding across multiple domains."
+          },
+          "structure_flow": {
+            "score": 16.0,
+            "justification": "Excellent logical progression from ancient philosophy to historical examples to contemporary applications to limitations, with a clear thesis and each paragraph building on the previous; conclusion is adequate but somewhat formulaic."
+          },
+          "depth_examples": {
+            "score": 15.0,
+            "justification": "Case studies are well-chosen and more deeply analyzed than in the first essay — the Cold War paragraph explains the mechanism of Soviet collapse, the BRI paragraph details the strategy of incremental change — though some examples (surgical strikes, SWIFT) could use more specific data."
+          },
+          "analytical_depth": {
+            "score": 15.0,
+            "justification": "The limitations paragraph is genuinely analytical, acknowledging that non-kinetic warfare causes civilian suffering and can trigger the very violence it seeks to avoid; the 'golden bridge' concept shows familiarity with strategic nuance; however, original thinking beyond established IR frameworks is limited."
+          },
+          "presentation": {
+            "score": 8.5,
+            "justification": "Confident, fluid prose with appropriate terminology (casus belli, Grey Zone warfare); within word limit at 1233 words; well-paragraphed and easy to follow; occasional tendency toward declarative statements that could benefit from more hedging."
+          }
+        },
+        "total_score": 78.5,
+        "max_marks": 125,
+        "brief_feedback": "A well-researched and analytically competent essay that effectively bridges ancient strategic philosophy with contemporary geopolitics, with a particularly strong treatment of limitations and ethical dilemmas — stronger than most Mains essays but could push further on originality."
+      }
+    ]
+  }
+]

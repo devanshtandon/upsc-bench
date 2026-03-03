@@ -1,0 +1,162 @@
+[
+  {
+    "question_id": "mains_gs1_2025_q17",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer discusses population distribution and density in the Ganga River Basin by linking it to three resource categories: flat land/topography of the Indo-Gangetic Plain, fertile alluvial soils (Khadar and Bhangar), and perennial water resources including groundwater aquifers and canal irrigation. It concludes with the environmental pressures this creates and mentions government schemes.",
+        "analysis": "This is a well-structured answer that covers the three demanded dimensions (land, soil, water) systematically. The factual content is largely accurate — Bihar's density figure, the 26% landmass and 43% population figures for the basin are reasonable approximations. The distinction between Khadar and Bhangar alluvium is appropriate and relevant. However, the answer significantly exceeds the 250-word limit at 413 words, which is a major presentational flaw. The answer could have been more geographically specific about density variations within the basin (e.g., upper vs. middle vs. lower Ganga plains). Mentioning Punjab and Haryana as part of the Ganga Basin is geographically imprecise — Punjab is primarily in the Indus basin. The Green Revolution reference for 'Western UP' is valid but stretching it to Punjab under the Ganga Basin is factually questionable. The conclusion mentioning Namami Gange and PM-KSNY feels somewhat formulaic.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.6, "justification": "Core facts about population density, alluvial soils, and water resources are mostly correct, though the inclusion of Punjab in the Ganga Basin is geographically inaccurate; covers the three demanded dimensions adequately."},
+          "structure_flow": {"score": 2.1, "justification": "Well-organized with clear headings for land, soil, and water; logical progression from resource to population; intro and conclusion present."},
+          "depth_examples": {"score": 1.8, "justification": "Includes specific examples like Upper Ganga Canal, Khadar/Bhangar distinction, Bihar density figure, and named tributaries; lacks more precise district-level or census data for density variations."},
+          "analytical_depth": {"score": 0.9, "justification": "The causal linkage between resources and density is presented but remains largely descriptive rather than analytically deep; the 'Resource Triad' framing is a superficial analytical addition."},
+          "presentation": {"score": 0.8, "justification": "Clear language and good readability, but grossly exceeds the 250-word limit at 413 words, which would be penalized in actual UPSC evaluation."}
+        },
+        "total_score": 9.2,
+        "max_marks": 15,
+        "brief_feedback": "A competent answer with good coverage of the three resource dimensions but marred by geographical inaccuracies (Punjab in Ganga Basin) and significant word limit overrun."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs1_2025_q18",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer explains the paradox of fast-food industry growth amid health concerns through socio-economic factors (urbanization, time poverty, nuclear families), marketing strategies (health-washing, celebrity endorsements), technology (food delivery apps, dark kitchens), and glocalization (McAloo Tikki, Paneer Tikka Pizza). It discusses India's double burden of malnutrition, treat culture, affordability, and regulatory gaps.",
+        "analysis": "The answer demonstrates a strong understanding of the sociological and economic dimensions of the question. The Indian examples are well-chosen and specific — McAloo Tikki, Zomato/Swiggy, FSSAI's Eat Right India campaign. The 'double burden of malnutrition' concept is relevant and shows awareness of public health discourse. The analytical framing through multiple lenses (economic, cultural, regulatory) is a strength. However, the answer is excessively long at 419 words against a 250-word limit — nearly 70% over. The CAGR figure cited (18% for 2021-2025) is plausible but unverifiable and the timeframe is oddly backward-looking for a 2025 exam. The answer reads more like a management case study than a UPSC GS1 answer, which should have more emphasis on social dimensions (impact on dietary habits of different classes, regional variations, rural vs urban divide). The 'treat culture' observation is insightful and adds genuine analytical value.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.6, "justification": "Facts are broadly correct; good range of relevant points covering economic, social, technological, and cultural factors; the CAGR figure is plausible but the specific source is unclear."},
+          "structure_flow": {"score": 2.1, "justification": "Excellent logical organization with clear categorization of factors, dedicated Indian experience section, and a well-reasoned conclusion; slightly over-structured for the word limit."},
+          "depth_examples": {"score": 2.1, "justification": "Strong specific examples including brand names, government initiatives (FSSAI, FOPL), and cultural phenomena (treat culture, value meals); good mix of Indian and global references."},
+          "analytical_depth": {"score": 1.1, "justification": "The paradox framing is effective; the observation that health concerns drive demand for 'better fast food' rather than rejection of it is genuinely insightful; multi-perspective analysis present."},
+          "presentation": {"score": 0.7, "justification": "Clear and articulate writing, but at 419 words it vastly exceeds the 250-word limit, which is a serious flaw in exam conditions."}
+        },
+        "total_score": 9.6,
+        "max_marks": 15,
+        "brief_feedback": "A well-analyzed answer with strong Indian examples and insightful observations about consumer behavior, but severely penalized by exceeding the word limit by nearly 70%."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs1_2025_q19",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer discusses the conflict between sustainable growth and the needs of the poor in India through four areas: livelihood vs. conservation (forest rights, fishing), energy poverty vs. emission norms, urban development vs. informal settlements, and regulatory compliance vs. MSMEs. It proposes a 'Just Transition' framework with decentralized renewables, nature-based solutions through MGNREGA, and the polluter pays principle.",
+        "analysis": "This is a strong answer that directly addresses the question's core tension. The examples are well-chosen and India-specific — Niyamgiri Hills/Vedanta, Sabarmati Riverfront, Olive Ridley turtles, PESA Act, Forest Rights Act. The four conflict areas are distinct and well-articulated. The 'way forward' section is practical and policy-oriented, which UPSC examiners value. The reference to KUSUM scheme and MGNREGA as instruments of pro-poor green growth is apt. However, at 415 words it significantly exceeds the 250-word limit. The coal dependency figure (70%) is approximately correct. The answer could have engaged more deeply with the philosophical tension — is sustainability inherently anti-poor, or is it the implementation that creates conflict? The SDG reference in the conclusion is appropriate but somewhat formulaic. The answer also does not adequately address the counterargument that environmental degradation itself disproportionately harms the poor (e.g., climate change impacts on agriculture, air pollution in low-income neighborhoods).",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.9, "justification": "All four conflict areas are factually accurate and highly relevant; correct references to FRA 2006, PESA, Niyamgiri, Sabarmati; coal dependency figure is approximately right."},
+          "structure_flow": {"score": 2.1, "justification": "Excellent structure with clearly delineated conflict areas followed by a constructive way forward section and conclusion; logical progression from problem to solution."},
+          "depth_examples": {"score": 2.1, "justification": "Rich with specific examples — Niyamgiri/Vedanta, Sabarmati Riverfront, Olive Ridley turtles, KUSUM scheme, MGNREGA; references to FRA, PESA, SDGs add depth."},
+          "analytical_depth": {"score": 1.0, "justification": "Good identification of structural conflicts but misses the counterargument that environmental degradation itself harms the poor most; the 'Green Dilemma' framing is apt but the analysis stays largely at the descriptive level."},
+          "presentation": {"score": 0.8, "justification": "Well-written and clear, but at 415 words it significantly exceeds the 250-word limit; the formatting with bold and headers is clean."}
+        },
+        "total_score": 9.9,
+        "max_marks": 15,
+        "brief_feedback": "A well-substantiated answer with excellent examples demonstrating the growth-vs-equity conflict, but would benefit from exploring the counterargument that environmental degradation itself is anti-poor."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs1_2025_q20",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer examines whether tribal development in India centers around displacement and rehabilitation, arguing that while these are dominant themes, tribal development is increasingly evolving beyond them. It discusses displacement through resource extraction and legal dilution, rehabilitation gaps including cultural loss and inadequate resettlement, and then presents a third dimension of rights-based empowerment, aspirational development schemes, and tribal agency.",
+        "analysis": "This is one of the stronger answers in the batch. The question asks for an opinion, and the answer provides a nuanced one — agreeing that displacement and rehabilitation are central axes but arguing they should not be the only ones. The examples are well-chosen: Narmada Bachao Andolan, Niyamgiri Hills, Polavaram Project, Forest Rights Act, PM-JANMAN, Eklavya schools, and Nehru's Tribal Panchsheel. The 40% displacement statistic for tribals is a widely cited figure that adds empirical weight. The concept of 'proletarianization' shows sociological awareness. The third section going 'beyond the two axes' elevates the answer above a simple agree/disagree response. However, at 424 words it massively exceeds the 250-word limit. The answer could have discussed the specific failures of rehabilitation policy more concretely — how many have actually been rehabilitated vs. displaced. The PESA Act reference is relevant but the claim about 'eminent domain' bypassing Gram Sabha consent could have been more precisely articulated with reference to the Land Acquisition Act 2013.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.9, "justification": "Factually strong with accurate references to FRA, PESA, displacement statistics, Narmada/Niyamgiri/Polavaram; the 8.6% tribal population figure and constitutional/legislative references are correct."},
+          "structure_flow": {"score": 2.1, "justification": "Excellent three-part structure — displacement, rehabilitation, and beyond; clear progression from problem diagnosis to forward-looking opinion; strong conclusion that ties back to the question."},
+          "depth_examples": {"score": 2.1, "justification": "Rich with specific examples and case studies — Narmada, Niyamgiri, Polavaram, PM-JANMAN, Eklavya schools, Tribal Panchsheel; census data and displacement statistics cited."},
+          "analytical_depth": {"score": 1.2, "justification": "The nuanced opinion going beyond the binary framing shows genuine analytical thinking; the 'cultural genocide' and 'proletarianization' concepts add sociological depth; offers a constructive alternative framework."},
+          "presentation": {"score": 0.7, "justification": "Articulate and well-written, but at 424 words it is nearly 70% over the 250-word limit, which is a significant penalty in exam conditions."}
+        },
+        "total_score": 10.0,
+        "max_marks": 15,
+        "brief_feedback": "An analytically strong answer that goes beyond the binary framing of displacement/rehabilitation to present a nuanced opinion with excellent examples, but severely exceeds the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q1",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer defines corrupt practices under Section 123 of the RPA 1951, then analyzes whether disproportionate asset growth constitutes 'undue influence.' It cites the Lok Prahari case (2018) and argues that non-disclosure of assets constitutes undue influence by depriving voters of information, while distinguishing this from disproportionate assets per se which fall under the Prevention of Corruption Act.",
+        "analysis": "The answer demonstrates good legal knowledge. The reference to Section 123 and its enumerated corrupt practices is accurate. The Lok Prahari v. Union of India case is correctly cited and its holding regarding non-disclosure is relevant. The distinction between disproportionate assets (PCA matter) and non-disclosure (RPA matter) is legally sound and shows analytical sophistication. However, there are concerns. The answer somewhat conflates the Lok Prahari judgment's scope — while the Supreme Court did expand disclosure requirements, the direct equation of non-disclosure with 'undue influence' under Section 123(2) is an arguable interpretation rather than settled law. The international comparison (UK RPA 1983) is a nice touch but feels tacked on and not deeply integrated. At 244 words, it is significantly over the 150-word limit. The answer could have more clearly addressed the specific question about whether asset increase of associates would qualify, which is largely glossed over. The Article 19(1)(a) right-to-know connection is valid but the answer should have mentioned Section 33A of RPA regarding mandatory disclosure of criminal cases.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.6, "justification": "Core legal provisions (Section 123, Article 72) are correctly cited; Lok Prahari case is relevant; however, the direct equation of non-disclosure with 'undue influence' is an arguable legal interpretation; associates' asset growth not adequately addressed."},
+          "structure_flow": {"score": 1.4, "justification": "Logical flow from definition to analysis to conclusion; the international comparison section feels somewhat disconnected from the main argument."},
+          "depth_examples": {"score": 1.4, "justification": "Good case law citation (Lok Prahari, UNCAC reference); but lacks mention of other relevant provisions like Section 33A or the Lily Thomas case; associates' dimension largely ignored."},
+          "analytical_depth": {"score": 0.7, "justification": "The PCA vs. RPA distinction shows analytical thinking, but the answer could have probed deeper into whether disproportionate assets of 'associates' specifically can constitute undue influence — a key part of the question."},
+          "presentation": {"score": 0.6, "justification": "Clear legal writing, but at 244 words it exceeds the 150-word limit by over 60%; the UK comparison, while interesting, consumes space better used on the core question."}
+        },
+        "total_score": 6.7,
+        "max_marks": 10,
+        "brief_feedback": "Legally competent with good case law references but inadequately addresses the specific question about associates' disproportionate assets and significantly exceeds the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q2",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer discusses the need for administrative tribunals versus courts through four advantages (specialization, efficiency, reduced burden, cost-effectiveness), then assesses the 2021 Tribunals Reforms Act which abolished several tribunals, analyzing both positive impacts (reduced fragmentation, fiscal savings) and negative impacts (judicial burden, independence issues via tenure limits, vacancies).",
+        "analysis": "The answer covers the essential aspects of the question. The constitutional basis (Articles 323A and 323B, 42nd Amendment) is correctly stated. The four advantages of tribunals are standard and relevant. The discussion of the 2021 reforms is balanced, covering both the rationalization logic and the criticisms. The reference to the Madras Bar Association case regarding tenure provisions is pertinent. The L. Chandra Kumar (1997) citation in the conclusion is appropriate, as it established that tribunals are supplementary to High Courts, not substitutes. However, the answer at 246 words significantly exceeds the 150-word limit. The FCAT example is good but only one tribunal is mentioned by name. The answer could have discussed the specific tribunals abolished and their transfer to High Courts more concretely. The claim about 'Principles of Natural Justice rather than rigid CPC' is somewhat misleading — many tribunals do follow procedural codes, just simplified ones. The analysis of the tension between rationalization and the original purpose of de-clogging courts is well-articulated.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.8, "justification": "Constitutional provisions correctly cited; tribunal advantages are accurate; 2021 Act's provisions described correctly; the CPC vs. natural justice distinction is slightly oversimplified but broadly acceptable."},
+          "structure_flow": {"score": 1.5, "justification": "Clear two-part structure addressing both parts of the question; positive/negative impact format for reforms is effective; good conclusion tying back to judicial principles."},
+          "depth_examples": {"score": 1.2, "justification": "Mentions FCAT, NGT, Madras Bar Association case, and L. Chandra Kumar; but could have named more abolished tribunals and discussed specific transfer impacts."},
+          "analytical_depth": {"score": 0.7, "justification": "The contradiction between rationalization and de-clogging is a good analytical point; the independence concern via tenure provisions shows critical thinking; but the analysis remains somewhat surface-level."},
+          "presentation": {"score": 0.6, "justification": "Well-organized and clearly written, but at 246 words it significantly exceeds the 150-word limit; could have been more concise."}
+        },
+        "total_score": 6.8,
+        "max_marks": 10,
+        "brief_feedback": "A balanced and well-structured answer covering both the rationale for tribunals and the 2021 reform critique, but lacks depth in specific examples and exceeds the word limit substantially."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q3",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer compares presidential pardon powers in India (Article 72) and the USA (Article II, Section 2) through a tabular format, discusses limits in both countries, and defines preemptive pardons with the Ford-Nixon example. It notes that India's pardon power is exercised on Cabinet advice with limited judicial review, while the US President's is an absolute personal prerogative.",
+        "analysis": "This is a well-executed comparative answer. The tabular format is efficient for a comparison question and covers the key differences: source of power, scope, and judicial review. The distinction between India's cabinet-bound power and the USA's personal prerogative is correctly stated. The Epuru Sudhakar and Kehar Singh case references are accurate and relevant. The impeachment exception for US pardons is correctly noted. The preemptive pardon section is well-explained with the Ford-Nixon example, which is the canonical illustration. The observation that India does not explicitly provide for preemptive pardons is correct. However, the answer exceeds the 150-word limit at 262 words. The answer could have mentioned that Indian governors also have pardon powers under Article 161, and the recent controversy around pardon powers (e.g., the Rajiv Gandhi assassination case commutation). The answer does not mention the types of clemency in India (pardon, commutation, remission, respite, reprieve) which would demonstrate deeper knowledge. Overall, this is a competent answer that addresses all three parts of the question clearly.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.9, "justification": "Constitutional provisions accurately cited for both countries; case law references (Epuru Sudhakar, Kehar Singh) are correct; Ford-Nixon example is accurate; the cabinet-bound vs. absolute prerogative distinction is correctly drawn."},
+          "structure_flow": {"score": 1.6, "justification": "Excellent use of tabular format for comparison; clear three-part structure addressing comparison, limits, and preemptive pardons; all sub-questions answered."},
+          "depth_examples": {"score": 1.4, "justification": "Good case law and constitutional references; Ford-Nixon example is apt; but lacks mention of the five types of clemency in India and recent controversies that would add depth."},
+          "analytical_depth": {"score": 0.7, "justification": "The comparison is clear but largely descriptive; could have analyzed the implications of these differences — e.g., why India chose cabinet-bound power vs. the US model, or the democratic accountability concerns."},
+          "presentation": {"score": 0.7, "justification": "Clear, well-formatted with effective use of tables; at 262 words it exceeds the 150-word limit but the tabular format naturally consumes more space."}
+        },
+        "total_score": 7.3,
+        "max_marks": 10,
+        "brief_feedback": "A well-structured comparative answer that addresses all three parts of the question with accurate legal references, though it could have gone deeper on the implications and types of clemency."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q4",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer discusses the J&K Legislative Assembly post the 2019 Reorganization Act, covering its unicameral structure, 114-seat composition, ST/SC reservations, and LG nomination powers. It then describes the Assembly's legislative scope (State List minus Public Order/Police, Concurrent List), executive accountability, financial powers, and limitations under LG discretionary authority.",
+        "analysis": "This is a factually dense and largely accurate answer. The reference to Article 239A and the Puducherry model is apt. The composition details — 114 seats after delimitation, 24 PoK seats, ST and SC reservations — are correct. The legislative scope correctly identifies the exclusion of Public Order and Police from the Assembly's domain. The LG's discretionary powers and the requirement of LG recommendation for financial bills are accurately described. The conclusion appropriately characterizes the Assembly as 'subordinate' compared to the erstwhile State Assembly. However, there are some concerns: the '2023 amendment' regarding Kashmiri Migrant nominations needs verification — the specific provision may not be from a 2023 amendment but from the original Act or subsequent orders. At 297 words, it exceeds the 150-word limit by nearly double. The answer could have discussed the political significance of this change — the loss of special status under Article 370 and its democratic implications. The answer is somewhat list-like in its approach, missing deeper constitutional analysis of how UT-with-legislature status fundamentally differs from full statehood.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 2.8, "justification": "Most facts are accurate — seat numbers, reservation provisions, legislative scope, LG powers; the 2023 amendment claim about Kashmiri Migrant nominations is potentially inaccurate; Article 239A reference is correct."},
+          "structure_flow": {"score": 1.5, "justification": "Clear two-part structure covering nature and then powers/functions; logical organization with headings; the conclusion effectively summarizes the subordinate character."},
+          "depth_examples": {"score": 1.2, "justification": "Good factual detail including specific seat numbers, reservation figures, and comparison with Puducherry model; but lacks reference to key Supreme Court judgments or political context of the reorganization."},
+          "analytical_depth": {"score": 0.6, "justification": "Largely descriptive enumeration of provisions; misses the deeper constitutional and political analysis of UT-with-legislature vs. statehood and the implications for democratic self-governance in J&K."},
+          "presentation": {"score": 0.6, "justification": "Well-formatted and clear, but at 297 words it nearly doubles the 150-word limit, which would attract significant penalty in actual UPSC grading."}
+        },
+        "total_score": 6.7,
+        "max_marks": 10,
+        "brief_feedback": "A factually detailed answer covering the Assembly's structure and powers comprehensively, but overly descriptive without deeper constitutional analysis and far exceeds the word limit."
+      }
+    ]
+  }
+]

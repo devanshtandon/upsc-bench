@@ -1,0 +1,162 @@
+[
+  {
+    "question_id": "mains_gs2_2025_q13",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer traces the evolution of the Collegium system through four landmark cases and then provides a comparative table of the Indian Collegium and the US Presidential appointment systems, evaluating advantages and disadvantages of both. It concludes with recommendations including a Memorandum of Procedure and references the Venkatachaliah Commission.",
+        "analysis": "This is a well-structured answer that covers the evolution comprehensively through the four Judges Cases. The comparative table format is effective for a side-by-side analysis. Content is largely accurate — the characterization of the Fourth Judges Case (NJAC) is correct. However, the answer exceeds the 250-word limit significantly at 376 words. The comparative analysis, while adequate, could have gone deeper into specific criticisms — for instance, the lack of diversity in judicial appointments, the social composition of the judiciary, or the role of the Law Commission's recommendations. The mention of 'Brother-judge syndrome' and 'committed judiciary' shows good vocabulary but lacks deeper substantiation. The US side could have benefited from examples like the Merrick Garland or Brett Kavanaugh confirmation battles to illustrate politicization concretely.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.9, "justification": "All four Judges Cases correctly stated; NJAC and 99th Amendment accurate; US system described correctly; Venkatachaliah Commission reference apt; minor omission of Law Commission reports and social diversity angle."},
+          "structure_flow": {"score": 2.1, "justification": "Clear evolution-comparison-conclusion format with effective use of a table; logical flow from historical evolution to comparative analysis to way forward."},
+          "depth_examples": {"score": 1.8, "justification": "Four Judges Cases, NJAC, 99th Amendment, Venkatachaliah Commission all cited; however, lacks concrete examples from the US side (no specific nomination battles or Senate hearings mentioned) and no data on judicial vacancies."},
+          "analytical_depth": {"score": 1.0, "justification": "Provides advantages and disadvantages for both systems but the critical evaluation is somewhat formulaic; does not deeply interrogate why the Collegium has resisted reform or the philosophical tension between independence and accountability."},
+          "presentation": {"score": 0.9, "justification": "Clear language and good use of tabular format, but significantly exceeds the 250-word limit at 376 words, which is a notable penalty in actual UPSC grading."}
+        },
+        "total_score": 9.7,
+        "max_marks": 15,
+        "brief_feedback": "A competent answer with accurate content and effective comparative structure, but lacks deeper critical engagement and significantly exceeds the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q14",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer traces Centre-State financial relations from the Planning Commission era to NITI Aayog, examines the impact of the 14th and 15th Finance Commissions, GST, CSS rationalization, and identifies challenges like rising cess/surcharges and FRBM constraints. It concludes with recommendations from the Sarkaria and Punchhi Commissions.",
+        "analysis": "This is a strong answer with excellent coverage of the evolving fiscal federalism landscape. The factual content is largely accurate — the 14th FC devolution increase to 42%, GST Council's voting structure, and the distinction between divisible pool and cess/surcharges are all correctly stated. The answer demonstrates good analytical depth by identifying the paradox of increased devolution alongside rising cess that effectively reduces states' share. The reference to the Shivraj Singh Chouhan Committee on CSS restructuring adds specificity. However, the answer is excessively long at 417 words (nearly double the limit). The 15th FC figure of 41% is correctly attributed to the J&K adjustment. One weakness is that the answer could have engaged more with specific state grievances (e.g., southern states' concerns about population-based criteria) to add ground-level depth. The 'cooperative yet competitive federalism' framing in the introduction is apt.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 4.2, "justification": "Highly accurate across all dimensions — Finance Commission devolution figures, GST Council structure, NITI Aayog's role, CSS restructuring, and the cess/surcharge problem are all correctly stated; Sarkaria and Punchhi Commission references are appropriate."},
+          "structure_flow": {"score": 2.2, "justification": "Excellent organization from historical evolution to reform impact to challenges to conclusion; clear sub-headings guide the reader logically through the argument."},
+          "depth_examples": {"score": 2.1, "justification": "Multiple specific references including 14th/15th FC devolution percentages, GST Council's 2/3 voting power, FRBM Act, Article 293, SDG India Index, and Shivraj Singh Chouhan Committee — strong evidentiary base."},
+          "analytical_depth": {"score": 1.1, "justification": "Good critical insight on the cess paradox undermining statutory devolution and the tension between cooperative federalism rhetoric and centralizing tendencies; could have explored inter-state horizontal equity issues more."},
+          "presentation": {"score": 0.8, "justification": "Well-written with clear language, but at 417 words it is significantly over the 250-word limit, which would be penalized in actual UPSC evaluation."}
+        },
+        "total_score": 10.4,
+        "max_marks": 15,
+        "brief_feedback": "An analytically strong answer with accurate and comprehensive content on fiscal federalism, but needs significant trimming to respect the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q15",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer defines environmental pressure groups, then systematically discusses their role across three dimensions — raising awareness (CSE, NBA), influencing policies (PILs, MC Mehta cases, Gadgil Committee), and advocating for environmental protection (Greenpeace, Forest Rights Act). It also touches on international comparisons and challenges like FCRA restrictions.",
+        "analysis": "This is a well-organized answer that directly addresses all three parts of the question. The examples are specific and relevant — MC Mehta cases, Narmada Bachao Andolan, CSE's State of India's Environment reports, Toxic Link's role in bio-medical waste rules, and Greenpeace's Mahan forest campaign. The definition of EPGs is clear and distinguishes them from political parties. The FCRA challenge is a contemporary and important point. However, the answer is 389 words — well over the 250-word limit. The 'International Comparisons' section, while informative, is not demanded by the question and uses up valuable word count. The Article 51A(g) reference in the conclusion is apt. One factual concern: attributing the Bio-Medical Waste Management Rules primarily to Toxic Link may be an overstatement — while they contributed, multiple actors were involved. The analytical depth could be stronger on whether EPGs have sometimes been counterproductive or overly obstructionist.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.8, "justification": "Mostly accurate with good examples — MC Mehta cases, NBA, CSE reports, POCSO, Forest Rights Act, FCRA; minor overstatement on Toxic Link's singular role in bio-medical waste rules; Chipko Movement mention is apt as historical precedent."},
+          "structure_flow": {"score": 2.1, "justification": "Well-organized around the three roles asked in the question — awareness, policy influence, advocacy — with a clear definition at the start and a conclusion; logical and easy to follow."},
+          "depth_examples": {"score": 2.0, "justification": "Rich in specific examples — MC Mehta, NBA, CSE, Greenpeace, Madhav Gadgil Committee, FCRA, Kudankulam protests, UK Online Safety Act comparison; good density of concrete references."},
+          "analytical_depth": {"score": 0.9, "justification": "Identifies the FCRA tension and government's view of 'radical environmentalism,' but does not critically examine whether EPGs can be elitist, urban-centric, or sometimes obstruct legitimate development; one-sided in favor of EPGs."},
+          "presentation": {"score": 0.9, "justification": "Clear, well-written prose with good vocabulary; significantly over the word limit at 389 words, which would be penalized."}
+        },
+        "total_score": 9.7,
+        "max_marks": 15,
+        "brief_feedback": "A well-structured answer with strong examples covering all three dimensions of the question, but lacks critical balance and significantly exceeds the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q16",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer explains the 'paradox of poverty' as economic growth coexisting with persistent poverty, links it to unequal ownership of land, wealth/capital, and human capital, and discusses constitutional provisions (Articles 38, 39), government schemes, international comparisons (Brazil, South Africa), and recommendations including progressive taxation and investment in public goods.",
+        "analysis": "This answer demonstrates strong content knowledge with relevant data (Oxfam report, Agriculture Census, NFHS-5) and constitutional references. The framing of the paradox of poverty is accurate and well-articulated. The three-dimensional analysis of inequality (land, capital, human capital) is comprehensive. The international comparisons with Brazil's Bolsa Familia and South Africa's Gini coefficient add valuable context. However, the answer is extremely long at 476 words — nearly double the word limit — which is a serious issue. The answer also somewhat drifts into a general poverty discussion rather than maintaining tight focus on the 'paradox' aspect throughout. The Amartya Sen capability approach reference is appropriate. One concern: the question appears to be from GS2 (Governance/Social Justice) rather than GS3 (Economy), so the answer could have engaged more with governance failures in redistribution rather than purely economic analysis. The Vijay Kelkar Committee reference on fiscal consolidation is somewhat tangentially connected.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 4.0, "justification": "Accurate data references — Oxfam 2023, Agriculture Census 2015-16, NFHS-5; correct constitutional articles (38, 39b, 39c); Brazil and South Africa comparisons are factually sound; minor issue with Vijay Kelkar Committee being tangential."},
+          "structure_flow": {"score": 2.0, "justification": "Well-organized with clear sections — problem definition, causes, constitutional framework, international context, recommendations, conclusion; however, the sheer length undermines the coherence expected within word limits."},
+          "depth_examples": {"score": 2.2, "justification": "Excellent range of examples — Oxfam, Agriculture Census, NFHS-5, PM-Kisan, Stand-Up India, Mudra Yojana, Bolsa Familia, Amartya Sen, Piketty, DILRMP; one of the strongest answers in terms of evidentiary breadth."},
+          "analytical_depth": {"score": 1.0, "justification": "Good analytical framing of the paradox and the structural nature of poverty, but the 'critical' element is somewhat diluted by the breadth of coverage; could have examined why decades of land reform legislation have failed in practice."},
+          "presentation": {"score": 0.6, "justification": "Well-written language but at 476 words — nearly double the limit — this would face significant penalties in actual UPSC evaluation; needs ruthless editing for conciseness."}
+        },
+        "total_score": 9.8,
+        "max_marks": 15,
+        "brief_feedback": "Content-rich with excellent data and examples but severely over the word limit, and the analysis could focus more tightly on the 'paradox' rather than general poverty discourse."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q17",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer interprets the statement as a critique of over-centralization in development, discusses the problems of information asymmetry, implementation lag, and accountability gaps, examines the 73rd/74th Amendments and their incomplete devolution, provides examples of successful decentralization (Kerala, MGNREGA) and failed centralization (2nd ARC findings), and recommends strengthening subsidiarity, DPCs, and digital tools.",
+        "analysis": "This is one of the stronger answers in the batch. The interpretation of the quote is accurate and immediately establishes the analytical framework around decentralization vs. centralization. The constitutional references (73rd/74th Amendments, Articles 243G and 243W, 11th Schedule) are precise and relevant. The Kerala People's Plan Campaign and MGNREGA's Gram Sabha provision are excellent illustrative examples of successful decentralization. The 2nd ARC reference on 'gold-plating' adds policy depth. The Scandinavian comparison with the 30% vs. 5% GDP expenditure figure for local governments is striking and effective. However, the answer is 416 words — significantly over the limit. The 'critical' evaluation is somewhat one-sided in favor of decentralization; it could have acknowledged cases where centralization has advantages (national defense, monetary policy, pandemic response). The Punchhi Commission and e-Gram Swaraj references in the way forward are practical and current.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 4.0, "justification": "Accurate constitutional references (73rd/74th Amendments, Articles 243G/243W, 243ZD, 11th Schedule); Kerala and MGNREGA examples are factually correct; 2nd ARC finding on gold-plating is valid; Punchhi Commission recommendation is relevant."},
+          "structure_flow": {"score": 2.2, "justification": "Excellent structure — problem identification, constitutional framework, critical evaluation with both successes and failures, way forward, conclusion; the argument builds logically and the critical evaluation section is well-balanced."},
+          "depth_examples": {"score": 2.1, "justification": "Strong examples — Kerala People's Plan Campaign with 35-40% budget devolution, MGNREGA Gram Sabha, Scandinavian 30% vs India's 5% comparison, Aspirational Districts Programme, e-Gram Swaraj; good mix of domestic and international evidence."},
+          "analytical_depth": {"score": 1.1, "justification": "Good critical framing of the decentralization-centralization tension with concrete evidence for both positions; however, slightly one-sided — could have explored where centralized decision-making has legitimate advantages."},
+          "presentation": {"score": 0.8, "justification": "Clear, well-articulated prose with effective use of quotation marks to highlight key concepts; significantly over word limit at 416 words."}
+        },
+        "total_score": 10.2,
+        "max_marks": 15,
+        "brief_feedback": "A strong, well-evidenced answer on decentralization with good constitutional grounding and comparative examples, though somewhat one-sided and significantly over the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q18",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer identifies digital-era challenges for children (cyberbullying, online grooming, data privacy), lists existing policies (IT Rules 2021, POCSO, DPDP Act 2023, Cyber Crime Portal), identifies challenges like algorithmic bias and anonymity, and suggests five measures NCPCR can initiate including digital safety audits, Safety by Design framework, AI-driven grievance redressal, community awareness, and alignment with UN CRC General Comment No. 25.",
+        "analysis": "The answer directly addresses both parts of the question — existing policies and suggested measures. The policy framework coverage is comprehensive and accurate: IT Intermediary Guidelines 2021, POCSO Act 2012 (Sections 13-15), DPDP Act 2023 with verifiable parental consent, and the National Cyber Crime Reporting Portal. The suggested measures are practical and show policy imagination — the 'Safety by Design' framework, AI-driven grievance redressal, and UN CRC General Comment No. 25 alignment are sophisticated suggestions. However, the answer is 409 words — again well over the 250-word limit. The challenges section (algorithmic bias, anonymity, digital divide) is somewhat generic and could have been more India-specific. The 'E-Raksha' campaign name appears fabricated — this is not an existing campaign, and presenting it as if it were is problematic. The 'Sharenting' and 'Right to be Forgotten' references are contemporary and relevant. The Article 21 connection in the conclusion is appropriate.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 3.7, "justification": "Mostly accurate — CPCR Act 2005, POCSO Sections 13-15, DPDP Act 2023, IT Rules 2021 all correctly cited; UN CRC General Comment No. 25 is a real and relevant document; however, 'E-Raksha' appears to be fabricated rather than an existing initiative, which is a factual concern."},
+          "structure_flow": {"score": 2.1, "justification": "Well-organized with clear sections — existing policies, challenges, suggested measures, conclusion; directly addresses both parts of the question in a logical sequence."},
+          "depth_examples": {"score": 1.8, "justification": "Good range of policy references and the UK Online Safety Act comparison adds international context; however, lacks concrete Indian data on cybercrime against children or specific NCPCR case studies that would strengthen the argument."},
+          "analytical_depth": {"score": 0.9, "justification": "Identifies challenges and suggests measures but lacks critical depth — does not examine NCPCR's institutional limitations (understaffing, limited enforcement powers) or why existing policies have been insufficient despite their existence."},
+          "presentation": {"score": 0.8, "justification": "Clear and well-organized writing, but at 409 words significantly exceeds the word limit; the invented campaign name ('E-Raksha') slightly undermines credibility."}
+        },
+        "total_score": 9.3,
+        "max_marks": 15,
+        "brief_feedback": "A comprehensive answer with good policy knowledge and creative suggestions, but undermined by a likely fabricated initiative name and significant word limit overshoot."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q19",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer examines India's energy security through its Middle East relationships, discusses strategic partnerships (ADNOC, Lower Zakum), the IMEC corridor, and outlines a multi-pronged future strategy covering geographic diversification (Arctic, Central Asia), green diplomacy (ISA, OSOWOG, GBA), nuclear diplomacy (NSG), maritime security (SAGAR), and institutional alignment between MEA and MoPNG.",
+        "analysis": "This is one of the strongest answers in the batch. The content is impressively specific — the Lower Zakum Concession acquisition, ADNOC's Mangalore SPR facility, TAPI pipeline, INSTC, Kirit Parikh Committee on gas pricing, and the Global Biofuels Alliance launched during G20 presidency are all accurate and demonstrate deep policy knowledge. The answer effectively addresses the 'how would you integrate' directive by providing concrete forward-looking strategies rather than just describing the current state. The maritime security dimension (SLOCs, Bab-el-Mandeb, Malacca Straits) adds strategic depth. However, the answer is 444 words — far over the limit. The 85% crude oil import figure is approximately correct. The framing of 'Link West' policy is apt. One weakness: the answer could have discussed the geopolitical risks more critically — for instance, the tensions with Iran following US sanctions and how that complicates India's energy diversification. The IMEC's green hydrogen pipeline reference, while forward-looking, is still highly aspirational.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 4.3, "justification": "Excellent factual accuracy — import dependency figures, Lower Zakum Concession, ADNOC SPR, TAPI, INSTC, ISA, OSOWOG, GBA, SAGAR, Kirit Parikh Committee all correctly referenced; 85% crude oil import figure is approximately accurate."},
+          "structure_flow": {"score": 2.2, "justification": "Excellent three-part structure — current Middle East engagement, future integration strategy, institutional framework — with a clear conclusion; the progression from diagnosis to prescription is logical and compelling."},
+          "depth_examples": {"score": 2.3, "justification": "Exceptionally rich in specific examples — Lower Zakum, ADNOC Mangalore SPR, Vostok Oil, TAPI, INSTC, ISA, OSOWOG, GBA, G20 presidency, NSG, SAGAR, Bab-el-Mandeb, Malacca Straits, Kirit Parikh Committee; one of the most evidence-dense answers."},
+          "analytical_depth": {"score": 1.0, "justification": "Good forward-looking analysis with concrete integration strategies, but lacks critical examination of risks — Iran sanctions complications, OPEC+ dynamics, the challenge of energy transition timeline, or the tension between Russian energy imports and Western alignment."},
+          "presentation": {"score": 0.8, "justification": "Well-written with strong vocabulary ('polycrisis,' 'energy sovereignty'); at 444 words far exceeds the word limit, which would be penalized."}
+        },
+        "total_score": 10.6,
+        "max_marks": 15,
+        "brief_feedback": "An exceptionally well-researched answer with outstanding specific examples and a strong prescriptive framework, but lacks critical risk analysis and severely exceeds the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q20",
+    "candidates": [
+      {
+        "candidate_id": "gemini_3_flash",
+        "summary": "The answer examines the East-West confrontation blocking UN reform, analyzing the positions of the Western bloc (USA, UK, France) and the Russo-Chinese alliance, discusses the veto stalemate and the Coffee Club vs. G4 dynamics, critically evaluates the representation vs. power tension and the rise of plurilateralism, and suggests text-based negotiations, veto limitation (French-Mexican Initiative), and strengthened IGN processes.",
+        "analysis": "This is a comprehensive and well-structured answer on UN reform. The characterization of both blocs is accurate — the West's 'liberal internationalism' vs. the East's 'sovereign equality' framing captures the ideological divide well. The specific examples of veto use (Russia/China on Syria and Ukraine, USA on Israel) are factually correct and illustrate the deadlock concretely. The Coffee Club/Uniting for Consensus vs. G4 dynamic is an important institutional detail that many candidates miss. The L.69 Group and Ezulwini Consensus references demonstrate good knowledge of reform proposals. The French-Mexican Initiative on veto limitation is a sophisticated and specific recommendation. The observation about the rise of plurilateralism (G20, BRICS, QUAD) as a consequence of UN failure is analytically sharp. However, the answer is 482 words — the longest in the batch and nearly double the limit. The critical evaluation could have been stronger on India's own strategic calculations in pursuing reform. The League of Nations comparison in the conclusion is somewhat cliched.",
+        "rubric_scores": {
+          "content_accuracy": {"score": 4.2, "justification": "Accurate characterization of P5 positions, veto usage examples, Coffee Club/UfC dynamics, G4 composition, L.69 Group, Ezulwini Consensus, French-Mexican Initiative, and IGN process; the structural analysis of the reform deadlock is factually sound throughout."},
+          "structure_flow": {"score": 2.2, "justification": "Excellent three-part structure — confrontation analysis, critical evaluation, recommendations — with clear sub-sections and a logical progression from diagnosis to prescription; the argument builds coherently."},
+          "depth_examples": {"score": 2.2, "justification": "Rich in specific examples — Syria/Ukraine/Israel vetoes, Coffee Club vs. G4, L.69 Group, Ezulwini Consensus, French-Mexican Initiative, BRICS, QUAD, G20; demonstrates deep knowledge of multilateral diplomacy."},
+          "analytical_depth": {"score": 1.1, "justification": "Good critical evaluation of the representation vs. power tension, the Global South factor, and the rise of plurilateralism as institutional decay; however, could have examined India's own strategic contradictions in seeking reform while benefiting from the current multipolar flux."},
+          "presentation": {"score": 0.7, "justification": "Clear, confident prose with good analytical vocabulary, but at 482 words it is the most egregious word limit violation in the batch; the League of Nations comparison is somewhat cliched."}
+        },
+        "total_score": 10.4,
+        "max_marks": 15,
+        "brief_feedback": "A highly knowledgeable answer with excellent coverage of UN reform dynamics and specific institutional references, but needs severe editing for conciseness and could deepen India-specific strategic analysis."
+      }
+    ]
+  }
+]

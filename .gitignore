@@ -32,4 +32,5 @@ web/out/
 
 # Results (regenerable)
 results/raw/
+results/regrade_flash/
 .vercel

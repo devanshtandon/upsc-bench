@@ -1,15 +1,15 @@
 # UPSC Bench — Project State & Instructions
 
 ## RESUME HERE — Immediate Next Action
-**Deploy to Vercel, then expand coverage.**
+**Expand coverage and improve grading.**
 
-Both Prelims and Mains are complete: 5 AI models + human reference, 2024+2025 Prelims, 2025 Mains, mobile-responsive frontend with Prelims/Mains toggle, interactive quiz, full methodology page. Documentation is up to date.
+Deployed at upsc-bench.com. Prelims + Mains complete for 5 AI models + human reference. Judge calibration validates grading accuracy (-8.8% conservative bias vs coaching benchmarks). Frontend is live with Prelims/Mains toggle, interactive quiz, methodology page with judge validation section.
 
 Steps to resume:
-1. Deploy the frontend (Vercel or similar)
-2. Evaluate more models (Claude Sonnet, DeepSeek R1)
-3. Add Prelims years 2020-2023 (PDFs downloaded for some, not parsed)
-4. Write proper README for open source release (draft complete, finalize after deploy)
+1. Evaluate more models (Claude Sonnet, DeepSeek R1)
+2. Add Prelims years 2020-2023 (PDFs downloaded for some, not parsed)
+3. Write proper README for open source release (draft complete, finalize after deploy)
+4. Consider re-running Mains grading with question-grouped batches (per regrade plan)
 
 ---
 
@@ -51,6 +51,8 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 18. **Frontend Mains view** — ExamToggle (Prelims/Mains), MainsLeaderboard.tsx, Mains tabs (Total, Essay, GS1-4), paper breakdown
 19. **Mobile-responsive redesign** — Card layout for mobile, responsive leaderboard
 20. **Documentation update** — README rewrite, About/Methodology page with Mains methodology + FAQ
+21. **Judge calibration** — 78 coaching institute model answers (InsightsIAS) graded by same Opus judge; validated -8.8% conservative bias, 9.8% MAE; methodology page updated with validation results
+22. **Deployed** — Live on Vercel at upsc-bench.com
 
 ### What's NOT DONE:
 1. ~~Add GitHub remote and push~~ (done)
@@ -61,11 +63,19 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 6. ~~Update About/Methodology page with Mains methodology~~ (done)
 7. Evaluate more models (Claude Sonnet, DeepSeek R1)
 8. Add Prelims years 2020-2023 (PDFs downloaded for some, not parsed)
-9. Deploy frontend (Vercel)
+9. ~~Deploy frontend (Vercel)~~ (done — upsc-bench.com)
 10. ~~Write proper README for open source release~~ (draft done)
+11. ~~Judge calibration with coaching institute answers~~ (done)
 
 ## Git History
 ```
+87ad72d docs: add judge validation findings to methodology page
+a350912 feat: add judge calibration pipeline and validation results
+98302c5 Use upsc-bench.com as live link in README
+943b9f7 Remove Reducto reference and focus dataset scope on 2025
+9a29151 Reframe judge calibration design: validate accuracy, don't force-fit to human scores
+813dc13 Sync all documentation with current project state (Prelims + Mains)
+04b4c52 Add coaching calibration design doc for LLM-as-judge improvement
 b3a6533 Make leaderboard mobile-friendly with card layout and responsive polish
 abdbbf3 Add Gemini 3 Flash Mains scores via calibrated Opus solo grading
 39e9a1b Add Mains evaluation pipeline with calibrated Opus judge grading
@@ -211,6 +221,9 @@ upsc-bench/
 │   ├── generate_leaderboard.py        <- Aggregate results -> leaderboard.json
 │   ├── clean_gs1_2025.py              <- GS1 2025 data quality cleanup script
 │   ├── grade_mains.py                 <- Prepare grading input + merge grading output
+│   ├── scrape_coaching_answers.py     <- Structure raw InsightsIAS data into calibration format
+│   ├── grade_calibration.py           <- Prepare/merge calibration grading batches
+│   ├── compute_calibration_metrics.py <- Compute MAE, bias, per-paper breakdown
 │   ├── self_eval.py                   <- Self-evaluation script
 │   ├── merge_and_build.py             <- Merge + build pipeline
 │   ├── merge_answers.py               <- Answer merging utility
@@ -249,6 +262,16 @@ upsc-bench/
 ```
 
 ## Session Log (latest first)
+
+### Session 10 (2026-03-03) — Judge calibration & deployment
+- Built judge calibration pipeline: scraped 78 model answers from InsightsIAS (GS1-4) using 4 parallel subagents
+- Created scripts: `scrape_coaching_answers.py`, `grade_calibration.py`, `compute_calibration_metrics.py`
+- Graded all 78 coaching answers with 16 parallel Opus subagents (same judge prompt as AI models)
+- Calibration results: -8.8% negative bias (judge is stricter than coaching expectations), 9.8% MAE, 29.5% within expected range
+- Per-paper bias: GS1 -9.9%, GS2 -8.0%, GS3 -7.0%, GS4 -10.3%
+- Validates H1 (AI genuinely outperforms) over H2 (judge inflates LLM-style answers)
+- Updated methodology page with Judge Validation section: metrics tables, per-paper breakdown, explanation
+- Deployed to Vercel (upsc-bench.com)
 
 ### Session 9 (2026-03-03) — Documentation sync
 - Rewrote README.md: complete rewrite with actual scores, correct models (5 AI + human), both Prelims + Mains, methodology summary, setup instructions

@@ -25,10 +25,12 @@ export default function AboutPage() {
           <Section title="What is UPSC Bench?">
             <p>
               UPSC Bench is an LLM evaluation benchmark based on India&apos;s
-              UPSC Civil Services Preliminary Examination — widely regarded as
-              one of the most competitive exams in the world. It evaluates
-              whether frontier AI models can pass the same exam that millions of
-              Indian aspirants prepare years for.
+              UPSC Civil Services Examination — widely regarded as one of the
+              most competitive exams in the world. It evaluates whether frontier
+              AI models can pass both stages of the written exam: the Preliminary
+              Examination (objective MCQs) and the Main Examination (essay and
+              long-form written answers), using real questions, real marking
+              schemes, and real cutoffs.
             </p>
           </Section>
 
@@ -102,42 +104,52 @@ export default function AboutPage() {
 
           <Section title="Dataset">
             <p>
-              The benchmark covers 5 years of UPSC Prelims papers (2020–2024),
-              including both GS Paper I (General Studies, 100 questions per year)
-              and CSAT Paper II (Civil Services Aptitude Test, 80 questions per
-              year). The total dataset contains approximately 900 questions.
+              The benchmark covers two stages of the UPSC examination:
             </p>
+            <ul className="list-disc list-inside mt-3 space-y-1">
+              <li>
+                <strong style={{ color: "var(--navy)" }}>Prelims (2024 + 2025):</strong> 357 questions
+                total — 197 GS Paper I (General Studies, 100 per year) and 160 CSAT Paper II (Civil
+                Services Aptitude Test, 80 per year)
+              </li>
+              <li>
+                <strong style={{ color: "var(--navy)" }}>Mains (2025):</strong> 87 questions — 8 Essay
+                topics, 20 GS1, 20 GS2, 20 GS3, and 19 GS4 questions
+              </li>
+            </ul>
             <p className="mt-3">
-              Questions are extracted from official UPSC PDF papers using the
-              Reducto AI document parsing API, then structured into a
+              Prelims questions are extracted from official UPSC PDF papers using
+              the Reducto AI document parsing API, then structured into a
               machine-readable JSON format using LLM-assisted parsing. Answer
               keys are sourced from established coaching institutes (Vision IAS
-              and others).
+              and others). Mains questions are sourced directly from the official
+              question papers.
             </p>
           </Section>
 
-          <Section title="Scoring">
+          <Section title="Prelims Scoring">
             <p>
               We use the exact UPSC marking scheme:
             </p>
             <ul className="list-disc list-inside mt-3 space-y-1">
               <li>
                 <strong style={{ color: "var(--navy)" }}>GS Paper I:</strong> +2.0 marks per correct answer,
-                -0.66 marks per wrong answer, 0 for unanswered
+                −0.66 marks per wrong answer, 0 for unanswered
               </li>
               <li>
                 <strong style={{ color: "var(--navy)" }}>CSAT Paper II:</strong> +2.5 marks per correct answer,
-                -0.83 marks per wrong answer, 0 for unanswered
+                −0.83 marks per wrong answer, 0 for unanswered
               </li>
             </ul>
             <p className="mt-3">
               Both papers are scored out of 200 marks. GS Paper I determines
               merit ranking, while CSAT Paper II is qualifying only (minimum 33%
-              required).
+              required). The negative marking means random guessing is roughly
+              break-even — models must actually know the answer.
             </p>
           </Section>
 
-          <Section title="Grading">
+          <Section title="Prelims Grading">
             <p>
               UPSC Prelims is single-correct MCQ, so grading is deterministic —
               no LLM grader is needed. We extract the model&apos;s answer letter
@@ -148,11 +160,111 @@ export default function AboutPage() {
             </p>
           </Section>
 
+          <Section title="Mains Scoring">
+            <p>
+              The Mains evaluation tests long-form writing ability across 5 papers
+              totaling 1,250 marks:
+            </p>
+            <ul className="list-disc list-inside mt-3 space-y-1">
+              <li>
+                <strong style={{ color: "var(--navy)" }}>Essay Paper (250 marks):</strong> 8 topics in
+                two sections (A and B). Each model writes all 8 essays (up to 1,200 words each).
+                The best essay from each section is selected, mirroring actual UPSC rules.
+              </li>
+              <li>
+                <strong style={{ color: "var(--navy)" }}>GS Papers 1–4 (250 marks each):</strong> 20
+                questions per paper (10- and 15-mark questions). Each model writes 150–250 word answers.
+              </li>
+            </ul>
+
+            <h3 className="text-base font-semibold mt-6 mb-2" style={{ color: "var(--navy)" }}>
+              Grading Rubric
+            </h3>
+            <p>
+              All answers are graded by a calibrated LLM judge (Claude Opus 4.6) using a
+              5-dimension rubric:
+            </p>
+            <div className="mt-4 glass-card overflow-hidden">
+              <table className="w-full text-sm border-collapse">
+                <thead>
+                  <tr style={{ borderBottom: "2px solid rgba(26, 17, 69, 0.1)" }}>
+                    <th className="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      Dimension
+                    </th>
+                    <th className="px-4 py-3 text-right text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      GS Weight
+                    </th>
+                    <th className="px-4 py-3 text-right text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      Essay Weight
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {[
+                    { dim: "Content Accuracy / Breadth", gs: "40%", essay: "30%" },
+                    { dim: "Structure & Flow", gs: "20%", essay: "20%" },
+                    { dim: "Depth & Examples", gs: "20%", essay: "20%" },
+                    { dim: "Analytical Depth", gs: "10%", essay: "20%" },
+                    { dim: "Presentation", gs: "10%", essay: "10%" },
+                  ].map((row) => (
+                    <tr
+                      key={row.dim}
+                      className="leaderboard-row"
+                      style={{ borderBottom: "1px solid rgba(26, 17, 69, 0.06)" }}
+                    >
+                      <td className="px-4 py-3 font-medium" style={{ color: "var(--navy)" }}>{row.dim}</td>
+                      <td className="px-4 py-3 text-right">{row.gs}</td>
+                      <td className="px-4 py-3 text-right">{row.essay}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+
+            <h3 className="text-base font-semibold mt-6 mb-2" style={{ color: "var(--navy)" }}>
+              Debiasing & Calibration
+            </h3>
+            <p>
+              To ensure fair and realistic grading, the judge uses several debiasing measures:
+            </p>
+            <ul className="list-disc list-inside mt-3 space-y-2">
+              <li>
+                <strong style={{ color: "var(--navy)" }}>Blind grading:</strong> Model names are hidden
+                from the judge. Candidates are labeled A, B, C, D, E.
+              </li>
+              <li>
+                <strong style={{ color: "var(--navy)" }}>Shuffled order:</strong> Candidate order is
+                randomized with a fixed seed per question for reproducibility.
+              </li>
+              <li>
+                <strong style={{ color: "var(--navy)" }}>Comparative format:</strong> All candidates&apos;
+                answers for the same question are graded in a single prompt, forcing the judge
+                to differentiate rather than grade in isolation.
+              </li>
+              <li>
+                <strong style={{ color: "var(--navy)" }}>UPSC-calibrated score anchors:</strong> The judge
+                prompt includes explicit scoring guidelines calibrated to real UPSC grading standards:
+              </li>
+            </ul>
+            <div className="mt-3 ml-6 p-4 rounded-lg text-sm space-y-1" style={{ backgroundColor: "rgba(26, 17, 69, 0.03)", borderLeft: "3px solid var(--navy)" }}>
+              <p><strong style={{ color: "var(--navy)" }}>&lt;30%</strong> — Irrelevant, factually wrong, or off-topic</p>
+              <p><strong style={{ color: "var(--navy)" }}>30–45%</strong> — Partially relevant but shallow, missing key points</p>
+              <p><strong style={{ color: "var(--navy)" }}>45–55%</strong> — Adequate. This is the median for serious Mains candidates.</p>
+              <p><strong style={{ color: "var(--navy)" }}>55–65%</strong> — Good. Well-structured with relevant examples.</p>
+              <p><strong style={{ color: "var(--navy)" }}>65–75%</strong> — Excellent. Exceptional depth and analysis.</p>
+              <p><strong style={{ color: "var(--navy)" }}>&gt;75%</strong> — Near-perfect. Almost never awarded in real UPSC grading.</p>
+            </div>
+          </Section>
+
           <Section title="Pass / Fail Criteria">
+            <h3 className="text-base font-semibold mb-2" style={{ color: "var(--navy)" }}>
+              Prelims
+            </h3>
             <p>
               Each model&apos;s GS Paper I score is compared against the actual
-              UPSC General category cutoff for that year. These cutoffs vary
-              year-to-year based on exam difficulty:
+              UPSC General category cutoff for that year. CSAT requires a minimum
+              of 66/200 (33%) to qualify. These cutoffs vary year-to-year based
+              on exam difficulty:
             </p>
             <div className="mt-4 glass-card overflow-hidden">
               <table className="w-full text-sm border-collapse">
@@ -171,8 +283,9 @@ export default function AboutPage() {
                 </thead>
                 <tbody>
                   {[
-                    { year: 2024, gs1: 93.34, csat: 66 },
-                    { year: 2023, gs1: 91.09, csat: 66 },
+                    { year: 2025, gs1: 90.00, csat: 66 },
+                    { year: 2024, gs1: 87.98, csat: 66 },
+                    { year: 2023, gs1: 75.41, csat: 66 },
                     { year: 2022, gs1: 87.54, csat: 66 },
                     { year: 2021, gs1: 87.54, csat: 66 },
                     { year: 2020, gs1: 92.51, csat: 66 },
@@ -190,52 +303,124 @@ export default function AboutPage() {
                 </tbody>
               </table>
             </div>
+
+            <h3 className="text-base font-semibold mt-6 mb-2" style={{ color: "var(--navy)" }}>
+              Mains
+            </h3>
+            <p>
+              The Mains cutoff is proportionally derived from the real UPSC written exam cutoff.
+              UPSC publishes a combined cutoff for all written papers (Essay + GS1-4 + Optional = 1,750 marks).
+              Since we exclude the Optional paper, we scale proportionally: an approximate cutoff of
+              800/1,750 becomes 571/1,250. A model passes Mains if its total score across 5 papers
+              exceeds this threshold.
+            </p>
           </Section>
 
           <Section title="Models Evaluated">
             <ul className="list-disc list-inside mt-2 space-y-1">
-              <li>Claude Opus 4 (Anthropic)</li>
-              <li>Claude Sonnet 4 (Anthropic)</li>
-              <li>GPT-4o (OpenAI)</li>
-              <li>Gemini 2.5 Pro (Google)</li>
-              <li>Gemini 2.0 Flash (Google)</li>
-              <li>DeepSeek R1 (DeepSeek)</li>
+              <li>GPT-5.2 (OpenAI)</li>
+              <li>Claude Opus 4.6 (Anthropic)</li>
+              <li>Gemini 3.1 Pro (Google)</li>
+              <li>Gemini 3 Flash (Google)</li>
+              <li>Gemini 2.5 Flash (Google)</li>
             </ul>
             <p className="mt-3">
+              <strong style={{ color: "var(--navy)" }}>Human reference:</strong> Shakti Dubey,
+              CSE 2024 AIR 1. Mains score proportionally estimated at 602/1,250
+              (from 843/1,750 total written marks). UPSC does not publish paper-wise
+              marks, so this is a uniform estimate across all papers.
+            </p>
+            <p className="mt-3">
               All models are evaluated with temperature 0 for maximum
-              determinism. Models with vision capabilities receive actual
-              question images; text-only models receive image descriptions as
-              text fallback.
+              determinism. All models evaluated via the OpenRouter API.
             </p>
           </Section>
 
-          <Section title="Multimodal Support">
-            <p>
-              Some UPSC questions include maps, diagrams, or charts. For models
-              that support vision (all except DeepSeek R1), actual images
-              extracted from the PDFs are sent as base64-encoded inputs. For
-              text-only models, we provide descriptive text about the image
-              content.
-            </p>
+          <Section title="Questions & Answers">
+            <div className="space-y-6">
+              <QA question="Why use an LLM to judge LLM answers?">
+                <p>
+                  Mains has no answer key — UPSC publishes questions but not model answers.
+                  Human grading would be ideal but is prohibitively expensive at scale (87 questions
+                  &times; 5 models = 435 answers to grade). LLM-as-judge is the practical alternative,
+                  and we mitigate its weaknesses through comparative grading (forcing differentiation),
+                  UPSC-calibrated score anchors (preventing score inflation), blind evaluation (preventing
+                  model favoritism), and fixed-seed shuffling (ensuring reproducibility).
+                </p>
+              </QA>
+
+              <QA question="How reliable is LLM-as-judge grading?">
+                <p>
+                  The comparative format is key — grading all candidates for the same question in a
+                  single prompt forces the judge to make relative distinctions rather than assigning
+                  generous scores in isolation. The UPSC-calibrated anchors prevent the common failure
+                  mode of LLM judges scoring everything above 80%. The fixed seed ensures the same
+                  grading run produces the same results.
+                </p>
+              </QA>
+
+              <QA question="Why do AI models outscore the human reference on Mains?">
+                <p>
+                  Three factors: (1) The human score is a proportional estimate — UPSC publishes total
+                  written marks (843/1,750 for AIR 1) but not paper-wise breakdowns, so we distribute
+                  evenly across papers. The real distribution is likely uneven. (2) AI models write
+                  verbose, well-structured answers that score well on rubric dimensions like &quot;Structure
+                  &amp; Flow&quot; and &quot;Presentation&quot; — but real UPSC grading may value
+                  conciseness and handwriting quality differently. (3) The benchmark excludes the Optional
+                  paper (250 marks) and Interview (275 marks), which are part of the full selection process.
+                </p>
+              </QA>
+
+              <QA question="What about the Interview stage?">
+                <p>
+                  Not evaluated. The UPSC personality test is a 275-mark interview conducted by a
+                  board of senior civil servants. It assesses personality, communication, and
+                  situational judgment — qualities that require physical presence and real-time
+                  interaction. This is fundamentally different from a text-based benchmark.
+                </p>
+              </QA>
+
+              <QA question="Can I add my own model?">
+                <p>
+                  Yes. Create a config YAML in <code className="text-xs px-1 py-0.5 rounded" style={{ backgroundColor: "rgba(26,17,69,0.06)" }}>config/</code> specifying
+                  the model name, provider, and parameters. Run the Prelims benchmark with{" "}
+                  <code className="text-xs px-1 py-0.5 rounded" style={{ backgroundColor: "rgba(26,17,69,0.06)" }}>python benchmark/runner.py --config config/your_model.yaml</code>{" "}
+                  and the Mains benchmark with{" "}
+                  <code className="text-xs px-1 py-0.5 rounded" style={{ backgroundColor: "rgba(26,17,69,0.06)" }}>python -m benchmark.mains_runner --config config/mains_your_model.yaml</code>.
+                  Then regenerate the leaderboard.
+                </p>
+              </QA>
+            </div>
           </Section>
 
           <Section title="Limitations">
-            <ul className="list-disc list-inside mt-2 space-y-1">
+            <ul className="list-disc list-inside mt-2 space-y-2">
               <li>
-                Answer keys from coaching institutes may have errors,
-                particularly for disputed questions
+                <strong style={{ color: "var(--navy)" }}>LLM-as-judge bias:</strong> The Mains judge
+                (Claude Opus 4.6) may have systematic biases — e.g., preferring verbose answers,
+                favoring certain writing styles, or having blind spots on India-specific cultural context.
+                Comparative grading and score anchors mitigate but don&apos;t eliminate this.
               </li>
               <li>
-                PDF extraction may introduce artifacts in question text or miss
-                complex formatting
+                <strong style={{ color: "var(--navy)" }}>Human reference is estimated:</strong> The
+                Mains human reference score (Shakti Dubey, AIR 1) is proportionally scaled from
+                total written marks. The actual paper-wise distribution is unknown and likely uneven.
               </li>
               <li>
-                CSAT Paper II includes comprehension passages — the full passage
-                context is provided but may lose formatting nuances
+                <strong style={{ color: "var(--navy)" }}>Optional paper excluded:</strong> Real UPSC
+                Mains includes an Optional subject paper (250 marks). Our benchmark covers Essay + GS1-4
+                only (1,250 of 1,750 written marks).
               </li>
               <li>
-                This benchmark only covers Prelims (MCQ). The UPSC Mains
-                (descriptive essays) and Interview stages are not evaluated
+                Answer keys from coaching institutes may have errors, particularly for
+                disputed Prelims questions
+              </li>
+              <li>
+                PDF extraction may introduce artifacts in question text or miss complex formatting
+              </li>
+              <li>
+                CSAT Paper II includes comprehension passages — the full passage context is provided
+                but may lose formatting nuances
               </li>
             </ul>
           </Section>
@@ -267,5 +452,24 @@ function Section({
       </h2>
       {children}
     </section>
+  );
+}
+
+function QA({
+  question,
+  children,
+}: {
+  question: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <div>
+      <h4 className="font-semibold mb-1" style={{ color: "var(--navy)" }}>
+        {question}
+      </h4>
+      <div style={{ color: "rgba(26,17,69,0.7)" }}>
+        {children}
+      </div>
+    </div>
   );
 }

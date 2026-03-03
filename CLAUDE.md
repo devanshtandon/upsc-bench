@@ -1,23 +1,22 @@
 # UPSC Bench — Project State & Instructions
 
 ## RESUME HERE — Immediate Next Action
-**Run the Mains evaluation pipeline, then deploy.**
+**Deploy to Vercel, then expand coverage.**
 
-Prelims is complete and polished: 4 models, 2024+2025, cleaned GS1 2025 data, interactive quiz feature. The Mains pipeline is built but not yet run. Next steps:
+Both Prelims and Mains are complete: 5 AI models + human reference, 2024+2025 Prelims, 2025 Mains, mobile-responsive frontend with Prelims/Mains toggle, interactive quiz, full methodology page. Documentation is up to date.
 
 Steps to resume:
-1. Run the Mains benchmark: `python -m benchmark.mains_runner --config config/mains_claude_opus.yaml` (repeat for each model)
-2. Grade all Mains answers using in-session parallel subagents (Claude Code as judge)
-3. Generate updated leaderboard with Mains results
-4. Build frontend Mains view (ExamToggle, Mains tabs, rubric breakdown)
-5. Deploy the frontend (Vercel or similar)
+1. Deploy the frontend (Vercel or similar)
+2. Evaluate more models (Claude Sonnet, DeepSeek R1)
+3. Add Prelims years 2020-2023 (PDFs downloaded for some, not parsed)
+4. Write proper README for open source release (draft complete, finalize after deploy)
 
 ---
 
 ## Project Overview
 UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services Examination — both the Preliminary (objective MCQ) and Mains (subjective essay/long-form) stages. It evaluates whether frontier AI models can pass the same exam that millions of Indian aspirants prepare years for. The project has a Python backend (data pipeline + evaluation harness) and a Next.js frontend (leaderboard website).
 
-## Current Status: Phase 5 — Mains Evaluation
+## Current Status: Phase 6 — Deployment & Expansion
 
 ### What's DONE:
 1. **Project structure** — All directories, pyproject.toml, .gitignore, .env.example, README.md
@@ -31,8 +30,9 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
    - `data/answer_keys/csat_2025.json` — 80 questions
 6. **Parsed questions** — `data/processed/upsc_bench.json` — 357 questions total (197 GS1, 160 CSAT across 2024+2025)
    - GS1 2025 data cleaned: fixed word-per-line formatting, III→Ill/m corruption, garbage text, OCR artifacts (90/100 questions affected)
-7. **Benchmark results** — 4 models evaluated on 2024+2025: GPT-5.2, Gemini 3.1 Pro, Claude Opus 4.6, Gemini 2.5 Flash
+7. **Benchmark results** — 5 models evaluated: GPT-5.2, Gemini 3.1 Pro, Claude Opus 4.6, Gemini 2.5 Flash, Gemini 3 Flash
    - GS1 2025 re-run on cleaned data: all models improved (+3 to +19 marks)
+   - Gemini 3 Flash added: rank #1 Prelims (86.83% accuracy, GS1 avg 157.10)
 8. **Real leaderboard data** — `results/leaderboard.json` and `web/data/leaderboard.json` with actual scores, estimated AIR, pass/fail
 9. **Next.js frontend** — Fully built, `npm run build` passes cleanly
    - Leaderboard with score bars, breakdown grid, estimated AIR, cutoff rows
@@ -45,21 +45,33 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 12. **Prelims ranking fix** — Renamed "Overall" → "Prelims Score", rank by GS1 marks with CSAT as pass/fail qualifier, CSAT badge under score, fixed cutoff row
 13. **Mains pipeline** — `benchmark/mains_solver.py`, `mains_scorer.py`, `mains_runner.py`, DB schema, grading infrastructure, model configs
 14. **Mains question data** — `data/mains_questions/mains_2025.json` — 2025 Mains questions (Essay + GS1-4)
+15. **Mains benchmark run** — All 5 models answered 87 Mains questions, graded by calibrated Claude Opus judge
+16. **Mains leaderboard** — GPT-5.2 #1 (897.25/1250), Gemini 3.1 Pro #2, Claude Opus #3, Gemini 3 Flash #4, Gemini 2.5 Flash #5
+17. **Human reference** — Shakti Dubey (CSE 2024 AIR 1) added as Mains baseline (602.14/1250 estimated)
+18. **Frontend Mains view** — ExamToggle (Prelims/Mains), MainsLeaderboard.tsx, Mains tabs (Total, Essay, GS1-4), paper breakdown
+19. **Mobile-responsive redesign** — Card layout for mobile, responsive leaderboard
+20. **Documentation update** — README rewrite, About/Methodology page with Mains methodology + FAQ
 
 ### What's NOT DONE:
 1. ~~Add GitHub remote and push~~ (done)
-2. Run Mains benchmark (all 4 models answer Mains 2025 questions)
-3. Grade Mains answers via in-session parallel subagents
-4. Generate Mains leaderboard results
-5. Frontend: ExamToggle (Prelims/Mains), Mains tabs, rubric breakdown
-6. Update About/Methodology page with Mains methodology
+2. ~~Run Mains benchmark (all 5 models answer Mains 2025 questions)~~ (done)
+3. ~~Grade Mains answers via calibrated Opus judge~~ (done)
+4. ~~Generate Mains leaderboard results~~ (done)
+5. ~~Frontend: ExamToggle (Prelims/Mains), Mains tabs, rubric breakdown~~ (done)
+6. ~~Update About/Methodology page with Mains methodology~~ (done)
 7. Evaluate more models (Claude Sonnet, DeepSeek R1)
 8. Add Prelims years 2020-2023 (PDFs downloaded for some, not parsed)
 9. Deploy frontend (Vercel)
-10. Write proper README for open source release
+10. ~~Write proper README for open source release~~ (draft done)
 
 ## Git History
 ```
+b3a6533 Make leaderboard mobile-friendly with card layout and responsive polish
+abdbbf3 Add Gemini 3 Flash Mains scores via calibrated Opus solo grading
+39e9a1b Add Mains evaluation pipeline with calibrated Opus judge grading
+ecc7bfc Add Mains UI components and types needed for page build
+f11ca5d Default to Prelims tab until Mains data is populated
+84ce865 Add Gemini 3 Flash Preview to benchmark (rank #1, 86.83% accuracy)
 bdf732a Update CLAUDE.md: checkpoint after quiz and data cleanup session
 da3c5f1 Add interactive quiz and fix GitHub link in footer
 6b7ec54 Fix GS1 2025 data quality and re-run all model benchmarks
@@ -88,13 +100,16 @@ Branch: `main`
   - Each question: `{id, year, paper, question_number, question_text, options, has_image, image_paths, image_description, correct_answer, marks_correct, marks_wrong, marks_unanswered}`
 
 ### Benchmark Results (leaderboard.json)
-4 models evaluated via OpenRouter:
+5 models evaluated via OpenRouter:
 - `openrouter/openai/gpt-5.2`
 - `openrouter/google/gemini-3.1-pro-preview`
 - `openrouter/anthropic/claude-opus-4.6`
 - `openrouter/google/gemini-2.5-flash`
+- `openrouter/google/gemini-3-flash-preview`
 
-Years: 2024, 2025 | Papers: GS1, CSAT
+Human reference: `human/shakti_dubey_2024` (CSE 2024 AIR 1)
+
+Years: 2024, 2025 | Papers: GS1, CSAT (Prelims), Essay + GS1-4 (Mains)
 
 ### Downloaded PDFs (gitignored)
 | File | Size | Source | Status |
@@ -216,7 +231,8 @@ upsc-bench/
     │   │   └── quiz/page.tsx          <- Interactive 5-question quiz
     │   ├── components/
     │   │   ├── Header.tsx             <- SVG Ashoka Chakra + title + stats
-    │   │   ├── Leaderboard.tsx        <- Ranking table with cutoff rows
+    │   │   ├── Leaderboard.tsx        <- Prelims ranking table with cutoff rows
+    │   │   ├── MainsLeaderboard.tsx   <- Mains ranking table with paper breakdown
     │   │   ├── ScoreChart.tsx         <- Recharts bar chart
     │   │   ├── YearSelector.tsx       <- Year filter pills
     │   │   ├── PaperTabs.tsx          <- Paper type toggle
@@ -233,6 +249,23 @@ upsc-bench/
 ```
 
 ## Session Log (latest first)
+
+### Session 9 (2026-03-03) — Documentation sync
+- Rewrote README.md: complete rewrite with actual scores, correct models (5 AI + human), both Prelims + Mains, methodology summary, setup instructions
+- Rewrote About/Methodology page: added Mains Scoring section (rubric table, debiasing, score anchors), Q&A/FAQ section (5 questions), fixed cutoff table (2024: 87.98 not 93.34, added 2025: 90.00), updated Dataset/Models/Limitations sections
+- Added QA helper component to about/page.tsx for FAQ rendering
+- Updated CLAUDE.md: session log, moved 6 items from NOT DONE to DONE, updated file map, models list, git history, RESUME HERE
+
+### Session 8 (2026-03-02–03) — Mains pipeline run + frontend + mobile
+- Ran Mains benchmark: all 5 models answered 87 Mains 2025 questions via OpenRouter
+- Graded all answers using calibrated Claude Opus judge with comparative, blind, shuffled grading
+- Added Gemini 3 Flash to benchmark (rank #1 Prelims, 86.83% accuracy)
+- Added human reference: Shakti Dubey CSE 2024 AIR 1 (602.14/1250 estimated Mains score)
+- Built MainsLeaderboard.tsx with paper breakdown tabs (Total, Essay, GS1-4)
+- Added ExamToggle (Prelims/Mains) to main page
+- Made leaderboard mobile-friendly: card layout on small screens, responsive polish
+- Updated leaderboard.json with Mains scores for all models
+- Key Mains results: GPT-5.2 #1 (897.25/1250, 71.8%), Gemini 3.1 Pro #2 (865.12), Claude Opus #3 (828.44), Gemini 3 Flash #4 (780.90), Gemini 2.5 Flash #5 (735.80)
 
 ### Session 7 (2026-03-02) — GS1 2025 data cleanup + benchmark re-runs
 - Created `scripts/clean_gs1_2025.py`: targeted cleanup for GS1 2025 PDF parsing artifacts

@@ -103,6 +103,33 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Quiz callout */}
+        <div
+          className="mb-12 p-5 rounded-xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 animate-fade-in-up"
+          style={{
+            backgroundColor: "rgba(255,153,51,0.05)",
+            border: "1px solid rgba(255,153,51,0.15)",
+            animationDelay: "700ms",
+          }}
+        >
+          <div>
+            <h3 className="text-sm font-semibold mb-1" style={{ color: "var(--navy)" }}>
+              Test yourself
+            </h3>
+            <p className="text-sm leading-relaxed" style={{ color: "rgba(26,17,69,0.6)" }}>
+              Try 5 real GS Paper I questions from the 2025 exam. Get instant feedback,
+              see your extrapolated score, and find out where you&apos;d rank among AI models.
+            </p>
+          </div>
+          <a
+            href="/quiz"
+            className="flex-shrink-0 px-5 py-2.5 rounded-lg text-sm font-semibold transition-colors"
+            style={{ backgroundColor: "var(--saffron)", color: "#fff" }}
+          >
+            Take the quiz
+          </a>
+        </div>
+
         {/* Marking Scheme */}
         <section className="mb-12 animate-fade-in-up" style={{ animationDelay: "300ms" }}>
           <h2 className="section-title text-3xl font-bold mb-8">

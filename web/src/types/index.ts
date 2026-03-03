@@ -60,3 +60,20 @@ export interface LeaderboardData {
 
 export type Paper = "gs1" | "csat" | "overall";
 export type Year = number | "all";
+
+// Raw question from upsc_bench.json
+export interface RawQuestion {
+  id: string;
+  year: number;
+  paper: string;
+  question_number: number;
+  question_text: string;
+  options: { a: string; b: string; c: string; d: string };
+  has_image: boolean;
+  image_paths: string[];
+  image_description: string;
+  correct_answer: string;
+  marks_correct: number;
+  marks_wrong: number;
+  marks_unanswered: number;
+}

@@ -23,6 +23,14 @@ export default function Footer() {
         </p>
         <div className="flex items-center justify-center gap-6 text-sm">
           <a
+            href="/quiz"
+            className="font-medium transition-colors hover:text-[var(--saffron)]"
+            style={{ color: "var(--navy)" }}
+          >
+            Quiz
+          </a>
+          <span style={{ color: "rgba(26,17,69,0.15)" }}>|</span>
+          <a
             href="/about"
             className="font-medium transition-colors hover:text-[var(--saffron)]"
             style={{ color: "var(--navy)" }}
@@ -31,7 +39,7 @@ export default function Footer() {
           </a>
           <span style={{ color: "rgba(26,17,69,0.15)" }}>|</span>
           <a
-            href="https://github.com"
+            href="https://github.com/devanshtandon/upsc-bench"
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium transition-colors hover:text-[var(--saffron)]"

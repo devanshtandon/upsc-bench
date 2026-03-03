@@ -1,0 +1,50 @@
+{
+  "2025": {
+    "total_appeared": 650000,
+    "mains_qualified": 14500,
+    "cutoff_general": 90.0,
+    "estimated_topper": 165,
+    "source": "Estimated based on 2024 data (official 2025 cutoff not yet published)",
+    "distribution": [
+      {"score": 165, "rank": 5},
+      {"score": 160, "rank": 20},
+      {"score": 155, "rank": 60},
+      {"score": 150, "rank": 150},
+      {"score": 145, "rank": 350},
+      {"score": 140, "rank": 750},
+      {"score": 135, "rank": 1500},
+      {"score": 130, "rank": 2750},
+      {"score": 125, "rank": 4500},
+      {"score": 120, "rank": 6750},
+      {"score": 115, "rank": 9250},
+      {"score": 110, "rank": 11500},
+      {"score": 105, "rank": 13000},
+      {"score": 100, "rank": 14000},
+      {"score": 90.0, "rank": 14500}
+    ]
+  },
+  "2024": {
+    "total_appeared": 600000,
+    "mains_qualified": 14000,
+    "cutoff_general": 87.98,
+    "estimated_topper": 165,
+    "source": "PW Only IAS, ForumIAS, coaching institute estimates",
+    "distribution": [
+      {"score": 165, "rank": 5},
+      {"score": 160, "rank": 20},
+      {"score": 155, "rank": 60},
+      {"score": 150, "rank": 150},
+      {"score": 145, "rank": 350},
+      {"score": 140, "rank": 750},
+      {"score": 135, "rank": 1500},
+      {"score": 130, "rank": 2750},
+      {"score": 125, "rank": 4500},
+      {"score": 120, "rank": 6750},
+      {"score": 115, "rank": 9250},
+      {"score": 110, "rank": 11500},
+      {"score": 105, "rank": 13000},
+      {"score": 100, "rank": 14000},
+      {"score": 87.98, "rank": 14000}
+    ]
+  }
+}

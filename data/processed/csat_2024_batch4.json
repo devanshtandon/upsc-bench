@@ -1,0 +1,182 @@
+[
+  {
+    "question_number": 66,
+    "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nQuestion :\nIf the average marks in a class are 60, then what is the number of students in the class?\n\nStatement-I :\nThe highest marks in the class are 70 and the lowest marks are 50.\n\nStatement-II :\nExclusion of highest and lowest marks from the class does not change the average.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "options": {
+      "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+      "b": "The Question can be answered by using either Statement alone",
+      "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+      "d": "The Question cannot be answered even by using both the Statements together"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 67,
+    "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nThere are three distinct prime numbers whose sum is a prime number.\n\nQuestion :\nWhat are those three numbers?\n\nStatement-I : Their sum is less than 23.\n\nStatement-II : One of the numbers is 5.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "options": {
+      "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+      "b": "The Question can be answered by using either Statement alone",
+      "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+      "d": "The Question cannot be answered even by using both the Statements together"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 68,
+    "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nQuestion : Is (x + y) an integer?\n\nStatement-I : (2x + y) is an integer.\n\nStatement-II : (x + 2y) is an integer.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "options": {
+      "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+      "b": "The Question can be answered by using either Statement alone",
+      "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+      "d": "The Question cannot be answered even by using both the Statements together"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 69,
+    "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nA person buys three articles p, q and r for \u20b950. The price of the article q is \u20b916 which is the least.\n\nQuestion :\nWhat is the price of the article p?\n\nStatement-I :\nThe cost of p is not more than that of r.\n\nStatement-II :\nThe cost of r is not more than that of p.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "options": {
+      "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+      "b": "The Question can be answered by using either Statement alone",
+      "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+      "d": "The Question cannot be answered even by using both the Statements together"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 70,
+    "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nP, Q, R and S appeared in a test.\n\nQuestion :\nHas P scored more marks than Q?\n\nStatement-I :\nThe sum of the marks scored by P and Q is equal to the sum of the marks scored by R and S.\n\nStatement-II :\nThe sum of the marks scored by P and S is more than the sum of the marks scored by Q and R.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "options": {
+      "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+      "b": "The Question can be answered by using either Statement alone",
+      "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+      "d": "The Question cannot be answered even by using both the Statements together"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 71,
+    "question_text": "Directions for the following 2 (two) items :\nRead the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage-1\nUnlike religion and science, poetry does not posit or expect any belief in absolute truths. Those forces or individuals who claim to have absolute truths in their grasp tend to turn dictatorial and tyrannical. Truth usually does not admit any contradictions or imperfections. It is unitarian. It is, therefore, not of much use for poetry. Poetry abides by the plurality of life and existence. Perhaps poetry follows reality which is plural, anachronistic, full of contradictions. Against the tyranny of truth, poetry remains a partisan of democratic reality. Against the arrogance of power, wealth and hierarchy, poetry proposes both humility and defiance.\n\nWhich one of the following statements best reflects the most logical and rational message conveyed by the above passage?",
+    "options": {
+      "a": "It is the poetry, not science or religion, which recognizes and accepts imperfections in humans.",
+      "b": "Truth is revealed through science or religion and poetry is anathema to truth.",
+      "c": "Poetry is romantic, imaginary and is about feeling whereas science and religion are about truth.",
+      "d": "In a world of violence, tyranny and bigotry, poetry is a form of dynamic resistance."
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 72,
+    "question_text": "Directions for the following 2 (two) items :\nRead the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage-2\nThe flower was not invented to please us. It flaunted its petals and spread its perfume to attract an insect. The insect carries the pollen from flower to flower so that pollen is not carried away by wind and thus not wasted. What we call a flower's beauty is merely a by-product and a human invention. The perfume is not there to please us, it pleases us because it is there and we have been conditioned to it.\n\nBased on the above passage, the following assumptions have been made :\n\n1. The author of the passage believes that flowers are creations of Nature's luxury.\n\n2. The author of the passage does not believe in the usefulness of flowers except as things of beauty.\n\nWhich of the assumptions given above is/are valid?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 73,
+    "question_text": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nAge of each of P and Q is less than 100 years but more than 10 years. If you interchange the digits of the age of P, the number represents the age of Q.\n\nQuestion :\nWhat is the difference of their ages?\n\nStatement-I :\nThe age of P is greater than the age of Q.\n\nStatement-II :\nThe sum of their ages is 11/6 times their difference.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "options": {
+      "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+      "b": "The Question can be answered by using either Statement alone",
+      "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+      "d": "The Question cannot be answered even by using both the Statements together"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 74,
+    "question_text": "A Main Statement is followed by four Statements labelled P, Q, R and S. Choose the ordered pair of the Statements where the first Statement implies the second, and the two Statements are logically consistent with the Main Statement.\n\nMain Statement :\nPradeep becomes either a Director or a Producer.\n\nStatement P : Pradeep is a Director.\n\nStatement Q : Pradeep is a Producer.\n\nStatement R : Pradeep is not a Director.\n\nStatement S : Pradeep is not a Producer.\n\nSelect the correct answer.",
+    "options": {
+      "a": "SP only",
+      "b": "RQ only",
+      "c": "Both SP and RQ",
+      "d": "Neither SP nor RQ"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 75,
+    "question_text": "If a + b means a - b; a - b means a \u00d7 b; a \u00d7 b means a + b; a \u00f7 b means a + b, then what is the value of 10 + 30 - 100 \u00d7 50 \u00f7 25? (Operations are to be replaced simultaneously)",
+    "options": {
+      "a": "15",
+      "b": "0",
+      "c": "-15",
+      "d": "-25"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 76,
+    "question_text": "If P means 'greater than (>)'; Q means 'less than (<)'; R means 'not greater than (\u2264)'; S means 'not less than (\u2265)' and T means 'equal to (=)', then consider the following statements :\n\n1. If 2x(S)3y and 3x(T)4z, then 9y(P)8z.\n\n2. If x(Q)2y and y(R)z, then x(R)z.\n\nWhich of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 77,
+    "question_text": "If in a certain code, 'ABCD' is written as 24 and 'EFGH' is written as 1680, then how is 'IJKL' written in that code?",
+    "options": {
+      "a": "11880",
+      "b": "11240",
+      "c": "7920",
+      "d": "5940"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 78,
+    "question_text": "If in a certain code, 'POT' is written as ATOP and 'TRAP' is written as APART, then how is 'ARENA' written in that code?",
+    "options": {
+      "a": "AARENA",
+      "b": "AANREA",
+      "c": "AANEAR",
+      "d": "AANERA"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 79,
+    "question_text": "What will come in place of * in the sequence 3, 14, 39, 84, *, 258?",
+    "options": {
+      "a": "150",
+      "b": "155",
+      "c": "160",
+      "d": "176"
+    },
+    "has_image": false,
+    "image_description": ""
+  },
+  {
+    "question_number": 80,
+    "question_text": "In some code, letters P, Q, R, S, T represent numbers 4, 5, 10, 12, 15. It is not known which letter represents which number. If Q - S = 2S and T = R + S + 3, then what is the value of P + R - T?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "Cannot be determined due to insufficient data"
+    },
+    "has_image": false,
+    "image_description": ""
+  }
+]

@@ -11,6 +11,7 @@ venv/
 
 # Data (raw PDFs are large)
 data/pdfs/
+data/answer_keys/pdfs/
 
 # Database
 db/*.db
@@ -24,6 +25,7 @@ db/*.db
 Thumbs.db
 
 # Node (web/)
+.next/
 web/node_modules/
 web/.next/
 web/out/

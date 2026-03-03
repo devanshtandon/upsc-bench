@@ -3,11 +3,14 @@
 # GS Paper I is out of 200, CSAT Paper II qualifying at 33%
 
 cutoffs:
+  2025:
+    gs1: 90.0  # Estimated (official cutoff not yet announced as of Mar 2026)
+    csat_qualifying: 66  # 33% of 200
   2024:
-    gs1: 93.34
+    gs1: 87.98  # Official UPSC cutoff (source: pwonlyias.com)
     csat_qualifying: 66  # 33% of 200
   2023:
-    gs1: 91.09
+    gs1: 75.41  # Official (source: pwonlyias.com)
     csat_qualifying: 66
   2022:
     gs1: 87.54

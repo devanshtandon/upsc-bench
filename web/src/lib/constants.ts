@@ -30,5 +30,5 @@ export const MODEL_COLORS: Record<string, string> = {
 export const PAPER_LABELS: Record<string, string> = {
   gs1: "GS Paper I",
   csat: "CSAT Paper II",
-  overall: "Overall",
+  overall: "Prelims Score",
 };

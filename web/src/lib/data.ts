@@ -1,5 +1,5 @@
 import leaderboardJson from "../../data/leaderboard.json";
-import type { LeaderboardData, ModelEntry, Paper, Year, PaperScore } from "../types";
+import type { LeaderboardData, ModelEntry, Paper, Year } from "../types";
 
 export function getLeaderboardData(): LeaderboardData {
   return leaderboardJson as LeaderboardData;
@@ -23,18 +23,15 @@ export function getFilteredModels(
       })
       .map((m, i) => ({ ...m, rank: i + 1 }));
   } else if (year !== "all") {
-    // Specific year, overall (sum both papers)
+    // Specific year, overall = Prelims Rank: sort by GS1 marks, CSAT-fail models last
     models = models
       .sort((a, b) => {
-        const aMarks = Object.values(a.yearly[year] ?? {}).reduce(
-          (sum: number, s) => sum + (s as PaperScore).marks,
-          0
-        );
-        const bMarks = Object.values(b.yearly[year] ?? {}).reduce(
-          (sum: number, s) => sum + (s as PaperScore).marks,
-          0
-        );
-        return bMarks - aMarks;
+        const aCsatPass = (a.yearly[year]?.csat?.passed) ? 1 : 0;
+        const bCsatPass = (b.yearly[year]?.csat?.passed) ? 1 : 0;
+        if (aCsatPass !== bCsatPass) return bCsatPass - aCsatPass;
+        const aGs1 = a.yearly[year]?.gs1?.marks ?? 0;
+        const bGs1 = b.yearly[year]?.gs1?.marks ?? 0;
+        return bGs1 - aGs1;
       })
       .map((m, i) => ({ ...m, rank: i + 1 }));
   } else if (paper !== "overall") {
@@ -47,14 +44,13 @@ export function getFilteredModels(
       })
       .map((m, i) => ({ ...m, rank: i + 1 }));
   } else {
-    // All years + overall: rank by overall accuracy
+    // All years + overall: rank by GS1 avg marks, CSAT-fail models last
     models = models
       .sort((a, b) => {
-        const aAcc = a.overall.accuracy;
-        const bAcc = b.overall.accuracy;
-        if (bAcc !== aAcc) return bAcc - aAcc;
-        // Tiebreaker: average combined marks across years
-        return getAllYearsOverallMarks(b) - getAllYearsOverallMarks(a);
+        const aCsatPass = a.overall.csat_all_years_pass ? 1 : 0;
+        const bCsatPass = b.overall.csat_all_years_pass ? 1 : 0;
+        if (aCsatPass !== bCsatPass) return bCsatPass - aCsatPass;
+        return b.overall.gs1_avg_marks - a.overall.gs1_avg_marks;
       })
       .map((m, i) => ({ ...m, rank: i + 1 }));
   }
@@ -68,21 +64,19 @@ export function getModelScore(
   paper: Paper
 ): { marks: number; maxMarks: number; passed: boolean; accuracy: number; correct: number; wrong: number; unanswered: number } {
   if (year === "all" && paper === "overall") {
-    // Average combined marks (GS1 + CSAT) across all years
-    const avgMarks = getAllYearsOverallMarks(model);
-    const numYears = Object.keys(model.yearly).length || 1;
-    const maxPerYear = Object.values(model.yearly)[0]
-      ? Object.values(Object.values(model.yearly)[0]).reduce(
-          (sum, s) => sum + (s as PaperScore).max_marks, 0)
-      : 400;
+    // Prelims Rank (all years): show GS1 average marks
+    const gs1Totals = model.paper_totals.gs1;
+    if (!gs1Totals) return { marks: 0, maxMarks: 200, passed: false, accuracy: 0, correct: 0, wrong: 0, unanswered: 0 };
+    const years = gs1Totals.years_total || 1;
+    const total = gs1Totals.correct + gs1Totals.wrong + gs1Totals.unanswered;
     return {
-      marks: avgMarks,
-      maxMarks: maxPerYear,
+      marks: Math.round((gs1Totals.total_marks / years) * 100) / 100,
+      maxMarks: gs1Totals.max_marks / years,
       passed: model.overall.gs1_all_years_pass && model.overall.csat_all_years_pass,
-      accuracy: model.overall.accuracy,
-      correct: Math.round(model.overall.correct / numYears),
-      wrong: Math.round(model.overall.wrong / numYears),
-      unanswered: Math.round(model.overall.unanswered / numYears),
+      accuracy: total > 0 ? Math.round((gs1Totals.correct / total) * 10000) / 100 : 0,
+      correct: Math.round(gs1Totals.correct / years),
+      wrong: Math.round(gs1Totals.wrong / years),
+      unanswered: Math.round(gs1Totals.unanswered / years),
     };
   }
 
@@ -103,46 +97,20 @@ export function getModelScore(
   }
 
   if (year !== "all" && paper === "overall") {
-    const yearData = model.yearly[year] ?? {};
-    const marks = Object.values(yearData).reduce(
-      (sum, s) => sum + (s as PaperScore).marks,
-      0
-    );
-    const maxMarks = Object.values(yearData).reduce(
-      (sum, s) => sum + (s as PaperScore).max_marks,
-      0
-    );
-    const correct = Object.values(yearData).reduce(
-      (sum, s) => sum + (s as PaperScore).correct,
-      0
-    );
-    const wrong = Object.values(yearData).reduce(
-      (sum, s) => sum + (s as PaperScore).wrong,
-      0
-    );
-    const unansweredCount = Object.values(yearData).reduce(
-      (sum, s) => sum + (s as PaperScore).unanswered,
-      0
-    );
-    const total = Object.values(yearData).reduce(
-      (sum, s) =>
-        sum +
-        (s as PaperScore).correct +
-        (s as PaperScore).wrong +
-        (s as PaperScore).unanswered,
-      0
-    );
-    const allPassed = Object.values(yearData).every(
-      (s) => (s as PaperScore).passed
-    );
+    // Prelims Rank (specific year): show GS1 marks only
+    const gs1Data = model.yearly[year]?.gs1;
+    if (!gs1Data) return { marks: 0, maxMarks: 200, passed: false, accuracy: 0, correct: 0, wrong: 0, unanswered: 0 };
+    const csatData = model.yearly[year]?.csat;
+    const csatPassed = csatData?.passed ?? false;
+    const total = gs1Data.correct + gs1Data.wrong + gs1Data.unanswered;
     return {
-      marks: Math.round(marks * 100) / 100,
-      maxMarks,
-      passed: allPassed,
-      accuracy: total > 0 ? Math.round((correct / total) * 10000) / 100 : 0,
-      correct,
-      wrong,
-      unanswered: unansweredCount,
+      marks: gs1Data.marks,
+      maxMarks: gs1Data.max_marks,
+      passed: gs1Data.passed && csatPassed,
+      accuracy: total > 0 ? Math.round((gs1Data.correct / total) * 10000) / 100 : 0,
+      correct: gs1Data.correct,
+      wrong: gs1Data.wrong,
+      unanswered: gs1Data.unanswered,
     };
   }
 
@@ -158,17 +126,4 @@ export function getModelScore(
     wrong: score.wrong,
     unanswered: score.unanswered,
   };
-}
-
-/** Average combined marks (all papers) per year across all years. */
-function getAllYearsOverallMarks(model: ModelEntry): number {
-  const years = Object.values(model.yearly);
-  if (years.length === 0) return 0;
-  const totalMarks = years.reduce((sum, yearPapers) => {
-    const yearSum = Object.values(yearPapers).reduce(
-      (s, p) => s + (p as PaperScore).marks, 0
-    );
-    return sum + yearSum;
-  }, 0);
-  return Math.round((totalMarks / years.length) * 100) / 100;
 }

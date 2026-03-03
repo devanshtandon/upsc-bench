@@ -28,23 +28,13 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
 
   // Determine cutoff for current view
   let cutoffMarks: number | null = null;
-  let cutoffMaxMarks = 200;
-  let cutoffLabel: string | null = null;
   if (year !== "all" && cutoffs) {
     const yearCutoffs = cutoffs[year as number];
     if (yearCutoffs) {
-      if (paper === "gs1") {
+      if (paper === "gs1" || paper === "overall") {
         cutoffMarks = yearCutoffs.gs1 ?? null;
       } else if (paper === "csat") {
         cutoffMarks = yearCutoffs.csat_qualifying ?? null;
-      } else if (paper === "overall") {
-        const gs1Val = yearCutoffs.gs1 ?? null;
-        const csatVal = yearCutoffs.csat_qualifying ?? null;
-        if (gs1Val !== null && csatVal !== null) {
-          cutoffMarks = gs1Val + csatVal;
-          cutoffMaxMarks = 400;
-          cutoffLabel = "Combined Cutoff (GS1 + CSAT Qualifying)";
-        }
       }
     }
   }
@@ -117,10 +107,30 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
               }
             }
 
+            // Get CSAT status for Prelims Rank view
+            let csatInfo: { passed: boolean; marks: number } | null = null;
+            if (paper === "overall") {
+              if (year !== "all" && typeof year === "number") {
+                const csatData = model.yearly[year]?.csat;
+                if (csatData) {
+                  csatInfo = { passed: csatData.passed, marks: csatData.marks };
+                }
+              } else {
+                const csatTotals = model.paper_totals.csat;
+                if (csatTotals) {
+                  const csatYears = csatTotals.years_total || 1;
+                  csatInfo = {
+                    passed: model.overall.csat_all_years_pass,
+                    marks: Math.round((csatTotals.total_marks / csatYears) * 10) / 10,
+                  };
+                }
+              }
+            }
+
             return (
               <React.Fragment key={model.model}>
                 {cutoffMarks !== null && cutoffInsertIndex === idx && (
-                  <CutoffRow cutoffMarks={cutoffMarks} maxMarks={cutoffMaxMarks} colCount={colCount} paper={paper} label={cutoffLabel} showRank={showRank} />
+                  <CutoffRow cutoffMarks={cutoffMarks} maxMarks={200} colCount={colCount} paper={paper} showRank={showRank} />
                 )}
                 <tr
                   className={`leaderboard-row animate-fade-in-up ${isTop ? "top-rank" : ""}`}
@@ -161,10 +171,20 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
                           />
                         </div>
                       </div>
-                      <span className="font-bold text-sm whitespace-nowrap" style={{ color: "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
-                        {score.marks.toFixed(1)}
-                        <span style={{ color: "rgba(26,17,69,0.3)" }}>/{score.maxMarks}</span>
-                      </span>
+                      <div>
+                        <span className="font-bold text-sm whitespace-nowrap block" style={{ color: "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
+                          {score.marks.toFixed(1)}
+                          <span style={{ color: "rgba(26,17,69,0.3)" }}>/{score.maxMarks}</span>
+                        </span>
+                        {csatInfo && (
+                          <span
+                            className="text-[11px] font-medium whitespace-nowrap"
+                            style={{ color: csatInfo.passed ? "#16a34a" : "#dc2626" }}
+                          >
+                            CSAT {csatInfo.passed ? "✓" : "✗"} {csatInfo.marks.toFixed(1)}
+                          </span>
+                        )}
+                      </div>
                     </div>
                   </td>
 
@@ -217,7 +237,7 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
             );
           })}
           {cutoffMarks !== null && cutoffInsertIndex === models.length && (
-            <CutoffRow cutoffMarks={cutoffMarks} maxMarks={cutoffMaxMarks} colCount={colCount} paper={paper} label={cutoffLabel} showRank={showRank} />
+            <CutoffRow cutoffMarks={cutoffMarks} maxMarks={200} colCount={colCount} paper={paper} showRank={showRank} />
           )}
         </tbody>
       </table>
@@ -261,18 +281,16 @@ function CutoffRow({
   maxMarks,
   colCount,
   paper,
-  label,
   showRank,
 }: {
   cutoffMarks: number;
   maxMarks: number;
   colCount: number;
   paper: Paper;
-  label?: string | null;
   showRank: boolean;
 }) {
   const barWidth = (cutoffMarks / maxMarks) * 100;
-  const displayLabel = label ?? (paper === "csat" ? "CSAT Qualifying Cutoff" : "GS1 General Category Cutoff");
+  const displayLabel = paper === "csat" ? "CSAT Qualifying Cutoff" : "GS1 General Category Cutoff";
 
   return (
     <tr

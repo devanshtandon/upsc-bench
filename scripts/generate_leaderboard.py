@@ -155,8 +155,12 @@ def generate_leaderboard(
         model_data = aggregate_model_results(str(result_file), cutoffs, rank_data)
         models.append(model_data)
 
-    # Rank by overall accuracy (descending), then GS1 marks as tiebreaker
-    models.sort(key=lambda m: (m["overall"]["accuracy"], m["overall"]["gs1_avg_marks"]), reverse=True)
+    # Rank by CSAT qualification first, then GS1 merit, then overall accuracy as tiebreaker
+    models.sort(key=lambda m: (
+        m["overall"]["csat_all_years_pass"],
+        m["overall"]["gs1_avg_marks"],
+        m["overall"]["accuracy"],
+    ), reverse=True)
     for i, model in enumerate(models):
         model["rank"] = i + 1
 

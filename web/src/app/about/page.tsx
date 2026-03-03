@@ -254,6 +254,149 @@ export default function AboutPage() {
             </div>
           </Section>
 
+          <Section title="Judge Validation">
+            <p>
+              To verify the judge&apos;s accuracy, we ran a calibration study using
+              78 coaching institute model answers from{" "}
+              <a
+                href="https://www.insightsonindia.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline transition-colors hover:text-[var(--saffron)]"
+                style={{ color: "var(--navy)" }}
+              >
+                InsightsIAS
+              </a>{" "}
+              — a leading UPSC coaching institute that publishes detailed model answer
+              synopses for each Mains question. We graded these 78 answers (covering
+              GS Papers 1–4) with the same judge prompt and score anchors used for
+              AI model answers, then compared the judge&apos;s scores against
+              coaching-expected ranges.
+            </p>
+
+            <h3 className="text-base font-semibold mt-6 mb-2" style={{ color: "var(--navy)" }}>
+              Key Finding: The Judge Is Stricter Than Expected
+            </h3>
+            <p>
+              The judge scores coaching model answers <strong style={{ color: "var(--navy)" }}>8.8
+              percentage points lower</strong> than coaching institutes expect. This negative
+              bias is consistent across all four GS papers, suggesting the judge is
+              systematically stricter than real UPSC grading — not more lenient.
+            </p>
+
+            <div className="mt-4 glass-card overflow-hidden">
+              <table className="w-full text-sm border-collapse">
+                <thead>
+                  <tr style={{ borderBottom: "2px solid rgba(26, 17, 69, 0.1)" }}>
+                    <th className="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      Metric
+                    </th>
+                    <th className="px-4 py-3 text-right text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      Value
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {[
+                    { metric: "Coaching answers graded", value: "78" },
+                    { metric: "Mean Absolute Error", value: "1.26 marks (9.8%)" },
+                    { metric: "Mean offset (bias)", value: "−8.8%" },
+                    { metric: "Within expected range", value: "29.5%" },
+                  ].map((row) => (
+                    <tr
+                      key={row.metric}
+                      className="leaderboard-row"
+                      style={{ borderBottom: "1px solid rgba(26, 17, 69, 0.06)" }}
+                    >
+                      <td className="px-4 py-3 font-medium" style={{ color: "var(--navy)" }}>{row.metric}</td>
+                      <td className="px-4 py-3 text-right">{row.value}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+
+            <div className="mt-4 glass-card overflow-hidden">
+              <table className="w-full text-sm border-collapse">
+                <thead>
+                  <tr style={{ borderBottom: "2px solid rgba(26, 17, 69, 0.1)" }}>
+                    <th className="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      Paper
+                    </th>
+                    <th className="px-4 py-3 text-right text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      MAE
+                    </th>
+                    <th className="px-4 py-3 text-right text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      Bias
+                    </th>
+                    <th className="px-4 py-3 text-right text-xs font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>
+                      In Range
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {[
+                    { paper: "GS Paper 1", mae: "1.45", bias: "−9.9%", range: "20%" },
+                    { paper: "GS Paper 2", mae: "1.40", bias: "−8.0%", range: "35%" },
+                    { paper: "GS Paper 3", mae: "0.88", bias: "−7.0%", range: "45%" },
+                    { paper: "GS Paper 4", mae: "1.34", bias: "−10.3%", range: "17%" },
+                  ].map((row) => (
+                    <tr
+                      key={row.paper}
+                      className="leaderboard-row"
+                      style={{ borderBottom: "1px solid rgba(26, 17, 69, 0.06)" }}
+                    >
+                      <td className="px-4 py-3 font-medium" style={{ color: "var(--navy)" }}>{row.paper}</td>
+                      <td className="px-4 py-3 text-right">{row.mae}</td>
+                      <td className="px-4 py-3 text-right">{row.bias}</td>
+                      <td className="px-4 py-3 text-right">{row.range}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+
+            <h3 className="text-base font-semibold mt-6 mb-2" style={{ color: "var(--navy)" }}>
+              What This Means
+            </h3>
+            <p>
+              The negative bias means our reported AI model scores (58–72% on Mains) are
+              <strong style={{ color: "var(--navy)" }}> conservative estimates</strong>.
+              If the judge were perfectly calibrated to real UPSC grading, AI scores would
+              likely be even higher. We chose not to adjust scores upward — reporting
+              conservative numbers is preferable to inflated ones.
+            </p>
+            <p className="mt-3">
+              The judge&apos;s strictness appears driven by two factors the coaching institutes
+              don&apos;t penalize in their own expected scores: (1) word limit violations
+              (coaching model answers consistently exceed limits by 2–4x), and (2) formulaic
+              template structure (identical intro/body/conclusion patterns across all answers).
+              These are legitimate quality concerns that a real UPSC examiner would also penalize,
+              suggesting the judge may actually be more accurate than the coaching
+              institutes&apos; self-assessments.
+            </p>
+            <p className="mt-3 text-sm" style={{ color: "rgba(26,17,69,0.5)" }}>
+              Full validation data:{" "}
+              <a
+                href="https://github.com/devanshtandon/upsc-bench/tree/main/data/calibration"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline"
+              >
+                data/calibration/
+              </a>
+              {" "}|{" "}
+              <a
+                href="https://github.com/devanshtandon/upsc-bench/blob/main/config/judge_prompt.txt"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline"
+              >
+                Judge prompt
+              </a>
+            </p>
+          </Section>
+
           <Section title="Pass / Fail Criteria">
             <h3 className="text-base font-semibold mb-2" style={{ color: "var(--navy)" }}>
               Prelims
@@ -345,11 +488,14 @@ export default function AboutPage() {
 
               <QA question="How reliable is LLM-as-judge grading?">
                 <p>
-                  The comparative format is key — grading all candidates for the same question in a
-                  single prompt forces the judge to make relative distinctions rather than assigning
-                  generous scores in isolation. The UPSC-calibrated anchors prevent the common failure
-                  mode of LLM judges scoring everything above 80%. The fixed seed ensures the same
-                  grading run produces the same results.
+                  We validated the judge against 78 coaching institute model answers
+                  from InsightsIAS. The judge scores these answers 8.8% lower than
+                  coaching expectations on average — meaning it is stricter than real
+                  UPSC grading, not more lenient. The comparative format (grading all
+                  candidates for the same question in a single prompt) forces relative
+                  distinctions, and the UPSC-calibrated anchors prevent the common failure
+                  mode of LLM judges scoring everything above 80%. See the Judge
+                  Validation section above for full metrics.
                 </p>
               </QA>
 

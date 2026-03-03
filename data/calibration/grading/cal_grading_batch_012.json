@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs3_16",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "A comprehensive answer covering both challenges and ISM features with strong factual grounding and relevant examples. The answer is well-structured but significantly exceeds the word limit, and some points feel padded rather than analytically deep.",
+        "analysis": "The answer correctly identifies major challenges (capital intensity, talent shortage, supply chain gaps, EUV export controls) and covers ISM features including fiscal support, DLI scheme, and ISM 2.0 focus on SiC. Examples are specific and dated (Micron Sanand, Tata Dholera, Vedanta-Foxconn stalling), showing strong preparation. However, the answer is roughly 450+ words against a 250-word limit, which is a significant penalty in actual UPSC evaluation. The seven-point structure for both halves is exhaustive but reduces depth per point. Analytical depth is limited -- the answer lists challenges and features without critically examining whether ISM's design actually addresses the listed challenges or discussing India's realistic positioning against Taiwan/South Korea.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Facts are accurate with specific data points (NASSCOM shortage figures, Micron investment amount, ASML export curbs), though the claim about ASML not supplying EUV to India is misleading as India has not sought EUV-grade fabs yet."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Clear intro-body-conclusion with logical separation of challenges and ISM features, though the two parallel seven-point lists feel formulaic rather than organically argued."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Examples are specific, dated, and relevant (Vedanta-Foxconn, Micron Sanand, Tata Dholera, BSRC at IIT Madras), demonstrating strong factual preparation."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "The answer is largely descriptive -- it lists challenges and features side-by-side without analyzing whether ISM adequately addresses the structural challenges or comparing India's approach with global competitors."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Massively exceeds the 250-word limit (approximately 450+ words), which would be penalized in actual UPSC evaluation despite clear language and formatting."
+          }
+        },
+        "total_score": 10.7,
+        "max_marks": 15,
+        "brief_feedback": "Strong factual coverage and excellent examples but reads as an information dump rather than a focused analytical answer, with severe word limit violation."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_17",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer covers mining as an environmental hazard and remedial measures with relevant examples, but includes an unnecessary section on mineral resources as the economic backbone that the question did not ask for. Significantly exceeds word limit.",
+        "analysis": "The question asks two things: why mining is an environmental hazard and what remedial measures exist. The answer adds a five-point section on 'mineral resources as backbone of economy' which, while contextual, is not demanded by the question and consumes valuable word budget. The environmental hazard section is solid with references to Hasdeo Arand, Shah Commission on Goa mining, and ICMR studies on pneumoconiosis. Remedial measures include DMF, EIA enforcement, and technological solutions like drone surveillance. However, the answer exceeds 450 words against a 250-word limit. The inclusion of 'Metallic Minerals -- Distribution Map' heading is a formatting artifact that suggests template-based writing. Analytical depth is limited as the answer does not explore the tension between mineral-dependent development and environmental protection in a nuanced way.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.6,
+            "justification": "Core facts are accurate (Shah Commission, DMF allocations, AFSPA reference to mining context), but including a full section on mineral economic importance dilutes relevance to the actual question asked."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "The three-part body structure is logically organized but the first section on mineral importance is off-topic, and the 'Metallic Minerals -- Distribution Map' heading is a meaningless artifact that hurts coherence."
+          },
+          "depth_examples": {
+            "score": 2.1,
+            "justification": "Good examples including Hasdeo Arand elephant corridors, Samatha judgment (1997), Shah Commission (2012), and NMDC Donimalai restoration, though some feel mechanically inserted."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Largely descriptive with enumerated points; does not critically examine the mining governance framework's structural failures or the development-environment trade-off."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Severely exceeds word limit with irrelevant sections, and the 'Distribution Map' heading artifact suggests copy-paste from a template, undermining presentation quality."
+          }
+        },
+        "total_score": 8.5,
+        "max_marks": 15,
+        "brief_feedback": "Diluted by an off-topic section on mineral economic importance, template artifacts, and severe word-limit violation despite having strong individual examples."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_18",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "A thorough answer that systematically covers Paris Agreement commitments, COP26 strengthening, and the 2022 NDC update with accurate data and relevant examples. However, it significantly exceeds the word limit and adds an unrequested section on challenges.",
+        "analysis": "The answer addresses all three parts of the question well: Paris 2015 commitments (emissions intensity, non-fossil energy, carbon sink), COP26 enhancements (net zero 2070, 500 GW target, LiFE initiative), and the 2022 NDC update (45% intensity reduction, 50% non-fossil capacity). Facts are largely accurate with proper attribution to MoEFCC, CEA, IEA, and UNFCCC sources. The inclusion of a 'Challenges' section, while intellectually relevant, goes beyond the question's scope and inflates the word count to approximately 550+ words against a 250-word limit. The constitutional references (Articles 48A, 51A(g)) in the introduction are a nice touch but somewhat forced. The answer reads more like a comprehensive reference note than a focused exam answer. Analytical depth is present in the challenges section but absent from the main body, which is largely descriptive.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Highly accurate coverage of all three components with correct figures (33-35% intensity target, 40% non-fossil target, 2.5-3 billion tonnes carbon sink, net zero 2070, 500 GW), properly attributed to official sources."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Logical three-part structure matching the question's demands, but the additional challenges section disrupts the expected flow and the answer becomes an exhaustive enumeration rather than a cohesive argument."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Strong use of dated examples and data (CEA 2021 early achievement of 40% target, IEA 2023 acknowledgment, OECD 2022 finance shortfall, CAG 2022 on CAMPA underutilization)."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "The challenges section introduces some critical analysis (coal dependence, finance gaps), but the main body covering Paris/COP26/NDC remains descriptive rather than evaluative."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "At 550+ words, this is more than double the 250-word limit, which would be heavily penalized; the answer reads like study notes rather than a concise exam response."
+          }
+        },
+        "total_score": 10.6,
+        "max_marks": 15,
+        "brief_feedback": "Factually excellent and well-sourced but fundamentally fails as an exam answer due to extreme word-limit violation and inclusion of unrequested content."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_19",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "A well-researched answer that comprehensively maps NE security challenges and peace accords with specific examples and data. The answer demonstrates strong factual command but exceeds the word limit substantially and lacks critical analysis of why peace accords have had mixed success.",
+        "analysis": "The answer correctly identifies major challenges including ethnic fragmentation (Kuki-Meitei 2023), cross-border militancy (Myanmar safe havens), AFSPA alienation, narco-terrorism, and demographic pressures. The peace accords section is particularly strong, covering seven agreements (Bodo 2020, Bru-Reang 2020, Karbi Anglong 2021, NLFT 2019, NSCN Framework 2015, SoO agreements, ULFA-I surrenders) with specific details like cadre numbers and financial packages. However, the answer exceeds 450 words against a 250-word limit. The analysis remains at the level of enumeration -- it does not examine why some accords (Bodo) succeeded while others (NSCN-IM) remain stalled, or discuss the structural tension between ethnic autonomy demands and territorial integrity. The Second ARC Report reference (2008) is dated and does not fall within the 'past decade' timeframe the question emphasizes.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Facts are accurate and well-sourced (MHA 2024 data on 80% decline, Bodo Accord cadre numbers, Bru-Reang package details, NSCN Framework Agreement context), with only minor issues like the Second ARC reference being dated."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Clear two-part structure matching the question's demands with logical sequencing from challenges to accords and a forward-looking conclusion."
+          },
+          "depth_examples": {
+            "score": 2.7,
+            "justification": "Excellent use of specific, dated examples across both sections -- seven named peace accords with cadre numbers, financial packages, and implementation status demonstrate thorough preparation."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "The answer enumerates challenges and accords without analyzing patterns of success or failure, the structural roots of NE insurgency, or why the Naga settlement remains elusive despite a decade of talks."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Exceeds word limit significantly but maintains clear language and consistent formatting throughout; better word discipline would have improved the score."
+          }
+        },
+        "total_score": 10.9,
+        "max_marks": 15,
+        "brief_feedback": "Outstanding factual recall of NE peace accords with specific details, but the answer substitutes enumeration for analysis and needs tighter word discipline."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_20",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "An exhaustive answer covering maritime security's importance, challenges, and way forward with strong examples from recent events (Red Sea disruptions, INS Sumitra, Yuan Wang incident). The answer is the most verbose in this batch and suffers from severe word-limit violation.",
+        "analysis": "The answer addresses all three dimensions: importance of maritime security for trade, maritime/coastal challenges, and way forward. The use of recent examples is strong -- Red Sea Houthi disruptions (2024), Chinese Yuan Wang docking in Sri Lanka (2022), DRI drug seizures, and Cyclone Michaung (2023) show current awareness. The way forward section offers concrete institutional recommendations (National Maritime Security Coordinator, IMAC Gurugram, Coastal Security Scheme Phase III). However, at approximately 650+ words, this is nearly three times the 250-word limit, which is an extreme violation. The answer includes a 'Geographic Zoning' artifact heading similar to the template issue in Q17. The seven-point structure repeated across all three sections (importance, challenges, way forward) produces 21 points total, which is far too many for a 15-mark question. There is a numbering error in the way forward section (point 7 is numbered as 1). Analytical depth is limited despite the volume of content.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Facts are accurate and well-attributed (95% trade by volume, 80% crude through Hormuz, SAGAR doctrine, Naresh Chandra Committee 2011, Pradhan Committee 2009), covering the topic comprehensively."
+          },
+          "structure_flow": {
+            "score": 1.8,
+            "justification": "Three-part structure matches the question but the 'Maritime Zones -- Geographic Zoning' artifact heading is distracting, and the sheer number of points (21 across three sections) undermines coherent argumentation."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Strong contemporary examples (Red Sea 2024 disruptions, Yuan Wang 2022, INS Sumitra piracy foiling, Cyclone Michaung 2023) demonstrate excellent current awareness and relevance."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Despite the enormous volume, the answer remains descriptive and enumerative; it does not analyze trade-offs between naval expansion and diplomatic engagement, or critically examine India's actual maritime capabilities versus aspirations."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "At 650+ words (nearly 3x the limit), with a template artifact heading and a numbering error in the way forward section, this represents poor exam discipline despite clear language."
+          }
+        },
+        "total_score": 9.5,
+        "max_marks": 15,
+        "brief_feedback": "Factually rich and current but fundamentally fails exam requirements with extreme word-limit violation, template artifacts, and quantity-over-quality approach."
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs1_16",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer discusses plate tectonics and how tectonic movements reshape continents and ocean basins, covering divergent, convergent, and transform boundaries. It lists six mechanisms for continental changes (rifting, orogeny, rift valleys, transform faults, subduction erosion, volcanic plateaus) and six for ocean basin changes (seafloor spreading, subduction shrinkage, island arcs, ridges/fracture zones, hotspot volcanism, Wilson Cycle), with examples for each.",
+        "analysis": "The answer is factually accurate and comprehensive in covering the full range of tectonic processes. The six-plus-six structure with examples for each mechanism is well organized. However, the answer is excessively verbose for a 250-word question -- it reads closer to 500-600 words, which is a serious flaw in UPSC Mains where word limits signal expected depth. The enumerated list approach, while thorough, reads like a textbook catalogue rather than an analytical discussion. There is minimal original analysis or synthesis -- the answer never explains the driving mechanisms (mantle convection, slab pull) in adequate depth despite mentioning them in the introduction. The '[Fig:]' placeholders add no value. Analytical depth is shallow: it is descriptive rather than explanatory, offering examples without connecting them into a coherent narrative about how Earth's geography has evolved. The Wilson Cycle is mentioned but not properly explained.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.9,
+            "justification": "Factually accurate throughout. All examples are correct (Pangaea breakup ~200 mya, Himalayas rising at ~5mm/year, Mid-Atlantic Ridge spreading rate, Pacific shrinking). Covers both continental and oceanic changes comprehensively. However, the answer is more of a catalogue than a discussion -- it lists processes without explaining the underlying physics adequately. The question asks to 'discuss how' changes take place, requiring explanation of mechanisms, not just enumeration."
+          },
+          "structure_flow": {
+            "score": 1.8,
+            "justification": "Well organized with clear introduction, two-part body (continental + oceanic), and conclusion. The six-point structure under each heading is systematic. However, the rigid numbering creates a list-like feel rather than a flowing discussion. The conclusion wraps up adequately with the Wilson Cycle and modern monitoring tools."
+          },
+          "depth_examples": {
+            "score": 2.1,
+            "justification": "Excellent range of examples -- East African Rift, San Andreas Fault, Deccan Traps, Hawaiian-Emperor chain, Mid-Atlantic Ridge, Mariana Islands. Each point has a specific, relevant example with quantitative data where appropriate. This is a clear strength of the answer."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Weak analytical depth. The answer is almost entirely descriptive -- it lists what happens but rarely explains why or how processes interact. There is no discussion of the time scales over which these changes matter, no synthesis of how individual processes combine to reshape geography, and no critical perspective on limitations of plate tectonic theory or ongoing debates."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Grossly exceeds the 250-word limit -- the answer is approximately 550+ words, more than double what was asked. The '[Fig:]' placeholders are meaningless in a written exam context. Language is clear but the excessive length would be penalized by any UPSC examiner. Conciseness is a core Mains skill."
+          }
+        },
+        "total_score": 9.0,
+        "max_marks": 15,
+        "brief_feedback": "Factually sound and well-exemplified but far too verbose for a 250-word answer. Reads as a textbook catalogue rather than an analytical discussion. The question asks to 'discuss how' -- this requires explanation of mechanisms and synthesis, not just enumeration of 12 separate points. Word limit violation is severe."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_17",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer discusses population distribution and density in the Ganga River Basin, covering four zones (upper/middle plains, lower delta, Himalayan headwaters, urban-industrial belts) and then examines how land resources, soil resources, and water resources influence this distribution, with specific data points and examples throughout.",
+        "analysis": "The answer directly addresses the question's demand by linking population distribution to land, soil, and water resources as asked. The factual content is largely accurate -- Census 2011 data for Bihar's density, UP's net sown area, Uttarkashi's sparse population. The three-part resource analysis (land, soil, water) with three sub-points each is well aligned with the question. However, the answer again grossly exceeds the 250-word limit at approximately 500+ words. Some claims need scrutiny: calling Ganga alluvium 'among the most fertile soils globally' with ICAR attribution is vague. The '2017 Bihar floods displaced 17 million but enriched soils' claim somewhat romanticizes devastating floods. Analytical depth is limited -- the answer does not explore tensions between high density and resource degradation, groundwater depletion crisis, or the paradox of high density coexisting with poverty in Bihar. The conclusion briefly mentions overexploitation but this deserved more attention in the body.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.6,
+            "justification": "Mostly accurate factual content. Census 2011 data is correctly cited. UP's agricultural statistics are plausible. The four-zone distribution framework is geographically sound. However, some claims are vaguely sourced (ICAR notes, CGWB reported) and the 'National Commission on Agriculture (1976)' reference for 'food bowl' terminology is uncertain. The answer covers all three demanded resource types (land, soil, water) which shows good question comprehension."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Excellent structural alignment with the question's demands -- first covers distribution/density by region, then systematically addresses each resource type. The introduction provides useful context (basin area, population share). The conclusion offers a forward-looking perspective. The flow from distribution to influencing factors is logical."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good range of examples with specific data: Bihar's density figure, Uttarkashi's 41 persons/sq km, UP's 17.5 million ha, Upper Ganga Canal, CGWB aquifer data. The examples are relevant and well-chosen. Could have included more recent data on groundwater depletion or agricultural productivity trends."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Limited analytical depth. The answer explains why population is dense (fertile land, good soil, water) but does not critically examine the consequences -- groundwater crisis, soil degradation from over-cultivation, urban sprawl consuming farmland, or the paradox of resource-rich but poverty-stricken states like Bihar. The conclusion hints at overexploitation but the body lacks this critical lens."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Significantly exceeds the 250-word limit at roughly 500+ words. While the language is clear and the formatting is organized, the excessive length is a major flaw. A UPSC examiner would expect a tighter, more focused answer. The '[Fig:]' placeholder is meaningless."
+          }
+        },
+        "total_score": 8.7,
+        "max_marks": 15,
+        "brief_feedback": "Well-structured answer that directly addresses the question's three resource dimensions with relevant examples and data. However, grossly exceeds word limit and lacks critical analysis of the tensions between high population density and resource sustainability. The link between resources and density is established but not interrogated."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_18",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines the paradox of fast food industry growth amid rising health concerns, covering five growth drivers (urbanization, marketing, youth culture, delivery apps, supply chain), three health concerns (NCDs, food safety, double burden), three aspects of Indian experience (dietary patterns, rural penetration, gender/labour), and four recommendations (regulation, awareness, fiscal incentives, CSR).",
+        "analysis": "The answer addresses the question well by covering both sides -- reasons for growth and health concerns -- with Indian examples as demanded. The NFHS-5 obesity data, QSR market projections, Maggi controversy, and Zomato/Swiggy references ground the answer in Indian reality. However, the answer is extremely verbose -- approximately 600+ words for a 250-word question. The 'What needs to be done' section, while relevant, makes the answer feel like a generic policy essay rather than a focused analytical response. The question asks to 'account for' the growth -- meaning the answer should primarily explain WHY fast food grows despite health awareness, with the Indian experience as illustration. The health concerns section and recommendations, while not irrelevant, receive disproportionate space at the cost of deeper analysis of the paradox itself. Some examples feel like name-dropping (NASSCOM study, NITI Aayog SDG Index) without adding analytical value. The sociological insight about aspiration and class is touched upon but not developed.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.3,
+            "justification": "Generally accurate content. NFHS-5 obesity data, Maggi controversy, FSSAI Eat Right Movement, and QSR market projections are relevant and largely correct. However, the '$31 billion by 2028' QSR market figure and attribution to 'NRAI report' is unverifiable. The claim that 'Domino's has 1,700+ outlets, with half outside metros' may be slightly outdated or approximate. Some references feel forced (NASSCOM study on QSR employment). Content covers the question's demand but spreads too thin across too many sub-points."
+          },
+          "structure_flow": {
+            "score": 1.7,
+            "justification": "Organized into clear sections (growth factors, health concerns, Indian experience, recommendations) with introduction and conclusion. However, the four-part body is too fragmented for a 250-word answer. The 'Indian experience' section feels redundant since Indian examples already appear throughout. The recommendations section, while well-meaning, was not demanded by the question and consumes space that could have been used for deeper analysis."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Good range of India-specific examples: Zomato/Swiggy, Maggi, FSSAI, NFHS-5, Poshan Abhiyan, International Year of Millets 2023. These effectively illustrate the Indian experience as asked. However, some examples are surface-level and lack analytical connection to the core paradox."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The answer identifies the paradox but does not deeply analyze it. Why do consumers knowingly choose unhealthy food? Concepts like bounded rationality, present bias, information asymmetry, or Veblen goods could have enriched the analysis. The sociological dimension of fast food as class signifier is mentioned but underdeveloped. The answer is more descriptive than analytical."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Grossly exceeds the 250-word limit at approximately 600+ words -- more than double the allowed length. This is a serious presentation flaw. The bullet-point enumeration style, while clear, does not reflect the discursive writing expected in UPSC Mains. Language is competent but generic."
+          }
+        },
+        "total_score": 7.9,
+        "max_marks": 15,
+        "brief_feedback": "Covers the topic broadly with good Indian examples but fails to deeply analyze the paradox the question asks about. Far too verbose for a 250-word answer. The recommendations section was not asked for and consumes space at the expense of analytical depth. Needs tighter focus on WHY growth persists despite health awareness."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_19",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines the conflict between sustainable growth with environmental protection and the needs of the poor in India, presenting five areas of conflict (resource dependence, energy transition, land use, river conservation, eco-technology costs) and four areas of complementarity (constitutional mandate, green employment, community-led protection, affordable renewables), followed by a five-point way forward.",
+        "analysis": "This is one of the stronger answers in the batch. The question demands a nuanced 'comment' on the tension between sustainability and poverty, and the answer delivers by presenting both the conflict dimension and the complementarity dimension. Examples are well chosen and specific: Niyamgiri/Vedanta case, Yamuna floodplain demolitions, MGNREGS watershed works, and the constitutional framework (Articles 21, 46, 48A). The MC Mehta judgment reference adds legal depth. However, the answer is again excessively long -- approximately 700+ words for a 250-word question, which is nearly three times the limit. The five-point 'Way forward' section, while thoughtful, makes the answer feel formulaic (coaching institute template). Some examples feel fabricated or unverifiable -- 'Indore's 2025 net-zero housing pilot with UNACCC cut energy bills of BPL families by nearly 30%' is suspicious. The analytical quality is better here than in other answers, with genuine tension being explored rather than just catalogued. The constitutional framing (Article 21 vs 48A) shows good integration of polity knowledge.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.6,
+            "justification": "Strong factual base. NITI Aayog MPI figure (230 million multidimensionally poor), Niyamgiri Vedanta case, FRA 2006, MC Mehta judgment, MGNREGS employment figures, PESA Act 1996, KUSUM scheme -- all accurately referenced. However, the 'Indore 2025 net-zero housing pilot with UNACCC' example appears fabricated, which is a concern. The content accurately captures both sides of the debate as the question demands."
+          },
+          "structure_flow": {
+            "score": 1.9,
+            "justification": "Well structured with a conflict section, complementarity section, and way forward. The introduction frames the tension effectively with the MPI data. The conclusion synthesizes well. However, the sheer volume of points (5 + 4 + 5 = 14 sub-points) creates a list-heavy answer that lacks discursive flow. For a 250-word answer, 4-5 total points with deeper analysis would be more appropriate."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Excellent range of examples spanning law (MC Mehta, Niyamgiri), policy (MGNREGS, KUSUM, PESA), social movements (Chipko), constitutional provisions, and international frameworks (ILO). The Niyamgiri and Yamuna floodplain examples are particularly effective in illustrating the conflict. One potentially fabricated example (Indore net-zero housing) somewhat undermines credibility."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Better analytical depth than the other answers. The answer genuinely engages with the tension rather than just listing points. The constitutional framing (Article 21 vs 48A) adds a legal-analytical dimension. The Chipko example shows how community agency can reconcile both goals. However, the answer still leans toward enumeration over sustained argument. It could have explored concepts like environmental justice, ecological debt, or commons governance more deeply."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Severely exceeds the 250-word limit at approximately 700+ words -- nearly three times the allowed length. While the language and expression are strong, this level of over-writing would be penalized by any serious UPSC examiner. The formulaic coaching-style structure (conflict + complementarity + way forward) is evident."
+          }
+        },
+        "total_score": 9.1,
+        "max_marks": 15,
+        "brief_feedback": "Strong analytical answer that genuinely engages with the sustainability-poverty tension using well-chosen legal, policy, and movement-based examples. The constitutional framing adds depth. However, grossly exceeds the word limit and includes a potentially fabricated example. The coaching-template structure (conflict/complementarity/way forward) is formulaic."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_20",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines whether tribal development in India revolves around displacement and rehabilitation, presenting six points on displacement (dams, mining, forest conservation, land alienation, cultural dislocation, unequal burden) and six on rehabilitation (constitutional safeguards, packages, FRA, skill promotion, education, participatory approaches), followed by a four-point way forward.",
+        "analysis": "The answer is well-informed and covers the tribal development discourse comprehensively. The Niyamgiri/Vedanta case, Sardar Sarovar displacement, Xaxa Committee findings, FRA 2006, PESA Act, and Samatha judgment are all highly relevant and accurately cited. The question asks for the candidate's 'opinion' -- and the answer does provide one in the conclusion (that the two-axis framework is insufficient and empowerment is needed). However, the answer is again excessively long -- approximately 700+ words. The six-plus-six-plus-four structure (16 sub-points total) is overwhelming for a 250-word question. While the opinion is stated, it could have been argued more forcefully throughout the body rather than saved for the conclusion. The answer treats displacement and rehabilitation almost as parallel equal sections, when the question invites a critical assessment of whether this framing is adequate. More space could have been devoted to alternative development paradigms (rights-based, cultural preservation, PVTG-specific approaches). The Van Dhan Vikas Kendra and EMRS examples add contemporary relevance.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.9,
+            "justification": "Excellent factual accuracy. Census 2011 tribal population (10.45 crore), Sardar Sarovar displacement (40,000+ families), Niyamgiri Gram Sabha consent, Xaxa Committee findings on Jharkhand land loss, FRA 2006 title distribution (1.9 million), EMRS enrollment (3.6 lakh), PESA 1996, Samatha judgment -- all correctly cited and relevant. The UNDP HDR reference on tribal poverty levels is appropriate. Content is comprehensive and directly addresses both axes."
+          },
+          "structure_flow": {
+            "score": 1.8,
+            "justification": "Well organized with displacement and rehabilitation as parallel sections, plus a way forward. The introduction frames the two-axis question effectively. However, the structure is overly mechanical -- 6+6+4 points is excessive for a 250-word answer. The opinion demanded by the question ('Give your opinion') should permeate the body, not just appear in the conclusion. A more argumentative structure would have scored higher."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Outstanding range of examples: Sardar Sarovar, Niyamgiri, Simlipal Tiger Reserve, Xaxa Committee, Baiga tribals, Narmada Bachao Andolan, Van Dhan Vikas Kendras, EMRS, PESA, Samatha judgment. These span legal, policy, grassroots, and development domains. The examples are well-chosen and directly support the points being made. This is the strongest dimension of the answer."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The answer identifies that the displacement-rehabilitation framework is inadequate and suggests empowerment as an alternative axis -- this is a valid analytical contribution. However, the analysis remains at the surface level. The answer does not critically examine WHY development continues to be displacement-centric (political economy of land acquisition, mineral rents, state-capital nexus) or interrogate the adequacy of rehabilitation laws (why FRA implementation remains poor, why PESA is routinely violated). The opinion is stated rather than argued."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Severely exceeds the 250-word limit at approximately 700+ words. The enumerated list format, while organized, lacks the discursive quality expected in a UPSC Mains answer that asks for an 'opinion'. Language is competent but the coaching-template format is very apparent."
+          }
+        },
+        "total_score": 9.2,
+        "max_marks": 15,
+        "brief_feedback": "Factually rich answer with excellent examples spanning legal judgments, committee reports, and grassroots movements. However, the opinion demanded by the question is underdeveloped -- the answer catalogues displacement and rehabilitation instead of critically arguing whether this framing is adequate. Grossly exceeds word limit and follows a rigid coaching-template structure."
+      }
+    ]
+  }
+]

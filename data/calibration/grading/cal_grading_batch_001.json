@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs1_1",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer comprehensively covers Harappan architecture across 10 well-organized points with site-specific examples. It is factually accurate and demonstrates strong knowledge, though it far exceeds the 150-word limit and reads more like a textbook extract than an exam answer.",
+        "analysis": "Content coverage is thorough, touching on grid planning, standardized bricks, citadels, drainage, public structures, residential design, dockyards, local materials, water management, and functional zoning -- all legitimate features of Harappan architecture. Examples are specific and relevant (Mohenjo-Daro, Dholavira, Lothal, Kalibangan, Rakhigarhi), drawing from real ASI excavations. However, the answer massively exceeds the 150-word limit (approximately 400+ words), which in a real UPSC exam would be penalized and suggests poor time management. The analytical depth is limited -- it lists features but does not critically examine what they reveal about Harappan society beyond surface-level observations. The conclusion attempts synthesis but remains generic.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "All facts are correct and all major features of Harappan architecture are covered without errors, though the breadth comes at the cost of depth per point."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear intro-body-conclusion format with numbered points, but the sheer number of points (10) for a 150-word question undermines coherence and reads as a list dump."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "Abundant site-specific examples with ASI and UNESCO references, though many feel formulaic and bolted on rather than analytically integrated."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Minimal critical analysis -- the answer describes features but does not meaningfully interrogate what they reveal about Harappan social organization, trade, or governance."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Grossly exceeds the 150-word limit by nearly 3x, and the placeholder figure tags are distracting; language is clear but formulaic."
+          }
+        },
+        "total_score": 7.1,
+        "max_marks": 10,
+        "brief_feedback": "Strong factual coverage and good examples, but the answer needs drastic trimming to respect word limits and deeper analysis to move beyond listing features."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_2",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer provides an exhaustive, well-categorized treatment of Akbar's religious syncretism across philosophical, administrative, cultural, social, and legacy dimensions. It is factually strong but massively overshoots the word limit and substitutes quantity for analytical nuance.",
+        "analysis": "Content is comprehensive, covering Sulh-i-Kul, Ibadat Khana, jizya abolition, Din-i-Ilahi, Razmnama, Rajput alliances, and Jain influences -- all central aspects. Examples are well-chosen and historically grounded (Abul Fazl, Monserrate, Todar Mal, Buland Darwaza inscription). The sub-categorization (philosophical, policy, cultural, social, legacy) is intellectually sound. However, the answer exceeds 150 words by roughly 4x, which is a serious flaw. The conclusion's link to Articles 25-28 is a nice contemporary hook but feels superficial. The contrast with Aurangzeb adds perspective but is underdeveloped. Some claims are slightly embellished (e.g., calling Akbar's model a direct precursor to constitutional secularism is debatable).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.4,
+            "justification": "Factually accurate across all points with correct dates, names, and historical context; the Articles 25-28 connection is a slight stretch but not an error."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Excellent thematic sub-categorization (philosophical, policy, cultural, social, legacy) with clear intro and conclusion, making the argument easy to follow."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "Rich and diverse examples from primary sources (Ain-i-Akbari, Monserrate's memoirs) and secondary scholarship (Satish Chandra), demonstrating strong historical grounding."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The Aurangzeb contrast and constitutional parallel attempt critical analysis, but most points remain descriptive rather than evaluative of syncretism's limitations or contradictions."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Exceeds the 150-word limit by approximately 4x, which in a real exam would signal poor answer strategy and time management."
+          }
+        },
+        "total_score": 7.5,
+        "max_marks": 10,
+        "brief_feedback": "Impressively comprehensive with strong sourcing, but the extreme word count overshoot and lack of critical interrogation of syncretism's limits prevent a top-tier score."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_3",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses Chandella temple art at Khajuraho with attention to vitality, architectural integration, and cultural breadth. It captures the spirit of the quote but relies on listing sculptural themes rather than deeply elucidating how sculptors achieved 'resilient vigor.'",
+        "analysis": "The answer correctly identifies Khajuraho temples as the primary Chandella artistic achievement and organizes content around vitality, architectural rhythm, and cultural breadth -- a reasonable framework for the quote. Examples reference specific temples (Lakshmana, Kandariya Mahadeva, Vishvanatha, Duladeo, Parsvanatha) with ASI and UNESCO citations. However, the answer does not sufficiently engage with what 'resilient vigor' means artistically -- it needed more on sculptural technique (undercutting, high relief, dynamic poses) and how Chandella art differed from Pallava or Chola sculpture. Some ASI date citations (2021, 2022, 2023) appear fabricated as specific guidebook dates. The mithuna sculptures are mentioned but their deeper philosophical significance (tantra, cosmogony) is not explored. Word limit is again grossly exceeded.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Core facts about Khajuraho temples are correct, but some ASI guidebook dates appear invented, and the answer misses key art-historical vocabulary and technique analysis."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Three-part thematic organization (vitality, architecture, cultural breadth) is logical and follows the quote's keywords, with clear intro and conclusion."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Multiple specific temple references are provided, but examples tend to be surface-level descriptions rather than detailed artistic observations."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The answer describes what was sculpted but rarely analyzes how or why, missing the opportunity to discuss tantric philosophy, regional stylistic evolution, or patronage dynamics."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds word limit significantly; placeholder figure tags add no value; language is competent but formulaic."
+          }
+        },
+        "total_score": 6.4,
+        "max_marks": 10,
+        "brief_feedback": "Adequate coverage of Khajuraho sculpture themes but insufficient engagement with the art-historical meaning of 'resilient vigor' and questionable source citations."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_4",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer provides a thorough, well-structured treatment of climate change impacts on island nations, organized into climate impacts, sea level impacts, and policy recommendations with strong international examples. It is the most analytically complete answer in this batch but massively exceeds word limits.",
+        "analysis": "Content is strong and multidimensional, covering cyclones, coral bleaching, freshwater scarcity, displacement, coastal submergence, food security, sovereignty, and tourism decline -- all directly relevant. The addition of a 'What needs to be done' section with climate finance, adaptation frameworks, legal safeguards, and renewable energy shows mature policy understanding. Examples are well-sourced (World Bank, UNEP, IPCC AR6, Nature Climate Change, FAO, UNWTO, COP27/28) and geographically diverse (Fiji, Maldives, Kiribati, Tuvalu, Solomon Islands, Marshall Islands). The sovereignty-UNCLOS angle demonstrates analytical sophistication. However, the answer is roughly 5x the 150-word limit, and the policy recommendations section, while good, was not asked for. Some statistics may not be precisely verifiable (e.g., '60% coral cover' in Maldives).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.4,
+            "justification": "Comprehensive and largely accurate coverage with well-chosen statistics and international references, though some figures may be approximate rather than exact."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Excellent dual-section structure (climate impacts vs. sea level impacts) with a policy addendum, clear intro and conclusion, and logical progression."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Outstanding range of geographically diverse, source-attributed examples covering Pacific, Indian Ocean, and Caribbean island nations with specific data points."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The sovereignty-UNCLOS angle and climate justice framing show genuine analytical thinking, though the policy section addresses 'what to do' rather than critically analyzing systemic failures."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Exceeds the 150-word limit by roughly 5x; answering unrequested policy prescriptions wastes space that should have been used for deeper analysis of the core question."
+          }
+        },
+        "total_score": 7.8,
+        "max_marks": 10,
+        "brief_feedback": "The strongest answer in this batch for content and examples, but the extreme word overshoot and unrequested policy section would hurt in a real exam setting."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_5",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer clearly defines non-farm primary activities and systematically maps each to India's physiographic regions with relevant examples. It is well-organized and factually sound, though it follows the same pattern of excessive length and limited critical analysis.",
+        "analysis": "The two-part structure (defining activities, then linking to physiography) directly addresses both parts of the question, which is strategically sound. Four non-farm primary activities (animal husbandry, fishing, forestry, mining) are correctly identified with scheme-level examples (Operation Flood, Blue Revolution, Van Dhan Yojana). The physiography linkage covers seven regions (Himalayas, coasts, plateau, desert, Western Ghats, river plains, Northeast hills) with specific examples. However, the classification of mining as a 'primary' activity, while technically correct, could have been briefly justified since it is debatable in some frameworks. The answer misses a critical discussion of how physiographic constraints create regional inequalities. Jhum cultivation is mentioned but its environmental controversy is not addressed. Word limit is exceeded by approximately 4x.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "Correct identification of non-farm primary activities and accurate physiographic mapping, though the inclusion of mining without justification is a minor gap."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Clean two-part structure that mirrors the question's two components, with numbered points and clear intro-body-conclusion format."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "Good range of examples covering government schemes, specific tribes (Changpa, Raikas), and regional data, though some are generic (Kerala Forest cooperatives)."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The answer maps activities to regions but does not analyze why physiography creates differential development outcomes or discuss policy challenges in harnessing these linkages."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds the 150-word limit by roughly 4x; language is clear and professional but the answer is too long for exam conditions."
+          }
+        },
+        "total_score": 7.3,
+        "max_marks": 10,
+        "brief_feedback": "Well-structured answer that directly addresses both parts of the question with good examples, but needs sharper analysis and strict word-limit adherence."
+      }
+    ]
+  }
+]

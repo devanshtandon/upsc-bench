@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs4_3b",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses William James' quote on the transformative power of attitude. It covers the essence of the quote through five sub-points (attitude shapes reality, internal change, freedom of response, resilience, moral agency) with examples including Viktor Frankl, Gandhi, and Swachh Bharat. It then links to civil services context (ethical decision-making, workplace culture, handling pressure, mental health, citizen empowerment). However, the answer egregiously exceeds the 150-word limit, running to approximately 500+ words for Q3(b) alone, and inexplicably appends the complete answer to Q3(c) (a different question on Swami Vivekananda), suggesting a copy-paste dump rather than a focused answer.",
+        "analysis": "Content is relevant and broadly accurate. The examples are well-chosen (Viktor Frankl, Khemka, Swachh Bharat) and the civil services linkage is appropriate for GS4. However, the answer follows a mechanical bullet-point template with no genuine critical engagement -- it lists points rather than analyzing the philosophical depth of James' pragmatist philosophy. The massive word limit violation (3-4x the limit) is a severe presentation flaw that would be penalized heavily in the actual exam. Including the answer to a completely different question (Q3c) within this answer is a disqualifying formatting error. The analysis is surface-level: each point essentially restates 'attitude matters' in different words without genuinely deepening the argument. No counterpoint or limitation is explored (e.g., structural barriers that attitude alone cannot overcome).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Core ideas about attitude as driver of change are correct and relevant. Examples (Viktor Frankl, Gandhi, Swachh Bharat, Khemka) are factually accurate. Civil services linkage is appropriate. However, content is repetitive -- multiple points say the same thing differently. No factual errors, but no particularly insightful or unexpected content either. Quality: 0.60"
+          },
+          "structure_flow": {
+            "score": 1.0,
+            "justification": "Has intro/body/conclusion format, and sub-sections are logically grouped. However, the inclusion of an entirely different question's answer (Q3c) within this answer is a serious structural failure. The bullet-point-after-bullet-point format reads as a list, not a coherent essay. Quality: 0.50"
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Examples are plentiful (Frankl, Gandhi, Khemka, Swachh Bharat, IAS officer water harvesting). However, most are stated in one line without depth. Frankl's example could have been developed into a powerful illustration but is reduced to a bullet point. No data, constitutional references, or detailed case studies. Quantity over quality. Quality: 0.55"
+          },
+          "analytical_depth": {
+            "score": 0.35,
+            "justification": "Very shallow analysis. Each point restates the thesis (attitude matters) without exploring tensions, counterarguments, or philosophical nuance. No engagement with James' pragmatist philosophy specifically. No discussion of structural determinism vs. individual agency. No acknowledgment that attitude alone may be insufficient against systemic oppression. Quality: 0.35"
+          },
+          "presentation": {
+            "score": 0.2,
+            "justification": "The most severe issue: answer is approximately 500+ words against a 150-word limit (over 3x). Including Q3(c) answer within Q3(b) is a fundamental formatting failure. Language is clear but generic coaching-institute prose. In a real exam, this word limit violation would significantly hurt the candidate. Quality: 0.20"
+          }
+        },
+        "total_score": 5.05,
+        "max_marks": 10,
+        "brief_feedback": "Content is broadly relevant with good examples, but the answer is a mechanical bullet-point dump that exceeds the word limit by 3-4x and inexplicably includes a different question's answer. The analysis is surface-level, repeating 'attitude matters' in different ways without genuine philosophical engagement. A 150-word answer should be a tight, focused paragraph -- not a 500-word bulleted list. Penalized heavily for word limit violation and template-driven approach."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_4a",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer justifies why civil servants need reason and critical thinking within an ethical framework when implementing welfare schemes. It covers social re-engineering through welfare schemes (MGNREGA, reservation, NRLM, Ayushman Bharat), then explains why reason and critical thinking are necessary (preventing mechanical implementation, shielding against populism, ensuring fairness, balancing efficiency and ethics, building trust). It adds sections on inculcating these qualities and appends ethical theories and quotes.",
+        "analysis": "The answer is substantively strong on examples -- MGNREGA water harvesting in Bundelkhand, PMFBY vs loan waivers, SECC-based targeting, Aadhaar-PDS in Chhattisgarh, social audits in Andhra Pradesh are all excellent, specific, and factually accurate illustrations. The question asks to 'justify this statement with suitable examples' and the answer does provide ample justification. However, the answer sprawls far beyond what is needed. The first section ('Social Re-engineering through Welfare Schemes') describes welfare schemes generally without linking to reason/critical thinking -- this is padding. The 'Inculcating Reason' section goes beyond the question's scope. The tacked-on ethical theories (Kant, Mill, Aristotle) and quotes (the 'Kant quote' about reason and conscience is likely fabricated or misattributed) are formulaic coaching-institute additions that add no analytical value. The word limit violation (easily 500+ words vs 150) is severe.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Excellent factual content on welfare schemes. MGNREGA, PMFBY, SECC, Aadhaar-PDS, social audits are all accurately described. The Bundelkhand water harvesting and Chhattisgarh PDS examples are specific and well-chosen. However, the 'Kant quote' on reason and conscience appears fabricated/misattributed, which is a factual error. Some content (general description of welfare schemes) is padding that doesn't address the specific question about reason and critical thinking. Quality: 0.65"
+          },
+          "structure_flow": {
+            "score": 1.1,
+            "justification": "Clear sectioning with intro/body/conclusion. Four sub-sections provide logical progression. However, the first section (general welfare schemes) doesn't link to the core question, creating a structural disconnect. The ethical theories and quotes sections feel grafted on rather than integrated. Quality: 0.55"
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "This is the answer's strongest dimension. Bundelkhand MGNREGA, PMFBY vs loan waivers, SECC-based PMAY targeting, Aadhaar-PDS in Chhattisgarh, social audits in AP, Poshan Tracker, Armstrong Pame -- these are specific, varied, and well-chosen. Some are stated briefly but the range is impressive. Quality: 0.65"
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The answer lists points but doesn't deeply analyze the tension between regulation and facilitation, or how reason might conflict with political pressure in practice. The ethical theories section names Kant, Mill, and Aristotle but doesn't actually apply them to the specific welfare scheme context in any meaningful way -- they are namedrops. No counterarguments explored (e.g., when excessive critical thinking leads to analysis paralysis). Quality: 0.40"
+          },
+          "presentation": {
+            "score": 0.2,
+            "justification": "Extreme word limit violation: approximately 550+ words vs 150 required. The answer reads like a coaching institute model answer designed for display, not exam conditions. Formulaic structure (body + ethical theories + quotes + conclusion) is a template, not organic writing. The appended 'Relevant Quotes' section is padding. Language is clear but generic. Quality: 0.20"
+          }
+        },
+        "total_score": 5.6,
+        "max_marks": 10,
+        "brief_feedback": "Strong factual content with excellent, specific examples (Bundelkhand MGNREGA, SECC-PMAY, Aadhaar-PDS Chhattisgarh). The answer genuinely justifies the statement. However, it is grossly over word limit (550+ vs 150 words), includes a likely fabricated Kant quote, pads with general welfare scheme descriptions, and appends formulaic ethical theory namedrops. The analytical engagement is shallow -- listing rather than analyzing. A strong answer buried under coaching-institute template bloat."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_4b",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer covers Mahavira's five major teachings (Pancha Mahavrata: Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha) and links each to contemporary relevance. Examples include Gandhi's freedom struggle, whistleblowers, climate movements, digital detox, and anti-plagiarism policies. Ethical theories (Aristotle, Kant) and quotes are appended.",
+        "analysis": "The content accurately covers all five Mahavrata, which is the expected core. The contemporary linkages are reasonable: connecting Ahimsa to conflict resolution, Aparigraha to sustainability, Brahmacharya to digital detox, and Asteya to intellectual property are creative and appropriate. However, the analysis lacks depth -- each teaching is stated and then linked to a modern parallel without exploring tensions or complexities. The attribution 'The more you own, the more you are owned' to Mahavira is likely inaccurate (this is a modern paraphrase, not a direct quote). The mention of 'Fig- Teachings of Mahavira' suggests a diagram reference that doesn't exist, which is confusing. The ethical theories section (Aristotle, Kant) is forced -- why apply Western ethical frameworks when the question is specifically about Jain philosophy? This reveals a template-driven approach. Word limit violation is again severe (500+ vs 150).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "All five Mahavrata correctly identified and described. Definitions are accurate. The Gandhi-Ahimsa connection is valid. However, the Mahavira quote attribution is likely inaccurate. The 'Fig' reference to a non-existent diagram is an error. The claim that Jain monks 'sweep the path' is accurate. Overall factually sound on core content but with minor inaccuracies. Quality: 0.60"
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Well-organized: teachings first, then contemporary relevance, then conclusion. The parallel structure (each teaching -> modern application) is effective and easy to follow. The intro provided in the question text flows naturally into the body. Better structured than some other answers in this batch. Quality: 0.60"
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "Examples are adequate but somewhat generic. Gandhi and Ahimsa is standard; whistleblowers for Satya is reasonable; climate movements for Aparigraha is valid. However, no specific data, case studies, or detailed illustrations. The examples are one-liners that illustrate but don't deepen. No reference to Jain community practices, Jain business ethics, or specific contemporary Jain institutions that embody these teachings. Quality: 0.50"
+          },
+          "analytical_depth": {
+            "score": 0.35,
+            "justification": "Shallow: each teaching is defined and then mapped to a modern parallel without exploring tensions. For example, how does absolute Ahimsa interact with the need for military defense? How does Aparigraha apply in an economy that depends on consumption? How does Brahmacharya relate to modern conceptions of individual freedom? None of these nuances are explored. The ethical theories section is particularly weak -- applying Kant and Aristotle to Mahavira's teachings is superficial and misses the opportunity to discuss Anekantavada (many-sidedness) which is itself a sophisticated analytical framework. Quality: 0.35"
+          },
+          "presentation": {
+            "score": 0.2,
+            "justification": "Severe word limit violation (500+ vs 150). 'Fig- Teachings of Mahavira' references a non-existent figure. Formulaic template (body + ethical theories + quotes + conclusion). Language is clear but generic coaching prose. Quality: 0.20"
+          }
+        },
+        "total_score": 5.15,
+        "max_marks": 10,
+        "brief_feedback": "Correctly covers all five Mahavrata with reasonable contemporary linkages. Structure is clear and parallel. However, analysis is superficial -- no exploration of tensions or complexities in applying ancient Jain principles to modern contexts. Missed opportunity to discuss Anekantavada. The forced Aristotle/Kant appendage is particularly inappropriate for a question about Jain philosophy. Severe word limit violation (500+ vs 150). References a non-existent figure. A competent but formulaic answer."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_5a",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer analyzes the statement on duty and perfection with reference to civil servants' sense of responsibility and personal fulfilment. It covers the philosophical understanding of the quote (duty as moral excellence, harmony of self and society, perfection through perseverance, freedom in responsibility), then sense of responsibility and personal fulfilment (trusteeship, accountability, meaning beyond metrics, resilience), and includes a challenges section (political pressure, target-ism, moral injury, value drift). Ethical theories and quotes are appended.",
+        "analysis": "This is the strongest answer in the batch. The inclusion of a 'Challenges' section demonstrates critical thinking that the other answers lack -- acknowledging that duty-devotion faces real obstacles (political pressure, moral injury, burnout, value drift) adds genuine nuance. The examples are well-chosen: E. Sreedharan for perseverance, RTI for accountability, Nishkama Karma for philosophical grounding. The 'moral injury and burnout' point is particularly mature and shows understanding of real civil service conditions rather than just idealistic platitudes. However, the same structural issues persist: massive word limit violation (500+ vs 150), formulaic ethical theory appendage, and template-driven formatting. The phrase 'vendor-specific procurement demands' as an example of political pressure is oddly specific and slightly out of place.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Strong content coverage. Nishkama Karma is correctly referenced and attributed to Gandhi/Gita tradition. E. Sreedharan as Delhi Metro architect is accurate. RTI and proactive disclosure are relevant. The challenges section adds content that directly addresses real civil service conditions. Philosophical grounding (Bhagavad Gita, Kantian deontology) is appropriate for this question. No factual errors detected. Quality: 0.70"
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Well-organized with four clear sections: understanding the quote, responsibility/fulfilment, challenges, and ethical theories. The progression from philosophical understanding to practical application to challenges is logical and effective. The challenges section in particular shows structural maturity -- it breaks the pattern of purely affirmative answers. Quality: 0.60"
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Good examples: E. Sreedharan, RTI proactive disclosure, Nishkama Karma, whistleblowers, PDS reforms. The challenges section adds grounded examples (chronic understaffing, punitive transfers for honest officers). However, examples are still stated in one-liners without deep development. No data or detailed case studies. Quality: 0.60"
+          },
+          "analytical_depth": {
+            "score": 0.55,
+            "justification": "The strongest analytical dimension across the batch. The challenges section (political pressure, outcome myopia, moral injury, value drift) shows genuine critical thinking rather than just affirmative listing. The tension between duty-devotion and systemic obstacles is acknowledged. The point about 'honest officers facing punitive transfers question whether duty pays' is a genuinely thoughtful observation. However, the analysis still doesn't fully explore the resolution of these tensions. Quality: 0.55"
+          },
+          "presentation": {
+            "score": 0.25,
+            "justification": "Severe word limit violation (550+ vs 150). Same formulaic template. However, the language is slightly more sophisticated than other answers in the batch, with phrases like 'moral injury' and 'value drift' showing vocabulary beyond generic coaching prose. Quality: 0.25"
+          }
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "The best answer in this batch, distinguished by the inclusion of a genuine 'Challenges' section that acknowledges political pressure, moral injury, burnout, and value drift in civil service. This critical dimension lifts the answer above the purely affirmative template of other answers. E. Sreedharan, Nishkama Karma, and RTI examples are well-chosen. However, the same structural problems persist: extreme word limit violation (550+ vs 150), formulaic ethical theory appendage, and bullet-point-list format rather than essay prose. A strong 150-word distillation of this content would score higher."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_5b",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses how civil servants should act as enablers/facilitators rather than regulators to achieve holistic development. It first argues why facilitation is better than regulation (red tape, colonial mindset, innovation, trust, inclusivity) and then provides specific measures (simplify procedures, capacity-building, technology, collaborative governance, ethical leadership). Ethical theories and quotes are appended.",
+        "analysis": "The answer addresses the question directly and provides specific measures as requested. The examples are practical and well-chosen: Telangana's MeeSeva, JAM trinity, Armstrong Pame, Gujarat's Chiranjeevi Yojana (though this is a somewhat dated reference), Kerala's participatory planning, Start-up India. The division into 'why facilitation over regulation' and 'specific measures' is logical. However, the answer falls into the same coaching template as the others. The 'specific measures' are somewhat generic (digitization, capacity building, technology, collaboration, ethical leadership) -- these could apply to almost any governance question. The answer doesn't grapple with the legitimate role of regulation (safety standards, environmental protection, financial oversight) or when being a regulator is actually the ethical choice. The Goethe quote is likely misattributed or paraphrased. Word limit violation is again extreme.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Content is relevant and mostly accurate. MeeSeva, JAM trinity, NRLM SHGs, Start-up India are factually correct references. Kerala's participatory planning is well-established. Gujarat's Chiranjeevi Yojana is a real scheme. The Goethe quote is likely a paraphrase/misattribution (the original quote is from a different source). Some content is generic enough to apply to any governance question, which reduces its specificity to this particular question. Quality: 0.60"
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clear two-part structure: why facilitation > regulation, then specific measures. This directly addresses the question's two-part demand. Logical flow from diagnosis to prescription. Better structural alignment with the question than some other answers. Quality: 0.60"
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Good range of examples: MeeSeva (Telangana), JAM trinity, Bihar dairy cooperatives, Gujarat Chiranjeevi Yojana, Armstrong Pame, Kerala participatory planning, Start-up India, Rajasthan Jan Sunwai. These are specific and varied across states and sectors. However, all stated in one-liners without depth. No data (e.g., how much did MeeSeva reduce processing time?). Quality: 0.55"
+          },
+          "analytical_depth": {
+            "score": 0.3,
+            "justification": "Weak analysis. The answer assumes facilitation is always superior to regulation without examining when regulation is necessary (environmental protection, consumer safety, financial markets, food safety). This one-sided treatment is a significant analytical gap. No discussion of the tension between deregulation and accountability, or how excessive facilitation might lead to regulatory capture. The ethical theories are namedrops without application. Quality: 0.30"
+          },
+          "presentation": {
+            "score": 0.2,
+            "justification": "Extreme word limit violation (500+ vs 150). Same formulaic template with ethical theories and quotes appended. Generic coaching prose. Quality: 0.20"
+          }
+        },
+        "total_score": 5.2,
+        "max_marks": 10,
+        "brief_feedback": "Addresses the question directly with practical measures and good state-level examples (MeeSeva, JAM trinity, Kerala participatory planning). Structure logically divides into 'why' and 'how'. However, the analysis is one-sided -- it treats regulation as entirely negative without acknowledging its legitimate role in safety, environment, and financial oversight. This is a significant analytical gap for a GS4 answer that should demonstrate nuanced ethical thinking. The specific measures (digitization, capacity-building, technology) are generic governance prescriptions. Extreme word limit violation (500+ vs 150) and formulaic template detract further."
+      }
+    ]
+  }
+]

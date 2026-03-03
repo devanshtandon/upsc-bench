@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs2_1",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer comprehensively lists corrupt practices under the RPA 1951 (bribery, undue influence, religious appeals, false statements, misuse of official machinery, expenditure limits) with case law for each, then analyzes whether disproportionate asset growth constitutes undue influence, concluding it does not unless linked to voter inducement.",
+        "analysis": "This is a very strong answer that addresses both parts of the question systematically. The enumeration of corrupt practices under Section 123 is accurate and well-supported with relevant case law (Rajendra Singh, Jamuna Prasad, Abhiram Singh, Indira Gandhi v. Raj Narain). The analytical portion correctly distinguishes between corruption under the Prevention of Corruption Act and electoral corruption under RPA, which is the crux of the question. The PUCL v. Union of India reference is apt. However, the answer massively exceeds the 150-word limit (approximately 550+ words), which is a serious deficiency in a real UPSC exam where time and space are strictly constrained. The answer reads more like a comprehensive note than a concise 150-word response. Some points are slightly repetitive (the enrichment-vs-electoral-malpractice distinction is made multiple times). The mention of 'Graph: Presidential Pardoning Powers under Article 72' appears to be an error or artifact that does not belong in this answer.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.4,
+            "justification": "All corrupt practices under RPA are correctly identified. Case law citations are accurate and relevant. The distinction between RPA and PCA is legally sound. The PUCL reference is appropriate. Minor issue: no mention of Section 123 sub-sections by number. The stray 'Graph' reference is an error but does not affect substantive accuracy."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Well-organized with clear intro-body-conclusion. The body is divided into two logical parts matching the two demands of the question. Sub-headings aid readability. However, the structure is overly elaborate for a 150-word question, resembling a 250-mark answer format rather than a concise short answer."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Excellent use of case law: Rajendra Singh, Jamuna Prasad, Abhiram Singh, Dr. Ramesh Yeshwant Prabhoo, Indira Gandhi v. Raj Narain, Ashok Chavan paid news, PUCL v. Union of India. Multiple specific examples elevate the quality significantly. This is a standout dimension."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Good analysis distinguishing between enrichment and electoral malpractice. Correctly identifies the nexus argument (assets used for inducements). Considers benami channels and ECI seizures. However, could have explored reform perspectives or comparative approaches more deeply."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Severely exceeds the 150-word limit at 550+ words. In a real UPSC exam, this would be penalized as it suggests poor time management and inability to be concise. The stray 'Graph' reference is an error. Language quality is otherwise good and professional."
+          }
+        },
+        "total_score": 7.8,
+        "max_marks": 10,
+        "brief_feedback": "Substantively excellent with strong case law and sound legal analysis. However, the massive word limit violation (550+ vs 150 words) and the stray 'Graph' artifact are significant demerits. A real UPSC examiner would appreciate the content but penalize the length. Needs drastic condensation to fit the format."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_2",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer explains the need for administrative tribunals (speed, specialization, reduced formalism, decentralization, relieving judiciary) and then assesses the Tribunals Reforms Act 2021, covering abolition of tribunals, centralization of appeals, uniform service conditions, and concerns about judicial overload and executive control.",
+        "analysis": "The answer addresses both parts of the question competently. The justification for tribunals is well-articulated with relevant examples (CAT, CCI, NGT). The assessment of the 2021 reforms is balanced, noting both intended efficiencies and criticisms. The Madras Bar Association v. Union of India (2021) citation is highly relevant and accurate. However, the answer again massively exceeds the 150-word limit (approximately 500+ words). The claim of '5 million cases pending as of 2025' is vague and likely understated (actual pendency in Indian courts exceeds 50 million). The constitutional basis (Articles 323A and 323B) is correctly cited. The answer could have been more analytical about whether rationalization actually improved outcomes versus merely shifting burden, rather than just listing points. Some examples feel generic (e.g., 'Film certification appeals shifted to High Courts increased pendency' lacks data backing).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Constitutional provisions (323A, 323B) correctly cited. Tribunals Reforms Act 2021 provisions accurately described. Madras Bar Association case is relevant. However, the pendency figure of '5 million cases' is factually incorrect - Indian court pendency exceeds 50 million. The list of abolished tribunals is accurate. The claim about Film certification appeals increasing pendency is asserted without evidence."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Clear two-part structure matching the question's demands: need for tribunals followed by impact of 2021 reforms. Logical progression within each section. Good use of sub-headings. Conclusion ties the themes together. Overly long for the word limit but internally coherent."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Good examples: CAT, CCI, NGT, and the Madras Bar Association case. However, several examples are somewhat generic or lack specificity. No data on actual disposal rates of tribunals vs courts. The Film Certification and Airport tribunals are named but their merger outcomes are not substantiated with evidence."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Presents a balanced view of pros and cons of rationalization. Identifies the executive control debate, which is important. However, the analysis remains somewhat surface-level - it lists concerns without deeply evaluating whether rationalization achieved its stated objectives. No mention of Law Commission recommendations or parliamentary committee reports."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Massively exceeds the 150-word limit at 500+ words. Language is clear and professional. Would be penalized heavily in a real exam for length. Otherwise well-written with appropriate legal terminology."
+          }
+        },
+        "total_score": 7.0,
+        "max_marks": 10,
+        "brief_feedback": "Competent coverage of both tribunal justification and 2021 reform assessment. The factual error on court pendency (5 million vs actual 50+ million) and the excessive length are significant weaknesses. Analysis could go deeper into outcomes rather than listing pros and cons. Good use of the Madras Bar Association precedent."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_3",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer provides a detailed comparative analysis of pardoning powers in India (Articles 72 and 161) and the USA (Article II, Section 2), covering scope, discretionary nature, judicial review, offences covered, and checks and balances. It also defines preemptive pardons with the Ford-Nixon example and notes their absence in Indian jurisprudence.",
+        "analysis": "This is a well-structured comparative answer that addresses all three demands of the question: comparison, limits, and preemptive pardons. The constitutional provisions are correctly cited on both sides. Key case law is relevant: Maru Ram (1980), Epuru Sudhakar (2006), Ex parte Garland (1866). The Ford-Nixon pardon is the correct textbook example for preemptive pardons. The distinction between India's cabinet-driven, reviewable system and America's personal, near-absolute power is clearly drawn. However, the answer again far exceeds 150 words (approximately 550+ words). There is a stray 'Graph: Presidential Pardoning Powers under Article 72' line that appears to be an artifact or formatting error. The answer could have mentioned more recent US pardon controversies (Trump pardons, Biden's pardon of his son Hunter) to demonstrate contemporary relevance. The claim that Indian pardons cannot be 'preemptive' could have been explored more critically given that Article 72 refers to 'conviction' and 'sentence' but the text is not entirely settled.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.4,
+            "justification": "Constitutional provisions accurately cited for both India and USA. Case law (Maru Ram, Epuru Sudhakar, Ex parte Garland) is correct and relevant. The scope of pardoning powers is accurately described. The Ford-Nixon preemptive pardon example is correctly stated. Minor issue: the answer says Governors cannot pardon death sentences under Article 161, which is correct per Supreme Court interpretation but could have been nuanced further. The stray 'Graph' line is an artifact but does not affect content accuracy."
+          },
+          "structure_flow": {
+            "score": 1.7,
+            "justification": "Excellent comparative structure with parallel treatment of India and USA across multiple dimensions. The question has three sub-demands (compare, limits, preemptive pardons) and all three are addressed in a logical sequence. The tabular comparison approach (a/b format) is effective for this type of question."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Good case law coverage: Maru Ram, Epuru Sudhakar, Ex parte Garland, Ford's pardon of Nixon. However, could have included more recent examples (Biden pardoning Hunter Biden, Trump's pardons) and the Kehar Singh case on presidential review of pardons. The Indian side has slightly more examples than the US side."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Good analytical framing: parliamentary vs presidential system as the underlying reason for differences. Identifies the key tension between mercy and rule of law. However, does not explore the philosophical basis of clemency or the democratic accountability critique of presidential pardons in depth."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Severely exceeds 150-word limit at 550+ words. The stray 'Graph' line is an artifact that detracts from presentation. Language is otherwise professional and clear. Comparative format is well-executed but far too long for the word limit."
+          }
+        },
+        "total_score": 7.7,
+        "max_marks": 10,
+        "brief_feedback": "Strong comparative answer with accurate constitutional references and case law on both Indian and US pardoning powers. Preemptive pardons well-explained with the Ford-Nixon example. The stray 'Graph' artifact and massive word limit overshoot are significant presentation issues. Could benefit from more recent examples and deeper philosophical analysis."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_4",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer discusses the nature of the J&K Legislative Assembly post-2019 reorganization (UT with legislature, limited autonomy, unicameral structure, LG as head) and then enumerates its powers and functions (legislative, financial, executive control, electoral role, deliberative, residual powers).",
+        "analysis": "The answer covers the relevant constitutional and legal framework well. The reference to Article 239A, the comparison with Delhi and Puducherry, and the abolition of the Legislative Council are all accurate and important points. The distinction between reserved subjects (public order, police) and the Assembly's legislative domain is correctly stated. The point about J&K MLAs being part of the Presidential Electoral College (unlike Delhi/Puducherry) is a nuanced and accurate point that demonstrates good knowledge. However, the seat increase claim (from 107 to 114) needs verification - the actual number post-delimitation is 90 seats (plus 24 reserved for PoK), not 114. This is a notable factual error. The answer again exceeds the word limit substantially (500+ vs 150 words). The analysis is somewhat descriptive rather than critically evaluating the implications of the reorganization. The land law amendment example (2020) is relevant but the phrasing 'despite Assembly absence' conflates the absence of an elected Assembly with the legal framework.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Core framework is correct: UT with legislature under Article 239A, LG's discretionary powers, unicameral structure, reserved subjects. The point about Presidential Electoral College participation is accurate and demonstrates nuanced knowledge. However, the seat number claim (107 to 114) appears factually incorrect - post-delimitation J&K Assembly has 90 seats. The characterization of the pre-2019 Assembly having 107 seats conflates the erstwhile bicameral structure. This factual error on a central detail is significant."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Well-organized with clear two-part structure matching the question: nature of the Assembly followed by powers and functions. Logical sub-headings under each section. Introduction and conclusion frame the discussion effectively. Too long for the word limit but internally well-structured."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Limited specific examples. The land law amendment reference (2020) is relevant but vague. No mention of the specific elections held in 2024 or the political dynamics post-reorganization. No reference to the Supreme Court judgment in In Re: Article 370 (2023) which upheld the reorganization. Compared to other answers in this batch, examples are fewer and less specific."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The answer is largely descriptive, listing features and powers without deeply analyzing the democratic deficit created by the reorganization. Does not discuss the political implications, the statehood restoration promise, or the tension between Union control and local aspirations in a meaningful analytical way. The conclusion gestures at this but without depth."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds 150-word limit substantially at 500+ words. Language is clear and professional. The term 'sovereign state legislature' in the conclusion is technically imprecise (Indian states are not sovereign). Otherwise well-presented."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Covers the reorganization framework adequately but the factual error on seat numbers is significant. The answer is too descriptive and lacks critical analysis of the democratic implications of UT status. Missing the key Supreme Court judgment on Article 370 (2023) is a gap. The Presidential Electoral College point is a good nuanced touch. Needs condensation and more analytical depth."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_5",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer discusses the Attorney General of India's constitutional position under Article 76, covering responsibilities (legal advisor, court representation, defender of legislation, presidential reference functions, policy advisory role), rights (audience in all courts, parliamentary participation, MP privileges), and limitations (no executive authority, private practice restrictions, no voting power, tenure at pleasure, non-binding opinions).",
+        "analysis": "The answer systematically addresses all three demands of the question: responsibilities, rights, and limitations. The constitutional basis (Article 76, Article 88) is correctly cited. The examples are well-chosen: Article 370 opinion, Kesavananda Bharati, NJAC case, Aadhaar/Puttaswamy case. These demonstrate the AGI's role across different eras and issues. The limitations section is particularly well-handled, identifying the private practice convention, lack of voting rights, and tenure vulnerability. However, the answer again far exceeds the word limit (450+ vs 150). The claim about 'restrictions on private practice' being 'by convention' is mostly accurate but could note that no statutory bar exists, only conventions and self-imposed restrictions. The answer does not mention any controversies or tensions in the AGI's role (e.g., perceived conflict between advising the government and appearing in court as amicus curiae). The Article 143 reference under 'duties assigned by President' is slightly misframed - Article 143 concerns Presidential references to the Supreme Court, not directly the AGI's function, though the AGI does appear in such references.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "Article 76 and Article 88 correctly cited. Responsibilities, rights, and limitations are all accurately described. The examples (Kesavananda Bharati, NJAC, Puttaswamy/Aadhaar, Article 370) are factually correct. Minor imprecision: Article 143 is about Presidential references to the Supreme Court, not a direct function of the AGI per se, though the AGI does appear in such proceedings. The private practice convention is correctly identified as conventional rather than statutory."
+          },
+          "structure_flow": {
+            "score": 1.7,
+            "justification": "Excellent three-part structure directly mapping to the question's demands: responsibilities, rights, limitations. Each section has clear sub-points. Introduction and conclusion are well-crafted. The logical flow is clear and easy to follow. Perhaps the best-structured answer in this batch."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Strong examples: Article 370 opinion, Kesavananda Bharati, NJAC case, Aadhaar/Puttaswamy. These span different time periods and constitutional issues. However, could have included more recent AGI-specific examples (e.g., specific AGIs and their tenures, or the controversy around dual roles). No mention of any Law Commission report or reform proposal."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The answer is largely descriptive, listing responsibilities/rights/limitations without analyzing tensions. Does not explore the inherent conflict in the AGI's position (advising government while being expected to uphold constitutional values), the comparison with UK Attorney General, or the debate about codifying private practice restrictions. The conclusion mentions reforms but does not develop the argument."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds 150-word limit substantially at 450+ words. Language is professional and clear. Legal terminology is used appropriately. Well-organized visually with sub-headings. But the length issue remains a persistent problem across all answers in this batch."
+          }
+        },
+        "total_score": 7.3,
+        "max_marks": 10,
+        "brief_feedback": "Well-structured answer that systematically addresses all three dimensions (responsibilities, rights, limitations) with accurate constitutional references and good case examples. However, like all answers in this batch, it far exceeds the word limit. The analysis is more descriptive than critical - lacks exploration of inherent tensions in the AGI's role or comparative perspectives. The Article 143 reference is slightly misframed."
+      }
+    ]
+  }
+]

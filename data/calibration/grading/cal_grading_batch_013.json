@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs4_1a",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses ethical dilemmas of social media by listing issues (misinformation, harassment, privacy erosion, mental health, algorithmic bias) and then identifying specific dilemmas (free speech vs safety, anonymity vs accountability, digital innovation vs exclusion, global vs local norms, algorithmic efficiency vs ethics). It includes relevant examples, ethical theories (Kant, Mill, Rawls), and quotes. The answer is well-structured with clear categorisation but massively exceeds the 150-word limit at approximately 450+ words.",
+        "analysis": "Content is factually accurate and comprehensive — the answer covers the major ethical issues around social media thoroughly. However, for a 10-mark, 150-word question, this answer is grotesquely over-length, which is a serious presentation flaw in UPSC Mains. The content itself reads like a coaching institute template: formulaic point-example-theory-quote structure that hits all the boxes mechanically rather than demonstrating genuine analytical thinking. The ethical theories and quotes feel bolted on rather than organically integrated. The distinction between 'ethical issues' and 'ethical dilemmas' is a good structural choice, but the sheer volume dilutes rather than sharpens the argument. A real examiner would penalise this for being unfocused and unable to prioritise within the word limit. The examples are appropriate but predictable (Cambridge Analytica, COVID misinformation). No particularly original insight is offered.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Factually accurate throughout. Covers all major ethical dimensions — misinformation, privacy, harassment, mental health, algorithmic bias. The distinction between 'issues' and 'dilemmas' is conceptually sound. However, breadth comes at the cost of depth; many points are surface-level assertions rather than substantive analysis. Some points overlap (algorithmic bias appears in both sections). Still, the factual coverage is strong for a GS4 answer."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear intro-body-conclusion structure with logical categorisation into issues, dilemmas, theories, and quotes. The two-part body (issues vs dilemmas) is a good organisational choice. However, the structure is rigidly formulaic — it reads like a template rather than a tailored response. The answer does not flow as a coherent argument; it is a list of points. The conclusion is decent but generic."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Every point has a concrete example, which is commendable. Cambridge Analytica, COVID misinformation on WhatsApp, YouTube recommendation algorithm, migrant workers during COVID — all are relevant and specific. However, the examples are predictable coaching-institute staples. No data points, no constitutional references (Art. 19, 21 would be relevant), no committee references (Srikrishna Committee on data protection). Examples are stated rather than analysed."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "This is the weakest dimension. Despite listing 'ethical dilemmas,' the answer does not actually wrestle with the tension inherent in any of them. Each dilemma is stated as a one-liner with an example but never truly analysed — what makes the dilemma hard? What are the competing values? The ethical theories are appended mechanically rather than used to reason through the dilemmas. No original perspective or critical analysis is offered."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "The answer is approximately 3x the 150-word limit, which is a significant penalty in UPSC Mains. Examiners expect candidates to demonstrate the ability to be concise and prioritise. The language is clear but generic. Bullet-point format is acceptable for GS4 but the sheer volume of points makes the answer feel unfocused. The formulaic point-example-theory-quote template is a coaching-institute hallmark that experienced examiners recognise and may penalise."
+          }
+        },
+        "total_score": 6.3,
+        "max_marks": 10,
+        "brief_feedback": "Comprehensive coverage but fundamentally a list-based answer that substitutes volume for depth. The 3x word limit violation is a serious flaw. Ethical dilemmas are named but never genuinely analysed — the answer tells the examiner what the dilemmas are but never engages with why they are difficult or how they might be resolved through ethical reasoning. The appended theories and quotes feel decorative rather than functional. A strong 45-55th percentile answer that would score adequately but not distinguish itself."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_1b",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines constitutional morality's significance for public servants through five points (rule of law, discretion, safeguarding institutions, social justice, role modelling) and its role in governance and accountability through five more points (transparency, preventing arbitrary power, ethical decision-making, citizen-centric governance, whistleblowing). Includes ethical theories (Kant, Aristotle, Rousseau), quotes, and a polished conclusion. Massively exceeds the 150-word limit at approximately 500+ words.",
+        "analysis": "This is a well-organised coaching-model answer that covers constitutional morality competently. The Ambedkar quote is essential and correctly placed. The examples are mostly good — Armstrong Pame, Ashok Khemka, Section 66A strike-down, RTI implementation — though some are generic. The answer correctly links constitutional morality to both the spirit of governance (not just letter of law) and accountability mechanisms. However, it suffers from the same fundamental flaw as 1a: it is a template-driven list that prioritises coverage over depth. The answer never truly 'examines' constitutional morality — it asserts its importance through bullet points. There is no discussion of tensions (e.g., when constitutional morality conflicts with democratic majority will, as in Sabarimala or Section 377). The ethical theories are again appended rather than integrated. The word limit violation is extreme.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.9,
+            "justification": "Factually strong. The Ambedkar quote is accurately attributed and contextually appropriate. The distinction between 'rule of law' and 'rule by law' is a sophisticated point. References to Section 66A, RTI, FRA, Armstrong Pame, and Ashok Khemka are factually correct. The answer correctly identifies the key dimensions of constitutional morality — fairness, accountability, restraint of power, inclusion. No factual errors detected. Slightly better than 1a because the examples are more varied and specific to public administration."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear structure with the two-part body addressing (1) significance for public servants and (2) role in governance/accountability. This maps well to the question's dual ask. Intro uses the Ambedkar quote effectively. Conclusion is well-crafted. However, the structure is again rigidly formulaic — 5+5 points, then theories, then quotes. It does not read as a flowing argument but as an organised checklist."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Good variety of examples: Armstrong Pame (grassroots), Ashok Khemka (whistleblowing), Section 66A (judicial), RTI (legislative), Digital India (programmatic). Constitutional references are present but could be stronger — Art. 14, 15, 16, 21, 48A, Part IV, Part IVA could all be referenced. No committee or commission references (2nd ARC, Hota Committee). Examples are relevant but stated rather than analysed in depth."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The answer asserts the importance of constitutional morality but does not critically examine it as the question demands. There is no engagement with hard cases — what happens when constitutional morality conflicts with popular morality (Sabarimala, Section 377, Ayodhya)? How does a civil servant navigate when political masters invoke democratic mandate against constitutional principles? These tensions are where genuine analysis would shine, but the answer avoids them entirely. The ethical theories are decorative."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Approximately 3.5x the 150-word limit — the most severe over-length answer so far. Language is polished but formulaic. The conclusion is eloquent ('invisible thread that binds power with accountability') but such flourishes across 500+ words suggest inability to be concise. UPSC examiners would view this as a candidate who cannot prioritise."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "A competent, well-researched answer that demonstrates strong knowledge of constitutional morality and its practical applications. However, it substitutes exhaustive listing for genuine examination. The question asks to 'examine' — which implies critical engagement with tensions, limitations, and complexities — but the answer only asserts positive significance. The extreme word limit violation and formulaic coaching-institute structure prevent this from scoring higher. A solid but unremarkable answer that sits in the adequate-to-good range."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_2a",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer critically analyses Clausewitz's dictum by presenting five points supporting its contemporary relevance (Russia-Ukraine, US-Syria, Yemen proxy wars, China-Taiwan, Israel-Gaza) and five points highlighting its limitations (moral erosion, economic interdependence, cyber warfare, international law, democratic accountability). Includes ethical theories (Just War Theory, Utilitarianism) and quotes (Einstein, Chamberlain). Exceeds 150-word limit significantly at approximately 450+ words.",
+        "analysis": "This is a reasonably well-structured critical analysis that does fulfil the 'critically analyse' directive by presenting both sides — contemporary relevance and limitations. The examples are current and geopolitically relevant. However, this is a GS4 (Ethics) paper question, and the answer treats it primarily as a GS2 (International Relations) question. The ethical dimension is underdeveloped — the answer should focus more on the ethics of war, moral responsibility of states, civilian protection, proportionality, and the moral framework for evaluating when force is justified. The Just War Theory reference is appropriate but barely explored. The answer also has a factual issue: the original Clausewitz quote is 'War is the continuation of politics by other means,' not 'diplomacy by other means' — though the question itself uses 'diplomacy,' so the candidate correctly works with the question's framing. The balance between relevance and limitations is well-maintained.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.5,
+            "justification": "Factually accurate geopolitical examples: Russia-Ukraine, US-Syria, Yemen proxy war, China-Taiwan, Israel-Gaza are all correctly described. The distinction between conventional and hybrid/cyber warfare is relevant. However, the answer under-serves the ethical content expected on a GS4 paper. Key ethical concepts are missing: proportionality in war, non-combatant immunity, moral responsibility of political leaders, ethics of drone warfare, responsibility to protect (R2P). The answer is more IR than Ethics. Clausewitz's actual position is more nuanced than presented."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "The two-part structure (relevance vs limitations) maps well to 'critically analyse' and creates a balanced argument. The flow from supporting to challenging the quote is logical. The conclusion synthesises both sides effectively. This is one of the better-structured answers in the batch. However, the formulaic 5+5 point structure is still visible, and the transition between sections could be smoother."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Strong, current examples: Russia-Ukraine, US-Syria airstrikes bypassing UNSC, Iran-Saudi proxy war in Yemen, China-Taiwan tensions, Israel-Gaza. The Syria civilian death toll (300,000) provides a data point. Reference to the UN Charter is appropriate. However, no reference to specific ethical frameworks beyond Just War Theory — Geneva Conventions, ICC, R2P doctrine, Nuremberg principles would strengthen the answer. Examples are stated rather than deeply analysed."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Better analytical balance than the previous answers — the answer genuinely engages with both sides of the argument. The point about economic interdependence reducing war appetite shows systemic thinking. The cyber/hybrid warfare point adds a modern dimension. However, the analysis remains surface-level — each point is a one-liner assertion with an example rather than a developed argument. The ethical analysis is thin: Just War Theory is mentioned but not applied to any specific case. How would a utilitarian vs deontological framework evaluate Russia's invasion differently? This kind of engagement is missing."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Approximately 3x the 150-word limit. Same formulaic coaching structure. Language is clear and professional. The quotes are relevant (Einstein on peace, Chamberlain on war). However, the word limit violation remains a significant presentation issue. The answer would benefit enormously from being condensed to 150 words with 3-4 well-developed points instead of 10 shallow ones."
+          }
+        },
+        "total_score": 6.2,
+        "max_marks": 10,
+        "brief_feedback": "A balanced critical analysis with strong geopolitical examples, but insufficiently grounded in ethics for a GS4 paper. The answer reads more like a GS2 (International Relations) response than an Ethics response. Just War Theory, proportionality, moral responsibility, and civilian protection deserve far more attention. The word limit violation and formulaic structure are persistent weaknesses. The analytical balance between relevance and limitations is the answer's strongest feature."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_2b",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines ethical dilemmas in environmental clearance for border development projects, identifying five dilemmas (security vs environment, short-term vs long-term, human lives vs ecological rights, economic development vs livelihoods, legal mandates vs political pressures) and five solutions (integrated assessments, sustainable engineering, community consent, phased clearances, compensatory restoration). Includes ethical theories and quotes. Approximately 450+ words, well exceeding the 150-word limit.",
+        "analysis": "This is perhaps the strongest answer in the batch. The question is inherently about ethical dilemmas, and this answer actually identifies genuine tensions rather than just listing issues. The Char Dham project, Dzongu hydropower affecting Lepcha communities, and red panda habitat loss in Sikkim are specific, well-chosen examples rooted in Indian geography and governance reality. The five solutions section adds practical value. The reference to FPIC, FRA, PESA, and Art. 48A shows constitutional awareness. However, the answer still suffers from the coaching-model formula of exhaustive listing. The 'solutions' section, while useful, was not asked for — the question asks to 'examine ethical dilemmas,' not propose solutions. This suggests the candidate is following a template rather than responding to the specific question. The ethical theories are again appended rather than woven into the analysis.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Strong factual grounding. The Char Dham project, Dzongu-Lepcha issue, Arunachal deforestation, red panda habitats in Sikkim, and relaxed EIA norms in Himalayan projects are all factually accurate and highly relevant. The reference to Art. 48A, FRA, PESA, and FPIC demonstrates constitutional and legal awareness appropriate for GS4. The five dilemmas are genuinely distinct and well-framed. The solutions, while not asked for, are also factually sound (bio-engineering, satellite monitoring, compensatory afforestation). This is the most content-rich answer in the batch."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Well-organised with a clear two-part structure: dilemmas followed by solutions. Each dilemma is framed as a genuine tension (X vs Y format), which is structurally appropriate for a question about ethical dilemmas. Conclusion effectively synthesises. However, the solutions section, while well-written, is not responsive to the question's ask. The structure would be stronger if it devoted more space to examining the dilemmas in depth rather than pivoting to solutions. Still formulaic 5+5 template."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "The best examples in the batch. Char Dham project (nationally significant, contested), Dzongu-Lepcha (specific tribal rights issue), red panda habitats in Sikkim (biodiversity), relaxed EIA norms (policy-level). Constitutional references (Art. 48A) and legal frameworks (FRA, PESA, FPIC) add depth. Bio-engineering and satellite-based tracking show awareness of practical solutions. However, no specific committee references (Kasturirangan Committee on Western Ghats, Gadgil Committee) or Supreme Court judgments (Godavarman Thirumulpad case) that would elevate the answer further."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The X vs Y framing of each dilemma is a step in the right direction — it acknowledges genuine tensions. However, the analysis still does not go deep enough. For instance, the security vs environment dilemma could explore: who bears the cost (local tribals) vs who benefits (national security apparatus)? Is it ethical to sacrifice one community's livelihood for another's security? How does one weigh incommensurable values? These deeper questions are not explored. The ethical theories are stated but not applied to the specific dilemmas."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Approximately 3x the word limit. The trailing text from Q3 appearing at the end suggests copy-paste from a coaching material document, which is a presentation issue. Same formulaic coaching structure. Language is professional and clear. The 'Fig' reference in the question text suggests a diagram was intended but not present."
+          }
+        },
+        "total_score": 6.8,
+        "max_marks": 10,
+        "brief_feedback": "The strongest answer in the batch with genuinely relevant, India-specific examples and well-framed ethical dilemmas. Constitutional and legal references (Art. 48A, FRA, PESA, FPIC) elevate it above generic answers. However, the answer provides solutions that were not asked for, at the expense of deeper examination of the dilemmas themselves. The word limit violation and coaching-template structure remain persistent weaknesses. Would score well in a UPSC exam due to content quality but would not stand out as exceptional."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_3a",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer interprets Thiruvalluvar's quote on resilience through five points on the essence of the quote (mastery over emotions, resilience as moral virtue, transforming adversity, disarming suffering, moral stability) and five points on present-day relevance (crisis handling, mental health, public trust, social movements, global diplomacy). Examples include Gandhi, Mandela, Ambedkar, India-China standoff, and pandemic doctors. Approximately 450+ words, far exceeding the 150-word limit.",
+        "analysis": "This is a competent interpretation of the quote, but it reveals the coaching-model template at its most formulaic. The answer follows the exact same 5+5 structure as every other answer in the batch — 'Essence of the Quote' (5 points) + 'Relevance in the Present Context' (5 points) + Ethical Theories + Conclusion. The examples are appropriate but predictable (Gandhi, Mandela, Ambedkar are coaching-institute staples for any resilience/courage question). The Buddhist reference to upekkha is a good touch. However, the answer does not engage deeply with Thiruvalluvar's philosophy or the Tamil ethical tradition — it treats the quote generically as 'resilience is good' rather than exploring the specific philosophical claim that composure actively defeats adversity ('will trouble trouble itself'). The India-China standoff example is good for showing diplomatic resilience. The quote interpretation questions on GS4 require personal reflection and original thinking, which is largely absent here.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "The interpretation is broadly correct — the quote is about resilience, equanimity, and the power of composure. The examples are factually accurate: Gandhi's non-violent resistance, Mandela's 27-year imprisonment, Ambedkar fighting caste prejudice through constitutional means, India-China standoff, pandemic healthcare workers. The Buddhist concept of upekkha is correctly identified. However, the interpretation is generic — it treats the quote as equivalent to 'stay calm in adversity' without engaging with the deeper claim that composure actually defeats adversity. Thiruvalluvar's Tirukkural context and Tamil ethical tradition are not explored."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Same 5+5 template as all other answers. The division into 'Essence' and 'Relevance' is logical for a quote interpretation question. The conclusion is well-written. However, the formulaic structure is most damaging for this type of question — quote interpretations should feel personal, reflective, and essay-like rather than bullet-pointed. The examiner is looking for voice and perspective, not a checklist. The structure actively works against the answer's purpose."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Gandhi, Mandela, and Ambedkar are predictable examples for any quote about resilience — they demonstrate knowledge but not originality. The India-China standoff example is more distinctive. The Buddhist upekkha reference adds philosophical depth. However, there are no references to Thiruvalluvar's other kurals or the Tirukkural as a text, which would show genuine engagement with the thinker. No personal examples or contemporary Indian civil service examples beyond the generic 'district collector managing communal tension.' No data or specific case studies."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The weakest analytical performance in the batch. The answer asserts that resilience is important but never truly unpacks the philosophical claim in the quote — that composure doesn't just help you survive trouble, it actively defeats trouble ('will trouble trouble itself'). This is a specific causal claim about the mechanics of resilience that deserves exploration. How does composure disarm adversity? Through what psychological, social, or strategic mechanisms? The answer touches on this ('suffering loses its control when met with calmness') but never develops it. No critical perspective is offered — is the quote always true? Are there situations where equanimity is insufficient?"
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Approximately 3x the 150-word limit. The bullet-point format is particularly inappropriate for a quote interpretation question, which should ideally be written in flowing prose to demonstrate reflection and literary sensibility. Language is clean and professional. The conclusion is the strongest part, with some genuine eloquence ('grace under pressure, courage without aggression, and wisdom without arrogance')."
+          }
+        },
+        "total_score": 5.7,
+        "max_marks": 10,
+        "brief_feedback": "A formulaic interpretation that substitutes breadth of examples for depth of philosophical engagement. The quote's specific claim — that composure actively defeats adversity — is acknowledged but never truly analysed. The coaching-template structure (5+5 points) is most damaging for this type of question, which rewards personal reflection, original thinking, and engagement with the thinker's philosophical tradition. Gandhi-Mandela-Ambedkar examples are safe but predictable. The Buddhist upekkha reference and India-China standoff example show some range. Word limit violation and bullet-point format further reduce the score."
+      }
+    ]
+  }
+]

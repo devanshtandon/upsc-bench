@@ -1,0 +1,107 @@
+[
+  {
+    "question_id": "cal_gs4_10",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses a case study about Rajesh, a Group A officer facing ethical pressure from his reporting officer regarding procurement and ACR implications. It identifies three options (blind compliance, outright refusal with escalation, rule-compliant documentation), lists ethical issues, and recommends Option 3 with theoretical backing from Kant, Aristotle, and Weber.",
+        "analysis": "Strengths: The answer is well-structured with clear part-wise organization (a, b, c), stakeholder identification, pros-cons for each option, and a well-reasoned recommendation. The ethical issues are correctly identified—conflict of interest, misuse of authority, procedural integrity, retaliation fear, and precedent-setting. The recommendation of Option 3 (comply with rules while documenting) is sound and practical. Ethical theories are appropriately invoked. Weaknesses: The answer is massively over the 250-word limit—it runs well over 600 words, which would be heavily penalized in actual UPSC examination. The question text itself contains ambiguity (the scenario is somewhat convoluted), but the answer could have been much more concise. The pros-cons format, while thorough, is somewhat formulaic and mechanical—a coaching institute template rather than genuine analytical engagement. Some points are repetitive (integrity is mentioned multiple ways without adding depth). The examples are generic rather than drawn from real cases or precedents. The ethical theories feel appended rather than integrated into the analysis. The Lincoln quote is fine but the first quote is unattributed and generic. Overall, content is solid but the answer lacks the crispness and judgment that top examinees display.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.2,
+            "justification": "Core ethical issues correctly identified. GFR, ACR, DPC references are accurate. Options are relevant and cover the reasonable range. However, no factual depth beyond the case scenario itself—no real-world precedents, landmark cases, or CVC/CBI examples that would elevate content. The answer stays within the safe zone of general ethics vocabulary without demonstrating deep knowledge of administrative law or service rules."
+          },
+          "structure_flow": {
+            "score": 2.8,
+            "justification": "Well-organized with clear intro, stakeholder mapping, part-wise treatment (a, b, c), and conclusion. The pros-cons format is clean. However, the structure is overly templated—it reads like a coaching institute formula. The introduction and conclusion are generic. Logical flow within each section is adequate but not exceptional."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Examples are thin. The 'Eg:' entries under ethical issues are merely restating the issue, not providing external examples. No real-world cases of ACR manipulation, no reference to 2nd ARC recommendations on performance appraisal reform, no mention of Whistle Blowers Protection Act, no CVC guidelines on procurement integrity. Constitutional references are absent. The answer stays surface-level in its exemplification."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "Three options presented with pros-cons shows some analytical breadth, but the analysis is formulaic. The recommendation for Option 3 is well-reasoned but predictable. Ethical theories (Kant, Aristotle, Weber) are listed but not deeply integrated—they feel bolted on. No genuine tension is explored between competing values. The answer does not grapple with what happens if documentation fails to protect Rajesh, or the systemic issues that enable such pressure."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Grossly exceeds the 250-word limit—likely 650+ words. In UPSC Mains, this would attract significant penalty. Language is clear but not elegant. Bullet-point and label-heavy formatting feels more like coaching notes than an exam answer. Quotes at the end are a coaching staple that adds little value."
+          }
+        },
+        "total_score": 12.0,
+        "max_marks": 20,
+        "brief_feedback": "Competent but heavily formulaic coaching answer that identifies the right issues and recommends the right option. Major weaknesses: extreme word limit violation (likely 2.5x the limit), template-driven structure with shallow examples, and ethical theories bolted on rather than woven in. A real examiner would penalize the length severely. Content is adequate but lacks the crispness, real-world grounding, and analytical sharpness that distinguish top answers."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_11",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses a case study about a District Administrator discovering widespread MGNREGA mismanagement including fictitious payments, ghost projects, and fund siphoning. It covers reaction, specific corrective actions for each listed issue, overall approach, ethical theories, and relevant quotes.",
+        "analysis": "Strengths: The answer systematically addresses all seven issues listed in the question with specific remedial measures. The stakeholder identification is appropriate. The part-wise treatment (a, b, c) aligns with question structure. Concrete measures like biometric attendance, GPS-tagging, GIS verification, Aadhaar-seeding, and MIS reporting demonstrate awareness of modern governance tools. Real examples are provided—Bihar fake toilets case, Rajasthan Jan Soochna Portal, Andhra Pradesh social audit model. The mention of CCS(CCA) Rules and GFR shows procedural awareness. Weaknesses: The answer is enormously over the 250-word limit—likely exceeding 800 words. This is a disqualifying flaw in actual examination. The structure, while organized, is heavily coaching-template driven with the formulaic stakeholder-options-theories-quotes pattern. Some recommendations are repetitive across sections. The ethical theories section is mechanical and appended rather than integrated. The distinction between parts (a), (b), and (c) is blurred—'reaction,' 'actions,' and 'how to deal' overlap substantially. The Gandhian quote is accurate but overused in coaching answers. Some measures (like suspending fresh approvals) could be counterproductive for genuine beneficiaries who need employment. This trade-off is not discussed.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.6,
+            "justification": "Strong on factual content. MGNREGA provisions are correctly described. Remedial measures are appropriate and show understanding of district administration powers. References to CCS(CCA) Rules, GFR, social audit mechanisms, and MIS are accurate. The Bihar, Rajasthan, and AP examples are real and relevant. However, some key aspects are missing: CAG audit findings on MGNREGA, Mihir Shah Committee recommendations, the role of Ombudsman under MGNREGA, and the specific provisions of Section 25 and 27 of the Act regarding penalties."
+          },
+          "structure_flow": {
+            "score": 2.6,
+            "justification": "Organized with intro, stakeholder mapping, part-wise treatment, and conclusion. However, there is significant overlap between parts (a), (b), and (c)—the distinction between 'reaction,' 'actions to solve issues,' and 'how to deal' is artificial and leads to repetition. The template-driven structure (stakeholders, options, theories, quotes, conclusion) is mechanical. Conclusion is generic and preachy."
+          },
+          "depth_examples": {
+            "score": 2.8,
+            "justification": "Better than average on examples. Bihar fake toilets, Rajasthan Jan Soochna Portal, and AP social audit model are specific and relevant. Technology solutions (biometric, GPS, GIS, Aadhaar) show contemporary awareness. However, no statistical data on MGNREGA leakages (CAG has published specific figures), no reference to Supreme Court orders on MGNREGA implementation, and no mention of the role of State Employment Guarantee Council."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "The answer is more prescriptive than analytical. It lists solutions but does not deeply analyze why the mismanagement occurred (systemic issues, power dynamics at panchayat level, collusion between officials and contractors). No discussion of trade-offs—e.g., suspending sanctions may hurt genuine beneficiaries. The ethical theories are listed mechanically without genuine integration. Rawls' theory is mentioned but not applied in depth to the specific distributional justice questions the case raises."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Severely exceeds the 250-word limit—likely 850+ words. This would be heavily penalized in actual UPSC examination. The bullet-heavy format with 'Eg:' labels reads as coaching notes rather than a coherent exam answer. The Gandhian and Margaret Chase Smith quotes are fillers. Language is functional but not refined."
+          }
+        },
+        "total_score": 12.6,
+        "max_marks": 20,
+        "brief_feedback": "A comprehensive but bloated answer that covers all seven issues with appropriate remedial measures and includes real examples (Bihar, Rajasthan, AP). Content quality is above average for coaching material. However, the extreme word limit violation (likely 3x+), formulaic coaching template, blurred distinction between question parts, and lack of genuine analytical depth (why did mismanagement happen? what are the trade-offs?) prevent it from scoring higher. A good answer buried under excessive verbosity and template dependence."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_12",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses a complex border crisis case study involving a Divisional Commissioner dealing with 200-250 refugees (women, children, injured) and 10 armed soldiers attempting to cross into India from a conflict-torn neighboring country. It presents three options, identifies ethical-legal dilemmas, recommends allowing civilians while detaining soldiers, and lists precautionary measures for handling armed personnel.",
+        "analysis": "Strengths: The answer correctly identifies the central tension between humanitarian duty and national security. The three options cover the reasonable spectrum of responses. The recommendation (Option 2—allow civilians, detain/disarm soldiers) is sound and balanced. Ethical-legal dilemmas are well-articulated: humanitarian duty vs security, legal framework vs moral responsibility, immediacy vs procedure, neutrality vs politics. The mention of non-refoulement principle and Article 21 demonstrates legal awareness. Precautionary measures for soldiers (disarmament, segregation, identity verification, secure detention, central agency coordination) are practical and complete. Stakeholder mapping is thorough. Weaknesses: Again massively exceeds the 250-word limit—likely 900+ words including promotional spam at the end. The trailing promotional content (Telegram links, YouTube, Facebook, etc.) is obviously coaching institute marketing appended to the answer—unprofessional and irrelevant. The answer does not mention India's lack of a dedicated refugee law (mentioned in passing under dilemmas but not explored), the Foreigners Act 1946, the specific role of BSF/Assam Rifles in border management, or relevant precedents like the Rohingya refugee crisis handling. The ethics of care reference (Gilligan) feels superficial. The 'pros-cons' for each option, while systematic, is again formulaic. The answer does not adequately address the communication failure (unable to reach Home Secretary)—what interim authority does Ashok have? What does the Disaster Management Act or emergency provisions allow? These gaps weaken the legal grounding.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.0,
+            "justification": "Core issues correctly identified. Non-refoulement principle, Article 21, and the humanitarian-security balance are accurately presented. The three options cover the reasonable range. However, significant gaps: no mention of Foreigners Act 1946, no discussion of India's lack of refugee legislation, no reference to Rohingya/Chin/Tibetan refugee precedents, no mention of UNHCR's role, no discussion of Geneva Conventions regarding armed combatants seeking refuge. The communication failure angle (what powers does a Divisional Commissioner have independently?) is inadequately explored."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Organized with intro, stakeholder mapping, part-wise treatment (a-d), and conclusion. However, the answer includes promotional spam at the end (Telegram, YouTube, Facebook links) which is a significant negative if this were an actual answer submission—though it is clearly coaching website artifact. The four-part structure is clear but the formulaic template (stakeholders, options with pros-cons, theories, quotes) is mechanical. Parts (a) and (c) overlap since options and recommendation are naturally linked."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Weak on concrete examples. No reference to India's actual handling of refugee crises—Rohingya in 2017, Tibetan refugees since 1959, Sri Lankan Tamil refugees in 1980s-90s, Bangladesh 1971 crisis. These are directly relevant precedents that a strong answer would cite. No data on refugee numbers or border management statistics. The 'Eg:' entries are mostly just restating the point rather than providing external evidence. Article 21 reference is good but insufficiently developed."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "The humanitarian-security tension is stated but not deeply explored. What are the second-order consequences of each option? What if the soldiers are defectors seeking asylum rather than infiltrators? What if refusing them entry leads to violence at the border? The answer doesn't engage with these complications. The ethics of care (Gilligan) is mentioned but not meaningfully applied. The question of Ashok's independent authority in a communication blackout—a crucial analytical point—is glossed over."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Severely exceeds word limit—likely 900+ words before the promotional content. The trailing promotional spam (Telegram links, YouTube, social media) is highly unprofessional and would never appear in an actual exam answer—this is clearly copied from a coaching website. Even discounting the spam, the answer is far too long. Language is functional but formulaic. The duplicate line ('1. awaiting higher instructions, but may not fully resolve refugees' plight.') reveals poor editing."
+          }
+        },
+        "total_score": 10.8,
+        "max_marks": 20,
+        "brief_feedback": "The answer identifies the right framework (humanitarian duty vs national security) and recommends a sound course of action (admit civilians, detain soldiers). However, it suffers from extreme word limit violation, absence of crucial precedents (Rohingya, Tibetan, 1971 crises), inadequate exploration of the Divisional Commissioner's independent legal authority during communication failure, and a formulaic coaching template. The trailing promotional spam (social media links) is a significant negative. The answer would benefit enormously from being cut to 250 words with real-world examples replacing generic ethical theory recitations."
+      }
+    ]
+  }
+]

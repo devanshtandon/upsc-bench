@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs2_6",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer comprehensively covers how women's social capital advances empowerment and gender equity through SHGs, political participation, and norm change. It is well-structured with relevant examples but far exceeds the 150-word limit and reads more like a textbook enumeration than an analytical essay.",
+        "analysis": "The answer correctly identifies social capital dimensions — collective bargaining, credit access, political participation, and norm transformation — with accurate examples like Kudumbashree, NRLM SHGs, and Mahila Samakhya. However, it is excessively long (approximately 400+ words against a 150-word limit), which a strict examiner would penalize. The answer lists points mechanically under two sub-headings rather than weaving an integrated analytical argument about how social capital 'complements' other forms of capital. The examples are relevant but numerous to the point of superficiality — each gets one line with no depth. Analytical depth is weak: it does not critically examine limitations of social capital (elite capture, tokenism in SHGs, caste fragmentation within women's groups).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Facts are accurate and points relevant, but the answer over-enumerates without interrogating the 'complements' framing of the question."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear intro-body-conclusion structure but the two-part body with 5+5 bullet points is mechanical and list-heavy rather than argumentative."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Many relevant examples (Kudumbashree, SEWA, NRLM data) but each is superficially deployed in one line without substantive discussion."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Lacks critical analysis — no discussion of limitations, failures, or tensions within women's social capital networks."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Severely exceeds the 150-word limit by nearly 3x, which would be penalized in actual UPSC evaluation."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Factually strong and example-rich but excessively long, mechanically listed, and lacking the critical analytical depth that distinguishes a top-scoring answer."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_7",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer provides a thorough examination of technology-centric bias in Indian e-governance projects with relevant examples like Aadhaar and Bhoomi. It covers both the problem and solutions but is far too long and reads as an exhaustive catalog rather than a focused analytical essay.",
+        "analysis": "The answer correctly identifies the supply-driven, infrastructure-first orientation of Indian e-governance and provides apt examples — Aadhaar authentication failures, Bhoomi's neglect of farmer literacy, and UMANG as a corrective. The three-part structure (bias, consequences, solutions) is logical but results in excessive length (~500+ words against 150-word limit). The analysis of consequences is a genuine strength, showing cascading effects of tech bias. However, the answer includes a reference to a 'Fig: Goals of e-Governance' that is absent, which is sloppy. The 'towards user-centric' section feels like a policy brief rather than examination answer analysis. Critical depth is moderate — it could have engaged with why the bias persists (bureaucratic incentives, vendor lock-in, political signaling).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.9,
+            "justification": "Accurate identification of tech bias with correct examples, though the phantom figure reference and some generic points reduce quality."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Logical three-part structure but overly elaborate for a 150-word answer; the remedies section makes it feel like a policy paper."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Strong examples (Aadhaar, Bhoomi, UMANG, e-Choupal, CSCs) deployed with reasonable contextual relevance."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Identifies consequences well but does not probe structural causes of the tech bias (bureaucratic incentives, procurement dynamics)."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Massively exceeds word limit by over 3x and includes a reference to a non-existent figure, which is careless."
+          }
+        },
+        "total_score": 6.6,
+        "max_marks": 10,
+        "brief_feedback": "Well-researched with strong examples and logical flow, but grossly exceeds the word limit, includes a phantom figure reference, and lacks deeper structural analysis of why the bias persists."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_8",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer presents a balanced examination of why CSOs are perceived as anti-State while arguing they are fundamentally pro-democracy non-State actors. It covers both sides with relevant examples but is excessively long and analytically shallow despite its apparent comprehensiveness.",
+        "analysis": "The answer handles the 'agree or disagree' directive well by presenting both perspectives — five reasons for the anti-State perception and five counter-arguments. Examples are well-chosen: Narmada Bachao Andolan, FCRA cancellations of Greenpeace, SEWA, and Barefoot College effectively illustrate both sides. The constitutional reference (Article 19(1)(c)) adds legitimacy. However, the answer fails to take a clear, argued position — it hedges throughout and the conclusion ('pro-democracy') feels asserted rather than earned through the preceding analysis. The answer does not engage with the political economy of CSO-State relations or acknowledge that some CSOs genuinely are captured by political or foreign interests. At ~450 words, it vastly exceeds the 150-word limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Factually accurate with well-chosen examples covering both the anti-State perception and the constructive role of CSOs."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Balanced two-part structure with clear intro and conclusion, but the symmetrical 5+5 point format is mechanical and template-driven."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Strong range of examples (NBA, Greenpeace FCRA, SEWA, Barefoot College, Childline) spanning diverse domains of CSO activity."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Does not genuinely grapple with the tension — avoids discussing legitimate cases where CSOs act against national interest or are politically captured."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds word limit by approximately 3x; language is clear but the answer would lose marks for length in actual UPSC evaluation."
+          }
+        },
+        "total_score": 6.8,
+        "max_marks": 10,
+        "brief_feedback": "Balanced and example-rich but avoids taking a genuinely argued stance, relies on a mechanical template, and far exceeds the prescribed word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_9",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer covers India-Africa digital partnership across infrastructure, fintech, capacity building, e-governance, and private sector dimensions with relevant examples. It is comprehensive but uncritical, reading as promotional material rather than an analytical examination.",
+        "analysis": "The answer correctly identifies key pillars of India-Africa digital cooperation — the Pan-African e-Network, UPI/RuPay expansion, ITEC scholarships, e-VBAB, and Airtel Africa. The second section on 'mutual respect and co-development' addresses the specific framing of the question. However, the answer is entirely one-sided and reads like an MEA briefing note — it does not acknowledge any challenges (implementation gaps in Pan-African e-Network, India's own digital divide undermining credibility, competition from China's Digital Silk Road, or African criticism of Indian firms' labor practices). The CoWIN adoption claim needs verification. The conclusion's reference to a 'just, multipolar digital order' is aspirational rhetoric. At ~450 words, it severely exceeds the 150-word limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Mostly accurate but some claims (CoWIN adoption by South Africa, scale of NPCI-Africa MoUs) are presented without nuance or caveats."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized two-part structure directly addressing the question's framing of mutual respect and co-development."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Good range of examples (Pan-African e-Network, e-VBAB, Airtel Africa) but all are deployed uncritically without discussing outcomes or limitations."
+          },
+          "analytical_depth": {
+            "score": 0.3,
+            "justification": "Completely lacks critical perspective — no mention of challenges, competition from China, implementation failures, or African agency and criticism."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds word limit by approximately 3x; language is fluent but the promotional tone reduces credibility for an examination answer."
+          }
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Informative and well-structured but entirely uncritical — reads as diplomatic promotional material with no acknowledgment of challenges, competition, or implementation gaps."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_10",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer provides a comprehensive account of globalization's retreat and the rise of sovereign nationalism with strong contemporary examples spanning trade wars, Brexit, and digital sovereignty. It is the strongest answer in the batch analytically but still suffers from excessive length and some superficiality.",
+        "analysis": "This is the most analytically engaged answer in the batch. It correctly periodizes the post-Cold War era, identifies the structural drivers of globalization's retreat (2008 crash, pandemic, geopolitical rivalry), and links these to specific nationalist manifestations. Examples are well-chosen and contemporary: US-China tariffs, WTO dysfunction, Brexit, RCEP rejection, GDPR, and India's DPDP Act. The concept of 'selective globalization' in the conclusion shows genuine analytical thinking beyond mere description. However, the answer still lists rather than argues — it could have developed a tighter causal chain between economic dislocation and nationalist backlash. The equation of 'Make in India' with populist nationalism is debatable and unexamined. At ~500 words, it vastly exceeds the word limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "Factually accurate with strong contemporary examples, though equating 'Make in India' with populist nationalism is an oversimplification."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Well-organized two-part structure with clear periodization and a conclusion that advances a conceptual argument about selective globalization."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "Excellent range of contemporary examples (US-China trade war, Brexit, RCEP, GDPR, DPDP Act) with reasonable contextual deployment."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The 'selective globalization' framing shows genuine analytical thinking, but causal mechanisms linking economic crisis to nationalism remain underdeveloped."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Exceeds word limit by over 3x; despite strong language quality, this degree of overwriting would be penalized significantly."
+          }
+        },
+        "total_score": 7.3,
+        "max_marks": 10,
+        "brief_feedback": "The strongest answer in the batch with genuine analytical framing and excellent contemporary examples, but still mechanically listed and grossly exceeds the word limit."
+      }
+    ]
+  }
+]

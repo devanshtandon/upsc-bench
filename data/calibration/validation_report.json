@@ -1,0 +1,857 @@
+{
+  "summary": {
+    "total_answers_graded": 78,
+    "within_expected_range": 23,
+    "within_expected_range_pct": 29.5
+  },
+  "global_metrics": {
+    "mae_marks": 1.26,
+    "mae_pct": 9.8,
+    "mean_offset_marks": -1.15,
+    "mean_offset_pct": -8.8,
+    "median_offset_marks": -1.2,
+    "std_offset_marks": 0.99,
+    "interpretation": "Positive offset = judge scores higher than coaching expectation. Negative offset = judge scores lower."
+  },
+  "per_paper": {
+    "mains_gs1": {
+      "count": 20,
+      "mae": 1.45,
+      "mean_offset": -1.27,
+      "mean_offset_pct": -9.9,
+      "within_range_pct": 20.0
+    },
+    "mains_gs2": {
+      "count": 20,
+      "mae": 1.4,
+      "mean_offset": -1.19,
+      "mean_offset_pct": -8.0,
+      "within_range_pct": 35.0
+    },
+    "mains_gs3": {
+      "count": 20,
+      "mae": 0.88,
+      "mean_offset": -0.81,
+      "mean_offset_pct": -7.0,
+      "within_range_pct": 45.0
+    },
+    "mains_gs4": {
+      "count": 18,
+      "mae": 1.34,
+      "mean_offset": -1.34,
+      "mean_offset_pct": -10.3,
+      "within_range_pct": 16.7
+    }
+  },
+  "per_dimension": {
+    "content_accuracy": {
+      "mean_score": 3.3,
+      "std_score": 0.85,
+      "count": 78
+    },
+    "structure_flow": {
+      "mean_score": 1.66,
+      "std_score": 0.4,
+      "count": 78
+    },
+    "depth_examples": {
+      "mean_score": 1.69,
+      "std_score": 0.47,
+      "count": 78
+    },
+    "analytical_depth": {
+      "mean_score": 0.62,
+      "std_score": 0.24,
+      "count": 78
+    },
+    "presentation": {
+      "mean_score": 0.47,
+      "std_score": 0.17,
+      "count": 78
+    }
+  },
+  "recommendation": "NEGATIVE_BIAS",
+  "recommendation_detail": "Judge deflates scores by ~8.8 percentage points. Current AI scores may be conservative. Consider noting this in methodology.",
+  "per_question_results": [
+    {
+      "id": "cal_gs1_1",
+      "paper": "mains_gs1",
+      "q_num": 1,
+      "max": 10,
+      "judge": 7.1,
+      "expected_mid": 7.0,
+      "offset": 0.1,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs1_2",
+      "paper": "mains_gs1",
+      "q_num": 2,
+      "max": 10,
+      "judge": 7.5,
+      "expected_mid": 7.0,
+      "offset": 0.5,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs1_3",
+      "paper": "mains_gs1",
+      "q_num": 3,
+      "max": 10,
+      "judge": 6.4,
+      "expected_mid": 7.0,
+      "offset": -0.6,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_4",
+      "paper": "mains_gs1",
+      "q_num": 4,
+      "max": 10,
+      "judge": 7.8,
+      "expected_mid": 7.0,
+      "offset": 0.8,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_5",
+      "paper": "mains_gs1",
+      "q_num": 5,
+      "max": 10,
+      "judge": 7.3,
+      "expected_mid": 7.0,
+      "offset": 0.3,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs1_6",
+      "paper": "mains_gs1",
+      "q_num": 6,
+      "max": 10,
+      "judge": 4.8,
+      "expected_mid": 7.0,
+      "offset": -2.2,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_7",
+      "paper": "mains_gs1",
+      "q_num": 7,
+      "max": 10,
+      "judge": 5.9,
+      "expected_mid": 7.0,
+      "offset": -1.1,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_8",
+      "paper": "mains_gs1",
+      "q_num": 8,
+      "max": 10,
+      "judge": 5.5,
+      "expected_mid": 7.0,
+      "offset": -1.5,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_9",
+      "paper": "mains_gs1",
+      "q_num": 9,
+      "max": 10,
+      "judge": 4.0,
+      "expected_mid": 7.0,
+      "offset": -3.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_10",
+      "paper": "mains_gs1",
+      "q_num": 10,
+      "max": 10,
+      "judge": 5.5,
+      "expected_mid": 7.0,
+      "offset": -1.5,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_11",
+      "paper": "mains_gs1",
+      "q_num": 11,
+      "max": 15,
+      "judge": 8.9,
+      "expected_mid": 10.5,
+      "offset": -1.6,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_12",
+      "paper": "mains_gs1",
+      "q_num": 12,
+      "max": 15,
+      "judge": 9.9,
+      "expected_mid": 10.5,
+      "offset": -0.6,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs1_13",
+      "paper": "mains_gs1",
+      "q_num": 13,
+      "max": 15,
+      "judge": 8.1,
+      "expected_mid": 10.5,
+      "offset": -2.4,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_14",
+      "paper": "mains_gs1",
+      "q_num": 14,
+      "max": 15,
+      "judge": 9.5,
+      "expected_mid": 10.5,
+      "offset": -1.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_15",
+      "paper": "mains_gs1",
+      "q_num": 15,
+      "max": 15,
+      "judge": 7.4,
+      "expected_mid": 10.5,
+      "offset": -3.1,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_16",
+      "paper": "mains_gs1",
+      "q_num": 16,
+      "max": 15,
+      "judge": 9.0,
+      "expected_mid": 10.5,
+      "offset": -1.5,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_17",
+      "paper": "mains_gs1",
+      "q_num": 17,
+      "max": 15,
+      "judge": 8.7,
+      "expected_mid": 10.5,
+      "offset": -1.8,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_18",
+      "paper": "mains_gs1",
+      "q_num": 18,
+      "max": 15,
+      "judge": 7.9,
+      "expected_mid": 10.5,
+      "offset": -2.6,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_19",
+      "paper": "mains_gs1",
+      "q_num": 19,
+      "max": 15,
+      "judge": 9.1,
+      "expected_mid": 10.5,
+      "offset": -1.4,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs1_20",
+      "paper": "mains_gs1",
+      "q_num": 20,
+      "max": 15,
+      "judge": 9.2,
+      "expected_mid": 10.5,
+      "offset": -1.3,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_1",
+      "paper": "mains_gs2",
+      "q_num": 1,
+      "max": 10,
+      "judge": 7.8,
+      "expected_mid": 7.0,
+      "offset": 0.8,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_2",
+      "paper": "mains_gs2",
+      "q_num": 2,
+      "max": 10,
+      "judge": 7.0,
+      "expected_mid": 7.0,
+      "offset": 0.0,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs2_3",
+      "paper": "mains_gs2",
+      "q_num": 3,
+      "max": 10,
+      "judge": 7.7,
+      "expected_mid": 7.0,
+      "offset": 0.7,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_4",
+      "paper": "mains_gs2",
+      "q_num": 4,
+      "max": 10,
+      "judge": 6.5,
+      "expected_mid": 7.0,
+      "offset": -0.5,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs2_5",
+      "paper": "mains_gs2",
+      "q_num": 5,
+      "max": 10,
+      "judge": 7.3,
+      "expected_mid": 7.0,
+      "offset": 0.3,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs2_6",
+      "paper": "mains_gs2",
+      "q_num": 6,
+      "max": 10,
+      "judge": 6.5,
+      "expected_mid": 7.0,
+      "offset": -0.5,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs2_7",
+      "paper": "mains_gs2",
+      "q_num": 7,
+      "max": 10,
+      "judge": 6.6,
+      "expected_mid": 7.0,
+      "offset": -0.4,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs2_8",
+      "paper": "mains_gs2",
+      "q_num": 8,
+      "max": 10,
+      "judge": 6.8,
+      "expected_mid": 7.0,
+      "offset": -0.2,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs2_9",
+      "paper": "mains_gs2",
+      "q_num": 9,
+      "max": 10,
+      "judge": 6.0,
+      "expected_mid": 7.0,
+      "offset": -1.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_10",
+      "paper": "mains_gs2",
+      "q_num": 10,
+      "max": 10,
+      "judge": 7.3,
+      "expected_mid": 7.0,
+      "offset": 0.3,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs2_11",
+      "paper": "mains_gs2",
+      "q_num": 11,
+      "max": 15,
+      "judge": 8.41,
+      "expected_mid": 10.5,
+      "offset": -2.09,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_12",
+      "paper": "mains_gs2",
+      "q_num": 12,
+      "max": 15,
+      "judge": 8.01,
+      "expected_mid": 10.5,
+      "offset": -2.49,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_13",
+      "paper": "mains_gs2",
+      "q_num": 13,
+      "max": 15,
+      "judge": 8.25,
+      "expected_mid": 10.5,
+      "offset": -2.25,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_14",
+      "paper": "mains_gs2",
+      "q_num": 14,
+      "max": 15,
+      "judge": 9.17,
+      "expected_mid": 10.5,
+      "offset": -1.33,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_15",
+      "paper": "mains_gs2",
+      "q_num": 15,
+      "max": 15,
+      "judge": 7.4,
+      "expected_mid": 10.5,
+      "offset": -3.1,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_16",
+      "paper": "mains_gs2",
+      "q_num": 16,
+      "max": 15,
+      "judge": 7.7,
+      "expected_mid": 10.5,
+      "offset": -2.8,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_17",
+      "paper": "mains_gs2",
+      "q_num": 17,
+      "max": 15,
+      "judge": 8.4,
+      "expected_mid": 10.5,
+      "offset": -2.1,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_18",
+      "paper": "mains_gs2",
+      "q_num": 18,
+      "max": 15,
+      "judge": 7.8,
+      "expected_mid": 10.5,
+      "offset": -2.7,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_19",
+      "paper": "mains_gs2",
+      "q_num": 19,
+      "max": 15,
+      "judge": 8.6,
+      "expected_mid": 10.5,
+      "offset": -1.9,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs2_20",
+      "paper": "mains_gs2",
+      "q_num": 20,
+      "max": 15,
+      "judge": 7.9,
+      "expected_mid": 10.5,
+      "offset": -2.6,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_1",
+      "paper": "mains_gs3",
+      "q_num": 1,
+      "max": 10,
+      "judge": 6.1,
+      "expected_mid": 7.0,
+      "offset": -0.9,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_2",
+      "paper": "mains_gs3",
+      "q_num": 2,
+      "max": 10,
+      "judge": 6.7,
+      "expected_mid": 7.0,
+      "offset": -0.3,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_3",
+      "paper": "mains_gs3",
+      "q_num": 3,
+      "max": 10,
+      "judge": 5.8,
+      "expected_mid": 7.0,
+      "offset": -1.2,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_4",
+      "paper": "mains_gs3",
+      "q_num": 4,
+      "max": 10,
+      "judge": 6.7,
+      "expected_mid": 7.0,
+      "offset": -0.3,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_5",
+      "paper": "mains_gs3",
+      "q_num": 5,
+      "max": 10,
+      "judge": 6.5,
+      "expected_mid": 7.0,
+      "offset": -0.5,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_6",
+      "paper": "mains_gs3",
+      "q_num": 6,
+      "max": 10,
+      "judge": 5.3,
+      "expected_mid": 7.0,
+      "offset": -1.7,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_7",
+      "paper": "mains_gs3",
+      "q_num": 7,
+      "max": 10,
+      "judge": 6.0,
+      "expected_mid": 7.0,
+      "offset": -1.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_8",
+      "paper": "mains_gs3",
+      "q_num": 8,
+      "max": 10,
+      "judge": 5.7,
+      "expected_mid": 7.0,
+      "offset": -1.3,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_9",
+      "paper": "mains_gs3",
+      "q_num": 9,
+      "max": 10,
+      "judge": 6.0,
+      "expected_mid": 7.0,
+      "offset": -1.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_10",
+      "paper": "mains_gs3",
+      "q_num": 10,
+      "max": 10,
+      "judge": 5.5,
+      "expected_mid": 7.0,
+      "offset": -1.5,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_11",
+      "paper": "mains_gs3",
+      "q_num": 11,
+      "max": 15,
+      "judge": 10.1,
+      "expected_mid": 10.5,
+      "offset": -0.4,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_12",
+      "paper": "mains_gs3",
+      "q_num": 12,
+      "max": 15,
+      "judge": 9.9,
+      "expected_mid": 10.5,
+      "offset": -0.6,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_13",
+      "paper": "mains_gs3",
+      "q_num": 13,
+      "max": 15,
+      "judge": 10.1,
+      "expected_mid": 10.5,
+      "offset": -0.4,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_14",
+      "paper": "mains_gs3",
+      "q_num": 14,
+      "max": 15,
+      "judge": 9.0,
+      "expected_mid": 10.5,
+      "offset": -1.5,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_15",
+      "paper": "mains_gs3",
+      "q_num": 15,
+      "max": 15,
+      "judge": 9.3,
+      "expected_mid": 10.5,
+      "offset": -1.2,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_16",
+      "paper": "mains_gs3",
+      "q_num": 16,
+      "max": 15,
+      "judge": 10.7,
+      "expected_mid": 10.5,
+      "offset": 0.2,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_17",
+      "paper": "mains_gs3",
+      "q_num": 17,
+      "max": 15,
+      "judge": 8.5,
+      "expected_mid": 10.5,
+      "offset": -2.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs3_18",
+      "paper": "mains_gs3",
+      "q_num": 18,
+      "max": 15,
+      "judge": 10.6,
+      "expected_mid": 10.5,
+      "offset": 0.1,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_19",
+      "paper": "mains_gs3",
+      "q_num": 19,
+      "max": 15,
+      "judge": 10.9,
+      "expected_mid": 10.5,
+      "offset": 0.4,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs3_20",
+      "paper": "mains_gs3",
+      "q_num": 20,
+      "max": 15,
+      "judge": 9.5,
+      "expected_mid": 10.5,
+      "offset": -1.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_1a",
+      "paper": "mains_gs4",
+      "q_num": "1a",
+      "max": 10,
+      "judge": 6.3,
+      "expected_mid": 7.0,
+      "offset": -0.7,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_1b",
+      "paper": "mains_gs4",
+      "q_num": "1b",
+      "max": 10,
+      "judge": 6.5,
+      "expected_mid": 7.0,
+      "offset": -0.5,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs4_2a",
+      "paper": "mains_gs4",
+      "q_num": "2a",
+      "max": 10,
+      "judge": 6.2,
+      "expected_mid": 7.0,
+      "offset": -0.8,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_2b",
+      "paper": "mains_gs4",
+      "q_num": "2b",
+      "max": 10,
+      "judge": 6.8,
+      "expected_mid": 7.0,
+      "offset": -0.2,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs4_3a",
+      "paper": "mains_gs4",
+      "q_num": "3a",
+      "max": 10,
+      "judge": 5.7,
+      "expected_mid": 7.0,
+      "offset": -1.3,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_3b",
+      "paper": "mains_gs4",
+      "q_num": "3b",
+      "max": 10,
+      "judge": 5.05,
+      "expected_mid": 7.0,
+      "offset": -1.95,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_4a",
+      "paper": "mains_gs4",
+      "q_num": "4a",
+      "max": 10,
+      "judge": 5.6,
+      "expected_mid": 7.0,
+      "offset": -1.4,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_4b",
+      "paper": "mains_gs4",
+      "q_num": "4b",
+      "max": 10,
+      "judge": 5.15,
+      "expected_mid": 7.0,
+      "offset": -1.85,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_5a",
+      "paper": "mains_gs4",
+      "q_num": "5a",
+      "max": 10,
+      "judge": 6.0,
+      "expected_mid": 7.0,
+      "offset": -1.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_5b",
+      "paper": "mains_gs4",
+      "q_num": "5b",
+      "max": 10,
+      "judge": 5.2,
+      "expected_mid": 7.0,
+      "offset": -1.8,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_6a",
+      "paper": "mains_gs4",
+      "q_num": "6a",
+      "max": 10,
+      "judge": 6.5,
+      "expected_mid": 7.0,
+      "offset": -0.5,
+      "within_range": true
+    },
+    {
+      "id": "cal_gs4_6b",
+      "paper": "mains_gs4",
+      "q_num": "6b",
+      "max": 10,
+      "judge": 6.2,
+      "expected_mid": 7.0,
+      "offset": -0.8,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_7",
+      "paper": "mains_gs4",
+      "q_num": "7",
+      "max": 20,
+      "judge": 12.4,
+      "expected_mid": 14.0,
+      "offset": -1.6,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_8",
+      "paper": "mains_gs4",
+      "q_num": "8",
+      "max": 20,
+      "judge": 12.4,
+      "expected_mid": 14.0,
+      "offset": -1.6,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_9",
+      "paper": "mains_gs4",
+      "q_num": "9",
+      "max": 20,
+      "judge": 12.4,
+      "expected_mid": 14.0,
+      "offset": -1.6,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_10",
+      "paper": "mains_gs4",
+      "q_num": "10",
+      "max": 20,
+      "judge": 12.0,
+      "expected_mid": 14.0,
+      "offset": -2.0,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_11",
+      "paper": "mains_gs4",
+      "q_num": "11",
+      "max": 20,
+      "judge": 12.6,
+      "expected_mid": 14.0,
+      "offset": -1.4,
+      "within_range": false
+    },
+    {
+      "id": "cal_gs4_12",
+      "paper": "mains_gs4",
+      "q_num": "12",
+      "max": 20,
+      "judge": 10.8,
+      "expected_mid": 14.0,
+      "offset": -3.2,
+      "within_range": false
+    }
+  ]
+}

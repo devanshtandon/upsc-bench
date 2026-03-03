@@ -1,0 +1,207 @@
+[
+  {
+    "question_id": "cal_gs1_11",
+    "candidate_id": "coaching_model",
+    "max_marks": 15,
+    "summary": "The answer traces Jotirao Phule's contributions across multiple subaltern groups — women, Dalits/Shudras, peasants, workers, tribals, and widows — covering his educational reforms (girls' schools, night schools), anti-caste activism (Gulamgiri, Satyashodhak Samaj), agrarian writings (Shetkaryacha Asud), and his legacy through Ambedkar. It provides a comprehensive factual account with specific dates, institutions, and historical examples.",
+    "analysis": "The answer is factually sound and covers an impressive range of Phule's work across subaltern categories, which directly addresses the question's demand. Examples are historically accurate — the 1848 girls' school, Gulamgiri (1873), Satyashodhak Samaj, Balhatya Pratibandhak Griha, and Shetkaryacha Asud are all correctly cited. However, the answer reads more like a catalogue of facts than an analytical discussion. The question asks to 'discuss', which demands not just enumeration but engagement with how Phule's thought was interconnected, what made his approach distinctive compared to contemporaries like Ram Mohan Roy or Dayanand Saraswati, and the limitations of his reform efforts. The mention of tribals and Bhil struggles is slightly stretched — Phule's engagement with tribal communities was not a major documented thrust. The answer significantly exceeds the 250-word limit, which a real UPSC examiner would penalise. The structure is clear but formulaic — the coaching-institute format of numbered points with 'Eg:' tags, while organised, lacks the flowing argumentative prose that Mains examiners prefer.",
+    "dimension_scores": {
+      "content_accuracy": {
+        "weight_pct": 40,
+        "max_score": 6.0,
+        "score": 3.6,
+        "justification": "Core facts are correct and relevant: girls' school (1848), Gulamgiri (1873), Satyashodhak Samaj, Shetkaryacha Asud (1881), Balhatya Pratibandhak Griha. The claim about Phule's engagement with tribal/Bhil communities is somewhat overstated. Coverage is broad but the question asks to 'discuss' not just 'list'. The answer identifies the right subaltern categories but does not deeply interrogate Phule's philosophical framework or what made his approach uniquely holistic."
+      },
+      "structure_flow": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 1.8,
+        "justification": "Clear intro-body-conclusion structure with thematic sub-sections. However, the structure is excessively formulaic — numbered points with 'Eg:' tags read like coaching material, not like analytical prose expected in Mains. The sub-headings create a list-like feel rather than a flowing argument. An examiner would note the lack of argumentative thread connecting the sections."
+      },
+      "depth_examples": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 2.1,
+        "justification": "Good range of specific examples — Savitribai Phule, Gail Omvedt's scholarship, the 1856 Widow Remarriage Act connection, Ambedkar's acknowledgement. The examples are historically grounded and not generic. However, some examples are more decorative than substantive — e.g., 'Savitribai Phule's pioneering teaching work inspired later women reformers' adds little analytical value."
+      },
+      "analytical_depth": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.6,
+        "justification": "This is the answer's weakest dimension. There is almost no critical analysis — no discussion of limitations of Phule's reforms, no comparison with other contemporary reformers, no engagement with historiographical debates (e.g., Rosalind O'Hanley's work on Phule). The answer describes what Phule did but rarely explains why his approach was distinctive or what its impact actually was. The 'discuss' demand of the question is not met."
+      },
+      "presentation": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.8,
+        "justification": "Language is clear and competent. However, the answer massively exceeds the 250-word limit (easily 500+ words), which a real UPSC examiner would penalise. The coaching-institute formatting (numbered lists, 'Eg:' tags, bold headers) is not how Mains answers are typically written. Conciseness is lacking."
+      }
+    },
+    "total_score": 8.9,
+    "grade_rationale": "A solid descriptive answer that covers Phule's contributions across subaltern categories with accurate facts and good examples. However, it fails to 'discuss' in the analytical sense demanded by the question, reads as a catalogue rather than an argument, and grossly exceeds the word limit. In real UPSC grading, this would score in the adequate-to-good range — around 59% — reflecting strong content knowledge undermined by lack of analysis and poor word discipline."
+  },
+  {
+    "question_id": "cal_gs1_12",
+    "candidate_id": "coaching_model",
+    "max_marks": 15,
+    "summary": "The answer systematically traces India's post-independence consolidation across four dimensions — polity (constitution, princely states integration, linguistic reorganisation, elections, judiciary), economy (five-year plans, land reforms, industrialisation, financial institutions), education (universal primary education, commissions, technical institutions, UGC), and international relations (non-alignment, neighbourhood diplomacy, UN engagement, Panchsheel). Each dimension is supported by specific examples with dates and data.",
+    "analysis": "This is a highly comprehensive answer that addresses all four dimensions demanded by the question with considerable factual accuracy. The examples are well-chosen: Operation Polo, Sukumar Sen's election management, Bhilai Steel Plant, IIT Kharagpur, Bandung Conference, and Indus Waters Treaty are all directly relevant and historically accurate. The answer demonstrates strong command of the consolidation narrative. However, like a typical coaching model answer, it prioritises exhaustive coverage over analytical depth. The question asks to 'trace' the consolidation 'process', implying some sense of chronological development, challenges faced, and how they were overcome — the answer provides mostly static descriptions rather than tracing a process. The education section is the strongest analytically, linking education to democratic and industrial needs. The answer is extremely long — probably 700+ words against a 250-word limit — which would be severely penalised in real UPSC Mains. A real candidate writing this much would run out of time for other questions. The structure, while clear, is rigidly formulaic.",
+    "dimension_scores": {
+      "content_accuracy": {
+        "weight_pct": 40,
+        "max_score": 6.0,
+        "score": 4.2,
+        "justification": "Excellent factual accuracy across all four dimensions. Correct dates, institutions, and historical events: Constitution (1950), Operation Polo (1948), States Reorganisation Act (1956), First Five Year Plan targets, IIT Kharagpur (1951), Bandung (1955), Indus Waters Treaty (1960), Panchsheel (1954). The Planning Commission growth rate claim (3.6% vs 2.1% target) is accurate. Coverage is comprehensive. However, the answer could have mentioned challenges and failures — e.g., incomplete land reforms, Sino-Indian War (1962) as a foreign policy setback, limited reach of early education initiatives."
+      },
+      "structure_flow": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 2.0,
+        "justification": "Very well-organised with clear four-part structure matching the question's four dimensions. Good intro and conclusion that frame the answer. However, the rigid numbered-list format with 'Eg:' tags is formulaic. The answer does not 'trace' a process — it presents static snapshots rather than showing how consolidation evolved over time. A better answer would show the sequence: immediate crises -> institutional responses -> outcomes."
+      },
+      "depth_examples": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 2.4,
+        "justification": "Strong examples throughout — A.K. Gopalan case, UP Zamindari Abolition Act, Bhilai Steel Plant with Soviet assistance, Mudaliar Commission recommendations, IIT Kharagpur graduates absorbed into Bhilai. The linkage between education and economic planning (IIT graduates in steel plants) shows sophisticated understanding. Examples are specific, dated, and relevant."
+      },
+      "analytical_depth": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.7,
+        "justification": "Limited analytical depth despite comprehensive coverage. The answer describes what happened but rarely asks why particular approaches were chosen, what tensions existed (e.g., centre vs. states in integration, heavy industry vs. agriculture debate), or what the limitations were. The education section shows slightly better analysis by linking education to democratic and industrial needs. No mention of failures or critiques of the consolidation process."
+      },
+      "presentation": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.6,
+        "justification": "Clear language and competent expression. However, the answer is approximately 700-800 words — nearly three times the 250-word limit. This is a serious flaw that would be heavily penalised in real UPSC Mains. A candidate writing this length for a 15-mark question would not finish the paper. The formulaic 'Eg:' format and rigid sub-headings also detract from presentation quality."
+      }
+    },
+    "total_score": 9.9,
+    "grade_rationale": "An impressively comprehensive and factually rich answer that covers all four consolidation dimensions with strong examples. The content knowledge is clearly top-tier. However, the answer is catastrophically over the word limit (nearly 3x), lacks analytical depth beyond description, and follows a rigid coaching-institute template rather than flowing analytical prose. In real UPSC grading, the examiner would appreciate the knowledge but penalise the length and lack of process-tracing. Score of ~66% reflects strong content dragged down by poor word discipline and limited analysis."
+  },
+  {
+    "question_id": "cal_gs1_13",
+    "candidate_id": "coaching_model",
+    "max_marks": 15,
+    "summary": "The answer explains the enduring relevance of the French Revolution through three thematic clusters: democratic and political ideals (democracy, constitutionalism, rights, republicanism), social and cultural transformation (equality, secularism, Napoleonic Code, nationalism), and global/contemporary relevance (later revolutions, human rights frameworks, welfare state, citizenship, modern protests). Each point is supported by contemporary examples connecting revolutionary ideals to modern institutions.",
+    "analysis": "The answer successfully connects French Revolutionary ideals to contemporary phenomena, which is exactly what the question demands. The linkages to the Indian Constitution (Articles 14, 25-28), UDHR, Napoleonic Code's legacy in Goa, and Nepal's 2008 republic are creative and demonstrate good interdisciplinary thinking. However, the answer suffers from several weaknesses. First, it is shallow in its treatment of the Revolution itself — there is almost no engagement with what actually happened during the Revolution (the Terror, the Directory, Napoleon), which means the 'enduring' part lacks grounding in historical specifics. Second, some linkages are quite tenuous — connecting farmers' protests in India or UN SDGs to the French Revolution is a stretch that a discerning examiner would question. Third, the answer treats the Revolution's legacy as entirely positive, ignoring the darker legacies: revolutionary violence as a political tool, the Terror's precedent for authoritarianism, nationalism leading to aggressive wars. The Napoleonic Code actually curtailed women's rights — this nuance is missed. The answer again far exceeds the word limit. The structure is clear but the coaching-format numbering detracts from analytical flow.",
+    "dimension_scores": {
+      "content_accuracy": {
+        "weight_pct": 40,
+        "max_score": 6.0,
+        "score": 3.3,
+        "justification": "Core connections are valid: UDHR and revolutionary rights tradition, Indian Constitution's debt to Enlightenment ideals, Napoleonic Code's influence on civil law systems, republicanism's spread. However, some claims are stretched — attributing UN SDGs or Indian farmers' protests to French Revolution influence is tenuous. The answer omits important negative legacies (the Terror, revolutionary violence, Napoleonic Code's restrictions on women). The historical treatment of the Revolution itself is thin — no mention of specific phases, key figures beyond passing reference, or the actual events that generated these ideals."
+      },
+      "structure_flow": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 1.8,
+        "justification": "Well-organised into three thematic sections with intro and conclusion. The progression from political ideals to social transformation to global relevance is logical. However, the numbered-list coaching format persists. The conclusion is generic. A better structure would trace the temporal diffusion of revolutionary ideas rather than presenting static thematic clusters."
+      },
+      "depth_examples": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 1.8,
+        "justification": "Good range of examples spanning multiple countries and centuries: Nepal 2008, Goa's Portuguese civil code, Maastricht Treaty, IPCC. The Napoleonic Code reference and Goa connection show creative thinking. However, examples from the Revolution itself are absent — no mention of the Declaration of the Rights of Man's specific articles, the abolition of feudalism on August 4, 1789, or the Civil Constitution of the Clergy. The examples are more about the legacy than the event."
+      },
+      "analytical_depth": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.5,
+        "justification": "Very limited critical analysis. The answer presents a uniformly positive view of the Revolution's legacy without engaging with counterarguments: that revolutionary violence inspired totalitarianism (Hannah Arendt's critique), that nationalism led to imperialism, or that Enlightenment universalism was exclusionary (race, gender). The 'explain' demand requires more than listing positive outcomes — it requires showing how and why these ideals persisted, what conditions enabled or hindered their adoption."
+      },
+      "presentation": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.7,
+        "justification": "Clear language and readable expression. Exceeds the 250-word limit substantially (500+ words). The coaching-format numbered points with 'Eg:' tags are formulaic. The conclusion is generic boilerplate."
+      }
+    },
+    "total_score": 8.1,
+    "grade_rationale": "A reasonably well-structured answer that makes valid connections between French Revolutionary ideals and contemporary institutions. The examples are creative, particularly the India-specific ones. However, the answer is analytically thin — it presents only a positive narrative without engaging with criticisms, darker legacies, or the mechanisms by which revolutionary ideas actually spread. The historical grounding in the Revolution itself is weak. Far exceeds word limit. Score of ~54% reflects adequate content undermined by lack of analytical depth and critical perspective."
+  },
+  {
+    "question_id": "cal_gs1_14",
+    "candidate_id": "coaching_model",
+    "max_marks": 15,
+    "summary": "The answer provides a region-by-region survey of global offshore oil reserves (Persian Gulf, North Sea, Gulf of Mexico, West Africa, South America, South/Southeast Asia, Caspian Sea, Guyana-Suriname, Arctic) with production data for each, followed by a five-point comparison with onshore reserves covering geological location, extraction cost, environmental risk, geopolitical/legal context, and technological dependency.",
+    "analysis": "This is an exceptionally detailed answer demonstrating strong command of petroleum geography. The regional coverage is comprehensive and the specific data points — Safaniya's 37 billion barrels, Thunder Horse at 2,000m depth, Tupi's 8-10 billion barrels, Mumbai High's 40% of India's production, Kashagan's H2S challenges — show genuine subject expertise. The geological explanation linking offshore reserves to continental shelves, passive margins, and turbidite reservoirs is accurate and directly addresses the question's demand for 'geographical explanation'. The comparison with onshore reserves is well-structured with clear differentiators. However, the answer has notable weaknesses. First, it massively exceeds the word limit — at roughly 700+ words, it is nearly three times the 250-word limit. Second, while the regional survey is impressive, the underlying geographical explanation (why offshore reserves form where they do — plate tectonics, sedimentary basin formation, organic matter deposition) is underdeveloped. The answer tells us where offshore oil is but gives insufficient geological explanation of why. Third, some production figures may not be precisely verifiable (e.g., Kashagan at 400,000 bpd is debatable given its troubled history). The answer demonstrates strong factual knowledge but prioritises breadth of examples over depth of geographical theory.",
+    "dimension_scores": {
+      "content_accuracy": {
+        "weight_pct": 40,
+        "max_score": 6.0,
+        "score": 3.9,
+        "justification": "Strong factual content with accurate identification of major offshore basins globally. The mention of continental shelves, passive margins, and turbidite reservoirs shows geological understanding. Specific data points are largely accurate — Safaniya as largest offshore field, Mumbai High's importance, Deepwater Horizon's 4.9 million barrels, pre-salt costs vs. Saudi onshore costs. The Kashagan production figure of 400,000 bpd may be slightly high given its troubled operational history. However, the answer does not adequately explain the geological processes that form offshore reserves — sedimentation, organic matter burial, migration, trapping mechanisms — which is what 'geographical explanation' demands."
+      },
+      "structure_flow": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 1.9,
+        "justification": "Good two-part structure: distribution survey followed by onshore-offshore comparison, which matches the two-part question. The regional organisation is logical. However, the answer lacks a coherent geographical framework — it jumps from region to region without explaining the underlying geological principles that unite these locations. A better structure would establish the geological theory first, then show how specific regions exemplify it."
+      },
+      "depth_examples": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 2.4,
+        "justification": "Excellent range and specificity of examples — nine distinct regions with production data, field names, and operational details. The Deepwater Horizon example for environmental risk, UNCLOS/South China Sea for geopolitical context, and Petrobras FPSOs for technological dependency are all strong. The inclusion of Guyana-Suriname as an emerging frontier shows up-to-date knowledge. This is the answer's strongest dimension."
+      },
+      "analytical_depth": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.7,
+        "justification": "Limited analytical depth. The answer catalogues offshore reserves but does not deeply analyse the tectonic and sedimentary processes that explain their distribution. The onshore-offshore comparison is descriptive rather than analytical — it identifies differences but does not explore why they matter for energy policy, investment decisions, or environmental governance. No discussion of the energy transition's impact on offshore investment or stranded asset risks."
+      },
+      "presentation": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.6,
+        "justification": "Clear and technically competent language. However, the answer is approximately 700 words — nearly three times the 250-word limit. This is the most serious presentation flaw. The reference to '[Fig: oil reserves – Map 2]' suggests this is a coaching material excerpt rather than an exam answer. The formulaic 'Eg:' format persists."
+      }
+    },
+    "total_score": 9.5,
+    "grade_rationale": "A factually rich and geographically detailed answer with impressive command of global petroleum data. The regional coverage and specific examples are outstanding. However, the answer prioritises encyclopaedic breadth over the geological explanation the question demands, grossly exceeds the word limit, and lacks deeper analysis of why offshore reserves form where they do. In real UPSC grading, the examiner would credit the knowledge but penalise the excessive length and insufficient geographical theorisation. Score of ~63% reflects strong factual content with analytical and presentation shortcomings."
+  },
+  {
+    "question_id": "cal_gs1_15",
+    "candidate_id": "coaching_model",
+    "max_marks": 15,
+    "summary": "The answer explains how AI and drones can be integrated with GIS and RS for locational and areal planning, organised into four sections: AI in locational planning (infrastructure siting, transport, disaster planning, renewable energy), AI in areal planning (agriculture, urban growth, watershed, climate risk), drones in locational planning (terrain surveys, mining, disaster relief, environmental compliance), and drones in areal planning (agriculture mapping, urban monitoring, river basins, forest/biodiversity). Each application is supported by Indian examples.",
+    "analysis": "The answer demonstrates strong awareness of how these technologies can be applied to planning, with a good range of India-specific examples (NITI Aayog, Ayushman Bharat, PMFBY, Atal Bhujal Yojana, Namami Gange, Dholera Smart City). The four-quadrant matrix (AI/drones x locational/areal) provides a logical framework. However, the answer has significant weaknesses from a UPSC Mains perspective. First, the distinction between 'locational' and 'areal' planning is not clearly established — many examples could fit either category, suggesting the categorisation is superficial rather than theoretically grounded. Second, the answer reads as a technology showcase rather than a planning methodology discussion — it lists applications but does not explain how GIS-RS integration actually works technically (data layers, spatial analysis, classification algorithms). Third, many examples feel aspirational rather than documented — 'Delhi Metro Phase-IV used GIS-AI simulations' and 'NITI Aayog used AI-GIS tools for mapping health centres' are claims that may not be precisely verifiable. Fourth, the answer massively exceeds the word limit. The Constitutional reference (Articles 243W and 243ZD) in the introduction feels forced — these articles deal with municipal powers, not with AI/GIS planning specifically. The answer lacks critical perspective on challenges: data quality, digital divide, privacy concerns, cost barriers.",
+    "dimension_scores": {
+      "content_accuracy": {
+        "weight_pct": 40,
+        "max_score": 6.0,
+        "score": 3.0,
+        "justification": "The general concept of AI-drone-GIS-RS integration for planning is valid and the application areas identified are relevant. However, several specific claims are questionable or unverifiable: Delhi Metro Phase-IV using GIS-AI simulations for displacement reduction, NITI Aayog using AI-GIS for Ayushman Bharat health centre mapping, Odisha using drones for coal/iron exploration to guide industries. These read as plausible fabrications common in coaching material. The Constitutional articles reference (243W, 243ZD) is tangential. The answer does not adequately explain what GIS and RS actually do in technical terms — spatial data layering, spectral analysis, classification."
+      },
+      "structure_flow": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 1.8,
+        "justification": "The four-quadrant matrix (AI/drones x locational/areal) provides a clear organisational framework. Good intro and conclusion. However, the rigid four-section structure creates repetition — several examples could fit multiple quadrants, and the distinction between locational and areal planning breaks down in practice. The formulaic numbered-list coaching format persists."
+      },
+      "depth_examples": {
+        "weight_pct": 20,
+        "max_score": 3.0,
+        "score": 1.5,
+        "justification": "Numerous India-specific examples are provided: PMFBY, Atal Bhujal Yojana, Namami Gange, Dholera Smart City, Rajaji National Park, Bengaluru lakebed encroachments. However, many lack specificity or verifiability — they name schemes but do not provide concrete data, outcomes, or dates. Some examples appear to be educated guesses rather than documented facts (Delhi Metro Phase-IV AI simulations, CPCB drone monitoring in Delhi NCR). Quality of examples is moderate despite high quantity."
+      },
+      "analytical_depth": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.5,
+        "justification": "Very limited analytical depth. The answer lists applications but does not critically examine: What are the challenges of integrating AI with GIS/RS (data quality, algorithmic bias, digital divide)? What are the institutional barriers? How do privacy concerns interact with drone surveillance? Why has adoption been slow despite obvious benefits? The answer is entirely prescriptive and optimistic without any critical perspective."
+      },
+      "presentation": {
+        "weight_pct": 10,
+        "max_score": 1.5,
+        "score": 0.6,
+        "justification": "Clear language. However, the answer is approximately 600-700 words — more than double the 250-word limit. The four-quadrant structure, while logical, creates unnecessary repetition. The National Geospatial Policy 2022 reference in the conclusion is a good touch but the conclusion is otherwise generic."
+      }
+    },
+    "total_score": 7.4,
+    "grade_rationale": "An answer that demonstrates awareness of AI/drone/GIS/RS applications in planning with numerous India-specific examples. However, it suffers from questionable factual accuracy in several examples, a superficial distinction between locational and areal planning, no critical analysis of challenges, and significant word limit violation. In real UPSC grading, an examiner would question the verifiability of several claims and note the absence of critical perspective. Score of ~49% reflects adequate conceptual understanding undermined by questionable specifics, lack of depth, and poor word discipline."
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs4_6a",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer covers the need for a code of ethics and proposes five practical measures for a value-based work culture, supported by relevant examples. It is well-structured but significantly exceeds the 150-word limit and reads more like a textbook compilation than a personalized response.",
+        "analysis": "The answer correctly identifies multiple dimensions of why a code of ethics matters and lists concrete measures like training, whistleblower protection, and ethical leadership. Examples such as CVC integrity pledge, LBSNAA training, and T.N. Seshan are relevant. However, the question asks what measures 'you' would adopt, demanding a more personal and practical tone rather than a generic listing. The ethical theories section and quotes, while academically impressive, add unnecessary bulk to a 10-mark, 150-word answer. The answer is approximately 350+ words, more than double the prescribed limit, which indicates poor exam strategy.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Relevant points and examples are accurate, but the answer is generic rather than personally framed as the question demands."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized with intro-body-conclusion and clear subheadings, though the structure is overly elaborate for a 10-mark question."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Good range of examples (CVC, LBSNAA, e-office, T.N. Seshan, MGNREGA) but quantity over quality in a short-answer format."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Ethical theories are mentioned but applied superficially without genuine analytical engagement with the workplace scenario."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Massively exceeds the 150-word limit, which is a serious presentation flaw in UPSC Mains where word economy is critical."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Solid content undermined by excessive length and a generic tone that fails to address the personal framing the question demands."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_6b",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer frames India's growth challenges through an ethical lens, covering food security, energy, environment, and instability with relevant examples and theoretical underpinning. It is comprehensive but excessively long for a 10-mark, 150-word answer and overly formulaic in structure.",
+        "analysis": "The answer correctly identifies key concerns like malnutrition despite food surplus, groundwater depletion, wealth concentration, and air pollution. Recommendations such as CSR, National Solar Mission, Poshan Abhiyaan, and JAM trinity are relevant and specific. The ethical framing through Gandhi's trusteeship, Rawlsian justice, and utilitarianism is appropriate for GS4. However, the answer is approximately 400+ words, nearly three times the prescribed limit, which demonstrates poor time management and answer calibration. The analysis lacks concrete economic data (GDP figures, specific growth rates) that would strengthen the 'emerging economy' dimension. The ethical lens is well-applied but the approach is formulaic, following an obvious coaching template.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Relevant issues and recommendations covered accurately, though lacks specific economic data to substantiate India's fourth-largest economy context."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear organization with concerns-recommendations-theories-conclusion flow, but the template is rigid and predictable."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Good examples like Oxfam report, National Solar Mission, and JAM trinity, but too many examples dilute focus rather than deepen analysis."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Ethical theories are listed rather than woven into the argument; the analysis stays at a surface level despite the ethical framing."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Grossly exceeds the 150-word limit and includes a stray '— Section B (Case Studies) —' artifact, indicating careless formatting."
+          }
+        },
+        "total_score": 6.2,
+        "max_marks": 10,
+        "brief_feedback": "Ethically well-framed but bloated, formulaic, and nearly three times the word limit, with a formatting artifact that suggests template-based production."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_7",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer comprehensively addresses all four sub-parts of the case study, identifying options, ethical dilemmas, evaluating each option with pros/cons, and recommending a balanced course of action. It is thorough and well-organized but excessively verbose for a 250-word answer and relies heavily on a formulaic coaching template.",
+        "analysis": "The answer correctly identifies three plausible options, five ethical dilemmas, and evaluates each option with pros and cons before recommending Option 3 (brief leave with handover). The stakeholder analysis is relevant and the ethical theories (Kant, Mill, Aristotle) are appropriately applied. The recommendation is sensible and well-justified. However, the answer is approximately 800+ words, more than three times the 250-word limit, which would be heavily penalized in actual UPSC examination. The analysis of dilemmas is somewhat repetitive, and the pros/cons format, while clear, becomes mechanical. The answer lacks a more nuanced discussion of whether the third option is truly feasible given that road and telecom networks are disrupted. The quotes feel tacked on rather than integrated.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.2,
+            "justification": "All four sub-parts addressed accurately with correct identification of dilemmas and feasible options, though the feasibility of Option 3 given infrastructure disruption is not examined."
+          },
+          "structure_flow": {
+            "score": 2.8,
+            "justification": "Excellent organization with clear sub-part labeling, stakeholder analysis, and logical flow, though the structure is a rigid coaching template."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Limited real-world examples or precedents of officers facing similar dilemmas; relies mostly on hypothetical reasoning rather than concrete case references."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "Ethical theories are named and briefly applied but the analysis does not deeply interrogate the tension, such as whether cultural duty is truly secondary to professional obligation."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Over three times the word limit, which is a critical flaw; the answer would not fit within the answer sheet space in an actual exam."
+          }
+        },
+        "total_score": 12.4,
+        "max_marks": 20,
+        "brief_feedback": "Comprehensive and well-structured coverage of all sub-parts, but severely over the word limit and overly formulaic, lacking the depth that distinguishes a strong answer from an adequate one."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_8",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses all three sub-parts of the case study on deforestation versus housing for the homeless, presenting a balanced ethical analysis with constitutional references, stakeholder identification, and policy alternatives. It is thorough but excessively long and relies on a predictable coaching template.",
+        "analysis": "The answer correctly frames the constitutional tension between DPSP (housing) and Article 48A/21 (environment), identifies relevant stakeholders, and proposes practical alternatives like using degraded land and vertical housing. The ethical theories (utilitarianism, Kant, Rawls, deep ecology) are appropriate for the question. The policy alternatives in part (c) are concrete and actionable, which is a strength. However, the answer is approximately 900+ words against a 250-word limit, which is a disqualifying flaw in exam conditions. Part (a) is disorganized, mixing pros/cons with 'finding the middle path' and repeating arguments about Article 21 and vulnerable groups across sub-sections. The answer does not adequately address the specific mention of 'curbing anti-social elements' in the question stem. Some points under challenges in part (b) overlap with part (a), indicating poor economy of expression.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.4,
+            "justification": "Constitutional references (Article 48A, 21, DPSP, Forest Rights Act) are accurate and the policy alternatives are well-grounded, though the anti-social elements angle is neglected."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Clear sub-part labeling and intro-body-conclusion, but part (a) is internally disorganized with overlapping sub-sections and repetition across parts."
+          },
+          "depth_examples": {
+            "score": 2.8,
+            "justification": "Strong examples including wastelands in Rajasthan, Gram Sabha approvals, compensatory afforestation, and eco-friendly housing projects."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "Ethical theories are listed and briefly connected but the analysis does not deeply engage with the genuine moral tension of choosing between immediate human suffering and long-term ecological harm."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Nearly four times the word limit with significant repetition across sub-parts, making it impractical for actual exam conditions."
+          }
+        },
+        "total_score": 12.4,
+        "max_marks": 20,
+        "brief_feedback": "Substantively strong with good constitutional grounding and practical alternatives, but fatally undermined by extreme verbosity, repetition, and failure to address all dimensions of the question stem."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs4_9",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer thoroughly addresses all three sub-parts of the corruption and conflict-of-interest case study, identifying ethical issues, evaluating three options, and recommending firm ethical action with legal references. It is comprehensive but follows a rigid coaching formula and massively exceeds the word limit.",
+        "analysis": "The answer correctly identifies key ethical issues including conflict of interest, abuse of office, political pressure, and fiduciary duty breach, with appropriate legal references like Section 13(1)(d) of the Prevention of Corruption Act and AIS Conduct Rules. The three options are well-differentiated and the recommendation of Option 3 (firm ethical stand) is sound and well-justified. The stakeholder analysis is thorough. However, the answer is approximately 850+ words against a 250-word limit, which is a severe practical flaw. The analysis could have been sharper by discussing specific mechanisms Subash could use (e.g., writing to the Chief Secretary, approaching the CVC, or seeking a transfer). The answer follows an identical template to every other case study in this batch, suggesting rote preparation rather than genuine analytical engagement. The ethical theories section adds little beyond name-dropping.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.6,
+            "justification": "Accurate identification of ethical issues with strong legal references (Prevention of Corruption Act, AIS Conduct Rules), covering all dimensions of the case."
+          },
+          "structure_flow": {
+            "score": 2.6,
+            "justification": "Well-organized with clear sub-part structure, but the rigid template format (stakeholders-options-pros/cons-theories-quotes-conclusion) is repetitive across all answers."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Legal references are specific and relevant, but lacks real-world precedents of officers who faced similar situations, which would have strengthened the argument."
+          },
+          "analytical_depth": {
+            "score": 1.3,
+            "justification": "Correctly identifies the core tension but does not explore practical mechanisms for whistleblowing or the systemic factors that enable such corruption."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Over three times the word limit and follows an identical template to every other case study answer, suggesting formulaic preparation."
+          }
+        },
+        "total_score": 12.4,
+        "max_marks": 20,
+        "brief_feedback": "Strong legal grounding and correct ethical analysis, but the identical template structure across all case studies and massive word limit violation reveal formulaic coaching preparation over genuine analytical depth."
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs3_1",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer distinguishes between HDI and IHDI using a tabular format covering concept, treatment of inequality, interpretive value, and India's case. It then provides five reasons why IHDI is a better indicator of inclusive growth, including revealing hidden disparities, focus on distribution, alignment with SDGs, better policy guidance, and closer link to welfare. The answer includes an introduction and conclusion.",
+        "analysis": "Content is largely accurate: HDI components (health, education, income) and IHDI's inequality penalty are correctly described. The 25% HDI loss figure for India is approximately correct (UNDP reports ~31% loss in recent years, so this is a reasonable approximation though slightly understated). The tabular distinction is clear and covers key differences. However, the answer significantly exceeds the 150-word limit — it runs to approximately 350+ words, which is a serious issue for a 10-mark question. While the five points on why IHDI is better are sound, they lack deep analytical engagement — the answer reads more like a list of assertions than critical analysis. The Kerala-Bihar example is relevant but undeveloped. The mention of Brazil and South Africa adds comparative value. The answer does not mention the Atkinson inequality measure (the mathematical basis of IHDI), nor does it discuss limitations of IHDI itself, which would demonstrate stronger analytical depth. Overall, this is a competent coaching-style answer that covers breadth well but lacks the conciseness and analytical sharpness expected at the highest levels.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Core facts about HDI and IHDI are correct. The 25% loss figure is slightly off (actual is closer to 31% per recent UNDP reports) but within acceptable range. Covers all three HDI dimensions and correctly explains the inequality adjustment mechanism. Misses the Atkinson inequality measure methodology. Points on inclusive growth relevance are valid but somewhat generic."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized with clear intro, tabular distinction, numbered points on significance, and conclusion. The flow from definition to distinction to significance is logical. The table format is an effective presentational choice. However, the answer is overly long for the word limit, suggesting poor structural discipline."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Includes India's HDI value (0.685), the Kerala-Bihar comparison, and international comparisons (Brazil, South Africa). The SDG linkage adds institutional context. However, examples are stated rather than developed — the Kerala-Bihar example lacks specific data, and no UNDP report year or specific IHDI values are cited. Could have included gender inequality index or multidimensional poverty index as related indicators."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Analysis is adequate but not incisive. The answer lists reasons IHDI is better without critically examining limitations (e.g., IHDI still uses national averages across three dimensions, doesn't capture intra-household inequality, or spatial disaggregation). No counter-perspective is offered. The connection between IHDI and policy outcomes is asserted rather than demonstrated."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Language is clear and professional. However, the answer massively exceeds the 150-word limit (estimated 350+ words), which is a significant penalty in UPSC Mains. Conciseness is a key evaluative criterion, and this answer would be marked down for verbosity by actual examiners."
+          }
+        },
+        "total_score": 6.1,
+        "max_marks": 10,
+        "brief_feedback": "Competent answer with correct core content and good tabular presentation. Covers breadth of HDI vs IHDI distinction well with relevant India-specific data. However, severely exceeds word limit, lacks analytical depth on IHDI's own limitations, and examples are stated rather than developed. Needs tighter writing and more critical engagement to score higher."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_2",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer identifies six challenges facing India from the global shift toward protectionism and bilateralism (export vulnerability, GVC fragmentation, weakening of WTO dispute resolution, bilateral pressure asymmetry, risk to employment-intensive sectors, and technology/standards protectionism), and proposes six corresponding solutions (trade diversification, strategic FTAs, domestic competitiveness, defensive/offensive trade policy, WTO reform advocacy, and technology/sustainability alignment).",
+        "analysis": "This is a well-structured answer that demonstrates strong command of international trade economics. The challenges identified are all relevant and current — the US GSP withdrawal, CBAM, WTO Appellate Body paralysis, and China+1 dynamics are factually accurate and contemporarily relevant. The solutions are practical and correspond logically to the challenges. The mention of specific mechanisms (PLI scheme, IPEF, BIMSTEC, e-NAM) shows awareness of India's current policy toolkit. However, the answer once again dramatically exceeds the 150-word limit (estimated 450+ words), which is a serious deficiency. While content coverage is excellent, analytical depth is somewhat formulaic — the answer presents a standard coaching-institute enumeration rather than engaging with trade-offs or tensions (e.g., the contradiction between Atmanirbhar Bharat protectionism and pushing for WTO reform, or whether India's own tariff increases undermine its anti-protectionism stance). The 50% tariff reference appears to conflate different tariff actions. The answer could benefit from mentioning India's own recent tariff increases and how they complicate its position.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Factually strong. GSP withdrawal, CBAM, WTO Appellate Body crisis, China+1 strategy, PLI scheme — all correctly referenced. The 50% tariff claim on textiles needs more precision (actual US tariff actions vary by product). Coverage is comprehensive across trade, investment, technology, and institutional dimensions. No significant factual errors."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Excellent logical organization: intro contextualizes the global shift, body bifurcates into challenges and solutions with numbered sub-points, conclusion synthesizes. The parallel structure between challenges and solutions is effective. However, the massive word-limit violation (450+ words for a 150-word question) is a structural failure in exam discipline."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Strong use of specific examples: GSP withdrawal, CBAM, Vietnam/Bangladesh competition, EU-India negotiation friction, PLI, IPEF, BIMSTEC. Each challenge is accompanied by a concrete illustration. Could have included specific trade data (India's export growth rates, share of trade with specific blocs) for stronger empirical grounding."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Despite breadth, the analysis remains at a descriptive-prescriptive level without engaging tensions or trade-offs. Does not address India's own protectionist tendencies (rising average tariffs since 2014), the contradiction between Atmanirbhar Bharat and WTO reform advocacy, or whether bilateralism might actually benefit India in certain sectors. A top-tier answer would acknowledge these complexities."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Clear and professional language throughout. However, at 450+ words, this is roughly three times the prescribed word limit. UPSC examiners explicitly penalize excessive length, and this answer would lose marks for poor time management and lack of conciseness."
+          }
+        },
+        "total_score": 6.7,
+        "max_marks": 10,
+        "brief_feedback": "Substantively strong answer with excellent command of trade policy facts and good use of specific examples. The parallel challenges-solutions structure is effective. However, the answer is far too long for a 150-word question, and analytical depth suffers from a formulaic listing approach that avoids engaging with contradictions in India's own trade stance. Tighter writing and more critical analysis would significantly improve the score."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_3",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer categorizes factors influencing farmers' selection of high-value crops into four groups: economic factors (profitability, market access, risk-return), agro-climatic and resource factors (soil/climate, water, farm size), policy and institutional factors (MSP coverage, extension services, credit access), and infrastructure and technology factors (cold storage, processing, digital platforms). Examples include tomato cultivation near Bengaluru, tea in Assam, and sugarcane in UP/Maharashtra.",
+        "analysis": "The answer provides a comprehensive taxonomy of factors, organized into four clear categories. The content is factually sound — the lack of MSP for most high-value crops is a genuine barrier, the importance of cold chain infrastructure is well-documented, and the agro-climatic suitability examples are accurate. The categorization approach (economic, agro-climatic, policy, infrastructure) is logical and covers the question well. However, this is a straightforward descriptive question and the answer treats it accordingly — there is little analytical depth beyond listing factors. The answer misses some important considerations: crop insurance limitations (PM Fasal Bima Yojana coverage gaps for HVCs), the role of contract farming (recent legislation), demonstration effects from neighboring farmers, migration patterns affecting labor availability, and the psychological/cultural attachment to traditional crops. The word limit is again significantly exceeded (estimated 350+ words). The examples, while relevant, are somewhat textbook-standard rather than showing independent thought.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Covers the major factors correctly — market access, agro-climatic conditions, policy support, infrastructure. The lack of MSP for HVCs is an important and accurate observation. However, misses some significant factors: contract farming and its legal evolution, demonstration effect from neighboring farmers, cultural preferences for staple crops, role of APMC market reforms, and the impact of food processing policy (PMKSY). Content is correct but not exhaustive."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized into four thematic categories with sub-points under each. Intro-body-conclusion format is maintained. The four-category taxonomy is a logical framework. However, the categories could be more tightly integrated — currently reads as four independent lists rather than an interconnected analysis. Exceeds word limit significantly."
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Examples are relevant but standard coaching-level: tomato near Bengaluru, tea in Assam, sugarcane in UP/Maharashtra. Lacks more specific or less commonly cited examples — could have mentioned saffron in Kashmir, apple cultivation shifts due to climate change in Himachal, or horticulture transformation in states like Andhra Pradesh or Madhya Pradesh. No data or statistics cited."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The question calls for 'explaining factors influencing decisions' which inherently requires understanding farmer decision-making psychology and trade-offs. The answer lists factors without analyzing how they interact — e.g., how a farmer with access to irrigation but no cold storage might still avoid perishables, or how MSP for rice/wheat creates a perverse incentive against diversification. The behavioral economics dimension of farmer decision-making is entirely absent."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Clear language and professional tone. The four-category structure is visually organized. However, again exceeds the 150-word limit substantially. For this relatively straightforward question, a more concise treatment would be appropriate."
+          }
+        },
+        "total_score": 5.8,
+        "max_marks": 10,
+        "brief_feedback": "A well-organized but formulaic answer that lists factors in a clear taxonomy without deeply analyzing farmer decision-making dynamics. Examples are textbook-standard. Misses important factors like contract farming, APMC reform impact, and behavioral economics of risk-averse smallholders. Significantly exceeds word limit. Adequate for a mid-range score but lacks the analytical sophistication needed for top marks."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_4",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer elaborates both scope and significance of agricultural supply chain management in India. Scope covers six areas: farm input supply, aggregation and storage, processing and value addition, transportation and logistics, marketing and retail, and export orientation. Significance includes six points: reduction of post-harvest losses, farmer income enhancement, consumer price stabilization, employment creation, diversification promotion, and global competitiveness. Numerous examples are cited including Kisan Rail, e-NAM, Amul, ITC e-Choupal, and APEDA initiatives.",
+        "analysis": "This answer demonstrates strong knowledge of India's agricultural supply chain ecosystem with an impressive density of specific examples and institutional references. The bifurcation into scope and significance directly mirrors the question's two demands, showing good question comprehension. The examples are particularly strong — Kisan Rail, WDRA, Mega Food Parks, e-NAM, BigBasket, Ninjacart, Amul, Safal, ITC e-Choupal, APEDA, and GI-tagged Darjeeling tea represent a mix of government initiatives and private-sector innovations. However, the answer is once again excessively long (450+ words for 150-word limit). The 15-20% post-harvest loss figure is commonly cited but its sourcing is debatable (some studies suggest higher losses). Analytically, the answer does not address challenges or failures — why, despite these mechanisms existing, does India still have among the world's highest post-harvest losses? The 'Doubling of farmer incomes' reference in the conclusion is now dated (the target year was 2022). The answer lacks engagement with structural problems: APMC fragmentation, Essential Commodities Act restrictions, and political economy of middlemen.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Factually accurate across the board. Correct identification of supply chain stages and their significance. Institutional references (WDRA, FPOs, APEDA, Mega Food Parks, Kisan Rail) are all valid. The 15-20% post-harvest loss figure is within the commonly cited range. The 'Doubling farmer incomes by 2022' goal in the conclusion is now past its target date, which could be flagged. No significant factual errors overall."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Excellent structural discipline in terms of organization: clear intro, scope section with six numbered points, significance section with six numbered points, and conclusion. The scope-significance bifurcation directly addresses both parts of the question. The parallel structure is easy to follow. Major deduction for word-limit violation (450+ words)."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "This is the strongest dimension. The answer is rich with specific, relevant examples spanning government schemes (Kisan Rail, e-NAM, WDRA, Mega Food Parks, APEDA), cooperatives (Amul, Safal), private sector (BigBasket, Ninjacart, ITC e-Choupal), and industry players (L&T, BHEL). The GI-tagged Darjeeling tea export example adds international trade context. This density of examples is above average."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Despite impressive factual coverage, the answer lacks critical analysis. It does not address why existing supply chain mechanisms have failed to prevent high post-harvest losses, the political economy of APMC reform resistance, the Essential Commodities Act's dampening effect, or the gap between policy announcements and implementation. A stronger answer would question why, despite Kisan Rail and e-NAM existing, farmer incomes have not doubled and post-harvest losses remain high."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Professional language and clear formatting. However, at 450+ words, this is approximately three times the prescribed limit. The phrase 'Agriculture Supply Chain (Farm to Fork)' appears as a floating label mid-answer, likely a diagram placeholder that disrupts flow. Conciseness is severely lacking."
+          }
+        },
+        "total_score": 6.7,
+        "max_marks": 10,
+        "brief_feedback": "Factually rich answer with an impressive array of specific examples spanning government schemes, cooperatives, and private sector initiatives. The scope-significance structure directly addresses the question. However, the answer is far too long, lacks critical analysis of why existing supply chain mechanisms have failed to solve persistent problems, and misses engagement with structural barriers like APMC fragmentation and political economy constraints."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_5",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer covers India's contributions to ITER across six areas (cryostat fabrication, superconducting magnets, diagnostics and heating systems, power supplies, precision manufacturing, and human resources/R&D) and six implications of ITER's success for global energy (limitless clean energy, decarbonization, safety advantages, reduced geopolitical conflicts, technology spillovers, and global collaboration model). Specific industrial contributors (L&T, BHEL, Godrej, Avasarala Technologies) and institutional bodies (IPR Gandhinagar) are mentioned.",
+        "analysis": "This is a well-researched answer that demonstrates specific knowledge of India's role in the ITER project. The identification of Indian industrial partners (L&T for cryostat, Avasarala Technologies for shielding blocks, Godrej Aerospace for cryoline components, BHEL for power supplies) adds credibility and specificity that goes beyond generic descriptions. The cryostat being the world's largest stainless-steel vacuum vessel is accurately described. IPR Gandhinagar's role as the nodal institution is correctly identified. On implications, the points are largely accurate — fusion fuel abundance, absence of chain reactions, and minimal long-lived radioactive waste are all correct characterizations. However, the answer could be more precise: ITER aims to produce 500 MW of fusion power from 50 MW of input (Q=10), which would have been a key fact to include. The answer does not mention India's domestic fusion program (SST-1/SST-2 tokamaks at IPR) which directly supports ITER participation. The 'How Nuclear Fusion Works' floating label is a diagram placeholder that disrupts the text. The answer massively exceeds the word limit. On implications, the answer is somewhat generic — claiming fusion will solve geopolitical energy conflicts oversimplifies the transition timeline (ITER itself won't produce electricity; a DEMO reactor is needed first, and commercialization is decades away). A more nuanced answer would acknowledge these timelines.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Strong factual accuracy on India's ITER contributions: cryostat, superconducting magnets, diagnostics, power supplies, and industrial partners are all correctly identified. Fusion basics (deuterium-tritium, plasma confinement) are correctly stated. However, misses key facts: ITER's Q=10 target, India's 9.09% contribution share, India's domestic SST-1/SST-2 tokamak program, and the distinction between ITER (experimental) and DEMO (commercial prototype). Some implications overstate near-term potential."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized with clear bifurcation matching the question's two parts: India's contributions and implications. Six numbered points under each section with consistent formatting. Intro and conclusion bookend the answer appropriately. The 'How Nuclear Fusion Works' floating label disrupts flow. Massive word-limit violation (450+ words)."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "This answer excels in naming specific Indian industrial contributors (L&T, Avasarala Technologies, Godrej Aerospace, BHEL), which demonstrates genuine knowledge beyond textbook generalizations. The IPR Gandhinagar reference and specific component types (lower cylinder sections, in-wall shielding blocks, cryoline components) add credible specificity. However, lacks quantitative data (budget, contribution percentage, timeline milestones)."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The implications section is largely aspirational rather than analytical. Claims like 'reduced geopolitical energy conflicts' and 'virtually limitless clean energy' do not engage with the massive challenges remaining: ITER is experimental (no electricity production), commercialization is 30-50 years away, tritium breeding is unproven at scale, materials challenges under neutron bombardment are unsolved, and economic viability against renewables-plus-storage is uncertain. A stronger answer would balance optimism with realistic assessment of timelines and challenges."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Clear and accessible language explaining complex scientific concepts. However, 'How Nuclear Fusion Works' appears as a floating orphan label. The answer is approximately 450+ words, far exceeding the 150-word limit. The six-point parallel structure in both sections, while organized, creates a formulaic feel."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Strong answer on India's specific ITER contributions with impressive naming of industrial partners and specific components. However, the implications section is aspirational rather than analytical, failing to address ITER's experimental nature, the decades-long commercialization timeline, and remaining technical challenges. Massively exceeds word limit. Would benefit from including ITER's Q=10 target, India's domestic tokamak program, and a more balanced assessment of fusion's realistic timeline."
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs3_11",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer provides a comprehensive treatment of the Fiscal Health Index (FHI) as a tool for assessing state fiscal performance. It covers standardized benchmarking, data-driven transparency, identification of strengths/weaknesses, cooperative federalism, and incentive effects. The answer also includes challenges and a way forward section, going well beyond the question's requirements. Examples are specific, citing Odisha's FHI score, Punjab's debt-to-GSDP ratio, and constitutional articles.",
+        "analysis": "Content is accurate and thorough -- the FHI description aligns with NITI Aayog's 2025 release, and all major dimensions (revenue, expenditure, deficit, debt) are covered. The 5+5+4+4 structure (assessment tool, encouraging prudence, challenges, way forward) is overdone for a 15-mark, 250-word question -- the answer runs to approximately 800+ words, which is a serious word-limit violation (3x the limit). While the depth is impressive, a real UPSC examiner would penalize the excessive length and the template-like formulaic structure (numbered points with 'Eg:' format). The challenges and way forward sections, though well-argued, go beyond the scope of the question which only asks two things: (1) how FHI assesses fiscal performance, and (2) how it encourages prudent policies. The analytical depth is decent but not exceptional -- the answer mostly describes rather than critically evaluates. Constitutional references (Article 149, 151, 293) add credibility. Some examples feel rehearsed rather than organically integrated (e.g., Chhattisgarh coal auction strategy, Goa's improved revenue mobilization).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Core content is accurate and relevant. The FHI framework is correctly described with its five categories. However, some claims (e.g., 'Goa's improved revenue mobilization after FHI 2025 rankings') are speculative and cannot be directly attributed to FHI. The overextension into challenges/way forward dilutes focus on the actual question asked. Points about FRBM, cooperative federalism, and incentive structures are well-placed."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Clear intro-body-conclusion structure with logical organization into sub-sections. However, the 5+5+4+4 format is excessively formulaic for a 250-word answer. The challenges and way forward sections, while logical, are not asked for in the question. A more focused 5+5 structure with tighter writing would have been better. The intro is crisp and the conclusion is effective."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Examples are specific and data-rich: Odisha's FHI score of 67.8 and debt index of 99.0, Punjab's debt-to-GSDP ratio of 45%, constitutional articles (149, 151, 293), 15th Finance Commission references. Some examples feel manufactured (Goa, Chhattisgarh coal auction) but most are credible. The range of examples across states is commendable."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "The answer is more descriptive than analytical. It lists features and benefits but rarely interrogates whether the FHI actually delivers on these promises. The challenges section partially compensates by raising issues of structural heterogeneity and political resistance, but these are treated superficially. The tension between advisory nature and enforcement power is mentioned but not deeply explored."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "The answer massively exceeds the 250-word limit (approximately 800+ words). In a real UPSC exam, this would be severely penalized -- writing 3x the word limit shows poor time management and inability to prioritize. The language is clear and professional, but the formulaic 'Eg:' pattern after every point is mechanical. References to heatmaps and visual aids (not possible in a handwritten exam) reveal this is a coaching model template, not an exam-ready answer."
+          }
+        },
+        "total_score": 10.1,
+        "max_marks": 15,
+        "brief_feedback": "Substantively strong with accurate content and data-rich examples, but critically undermined by word-limit violation (~800 words vs 250 asked). The formulaic 5+5+4+4 template structure with challenges and way forward sections goes beyond the question's scope. A focused, concise answer addressing only the two parts asked would score higher. Reduce to core arguments and cut the template padding."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_12",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer covers PLI scheme's rationale, achievements, and areas for improvement in a comprehensive manner. It addresses all three parts of the question with 5 points each, supported by specific data on electronics exports, pharma trade share, automotive investment, and drone industry growth. Constitutional references (Article 39(b), Article 43) and international comparisons (DARPA, Vietnam, Thailand) are included.",
+        "analysis": "Content is generally accurate -- PLI scheme details, mobile phone export reversal, pharma statistics, and auto sector investments are well-documented. However, some figures need scrutiny: the claim that 'FDI inflows in manufacturing rose 69% from USD 98 bn to USD 165 bn' conflates cumulative FDI data with PLI-specific impact, which is misleading attribution. The '33 crore mobile units produced' and 'net exporter in 2023-24' claims are broadly correct. The constitutional alignment section (Art. 39(b), Art. 43) feels forced -- PLI is an industrial policy, not a constitutional mandate for equitable resource distribution. The improvements section is the strongest part, with genuine analytical depth (R&D linkage gap, shallow value addition in telecom, MSME exclusion). The answer again significantly exceeds the word limit (~750+ words for a 250-word question). The three-part question structure (rationale, achievements, improvements) is well-served, but the individual sections are over-elaborated. The Vietnam and Thailand comparisons add analytical value. The conclusion is well-crafted, pivoting from current success to future challenges.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Core PLI scheme facts are accurate: 14 sectors, electronics success, pharma dominance, automotive investment. However, attributing broad FDI manufacturing inflows (USD 98bn to 165bn) directly to PLI is misleading -- this covers a 20-year period predating PLI. The constitutional framing (Art. 39(b), 43) is a stretch. The 'Miheer Karandikar Jan 2025 study' citation adds credibility to the improvements section. Some export figures (Rs 4 lakh crore) are plausible but unverified."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Clean three-part structure matching the question's demands (rationale, achievements, improvements). Each section is logically organized. However, again excessively formulaic with exactly 5 points per section, each with 'Eg:' tagged examples. The approach is competent but mechanical. Intro and conclusion are well-framed."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Strong examples throughout: mobile phone export reversal, 254% FDI rise in electronics, Rs 67,690 crore auto investment, drone industry 7-fold turnover growth. International comparisons (DARPA, Vietnam's FTA strategy, Thailand food hubs) add depth. However, some examples are recycled general knowledge rather than PLI-specific data points."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "The improvements section shows genuine analytical thinking -- identifying shallow value addition in telecom (60% import substitution but low local value), R&D gap versus DARPA, and MSME exclusion. The Vietnam comparison exposes the limits of PLI without trade agreements. This is the strongest analytical section in the batch. However, the rationale and achievements sections are mostly descriptive."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Severely exceeds word limit (~750+ words vs 250 asked). In an actual UPSC exam, this would mean either the candidate runs out of time on other questions or writes illegibly fast. Language is polished and professional. The mechanical 'Eg:' format persists. The reference to a chart/visual ('PLI Scheme — Key Achievements') is inappropriate for a handwritten exam."
+          }
+        },
+        "total_score": 9.9,
+        "max_marks": 15,
+        "brief_feedback": "Well-researched with strong data points and the improvements section shows genuine analytical depth, particularly on shallow value addition and R&D gaps. However, the word-limit violation is severe, constitutional references feel forced, and some FDI attribution is misleading. The formulaic template reduces the answer's authenticity. Tighter writing with fewer but sharper points would improve the score."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_13",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines factors responsible for groundwater depletion and government mitigation steps. It covers 7 factors (water-intensive cropping, subsidized power, urbanization, climate change, weak regulation, tube well expansion, flood irrigation) and 7 government measures (legislation, aquifer schemes, rainwater harvesting, micro-irrigation, community recharge, crop diversification, artificial recharge). Examples span multiple states and include specific data points.",
+        "analysis": "This is a well-grounded answer on a core GS3 environment topic. The factors section is comprehensive and accurately identifies the major drivers of groundwater depletion in India. The CGWB data (62% irrigation, 85% rural drinking water, 1000+ overexploited blocks) is correctly cited. The University of Michigan projection about depletion tripling by 2080 adds an international research dimension. The government measures section covers both central and state-level interventions well -- Atal Bhujal Yojana, NAQUIM, PMKSY, and state-specific laws are all relevant. The Tamil Nadu rainwater harvesting example with 6-metre water table rise is a classic and well-documented case. However, the answer has 7+7 points for a 15-mark, 250-word question -- this is 14 substantive points plus intro and conclusion, resulting in approximately 900+ words. This is the most severe word-limit violation in the batch. The answer reads like an encyclopedic compilation rather than a focused examination. While factual accuracy is high, the analytical depth is shallow -- the answer describes what causes depletion and what government has done, but does not critically evaluate the effectiveness of these measures. The mention of Gujarat's Jyotigram Scheme inadvertently deepening aquifer stress is a rare critical insight. The conclusion is strong, mentioning groundwater rights detached from land ownership, which is a forward-looking policy recommendation.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.4,
+            "justification": "Factually robust throughout. CGWB statistics on groundwater usage, Punjab's 5000 litres per kg rice, Bengaluru's over-exploited classification, Tamil Nadu rainwater harvesting results, and Gujarat check dam numbers are all accurate and well-sourced. The regulatory dimension (State List II, FRBM) and historical context (Green Revolution shift from canals to tube wells) add depth. Very few factual errors detectable."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Clear two-part structure matching the question (factors + government steps). Intro provides context effectively with key statistics. Conclusion is forward-looking. However, the 7+7 format is excessive and makes the answer read like a reference document rather than an exam answer. No prioritization of factors or measures -- everything is given equal weight, which is unrealistic."
+          },
+          "depth_examples": {
+            "score": 2.5,
+            "justification": "The strongest dimension. Examples are specific, state-wise, and data-rich: Punjab's 150% withdrawal rate, Bengaluru CGWB classification, Tamil Nadu 6-metre water table rise, Gujarat 70,000 check dams, Maharashtra drip irrigation at 20% of sugarcane farms, CGWB 2023 data, FAO 2021 reference, University of Michigan 2023 projection. This is exceptionally well-exemplified."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Mostly descriptive. Lists factors and measures without evaluating their relative importance or effectiveness. Does not address: why government measures have failed to arrest depletion despite decades of intervention, the political economy of free power/water, or the tension between food security (requiring irrigation) and aquifer sustainability. The Jyotigram Scheme critique is a rare analytical moment. The conclusion's mention of rights-based approach hints at deeper thinking but is not developed."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Most severe word-limit violation in the batch -- approximately 900+ words vs 250 asked. This would be catastrophic in an actual exam. The 'Dynamic Ground Water Resources of India' visual reference is inappropriate. The formulaic numbered-list-with-Eg: format continues. Language quality is good but the sheer volume undermines the answer's utility as an exam response."
+          }
+        },
+        "total_score": 10.1,
+        "max_marks": 15,
+        "brief_feedback": "Factually the strongest answer in this batch with excellent state-specific examples and data. However, the 7+7 structure (14 points for 250 words) is wildly excessive and shows no ability to prioritize or synthesize. Analytical depth is weak -- the answer catalogs facts but does not evaluate why government measures have failed to arrest depletion. Severely penalized for word-limit violation. A focused 4+4 structure with critical evaluation would score much higher."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_14",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer covers the scope of food processing industries in India and government measures for employment generation. It includes a section on scope (5 points: value addition, GDP contribution, employment potential, export growth, MSME support), government measures (5 points: PMKSY, PMFME, PLI, skill development, state initiatives), and challenges (4 points). Examples cite specific schemes, financial data, and institutional references.",
+        "analysis": "The answer adequately addresses both parts of the question -- scope of food processing and government employment-generation measures. The data points are largely accurate: processed food exports rising to 23.4%, sector valued at $336.4 billion, 6.9 million workers, PMFME scheme supporting 2 lakh MSMEs. The PMKSY allocation of Rs 6,520 crore and PLI outlay of Rs 10,900 crore are correctly cited. However, the answer adds a 'Challenges' section that is not asked for in the question, which while informative, represents scope creep and word-limit inflation. The answer runs to approximately 700+ words. The weakest aspect is analytical depth -- the answer reads like a government press release, listing schemes and their outlays without critically evaluating whether these measures have actually created the employment claimed. For instance, the PMKSY target of 57,000 jobs vs the sector's 6.9 million total employment raises questions about scale of impact, which the answer does not address. The Bihar PMFME statistic (6,589 units) is specific and useful. The mention of NIFTEM-K and NIFTEM-T getting Institute of National Importance status is a contemporary and relevant detail. The scope section is competent but somewhat generic -- these are standard food processing industry talking points.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.8,
+            "justification": "Generally accurate with correct scheme details, financial outlays, and institutional references. The $336.4 billion industry valuation, 12% manufacturing GDP contribution, and export statistics are well-sourced. However, the 'processed food exports rising from 13.7% to 23.4%' claim needs context (percentage of what?). The PMFME 1.44 lakh proposals approved by June 2025 and PLI Rs 10,900 crore outlay are accurate. Some points are generic (value addition, MSME support) and lack specificity."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Two-part structure matching the question (scope + government measures). The addition of challenges section goes beyond the question but adds context. Intro and conclusion are functional. The 5+5+4 format is formulaic but at least matches the two-part question. Flow is logical within each section."
+          },
+          "depth_examples": {
+            "score": 1.9,
+            "justification": "Examples are present but less compelling than in other answers in this batch. The scheme-specific data (PMKSY Rs 6,520 crore, 41 Mega Food Parks, 395 cold chains, 57,000 jobs target) is useful but reads like a government annual report. The Bihar PMFME and Tamil Nadu agro-processing cluster examples add state-level specificity. The Shanta Kumar Committee reference in challenges is relevant. Overall, examples are adequate but not outstanding."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The weakest dimension. The answer essentially lists government schemes without evaluating their effectiveness. It does not address: why food processing remains at only 10% of agricultural output despite decades of policy support, why post-harvest losses remain at Rs 92,000 crore despite cold chain schemes, or whether PLI in food processing is creating quality employment or just subsidizing existing large players. The challenges section partially compensates but is not integrated into the main analysis."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Exceeds word limit significantly (~700+ words vs 250 asked). Language is clear and professional. The formulaic structure persists. Less severe than some other answers in this batch but still a substantial violation. The 'Key Potential Drivers' visual reference is inappropriate for exam format."
+          }
+        },
+        "total_score": 9.0,
+        "max_marks": 15,
+        "brief_feedback": "A competent but uncritical answer that reads like a government scheme compendium. Scheme names, outlays, and targets are accurately cited, but there is almost no evaluation of whether these measures have actually delivered employment at scale. The scope section is generic. Adding the challenges section without being asked inflates word count without adding analytical value to the core question. Needs sharper critical edge and much tighter writing."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_15",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines nanotechnology's advancements in agriculture and its role in uplifting farmers' socio-economic status. It covers agricultural applications (nano-fertilizers, nano-pesticides, nano-sensors, post-harvest nano-coatings, water purification) and socio-economic benefits (input savings, profitability, market access, inclusive technology, environmental sustainability). A challenges section is included with mixed yield results and adoption barriers.",
+        "analysis": "This is a reasonably well-constructed answer on a science-and-technology topic in GS3. The IFFCO Nano Urea example is central and correctly cited -- the Rs 240 bottle replacing a Rs 3,000 urea bag is a strong, relatable data point. The IIT Kanpur nano-biosensors and ICAR-CIPHET edible nano-coating examples demonstrate awareness of Indian R&D efforts. The inclusion of the Punjab Agricultural University (2024) study showing 13-21% yield decline with sole nano urea dependence is a crucial countervailing data point that adds credibility and analytical balance. The answer is structured into two clear parts matching the question, plus a challenges section. However, the answer again exceeds the word limit (~650+ words). The socio-economic section is weaker than the technical section -- some claims (Maharashtra mango exports to Middle East with nano-coating) feel speculative and hard to verify. The UP drone spraying pilot is a contemporary example but its connection to nanotechnology specifically (vs. drone technology generally) is tenuous. The National Nanotechnology Mission (2007) reference in the intro is accurate but dated. The Article 48 and SDG-2 references are appropriate but brief. The TIFR nano-membrane example for water purification is interesting but lacks specificity on deployment scale. Overall, this is a competent S&T answer with good examples but moderate analytical depth.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.6,
+            "justification": "Core content on nano-fertilizers, nano-pesticides, nano-sensors, and nano-coatings is accurate. IFFCO Nano Urea details are correct. The Punjab Agricultural University yield decline study adds factual balance. However, some claims are harder to verify: Maharashtra mango exports using nano-coating technology, TIFR nano-membrane deployment scale, and the exact figures on 365 lakh bottles sold in FY 24-25. The conflation of drone technology with nanotechnology in the UP spraying example is a minor inaccuracy. The National Nanotechnology Mission date (2007) is correct."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Two-part structure matching the question well (agricultural advancements + socio-economic uplift). The challenges section adds balance without being asked for, though it is brief and well-integrated. Intro contextualizes with policy references (National Nanotechnology Mission, Article 48, SDG-2). Conclusion is forward-looking. The 5+5+3 structure is slightly less formulaic than other answers."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good mix of institutional examples: IFFCO Nano Urea, IIT Kanpur nano-biosensors, ICAR-CIPHET, ICAR-CICR Nagpur, TIFR nano-membranes, Punjab Agricultural University study. The cost comparison (Rs 240 vs Rs 3,000) is particularly effective. However, some examples lack specificity (Maharashtra mango exports) or conflate technologies (drone spraying as nanotechnology). The challenges section examples (PAU yield decline, 365 lakh bottles) are well-chosen."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "The inclusion of the PAU yield decline study (13-21% for wheat/paddy) and the 'mixed yield results' challenge shows honest analytical engagement -- the answer does not just tout nanotechnology's benefits but acknowledges limitations. However, the deeper question of whether nanotechnology is a genuine agricultural revolution or an overhyped niche is not addressed. The socio-economic section is largely aspirational rather than evidence-based. The tension between industry claims (IFFCO) and independent research (PAU) could have been explored further."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Exceeds word limit (~650+ words vs 250 asked) but is the least severe violator in the batch. Language is clear and technical terms are explained. The answer avoids jargon overload while maintaining scientific credibility. The formulaic structure is present but less rigid. No inappropriate visual references."
+          }
+        },
+        "total_score": 9.3,
+        "max_marks": 15,
+        "brief_feedback": "A balanced S&T answer that appropriately acknowledges both promise and limitations of nanotechnology in agriculture. The IFFCO Nano Urea cost comparison and PAU yield decline study are strong anchoring examples. The socio-economic section is more aspirational than evidence-based. Analytical depth is moderate -- the answer could benefit from exploring the gap between lab-scale promise and field-scale delivery. Word limit violation is less severe than other answers but still significant."
+      }
+    ]
+  }
+]

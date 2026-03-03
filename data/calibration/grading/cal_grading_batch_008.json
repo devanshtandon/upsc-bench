@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs2_16",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses the paradox of poverty — the coexistence of resource abundance with widespread deprivation — by linking it to inequality in resource ownership. It covers land concentration, capital/industry control, exclusion from natural resources, financial exclusion, and educational divides. It then illustrates the paradox through resource-rich but poor regions, urban-rural disparities, agricultural plenty with farmer distress, jobless growth, and ecological misuse. A detailed way forward section proposes land reforms, inclusive credit, skill investment, community resource management, progressive taxation, and employment guarantee schemes.",
+        "analysis": "Content is broadly accurate and covers the key dimensions of resource inequality driving poverty. The 'paradox of poverty' concept is correctly framed. However, the answer is excessively long for a 250-word question — it reads like a 600+ word essay, which is a significant presentational flaw. The body is structured as two parallel lists (inequality causes and paradox illustrations) that overlap substantially, creating redundancy. For instance, the point about resource-rich regions like Jharkhand appears in both sections. The examples are relevant (NSSO land data, Oxfam wealth report, Dharavi, ASER) but many are generic coaching-style illustrations rather than deeply specific. The analytical depth is moderate — it describes the vicious cycle but does not critically interrogate competing theories of poverty (capability approach vs. structural Marxist vs. institutional perspectives). The way forward section is formulaic. The answer lacks engagement with Amartya Sen's work on entitlements or the distinction between absolute and relative poverty, which would be expected for a strong answer on this topic.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "Core points about land, capital, natural resources, and financial exclusion are correct and relevant. However, the answer is repetitive across its two body sections, and the 'paradox of poverty' concept could be more precisely defined with reference to development economics literature. Some examples (e.g., 'Growth post-1991 favoured asset-owners') are vague assertions rather than precise facts. No factual errors detected, but coverage lacks theoretical depth."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Has clear intro-body-conclusion format with way forward. However, the two-part body (inequality causes + paradox illustrations) creates structural redundancy — many points overlap. The answer would benefit from a single integrated argument rather than two parallel lists. The flow is logical within each section but the overall architecture is bloated."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Numerous examples provided: NSSO 2019 land data, Oxfam 2024, ASER 2024, Dharavi, Vidarbha farmer suicides, Rythu Bandhu, Kerala literacy model, FRA 2006, PESA 1996, MGNREGS. These are relevant and mostly specific. However, many are standard coaching-institute examples rather than deeply contextualised illustrations. The 'Fig: Vicious Circle of Poverty' reference suggests a diagram was intended but not included."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The answer describes the problem comprehensively but lacks critical analysis. It does not engage with competing perspectives on poverty causation (structural vs. institutional vs. capability-based). No mention of Sen, Dreze, or development economics frameworks. The analysis is descriptive rather than evaluative — it lists problems and solutions without interrogating trade-offs or limitations of proposed reforms."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Massively exceeds the 250-word limit — the answer is roughly 600+ words. This is a serious flaw in UPSC Mains where word limits signal expected depth and examiners penalise verbosity. Language is clear but formulaic. The bullet-point format, while organised, lacks the essay-style prose expected in UPSC Mains answers."
+          }
+        },
+        "total_score": 7.7,
+        "max_marks": 15,
+        "brief_feedback": "Comprehensive coverage of resource inequality and the paradox of poverty with relevant examples, but severely undermined by excessive length (2x word limit), structural redundancy between body sections, and lack of theoretical depth. A more concise, analytically sharp answer engaging with Sen's capability approach or structural theories of poverty would score higher."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_17",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses the disconnect between centralised decision-making and ground-level development execution, invoking the subsidiarity principle. It presents arguments for why centralisation defeats development objectives (information gaps, delays, erosion of participation, top-down targets, exclusion of marginalised voices), then counter-arguments favouring centralisation (uniform standards, economies of scale, resource mobilisation, capacity deficits, inter-state spillovers). It identifies limitations of the current model and proposes a way forward emphasising decentralisation, fiscal empowerment, capacity building, cooperative federalism, and technology-enabled participation.",
+        "analysis": "This is a well-structured 'critically evaluate' answer that presents both sides of the centralisation-decentralisation debate. The use of the subsidiarity principle in the introduction shows conceptual clarity. The answer correctly identifies key tensions: information-action gaps, delayed response, and elite capture at local levels. The examples are specific and relevant — Smart Cities Mission bypassing Gram Sabhas, Swachh Bharat unused toilets, Kerala's People's Plan Campaign, Kudumbashree. The critical evaluation is genuinely balanced, acknowledging both the failures of centralisation and the capacity deficits at local levels. However, the answer is again excessively long (600+ words for a 250-word question), which is a major presentational flaw. The 'limitations of current model' section partly overlaps with the earlier critique of centralisation. The answer could benefit from engaging with the 73rd/74th Constitutional Amendments more explicitly and discussing the Second ARC recommendations on decentralisation. The analytical depth is adequate but could be sharper on the political economy of why decentralisation fails despite formal devolution.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.4,
+            "justification": "Accurately covers the centralisation vs. decentralisation debate with correct references to schemes (Smart Cities Mission, Swachh Bharat, MGNREGS, Jal Jeevan Mission), institutions (panchayats, Gram Sabhas), and policy frameworks (PESA, 15th Finance Commission). The subsidiarity principle is correctly invoked. The 4% of GDP flowing to panchayats figure is approximately correct. No significant factual errors. Could have engaged more with 73rd/74th Amendments."
+          },
+          "structure_flow": {
+            "score": 1.8,
+            "justification": "Well-organised with clear sections: why centralisation fails, merits of centralisation, limitations, and way forward. This structure suits a 'critically evaluate' question well. However, there is overlap between the 'why centralised decision-making defeats objectives' and 'limitations of current model' sections. The intro-body-conclusion flow is coherent."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Rich set of examples: Smart Cities bypassing Gram Sabhas, Swachh Bharat toilets unused due to water scarcity, Kerala's People's Plan Campaign, Kudumbashree, e-Panchayat in AP, 15th FC allocation of Rs 4.3 lakh crore, POSCO Odisha displacement. These are specific and contextualised. The fiscal decentralisation data point (4% of GDP) adds quantitative depth."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "The answer achieves genuine critical balance — it acknowledges both the democratic deficit of centralisation and the practical problems of decentralisation (elite capture, capacity deficits). This is better analytical depth than the previous answer. However, it could probe deeper into why formal devolution (73rd/74th Amendments) has not translated into effective decentralisation — the political economy dimension is missing."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Significantly exceeds the 250-word limit at roughly 650+ words. While the language is clear and the organisation is good, the excessive length would be penalised by UPSC examiners. The bullet-point sub-structure is functional but lacks essay-style prose flow expected in Mains."
+          }
+        },
+        "total_score": 8.4,
+        "max_marks": 15,
+        "brief_feedback": "Strong critically-evaluated answer with genuine balance between centralisation and decentralisation perspectives. Good examples and correct conceptual framing via subsidiarity. Penalised for excessive length (nearly 3x word limit) and some structural redundancy. Would benefit from engagement with 73rd/74th Amendments and political economy of why decentralisation fails in practice."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_18",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines challenges faced by children in the digital era (harmful content, cyberbullying, sexual exploitation, data misuse, digital divide), reviews existing policies (POCSO Act, IT Act, Cyber Crime Portal, DPDP Act 2023, NCERT curriculum), identifies limitations (fragmented law, enforcement gaps, capacity deficits, lack of psychological focus, centralisation), and proposes measures NCPCR can initiate (Child Online Safety Charter, district-level cells, digital literacy modules, corporate partnerships, periodic audits).",
+        "analysis": "This answer directly addresses both parts of the question: existing policies and suggested NCPCR measures. The policy landscape is accurately mapped — POCSO Act 2012, IT Act 2000, DPDP Act 2023, and school-based awareness campaigns are all correctly cited. The examples are relevant: the Bois Locker Room case, WHO's gaming disorder classification, NCRB data on cyberstalking, and the UK's Age-Appropriate Design Code as an international benchmark. The suggested NCPCR measures are actionable and specific — a Child Online Safety Charter, district-level cells, and corporate partnerships show practical thinking. However, the answer again massively exceeds word limits. The limitations section, while valid, is somewhat generic. The answer could have discussed NCPCR's actual track record and existing interventions (e.g., its guidelines on children's screen time, its monitoring of OTT platforms) rather than treating NCPCR as a blank slate. The mention of Cambridge Analytica as involving 'underage profiles' is a stretch — the scandal was primarily about adult voter data. The CSAM-related Interpol claim about India being a 'top source' needs more careful framing.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.1,
+            "justification": "Accurately covers POCSO Act, IT Act, DPDP Act 2023, NCPCR's mandate under CPCR Act 2005, and NCRB data. However, the Cambridge Analytica example is inaccurate as applied to children's data specifically — the scandal was about adult voter profiling. The Interpol claim about India as a 'top source' of CSAM needs qualification. The existing policy coverage is comprehensive but could have mentioned NCPCR's own existing digital-age guidelines."
+          },
+          "structure_flow": {
+            "score": 1.7,
+            "justification": "Well-organised into challenges, existing framework (merits), limitations, and suggested measures — this directly mirrors the question's two-part structure. The flow is logical. However, the merits and limitations sections could have been more tightly integrated rather than presented as separate lists."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Good range of examples: POCSO invoked against Telegram CSAM groups, Bois Locker Room case, WHO gaming disorder classification, UK Age-Appropriate Design Code, EU GDPR model, UK Ofcom reports. International comparisons add value. However, the Cambridge Analytica example is misapplied, and some examples are dated."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The answer identifies the enforcement gap and fragmented legal architecture, which shows analytical thinking. However, it does not critically assess NCPCR's institutional capacity, political independence, or resource constraints. It treats NCPCR as capable of implementing sweeping reforms without examining whether the Commission has the mandate, budget, or enforcement power to do so."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Again exceeds the 250-word limit significantly (600+ words). Clear language and good organisation, but the excessive length and bullet-point format detract from the expected Mains answer style. Some sections could be condensed without losing substance."
+          }
+        },
+        "total_score": 7.8,
+        "max_marks": 15,
+        "brief_feedback": "Competent answer that addresses both parts of the question (existing policies + NCPCR measures) with relevant examples and international comparisons. Penalised for inaccurate application of the Cambridge Analytica example, excessive length, and insufficient critical assessment of NCPCR's actual institutional capacity to implement proposed measures."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_19",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines how energy security dominates India's foreign policy, particularly through Middle East engagement. It covers import dependence, sea lane vulnerability, diaspora-energy interlinkages, green energy transition, and supplier diversification. It discusses merits of India's current approach (diversification to Russia, strategic petroleum reserves, naval security, rupee-dirham trade), identifies limitations (overdependence on Middle East, limited upstream equity, project delays, institutional fragmentation), and proposes integration of energy security with foreign policy through flexible contracts, SPR expansion, green energy corridors, security-diplomacy fusion, and investment diplomacy.",
+        "analysis": "This is a strong answer on a GS2 international relations topic. The content is factually rich: 85% crude oil import dependence, 55% natural gas dependence, ADNOC storage in Mangalore, Operation Sankalp, India-UAE CEPA, Petronet-Qatar LNG contract till 2048, Russia's rising share in India's crude basket, Ratnagiri refinery delays. The answer successfully integrates energy security with foreign policy by covering both traditional hydrocarbon diplomacy and the emerging green energy dimension (National Green Hydrogen Mission, India-Saudi green hydrogen agreement, India-Oman ammonia pact). The analytical depth is reasonable — it acknowledges the tension between India's fossil fuel dependence and climate commitments (COP27), and the institutional fragmentation across MEA, MoPNG, and MNRE. However, the answer is once again vastly over the word limit. It also lacks engagement with India's energy relations beyond the Middle East — Africa (Mozambique LNG), Central Asia (TAPI pipeline), and the Indo-Pacific dimension are missing. The France-Mexico veto proposal mentioned seems to belong to a UN reform answer rather than this one.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.6,
+            "justification": "Factually strong with accurate data points: 85% crude import dependence, ADNOC Mangalore storage, Operation Sankalp 2019, India-UAE CEPA, Petronet-Qatar contract, Russia's rising crude share, Ratnagiri refinery delays with Saudi Aramco/ADNOC. The green energy transition dimension (National Green Hydrogen Mission, India-Saudi hydrogen, India-Oman ammonia) is correctly integrated. Minor omission: no mention of energy relations with Africa, Central Asia, or Indo-Pacific."
+          },
+          "structure_flow": {
+            "score": 1.7,
+            "justification": "Well-structured with clear progression from why energy dominates foreign policy, to merits of current approach, to limitations, to way forward. The intro correctly frames the dual challenge of traditional hydrocarbon security and green transition. However, the multiple parallel sections create a listing effect rather than a flowing argument."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Excellent range of specific examples: Operation Sankalp, ADNOC Mangalore, Petronet-Qatar 2048 contract, rupee-dirham settlements, Saudi Aramco drone strikes 2019, ONGC Videsh Abu Dhabi stakes, Ratnagiri refinery, COP27 stance, India-Oman ammonia pact. These are specific, dated, and contextualised — stronger than generic coaching examples."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Good analysis of the tension between fossil fuel dependence and climate commitments. The point about institutional fragmentation (MEA vs. MoPNG vs. MNRE) shows systemic thinking. However, the answer does not critically evaluate whether energy security should remain the 'dominant kingpin' or whether India's foreign policy is shifting toward technology, semiconductors, and strategic autonomy as new priorities."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Severely exceeds word limit — approximately 700+ words for a 250-word question. While the language is polished and the organisation clear, this level of verbosity would be heavily penalised in actual UPSC examination. The bullet-point format persists."
+          }
+        },
+        "total_score": 8.6,
+        "max_marks": 15,
+        "brief_feedback": "Factually rich answer with excellent specific examples and good integration of traditional hydrocarbon diplomacy with green energy transition. The strongest answer in this batch in terms of content accuracy and example quality. Severely penalised for being nearly 3x the word limit. Could improve by critically questioning whether energy should remain the dominant foreign policy driver and by covering energy partnerships beyond the Middle East."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_20",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines why UN reform remains stalled due to East-West confrontations between the US-led Western bloc and the Russo-Chinese alliance. It covers conflicting visions of multilateralism, veto politics, power rivalry over UNSC expansion, sanctions diplomacy, and weaponisation of UN platforms. It then presents merits of the current balance (preventing unilateral domination, encouraging bargaining, protecting sovereignty, stability through status quo, alternative forums). Limitations include erosion of UN credibility, marginalisation of Global South, veto-enabled humanitarian crises, and reform fatigue. The way forward proposes G4-AU partnership, veto restraint, incremental reform, General Assembly strengthening, and middle-power coalitions.",
+        "analysis": "This answer handles a complex international relations topic with reasonable competence. The East-West divide is correctly identified as the core obstacle to UN reform, and the specific dynamics — Russia-China vetoes on Syria, China blocking India's G4 bid, the Ezulwini Consensus, Kofi Annan's 2005 reform report, France-Mexico veto restraint proposal — are all accurately referenced. The answer achieves genuine critical balance by acknowledging both the costs of deadlock (humanitarian crises, Global South marginalisation) and the stabilising function of the current system (preventing unilateral NATO interventions). However, the answer is again far too long. The 'merits of current East-West balance' section is somewhat forced — arguing that deadlock is beneficial strains credibility. The answer could engage more deeply with specific reform proposals (Razali plan, 2005 World Summit, Intergovernmental Negotiations framework) and their failure. The conclusion's India-centric framing, while appropriate for a UPSC answer, feels tacked on rather than organically integrated.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.3,
+            "justification": "Accurately covers the main dynamics: P5 veto politics, Russia-China vetoes on Syria (15+ times is approximately correct), G4 vs. Coffee Club tensions, China opposing India's UNSC bid, Ezulwini Consensus, Kofi Annan's 2005 reform report, France-Mexico veto restraint proposal, Uniting for Peace mechanism. The framing of East-West confrontation is sound. However, the answer could have mentioned specific reform models (Razali plan, Model A/B from 2005) and the Intergovernmental Negotiations process."
+          },
+          "structure_flow": {
+            "score": 1.7,
+            "justification": "Follows a clear structure: why East-West confrontation blocks reform, merits of current balance, limitations, way forward, conclusion. This is appropriate for an 'examine and critically evaluate' question. However, the merits and limitations sections are structurally similar to other answers in this batch — the template-driven approach reduces distinctiveness."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Good examples: Syria vetoes, QUAD and BRICS balancing, Uniting for Peace resolution, Africa's lack of permanent UNSC seat, G4 and L.69 groupings, Xinjiang vs. Iraq/Afghanistan counter-accusations. These demonstrate familiarity with the UN reform debate. However, some examples are surface-level references without deeper contextualisation."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The answer attempts critical balance by presenting both the costs and inadvertent benefits of East-West deadlock. However, the 'merits' argument (deadlock prevents unilateral domination) is somewhat superficial. The answer does not deeply analyse why specific reform proposals have failed at the procedural level, or the role of regional groups (African Group, CARICOM, Arab League) in complicating reform beyond the East-West binary."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Exceeds the 250-word limit by roughly 3x (700+ words). The bullet-point format, while organised, does not match expected UPSC Mains prose style. Language is clear but the conclusion feels abruptly truncated ('India must thus push') suggesting the answer was cut off."
+          }
+        },
+        "total_score": 7.9,
+        "max_marks": 15,
+        "brief_feedback": "Competent coverage of the East-West divide blocking UN reform with accurate references to P5 veto dynamics, G4 bids, and reform proposals. Critical balance attempted but the 'merits of deadlock' argument strains credibility. Heavily penalised for excessive length. Would benefit from deeper procedural analysis of why specific reform proposals failed and engagement with regional group dynamics beyond the East-West binary."
+      }
+    ]
+  }
+]

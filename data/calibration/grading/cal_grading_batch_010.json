@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs3_6",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer provides an exhaustive catalogue of clean energy pathways and biotechnology applications for energy independence by 2047. It is well-structured but severely exceeds the 150-word limit and reads more like a textbook chapter than a focused exam answer.",
+        "analysis": "The answer correctly identifies key pillars -- renewables, green hydrogen, transport electrification, efficiency, and domestic manufacturing -- and then maps biotechnology contributions across biofuels, bio-CNG, algae, bio-hydrogen, synthetic biology, BECCS, bio-mining, and biofertilisers. Factual content is largely accurate. However, the answer is approximately 400+ words against a 150-word limit, which is a serious presentation flaw. The examples are illustrative but generic (e.g., 'paddy-straw 2G ethanol plants') without specific data, dates, or project names. Analytical depth is limited -- it lists technologies without critically evaluating feasibility, cost barriers, or trade-offs. The sheer number of points (7+8) dilutes focus rather than demonstrating prioritisation expected in a concise answer.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Factually sound with comprehensive coverage of both clean technology pathways and biotech applications, though some points are superficial."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clear intro-body-conclusion with logical bifurcation into two parts, but the body is excessively long and could benefit from tighter integration."
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "Examples are present for every point but are generic placeholders rather than specific data-backed case studies."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Mostly descriptive listing with minimal critical evaluation of challenges, costs, or comparative feasibility of different pathways."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Massively exceeds the 150-word limit by nearly 3x, which would be penalised in an actual UPSC exam."
+          }
+        },
+        "total_score": 5.3,
+        "max_marks": 10,
+        "brief_feedback": "A knowledge dump that covers the topic comprehensively but fails to demonstrate the selectivity, conciseness, and analytical depth expected in a 150-word answer."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_7",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer explains CCUS components clearly and outlines its role in climate change mitigation with relevant examples. It is well-organised but exceeds the word limit and lacks critical depth on limitations.",
+        "analysis": "The answer correctly defines CCUS and breaks it into capture, transport, utilisation, and storage components. The role of CCUS in tackling climate change is covered through hard-to-abate sectors, coal transition, BECCS, Paris Agreement targets, circular economy, and energy security. Examples like Drax, LanzaTech, and IEA projections add credibility. However, the answer is approximately 350 words against a 150-word limit. The mention that CCUS 'is not a silver bullet' in the conclusion is the only critical note -- the body lacks discussion of high costs, energy penalty, moral hazard of delayed fossil fuel phase-out, or low global deployment rates. The India-specific content (NTPC, ONGC pilots, draft policy) is relevant but stated without evaluating actual progress or scalability challenges.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Accurate definition and comprehensive coverage of CCUS roles with correct factual references to IEA projections and real-world projects."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clean intro-body-conclusion structure with logical separation of definition and role, though the 'About CCUS' section has a redundant subheading."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Good use of specific examples including Drax BECCS, LanzaTech, IEA 15% projection, and India-specific NTPC/ONGC pilots."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Almost entirely descriptive with negligible discussion of CCUS limitations such as cost, energy penalty, or the moral hazard critique."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds the 150-word limit by over 2x; language is clear but verbosity would be penalised."
+          }
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "A solid descriptive answer with good examples but insufficient critical analysis of CCUS limitations and significant word limit violation."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_8",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer covers causes and remedial measures of seawater intrusion comprehensively with India-specific examples. It is well-structured but excessively long and lacks analytical depth on the interplay between causes.",
+        "analysis": "The answer correctly identifies six causes (over-pumping, urbanisation, reduced recharge, sea-level rise, seasonal variation, tectonic factors) and six remedial measures (controlled extraction, artificial recharge, subsurface barriers, alternative sources, watershed management, community management). India-specific examples are strong -- Chennai desalination, Saurashtra MAR, Gujarat regulation, Sundarbans vulnerability. However, some examples are repeated or overlap (Saurashtra appears in two different points). The answer runs approximately 380 words against a 150-word limit. There is no discussion of institutional challenges, inter-state water governance, or the cost-benefit of different remediation strategies. The answer is a balanced listing but does not prioritise or analytically connect causes to remedies, which would have elevated it.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Factually correct with comprehensive cause-remedy coverage, though Saurashtra example is used redundantly across two points."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organised intro-body-conclusion with clear bifurcation into causes and remedies, maintaining logical flow throughout."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Strong India-specific examples (Chennai, Saurashtra, Sundarbans, Gujarat) though lacks quantitative data on extraction rates or salinity levels."
+          },
+          "analytical_depth": {
+            "score": 0.3,
+            "justification": "Purely descriptive with no analytical linkage between causes and remedies, no discussion of governance challenges or cost-effectiveness."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Clear language but exceeds word limit by approximately 2.5x, which is a significant presentation flaw."
+          }
+        },
+        "total_score": 5.7,
+        "max_marks": 10,
+        "brief_feedback": "Comprehensive factual coverage with good India-specific examples but let down by excessive length, lack of analytical depth, and a repetitive example."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_9",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses all three parts of the question -- manifestation of terrorism in India, contemporary examples, and countermeasures -- with a wide range of specific examples. It is well-structured but extremely verbose and lacks nuanced analysis.",
+        "analysis": "The answer identifies six manifestations (cross-border terrorism, LWE, urban networks, NE militancy, lone-wolf, narco-terrorism) and six countermeasures (legislative, institutional, operational, capacity building, community outreach, international cooperation). Contemporary examples are strong and recent -- Pulwama 2019, Pahalgam 2025, Operation Sindoor 2025, ISIS modules in Kerala. The factual accuracy is generally good, though the 'Bengaluru blast case 2022' attribution to Indian Mujahideen needs verification. The answer runs approximately 420 words against 150-word limit. Critical analysis is weak -- there is no discussion of root causes, human rights concerns in counter-terrorism, effectiveness of UAPA, or the socio-economic dimensions of radicalisation. The conclusion is generic and does not synthesise the argument.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Comprehensive coverage of terrorism types and countermeasures with mostly accurate facts, though one example attribution is questionable."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear tripartite structure addressing all dimensions of the question with logical flow from manifestation to countermeasures."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Strong contemporary examples including Pulwama, Pahalgam 2025, Operation Sindoor, drone-dropped arms, and UAPA amendments with specific years."
+          },
+          "analytical_depth": {
+            "score": 0.3,
+            "justification": "No critical discussion of human rights trade-offs, root causes of radicalisation, or effectiveness evaluation of existing measures."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Exceeds word limit by nearly 3x; the excessive length undermines the conciseness expected in a UPSC answer."
+          }
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Rich in contemporary examples and factual breadth but severely over-length and lacking the critical analytical perspective that distinguishes a strong UPSC answer."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs3_10",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer defines LWE, discusses its impact on people, and outlines government countermeasures with relevant examples. It is thorough and well-organised but excessively long and analytically shallow.",
+        "analysis": "The answer addresses all three sub-questions: definition of LWE, impact on people, and government measures. The definition section covers ideology, geography, organisational structure, and tactics adequately. Impact on people is well-covered through loss of life, livelihood disruption, tribal exploitation, governance denial, and psychological trauma. Government measures span security operations, development initiatives, surrender policies, technology, coordination, and community outreach. The statistic of reduction from 200 to fewer than 50 affected districts is a strong data point. However, the answer is approximately 400 words against 150-word limit. It does not critically examine why LWE persists despite decades of measures, the tension between security and development approaches, or the effectiveness of the Aspirational Districts Programme. Examples are adequate but not data-rich.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Factually accurate with correct identification of CPI(Maoist), Red Corridor geography, and the district reduction statistic, covering all three sub-questions."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organised with clear separation of definition, impact, and measures, maintaining logical progression throughout."
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "Examples are relevant (Sukma-Bijapur 2021, Dantewada, Gadchiroli) but lack specific data on casualties, spending, or programme outcomes."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The conclusion hints at the security-development balance but the body fails to critically evaluate why LWE persists or assess programme effectiveness."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Exceeds the 150-word limit by approximately 2.7x, which would attract significant penalty in actual examination."
+          }
+        },
+        "total_score": 5.5,
+        "max_marks": 10,
+        "brief_feedback": "Covers all three dimensions of the question competently but is undermined by excessive length, generic examples, and a descriptive rather than analytical treatment."
+      }
+    ]
+  }
+]

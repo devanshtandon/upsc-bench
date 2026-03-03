@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs2_11",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer addresses constitutional morality and its application to balancing judicial independence and judicial accountability. It defines the concept, references Navtej Johar and Kesavananda Bharati, and then separately discusses how constitutional morality applies to judicial independence (appointments, tenure, judicial review, financial autonomy) and judicial accountability (transparency, RTI, ethical codes, impeachment, judicial restraint). A concluding section attempts to synthesise the balance between the two.",
+        "analysis": "Content is largely accurate and covers the relevant terrain — the concept is well-defined, and the dual application to independence and accountability is addressed. Key cases (Navtej Johar, Kesavananda Bharati, NJAC, Second Judges Case, S.R. Bommai, Minerva Mills via Aadhaar) are correctly cited. However, the answer is excessively long for a 250-word question — it reads like a 600-700 word essay, which is a serious flaw in actual UPSC examination conditions. The structure is clear but overly elaborate: the sub-headings under each section create a laundry-list feel rather than an integrated analytical argument. The analytical depth is adequate but not exceptional — the answer largely describes rather than critically evaluates. For instance, it does not interrogate the tensions within constitutional morality itself (e.g., who defines it? Can it become a tool for judicial overreach?). The balance section at the end is formulaic. The presentation is clean but the word limit violation is significant. In real UPSC grading, exceeding word limits substantially would not earn extra marks and may signal poor time management.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.6,
+            "justification": "Facts are accurate. Key concepts (basic structure, constitutional morality, judicial independence as basic feature) correctly stated. Cases correctly cited. However, the treatment is somewhat surface-level — it lists points rather than weaving a cohesive argument. No factual errors detected, but the sheer volume of points obscures prioritisation. Score: 60% of 6.0."
+          },
+          "structure_flow": {
+            "score": 1.65,
+            "justification": "Clear introduction-body-conclusion format. Sub-sections for independence and accountability are logically separated. However, the answer is far too long for a 250-word limit answer. The structure becomes repetitive with parallel bulleted points under each sub-section. A more concise, integrated structure would be superior. Score: 55% of 3.0."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Good range of examples: Navtej Johar, Kesavananda Bharati, NJAC, Second Judges Case, S.R. Bommai, Restatement of Judicial Values, RTI ruling on CJI's office, Justice V. Ramaswami impeachment proceedings. Examples are relevant and correctly applied. However, some are merely name-dropped rather than analysed. Score: 60% of 3.0."
+          },
+          "analytical_depth": {
+            "score": 0.68,
+            "justification": "The answer describes constitutional morality and its applications but does not deeply interrogate the concept. It does not question who determines constitutional morality, whether it can be weaponised by the judiciary, or whether the concept is inherently subjective. The 'balance' section is formulaic rather than genuinely analytical. Score: 45% of 1.5."
+          },
+          "presentation": {
+            "score": 0.68,
+            "justification": "Language is clear and professional. However, the answer massively exceeds the 250-word limit (likely 700+ words), which is a significant presentation flaw. In real UPSC conditions, this would indicate poor answer management. Score: 45% of 1.5."
+          }
+        },
+        "total_score": 8.41,
+        "max_marks": 15,
+        "brief_feedback": "Competent coverage of constitutional morality with accurate case references and clear structure. However, the answer is far too long for a 250-word question, substituting breadth for depth. The analytical core is thin — it describes rather than critically evaluates. A real UPSC examiner would penalise the excessive length and prefer a tighter, more analytically sharp answer. Falls in the adequate-to-good range (56%)."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_12",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines procedural and substantive limitations on Parliament's amending power under Article 368. It begins by explaining why Parliament was entrusted with amending power, then separately details procedural hurdles (special majority, bicameral approval, state ratification, Presidential assent) and substantive limitations (basic structure doctrine, judicial review of amendments, federal limitations, democratic form, judicial independence). Key cases like Kesavananda Bharati, Minerva Mills, and NJAC are referenced.",
+        "analysis": "The answer is factually sound and covers the topic comprehensively. The distinction between procedural and substantive limitations is correctly drawn and well-organised. Cases are accurately cited: Kesavananda Bharati (1973), Indira Gandhi v. Raj Narain (1975), Minerva Mills (1980), and the NJAC case (2015) are all correctly placed. The examples under procedural limitations (GST amendment, 73rd/74th amendments, 104th amendment) are relevant and specific. However, the answer again massively exceeds 250 words — it reads like a 700+ word essay. The first section on 'why Parliament is the amending body' is largely unnecessary padding that does not directly address the question about limitations. The question asks specifically about limitations, so spending substantial space justifying why Parliament has this power is a structural weakness. The analytical depth is limited — the answer catalogues limitations without critically evaluating their effectiveness or tensions between them (e.g., whether the basic structure doctrine is itself an extra-constitutional limitation, or whether state ratification is a meaningful check given party discipline). One minor factual concern: the 98th Amendment created the National Judicial Appointments Commission, not regional benches — though the answer mentions it only in passing as an example of consensus. The substantive section on basic structure is solid but could engage more with the debate around judicial supremacy in defining basic structure.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.36,
+            "justification": "Core content is accurate. Procedural limitations (special majority, bicameral approval, state ratification) correctly described. Substantive limitations (basic structure, judicial review of amendments) accurately covered with correct case citations. However, the section on 'why Parliament has amending power' is tangential to the question asked. Minor concern about 98th Amendment reference but it does not constitute a significant factual error as stated. Score: 56% of 6.0."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Clear intro-body-conclusion with distinct procedural and substantive sections. However, the initial section justifying Parliament as amending body is misplaced — it addresses a question that was not asked. The answer should have begun directly with limitations. Excessively long for 250 words. Score: 50% of 3.0."
+          },
+          "depth_examples": {
+            "score": 1.95,
+            "justification": "Strong examples throughout: Kesavananda Bharati, Minerva Mills, NJAC, Indira Gandhi v. Raj Narain, 42nd and 44th Amendments, GST (101st), 73rd/74th Amendments, 86th Amendment. Examples are well-matched to the points they support. Score: 65% of 3.0."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The answer is largely descriptive — it catalogues limitations without critically evaluating their effectiveness, interplay, or controversies. It does not engage with the debate about whether judicial review of amendments constitutes judicial supremacy, or whether procedural hurdles are meaningful given party whip systems. Score: 40% of 1.5."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Language is competent and clear. However, the answer is excessively long (700+ words for a 250-word question), and the first section is padding. In real UPSC conditions, this verbosity would be penalised. Score: 40% of 1.5."
+          }
+        },
+        "total_score": 8.01,
+        "max_marks": 15,
+        "brief_feedback": "Factually accurate with strong case law references and clear procedural/substantive division. However, the answer wastes significant space justifying Parliament as amending body — a point the question takes as given. Excessively verbose for a 250-word question. Analysis remains descriptive rather than evaluative. A tighter answer focused solely on limitations with critical evaluation of their effectiveness would score higher. Falls in the adequate range (53%)."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_13",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer traces the evolution of India's collegium system through the Three Judges Cases and the NJAC judgment, then provides a comparative analysis of advantages and disadvantages of both the Indian collegium system and the US appointment process. It covers judicial independence, transparency, diversity, and politicisation concerns for both systems.",
+        "analysis": "This is a demanding three-part question: (1) evolution of collegium, (2) advantages/disadvantages of Indian system, (3) advantages/disadvantages of US system, with a comparative element. The answer addresses all three parts. The evolutionary timeline is accurate — S.P. Gupta (1981), Second Judges Case (1993), Third Judges Case (1998), and NJAC (2015) are correctly described. The supersession of 1973 is a good historical anchor. The comparative analysis of the US system is well-informed, citing relevant examples (Bork, Garland, Kavanaugh, Ketanji Brown Jackson, Dobbs v. Jackson). However, the answer is enormously long — easily 800+ words for a 250-word question. This is the most egregious word limit violation in this batch. In actual UPSC Mains, candidates write 250-word answers in about 15 minutes; this answer would take 30-40 minutes to write. The analysis, while comprehensive, is not particularly deep — it lists pros and cons without truly integrating or comparing the two systems. The question asks to 'critically examine' the advantages and disadvantages, which requires weighing them against each other, not merely listing them side by side. The conclusion mentions a 'middle path' but does not elaborate on what that would look like. One strength is the breadth of examples, but many are merely named rather than analysed.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.6,
+            "justification": "Factually accurate across the board. Evolution of collegium correctly traced. US system accurately described. Cases and examples (Bork, Garland, Dobbs, Ketanji Brown Jackson) are correctly cited. All three parts of the question addressed. However, the treatment is more encyclopaedic than analytical. Score: 60% of 6.0."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Logically organised into evolution, Indian advantages, Indian disadvantages, US advantages, US disadvantages — clean and easy to follow. However, the question demands comparison, and the parallel listing structure does not facilitate genuine comparison. The answer is grotesquely long for a 250-word limit. Score: 50% of 3.0."
+          },
+          "depth_examples": {
+            "score": 2.1,
+            "justification": "Excellent range of examples: S.P. Gupta, Second and Third Judges Cases, NJAC, Justice Rohinton Nariman, Justice K.M. Joseph, Bork, Garland, Kavanaugh, Sotomayor, Thurgood Marshall, Dobbs v. Jackson. Both Indian and US systems well-illustrated. Score: 70% of 3.0."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Despite the question asking to 'critically examine', the answer largely lists pros and cons without comparative synthesis. It does not weigh which system better serves judicial independence, or whether elements of one could improve the other. The conclusion is vague. Score: 40% of 1.5."
+          },
+          "presentation": {
+            "score": 0.45,
+            "justification": "While the language is clear and professional, the answer is approximately 800+ words — more than triple the word limit. This is the most severe presentation flaw possible in a UPSC answer. No examiner would read this approvingly. Score: 30% of 1.5."
+          }
+        },
+        "total_score": 8.25,
+        "max_marks": 15,
+        "brief_feedback": "Comprehensive coverage of the collegium evolution and a well-informed comparison with the US system. Factually strong with excellent examples from both jurisdictions. However, the answer is catastrophically over-length (800+ words for 250-word limit) and lacks the critical comparative synthesis the question demands. Lists pros and cons in parallel without integrating them. A real UPSC examiner would note the breadth but penalise heavily for verbosity and lack of analytical depth. Falls in the adequate-to-good range (55%)."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_14",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines the evolution of Centre-State financial relations in the context of planned development, covering the constitutional vertical imbalance, Planning Commission's centralising role, centrally sponsored schemes, and Finance Commissions. It then discusses the impact of recent reforms including the 14th Finance Commission's devolution increase, GST Council, abolition of Planning Commission, and performance-linked grants, alongside negative impacts like erosion of tax autonomy, cesses/surcharges, and borrowing constraints.",
+        "analysis": "This is a strong answer on fiscal federalism. The historical evolution is correctly traced from the constitutional design through the Planning Commission era to the post-2014 reforms. Key references are accurate: the shift from 32% to 42% devolution under the 14th FC, the GST compensation disputes, the role of cesses and surcharges in shrinking the divisible pool, and Article 293 on state borrowing. The CAG 2022 data point on cesses forming 18% of gross tax revenue adds empirical weight. The answer effectively balances positive and negative impacts of recent reforms, which is what the question demands. However, it is again significantly over the word limit — approximately 550-600 words. The analytical depth is better than the previous answers: the answer genuinely engages with the tension between fiscal empowerment and autonomy erosion. The mention of specific states (Kerala, Tamil Nadu, Punjab) adds concreteness. Some weaknesses: the Gadgil-Mukherjee formula reference is slightly imprecise (it applied to plan assistance, not Finance Commission transfers — but the answer does state this correctly). The answer could have engaged more with the NITI Aayog's role as a replacement for the Planning Commission and whether it truly represents cooperative federalism. The 15th FC's performance-based devolution critique is valid but could be more specific about which conditions were imposed.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.84,
+            "justification": "Factually sound throughout. Constitutional vertical imbalance, Planning Commission's role, CSS conditionality, Finance Commission devolution figures, GST Council, cesses/surcharges — all accurately described. The CAG data point and specific state examples add credibility. Minor gap: NITI Aayog's role could have been discussed. Score: 64% of 6.0."
+          },
+          "structure_flow": {
+            "score": 1.8,
+            "justification": "Well-organised with a clear evolution section followed by a balanced positive/negative impact analysis. The structure directly serves the question's two-part demand. Still over word limit but less egregiously than previous answers. Score: 60% of 3.0."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Good examples: Gadgil-Mukherjee formula, 14th FC devolution increase, GST compensation disputes, CAG 2022 data, MGNREGA conditionality, Article 293, 73rd/74th amendments. Examples are relevant and well-integrated. Could have cited more specific Finance Commission recommendations or interstate disputes. Score: 60% of 3.0."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Better analytical engagement than previous answers. The answer genuinely grapples with the paradox of recent reforms: greater devolution alongside reduced autonomy. The cess/surcharge critique shows understanding of how formal devolution can be undermined. However, it could push deeper — e.g., whether GST represents genuine cooperative federalism or coerced uniformity. Score: 60% of 1.5."
+          },
+          "presentation": {
+            "score": 0.83,
+            "justification": "Clear, professional language. Over word limit (approximately 550-600 words) but less severely than other answers in this batch. Economic terminology used correctly. Conclusion effectively synthesises the tension. Score: 55% of 1.5."
+          }
+        },
+        "total_score": 9.17,
+        "max_marks": 15,
+        "brief_feedback": "The strongest answer in this batch. Demonstrates genuine analytical engagement with fiscal federalism tensions — not merely listing reforms but evaluating their contradictory impacts. Factually accurate with good empirical references (CAG data, specific state examples). Structure serves the question well. Still exceeds word limit but less dramatically than other answers. The answer would benefit from deeper engagement with whether recent reforms represent genuine cooperative federalism or repackaged centralisation. Falls in the strong-to-good range (61%)."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs2_15",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer defines environmental pressure groups and discusses their role in three dimensions: raising awareness, influencing policies, and advocating for environmental protection. Examples include the Chipko Movement, Narmada Bachao Andolan, Bhopal Gas Tragedy leading to the Environment Protection Act 1986, M.C. Mehta's PILs, the Silent Valley Movement, and contemporary climate justice movements.",
+        "analysis": "The answer is competent and covers the topic adequately. The three-part structure (awareness, policy influence, advocacy) mirrors the question's three demands. Examples are relevant and well-known: Chipko Movement, Narmada Bachao Andolan, Silent Valley, Bhopal tragedy, M.C. Mehta PILs, Forest Rights Act 2006, CSE reports. The definition in the introduction is clear and distinguishes pressure groups from political parties. However, the answer has several weaknesses. First, it is again significantly over the word limit (600+ words). Second, the three categories overlap substantially — PILs appear under both 'influencing policies' and 'advocacy', and the Narmada Bachao Andolan appears under both 'awareness' and 'advocacy'. This creates redundancy. Third, the answer is almost entirely positive about pressure groups — a more balanced treatment would note criticisms: that some groups have been accused of foreign funding concerns (FCRA controversies), that NIMBY-ism can masquerade as environmentalism, that some movements have delayed crucial infrastructure projects, and that there are questions about representativeness and accountability of these groups. The question asks to 'discuss their role', which implies both achievements and limitations. Fourth, the analytical depth is shallow — the answer describes what these groups have done but does not critically evaluate their effectiveness or the structural conditions that enable or constrain them. The mention of Fridays for Future-India and Indian Youth Climate Network adds contemporary relevance but these are name-dropped without analysis.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.12,
+            "justification": "Facts are accurate — Chipko (1973), Silent Valley (1978-83), Bhopal (1984), Environment Protection Act (1986), Forest Rights Act (2006), M.C. Mehta PILs all correctly referenced. However, the coverage is one-sided (only positive role) and misses critiques of environmental pressure groups (FCRA restrictions, allegations of anti-development bias, accountability concerns). For a GS2 answer, this lack of balance is a content gap. Score: 52% of 6.0."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Three-part structure mirrors the question cleanly. Introduction and conclusion are adequate. However, significant overlap between the three categories (PILs appear twice, NBA appears twice) undermines the organisational logic. Over word limit. Score: 50% of 3.0."
+          },
+          "depth_examples": {
+            "score": 1.65,
+            "justification": "Good range of examples: Chipko, NBA, Silent Valley, Bhopal, CSE, Kalpavriksh, M.C. Mehta, Forest Rights Act, Vanashakti. Both historical and contemporary movements represented. However, many examples are name-dropped without substantive analysis of their actual impact or limitations. Score: 55% of 3.0."
+          },
+          "analytical_depth": {
+            "score": 0.45,
+            "justification": "The weakest dimension. The answer is entirely descriptive and celebratory — it does not critically evaluate the effectiveness, limitations, or controversies surrounding environmental pressure groups. No mention of FCRA restrictions, accusations of being anti-development, questions of representation, or the tension between environmental protection and livelihood/development needs. Score: 30% of 1.5."
+          },
+          "presentation": {
+            "score": 0.68,
+            "justification": "Language is clear and professional. Over word limit (600+ words). Some repetition across categories weakens conciseness. The term 'ecological democracy' in the conclusion is appropriately sophisticated. Score: 45% of 1.5."
+          }
+        },
+        "total_score": 7.40,
+        "max_marks": 15,
+        "brief_feedback": "A one-sided treatment of environmental pressure groups that covers their positive contributions adequately but entirely omits critical perspectives. UPSC expects balanced discussion — limitations, controversies (FCRA, anti-development allegations, accountability), and tensions between environment and development should have been addressed. Examples are relevant but often name-dropped rather than analysed. Excessively long for a 250-word answer. The weakest answer in this batch due to lack of analytical balance. Falls in the adequate range (49%)."
+      }
+    ]
+  }
+]

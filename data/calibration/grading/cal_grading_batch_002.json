@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": "cal_gs1_6",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer lists five ecological benefits (carbon reduction, water conservation, air quality, ecosystem protection, climate adaptation in remote areas) and five economic benefits (energy security, job creation, affordable electricity, rural empowerment, industrial competitiveness) of solar energy in India, each with a specific example. It follows a rigid intro-body-conclusion format.",
+        "analysis": "The answer covers the question's dual demand (ecological + economic) adequately, with relevant points on both sides. However, several examples are suspect or unverifiable: the claim that IEA reported India avoided 30 Mt CO2 specifically due to solar in 2025, the CSTEP water-savings figure for Bundelkhand, and Kanpur Metro's 1 MW rooftop solar producing exactly 770 t CO2/year reductions are all difficult to verify and may be fabricated. The Bhadla Solar Park job figure of 10,000 is plausible but unattributed precisely. The answer far exceeds the 150-word limit (approximately 400+ words), which is a significant presentation flaw. The structure is formulaic coaching-style with 5+5 bullet points rather than an integrated analytical essay. There is minimal analytical depth -- no discussion of land-use trade-offs, intermittency challenges, manufacturing pollution from solar panels, or grid integration issues. The answer reads as a one-sided promotional piece rather than a balanced assessment.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.0,
+            "justification": "Core content is relevant -- ecological and economic benefits are correctly identified. However, several statistics appear fabricated or inflated (IEA 30 Mt figure, CSTEP Bundelkhand data, Kanpur Metro specifics). The RMI 2025 claim about 93% new power investment being renewable is dubious. Points are generally correct in direction but lack verifiable precision. Covers breadth but sacrifices accuracy in specifics. Score: 2.0/4.0"
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Well-organized with clear intro, two distinct sections (ecological/economic), and conclusion. However, the rigid 5+5 bullet format is mechanical coaching template, not analytical writing. The answer reads like a list rather than a coherent argument. Adequate structure but lacks essay flow. Score: 1.2/2.0"
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "Ten examples are provided, which is excessive for a 150-word answer -- suggesting quantity over quality. Several examples appear fabricated (Kanpur Metro specifics, CSTEP Bundelkhand data). Bhadla Solar Park is a legitimate reference. SECI auction tariffs are broadly correct. PM-KUSUM and PLI schemes are real policy examples. Mix of real and suspect examples. Score: 1.0/2.0"
+          },
+          "analytical_depth": {
+            "score": 0.3,
+            "justification": "Almost no critical analysis. The answer is entirely one-sided -- no mention of challenges like land acquisition, intermittency, storage costs, manufacturing pollution, rare earth dependencies, or grid stability. A real examiner expects at least a nod toward trade-offs even in a 'benefits' question. Score: 0.3/1.0"
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Massively exceeds the 150-word limit (400+ words). The '[Fig: Solar radiation in India]' placeholder is meaningless in a written exam. Language is clean but generic coaching-speak. The excessive length actually counts against the candidate in real UPSC grading as it suggests inability to be concise. Score: 0.3/1.0"
+          }
+        },
+        "total_score": 4.8,
+        "max_marks": 10,
+        "brief_feedback": "Covers both ecological and economic benefits with adequate breadth but relies on suspect statistics and a formulaic 5+5 coaching template. Massively exceeds word limit. Lacks any analytical nuance about trade-offs or challenges. A real UPSC examiner would note the one-sided treatment and penalize the verbosity."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_7",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer defines tsunamis, explains their formation mechanisms (subduction, volcanic eruptions, landslides), identifies high-risk zones, and discusses consequences (human casualties, economic devastation, environmental degradation, nuclear risks). Each section includes specific historical examples with data.",
+        "analysis": "This answer addresses all three demands of the question (what, how/where, consequences) competently. Factual accuracy is generally strong: the 2004 Indian Ocean tsunami details, Fukushima connection, Lituya Bay 1958 landslide, and Hunga Tonga 2022 eruption are all real and well-cited. The death toll of 2.3 lakh (230,000) for the 2004 tsunami is broadly accurate. The $235 billion Tohoku figure is close to established estimates. The definition involving UNESCO-IOC is reasonable. However, the answer again massively exceeds the 150-word limit (500+ words). The '[Fig]' placeholders are meaningless. The structure is formulaic but appropriate for a multi-part question. Analytical depth is limited -- there is no discussion of early warning system effectiveness, preparedness gaps, or why certain regions remain vulnerable despite known risks. The conclusion mentions early-warning systems but doesn't integrate this into the body.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Strong factual accuracy across the board. Tsunami definition is correct. Formation mechanisms (subduction, volcanic, landslide) are the three main categories. Examples are historically accurate: 2004 tsunami, 2011 Tohoku, 1958 Lituya Bay, Hunga Tonga 2022. Death tolls and damage figures are broadly correct. The 'wavelengths exceeding 100 km and speeds up to 800 km/h' is approximately correct. Minor quibble: the 18,000 death figure for India in 2004 is slightly high (most sources cite 10,000-16,000). Score: 2.4/4.0"
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Logically organized following the question's three-part demand (what, how/where, consequences). Clear sections with distinct headings. The flow from definition to formation to consequences is natural. Still uses coaching template format but it fits the multi-part question better here. Score: 1.4/2.0"
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Examples are the strongest aspect of this answer. Multiple well-chosen historical events spanning different regions and time periods. Lituya Bay as a landslide-triggered tsunami is an impressive inclusion. Fukushima as a secondary disaster consequence shows good understanding. The UNDRR 2022 reference adds institutional credibility. Data points (524 m run-up, $235 billion, 2.3 lakh deaths) are specific and mostly accurate. Score: 1.4/2.0"
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The answer is primarily descriptive rather than analytical. It catalogues facts well but doesn't analyze why preparedness remains inadequate, how socioeconomic factors worsen tsunami impacts, or what differentiates effective vs. ineffective responses. The Fukushima point hints at cascading risk analysis but doesn't develop it. The conclusion mentions early-warning systems but the body doesn't discuss them. Score: 0.4/1.0"
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Exceeds the 150-word limit by a factor of three (500+ words). Three '[Fig]' placeholders serve no purpose in a written exam. Language is clear and readable. The excessive length would be penalized by a real examiner. Score: 0.3/1.0"
+          }
+        },
+        "total_score": 5.9,
+        "max_marks": 10,
+        "brief_feedback": "Strong factual content with well-chosen historical examples that are largely accurate. Addresses all three parts of the question competently. However, it is almost entirely descriptive with negligible analytical depth. Massively exceeds word limit (500+ vs. 150). The coaching template format works for this multi-part question but a real examiner would prefer concise, integrated analysis over exhaustive listing."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_8",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer examines how the Smart Cities Mission addresses urban poverty (affordable housing, basic services, livelihood, infrastructure, river renewal) and distributive justice (e-governance, mobility, health/education, environmental justice, sustainable housing), followed by a section on challenges (exclusion of poor areas, digital divide, gentrification).",
+        "analysis": "This is one of the better answers in the batch because it includes a 'Challenges' section, providing some critical perspective rather than being purely one-sided. The constitutional reference to Articles 38 and 39 (Directive Principles) is appropriate and adds depth. However, several examples are suspect: the '1.18 crore houses sanctioned under PMAY-U in Smart City areas' conflates PMAY-U national data with Smart City-specific delivery. Indore's MoU with UNACCC for net-zero homes for BPL families in 2025 is likely fabricated. The 80% funds spent in 3-5% of city areas statistic is commonly cited in discourse but rarely attributed to a specific source. The answer is excessively long (500+ words vs. 150 limit). The question asks specifically about Smart Cities, but the answer sometimes drifts into general urban development schemes (PMAY-U, Namami Gange) that are convergent but not Smart Cities Mission-specific. The digital divide and gentrification critiques are relevant and show awareness of ground realities.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Covers relevant dimensions: housing, services, livelihoods, governance, transport, health. Constitutional reference (Articles 38, 39) is accurate and relevant. However, conflation of PMAY-U national figures with Smart City-specific delivery is misleading. Namami Gange is not a Smart Cities Mission project. The Indore-UNACCC MoU (2025) for net-zero BPL homes appears fabricated. Some examples (Bhagalpur grievance app, Surat LED lights in slums) are plausible but unverifiable. The challenges section adds credibility. Score: 2.2/4.0"
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Well-organized with three clear sections: addressing poverty, ensuring distributive justice, and challenges. The inclusion of challenges section shows mature structure beyond simple listing. Constitutional framing in intro is good. However, the 5+5+3 bullet format is formulaic. The distinction between 'urban poverty' and 'distributive justice' sections is somewhat artificial with overlapping points. Score: 1.3/2.0"
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Numerous examples but quality varies. NITI Aayog smartphone ownership statistic (34% urban poor women) is a good critical data point. The 80% funds in 3-5% area critique is widely discussed in Smart Cities literature. Ahmedabad BRTS with concessional fares is a real scheme. However, several examples appear fabricated or embellished (Indore UNACCC MoU, Bhopal telemedicine kiosks, Nagpur eco-parks). Real Smart City project examples would strengthen credibility. Score: 1.1/2.0"
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Better than other answers in this batch. The challenges section provides genuine critical analysis -- spatial exclusion of funds, digital divide, and gentrification are real issues with the Smart Cities Mission documented in academic literature. The framing around distributive justice (not just poverty) shows conceptual understanding. However, the analysis could go deeper: no discussion of participatory governance failures, top-down technocratic design, or how 'smart' solutions often serve middle-class aspirations. Score: 0.6/1.0"
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Far exceeds 150-word limit (550+ words). '[Fig: Smart City]' placeholder is meaningless. Language is clean but generic. The answer would need to be cut to one-third its length for word limit compliance. Score: 0.3/1.0"
+          }
+        },
+        "total_score": 5.5,
+        "max_marks": 10,
+        "brief_feedback": "Strongest in this batch for analytical balance -- the challenges section lifts it above a pure coaching template answer. Constitutional framing is appropriate. However, several examples appear fabricated, and the answer conflates general urban schemes with Smart Cities Mission-specific initiatives. Massively exceeds word limit. The distinction between poverty and distributive justice sections is somewhat forced with overlapping content."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_9",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer discusses how Indian civil services combine professionalism (merit-based recruitment, training, ethics, innovation, social leadership) with nationalistic consciousness (unity in diversity, nation-building, crisis response, social justice, constitutional nationalism), supported by examples from UPSC, LBSNAA, MGNREGA, COVID-19 response, and election administration.",
+        "analysis": "This answer addresses both limbs of the question -- professionalism and nationalistic consciousness -- but does so in a highly generic and superficial manner. The question demands 'elucidation' which requires deep conceptual engagement with what 'professionalism' and 'nationalistic consciousness' mean in the civil service context, ideally drawing on Sardar Patel's vision, the ICS-to-IAS transition, the Weberian bureaucracy ideal vs. Gandhian service orientation, or contemporary tensions between political neutrality and nationalism. Instead, the answer offers platitudes: 'Civil servants promote inclusivity', 'Training equips officers with knowledge', 'Civil servants safeguard social order'. The examples are generic and widely known (MGNREGA, COVID response, Swachh Bharat) without adding analytical insight. The Second ARC reference is relevant but not developed. There is no engagement with tensions between professionalism and nationalism (e.g., what happens when political directives conflict with professional ethics?), no historical grounding (Sardar Patel, Nehru's vision), and no critical perspective on whether this ethos actually exists in practice or is aspirational.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 1.6,
+            "justification": "Points are broadly accurate but highly generic. UPSC recruitment since 1950 is correct. LBSNAA training modules exist. Second ARC recommendations on public trust are real. MGNREGA 2005 is correct. COVID response by civil servants happened. However, nothing here demonstrates deep understanding of the 'ethos' concept. The answer conflates administrative functions with ethos/values. Missing: Sardar Patel's steel frame speech, ICS to IAS transition, constitutional morality concept, Weberian vs. Gandhian models, lateral entry debate. Score: 1.6/4.0"
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Organized into professionalism and nationalistic consciousness sections, following the question's two demands. Introduction frames the topic adequately. However, the 5+5 format is formulaic and the two sections feel repetitive -- 'social leadership' under professionalism and 'social justice mandate' under nationalism are essentially the same point. Score: 1.2/2.0"
+          },
+          "depth_examples": {
+            "score": 0.7,
+            "justification": "Examples are extremely generic: UPSC exams, LBSNAA, MGNREGA, COVID-19, Swachh Bharat, elections. These are the most obvious references available and demonstrate no depth of knowledge. A strong answer would cite specific officers (T.N. Seshan reforming ECI, Armstrong Pame building roads in Manipur), specific reform committees (Hota Committee, Surinder Nath Committee), or specific instances where professionalism and nationalism intersected or conflicted. Score: 0.7/2.0"
+          },
+          "analytical_depth": {
+            "score": 0.2,
+            "justification": "This is the weakest dimension. The question demands elucidation of a philosophical concept -- the combination of professionalism with nationalistic consciousness. This requires engaging with tensions: What happens when professional neutrality conflicts with nationalist political agendas? Is the steel frame still relevant? How has lateral entry challenged the professional ethos? The answer entirely avoids these tensions and offers only affirming platitudes. No critical perspective at all. Score: 0.2/1.0"
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Exceeds 150-word limit significantly (450+ words). Language is clean but reads like a motivational speech rather than an analytical essay. Generic phrases like 'social backbone of India's democratic nation-building' add no substance. Score: 0.3/1.0"
+          }
+        },
+        "total_score": 4.0,
+        "max_marks": 10,
+        "brief_feedback": "The weakest answer in this batch. Addresses both professionalism and nationalistic consciousness but at a purely superficial level with generic platitudes and obvious examples. Completely lacks the philosophical depth the 'elucidate' demand requires. No engagement with historical context (Sardar Patel, ICS transition), no tensions between professionalism and nationalism, no critical perspective on whether this ethos exists in practice. A real UPSC examiner would find this disappointingly shallow for a question that invites deep conceptual analysis."
+      }
+    ]
+  },
+  {
+    "question_id": "cal_gs1_10",
+    "candidates": [
+      {
+        "candidate_id": "coaching_model",
+        "summary": "The answer argues that globalization does not result in only aggressive consumer culture, presenting five points on how it does drive consumerism (market expansion, homogenization, credit-driven consumption, environmental stress, inequality) and five counter-points on its broader positive impacts (knowledge transfer, cultural pluralism, human rights, economic opportunities, global governance).",
+        "analysis": "This answer handles the question's demand well by taking a balanced position -- acknowledging consumerism while arguing globalization has broader dimensions. The framing is appropriate for a 'justify your answer' question. Factual accuracy is generally sound: the K-pop cultural influence, RBI Household Finance Committee Report, e-waste figures, and International Yoga Day UNGA recognition are all real. The #MeToo movement as an example of global human rights discourse is relevant. Apple iPhone manufacturing under PLI is a good contemporary example. However, the answer remains at a listing level without deep engagement with theoretical frameworks (Americanization thesis, cultural imperialism vs. hybridization, Amartya Sen's perspective on globalization, Appadurai's 'scapes'). The consumerism section could have engaged with Baudrillard's hyperreality or Veblen's conspicuous consumption. The answer exceeds word limit substantially. The balance between the two sides is mechanical (5+5) rather than organically integrated.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Factually sound across both sections. K-pop influence, RBI report, e-waste figures, Oxfam inequality report, International Yoga Day, #MeToo, PLI/Apple manufacturing -- all real and relevant. The UNGA recognition of Yoga Day was in 2014 (correct). E-waste crossing 1.6 million tonnes is broadly accurate. The double period after 'consumerism..' is a typo, not a factual issue. No major factual errors. However, the treatment is surface-level -- no theoretical depth on what 'aggressive consumer culture' means conceptually. Score: 2.2/4.0"
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear two-part structure addressing both sides of the debate. Introduction takes a position ('viewing it solely as an agent of consumerism underplays its larger social role') and the body supports it. Conclusion is balanced. The 5+5 format is predictable but fits a 'justify' question where both sides need coverage. The answer could be better organized thematically (cultural, economic, political dimensions) rather than listing random points. Score: 1.3/2.0"
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Examples are varied and mostly verifiable: K-pop in India, RBI report, Oxfam, e-waste data, Yoga Day, #MeToo, PLI/Apple, Paris Agreement, COVAX. Better quality than most answers in this batch. The RBI Household Finance Committee Report is a specific, credible source. However, some are quite surface-level (McDonald's/Zara/Amazon as examples of consumerism is obvious). Missing deeper case studies that show nuance. Score: 1.2/2.0"
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Takes a clear position and argues it with two sides, which is more analytical than pure listing. The connection between consumerism and inequality (Oxfam) shows some analytical thinking. The 'reverse cultural globalization' framing of Yoga Day is insightful. However, no engagement with theoretical frameworks (cultural imperialism, hybridization, Giddens, Appadurai). No discussion of agency -- do consumers choose consumerism or is it imposed? The analysis stays at a descriptive level rather than interrogating the underlying dynamics. Score: 0.5/1.0"
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Exceeds 150-word limit substantially (450+ words). Double period typo ('consumerism..'). Language is functional but generic coaching-speak. A real UPSC answer at 150 words would need to be far more selective and incisive. Score: 0.3/1.0"
+          }
+        },
+        "total_score": 5.5,
+        "max_marks": 10,
+        "brief_feedback": "Handles the question's demand competently with a balanced two-sided argument and mostly accurate examples. International Yoga Day as 'reverse cultural globalization' is an insightful point. However, remains at a listing level without theoretical depth (no engagement with Americanization thesis, cultural imperialism, or hybridization frameworks). Massively exceeds word limit. The mechanical 5+5 structure prevents organic, integrated analysis."
+      }
+    ]
+  }
+]

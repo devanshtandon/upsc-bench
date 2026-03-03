@@ -26,11 +26,11 @@ export default function Home() {
     <div className="min-h-screen">
       <Header />
 
-      <main className="max-w-6xl mx-auto px-6 py-10">
+      <main className="max-w-6xl mx-auto px-4 sm:px-6 py-6 sm:py-10">
         {/* Introduction */}
         <section className="mb-10 animate-fade-in-up" style={{ animationDelay: "400ms" }}>
-          <div className="glass-card p-6">
-            <h2 className="text-xl font-bold mb-3" style={{ fontFamily: "var(--font-playfair), serif", color: "var(--navy)" }}>
+          <div className="glass-card p-4 sm:p-6">
+            <h2 className="text-lg sm:text-xl font-bold mb-3" style={{ fontFamily: "var(--font-playfair), serif", color: "var(--navy)" }}>
               UPSC Bench
             </h2>
             <p className="text-sm leading-relaxed mb-3" style={{ color: "rgba(26,17,69,0.7)" }}>
@@ -64,12 +64,12 @@ export default function Home() {
 
         {/* Leaderboard Table */}
         <section className="mb-12 animate-fade-in-up" style={{ animationDelay: "600ms" }}>
-          <h2 className="section-title text-3xl font-bold mb-6">
+          <h2 className="section-title text-2xl sm:text-3xl font-bold mb-6">
             Rankings: 2025
           </h2>
 
           {/* Exam Type Toggle + Paper Tabs — same row */}
-          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6">
+          <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3 sm:gap-4 mb-6">
             <div className="flex items-center gap-1 p-1 rounded-xl" style={{ backgroundColor: "rgba(26,17,69,0.04)" }}>
               <button
                 onClick={() => setExamType("prelims")}
@@ -97,12 +97,12 @@ export default function Home() {
             {examType === "prelims" ? (
               <PaperTabs selected={paper} onChange={setPaper} />
             ) : (
-              <div className="flex items-center gap-2 flex-wrap">
+              <div className="flex items-center gap-2 overflow-x-auto pb-1 -mx-1 px-1 scrollbar-hide flex-nowrap">
                 {mainsPapers.map((mp) => (
                   <button
                     key={mp}
                     onClick={() => setMainsPaper(mp)}
-                    className={`pill-btn ${mainsPaper === mp ? "active" : "inactive"}`}
+                    className={`pill-btn whitespace-nowrap ${mainsPaper === mp ? "active" : "inactive"}`}
                   >
                     {MAINS_PAPER_LABELS[mp]}
                   </button>
@@ -188,11 +188,11 @@ export default function Home() {
 
         {/* Marking Scheme */}
         <section className="mb-12 animate-fade-in-up" style={{ animationDelay: "300ms" }}>
-          <h2 className="section-title text-3xl font-bold mb-8">
+          <h2 className="section-title text-2xl sm:text-3xl font-bold mb-8">
             Marking Scheme
           </h2>
-          <div className="glass-card p-6">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="glass-card p-4 sm:p-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
               <div>
                 <h3 className="text-lg font-semibold mb-2" style={{ color: "var(--navy)" }}>
                   Prelims
@@ -226,10 +226,10 @@ export default function Home() {
                     { paper: "GS-III", marks: "250", desc: "Economy, S&T, Environment" },
                     { paper: "GS-IV", marks: "250", desc: "Ethics, Integrity, Aptitude" },
                   ].map((item) => (
-                    <div key={item.paper} className="flex justify-between items-center">
-                      <div>
+                    <div key={item.paper} className="flex justify-between items-start gap-2">
+                      <div className="min-w-0">
                         <span style={{ color: "var(--navy)" }} className="font-medium">{item.paper}</span>
-                        <span className="ml-2 text-[11px]" style={{ color: "rgba(26,17,69,0.4)" }}>{item.desc}</span>
+                        <span className="ml-2 text-[11px] hidden sm:inline" style={{ color: "rgba(26,17,69,0.4)" }}>{item.desc}</span>
                       </div>
                       <span className="font-semibold" style={{ color: "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
                         {item.marks}

@@ -104,7 +104,7 @@ export default function QuizPage() {
     <div className="min-h-screen">
       <div className="tricolor-bar" />
 
-      <main className="max-w-2xl mx-auto px-6 py-12">
+      <main className="max-w-2xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
         {/* Header */}
         <div className="flex items-center gap-4 mb-8">
           <a

@@ -330,4 +330,31 @@ body {
     height: 26px;
     font-size: 11px;
   }
+
+  .glass-card {
+    border-radius: 12px;
+  }
+
+  .glass-card:hover {
+    transform: none;
+  }
+
+  .pill-btn {
+    padding: 6px 14px;
+    font-size: 12px;
+  }
+
+  .section-title::after {
+    width: 30px;
+    height: 2px;
+  }
+}
+
+/* ===== Hide scrollbar (for horizontal scroll containers) ===== */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
 }

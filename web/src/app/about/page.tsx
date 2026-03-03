@@ -6,7 +6,7 @@ export default function AboutPage() {
       {/* Tricolor top bar */}
       <div className="tricolor-bar" />
 
-      <main className="max-w-4xl mx-auto px-6 py-12">
+      <main className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
         <div className="flex items-center gap-4 mb-10">
           <a
             href="/"

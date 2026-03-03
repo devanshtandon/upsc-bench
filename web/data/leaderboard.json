@@ -1,128 +1,32 @@
 {
   "models": [
     {
-      "model": "openrouter/google/gemini-3.1-pro-preview",
+      "model": "openrouter/google/gemini-3-flash-preview",
       "overall": {
         "total_questions": 357,
-        "correct": 288,
-        "wrong": 36,
-        "unanswered": 33,
-        "accuracy": 80.67,
-        "gs1_avg_marks": 159.75,
+        "correct": 310,
+        "wrong": 46,
+        "unanswered": 1,
+        "accuracy": 86.83,
+        "gs1_avg_marks": 157.1,
         "gs1_all_years_pass": true,
         "csat_all_years_pass": true
       },
       "paper_totals": {
         "csat": {
-          "total_marks": 290.87,
+          "total_marks": 344.22,
           "max_marks": 400,
-          "correct": 120,
-          "wrong": 11,
-          "unanswered": 29,
+          "correct": 143,
+          "wrong": 16,
+          "unanswered": 1,
           "years_passed": 2,
           "years_total": 2
         },
         "gs1": {
-          "total_marks": 319.5,
+          "total_marks": 314.20000000000005,
           "max_marks": 400,
-          "correct": 168,
-          "wrong": 25,
-          "unanswered": 4,
-          "years_passed": 2,
-          "years_total": 2
-        }
-      },
-      "yearly": {
-        "2024": {
-          "csat": {
-            "marks": 157.52,
-            "max_marks": 200,
-            "correct": 65,
-            "wrong": 6,
-            "unanswered": 9,
-            "accuracy": 81.25,
-            "passed": true,
-            "cutoff": 66,
-            "margin": 91.52
-          },
-          "gs1": {
-            "marks": 168.06,
-            "max_marks": 200,
-            "correct": 87,
-            "wrong": 9,
-            "unanswered": 1,
-            "accuracy": 89.69,
-            "passed": true,
-            "cutoff": 87.98,
-            "margin": 80.08,
-            "estimated_rank": {
-              "rank": 1,
-              "percentile": 99.9998,
-              "label": "Exceeds estimated topper",
-              "total_appeared": 600000
-            }
-          }
-        },
-        "2025": {
-          "csat": {
-            "marks": 133.35,
-            "max_marks": 200,
-            "correct": 55,
-            "wrong": 5,
-            "unanswered": 20,
-            "accuracy": 68.75,
-            "passed": true,
-            "cutoff": 66,
-            "margin": 67.35
-          },
-          "gs1": {
-            "marks": 151.44,
-            "max_marks": 200,
-            "correct": 81,
-            "wrong": 16,
-            "unanswered": 3,
-            "accuracy": 81.0,
-            "passed": true,
-            "cutoff": 90.0,
-            "margin": 61.44,
-            "estimated_rank": {
-              "rank": 124,
-              "percentile": 99.98,
-              "label": "Top 500",
-              "total_appeared": 650000
-            }
-          }
-        }
-      },
-      "rank": 1
-    },
-    {
-      "model": "openrouter/openai/gpt-5.2",
-      "overall": {
-        "total_questions": 357,
-        "correct": 312,
-        "wrong": 42,
-        "unanswered": 3,
-        "accuracy": 87.39,
-        "gs1_avg_marks": 158.43,
-        "gs1_all_years_pass": true,
-        "csat_all_years_pass": true
-      },
-      "paper_totals": {
-        "csat": {
-          "total_marks": 349.21000000000004,
-          "max_marks": 400,
-          "correct": 144,
-          "wrong": 13,
-          "unanswered": 3,
-          "years_passed": 2,
-          "years_total": 2
-        },
-        "gs1": {
-          "total_marks": 316.86,
-          "max_marks": 400,
-          "correct": 168,
-          "wrong": 29,
+          "correct": 167,
+          "wrong": 30,
           "unanswered": 0,
           "years_passed": 2,
           "years_total": 2
@@ -131,15 +35,15 @@
       "yearly": {
         "2024": {
           "csat": {
-            "marks": 177.52,
+            "marks": 173.36,
             "max_marks": 200,
-            "correct": 73,
-            "wrong": 6,
-            "unanswered": 1,
-            "accuracy": 91.25,
+            "correct": 72,
+            "wrong": 8,
+            "unanswered": 0,
+            "accuracy": 90.0,
             "passed": true,
             "cutoff": 66,
-            "margin": 111.52
+            "margin": 107.36
           },
           "gs1": {
             "marks": 167.4,
@@ -161,36 +65,36 @@
         },
         "2025": {
           "csat": {
-            "marks": 171.69,
+            "marks": 170.86,
             "max_marks": 200,
             "correct": 71,
-            "wrong": 7,
-            "unanswered": 2,
+            "wrong": 8,
+            "unanswered": 1,
             "accuracy": 88.75,
             "passed": true,
             "cutoff": 66,
-            "margin": 105.69
+            "margin": 104.86
           },
           "gs1": {
-            "marks": 149.46,
+            "marks": 146.8,
             "max_marks": 200,
-            "correct": 81,
-            "wrong": 19,
+            "correct": 80,
+            "wrong": 20,
             "unanswered": 0,
-            "accuracy": 81.0,
+            "accuracy": 80.0,
             "passed": true,
             "cutoff": 90.0,
-            "margin": 59.46,
+            "margin": 56.8,
             "estimated_rank": {
-              "rank": 172,
-              "percentile": 99.97,
+              "rank": 278,
+              "percentile": 99.96,
               "label": "Top 500",
               "total_appeared": 650000
             }
           }
         }
       },
-      "rank": 2
+      "rank": 1
     },
     {
       "model": "openrouter/anthropic/claude-opus-4.6",
@@ -286,83 +190,125 @@
           }
         }
       },
-      "rank": 3
+      "rank": 2
     },
     {
-      "model": "openrouter/google/gemini-2.5-flash",
+      "model": "openrouter/google/gemini-3.1-pro-preview",
       "overall": {
-        "total_questions": 357,
-        "correct": 276,
-        "wrong": 70,
-        "unanswered": 11,
-        "accuracy": 77.31,
-        "gs1_avg_marks": 148.45,
+        "total_questions": 100,
+        "correct": 81,
+        "wrong": 16,
+        "unanswered": 3,
+        "accuracy": 81.0,
+        "gs1_avg_marks": 151.44,
         "gs1_all_years_pass": true,
         "csat_all_years_pass": true
       },
       "paper_totals": {
-        "csat": {
-          "total_marks": 260.95,
-          "max_marks": 400,
-          "correct": 116,
-          "wrong": 35,
-          "unanswered": 9,
-          "years_passed": 2,
-          "years_total": 2
-        },
         "gs1": {
-          "total_marks": 296.9,
-          "max_marks": 400,
-          "correct": 160,
-          "wrong": 35,
-          "unanswered": 2,
-          "years_passed": 2,
-          "years_total": 2
+          "total_marks": 151.44,
+          "max_marks": 200,
+          "correct": 81,
+          "wrong": 16,
+          "unanswered": 3,
+          "years_passed": 1,
+          "years_total": 1
         }
       },
       "yearly": {
-        "2024": {
-          "csat": {
-            "marks": 141.72,
-            "max_marks": 200,
-            "correct": 62,
-            "wrong": 16,
-            "unanswered": 2,
-            "accuracy": 77.5,
-            "passed": true,
-            "cutoff": 66,
-            "margin": 75.72
-          },
+        "2025": {
           "gs1": {
-            "marks": 156.76,
+            "marks": 151.44,
             "max_marks": 200,
-            "correct": 83,
-            "wrong": 14,
-            "unanswered": 0,
-            "accuracy": 85.57,
+            "correct": 81,
+            "wrong": 16,
+            "unanswered": 3,
+            "accuracy": 81.0,
             "passed": true,
-            "cutoff": 87.98,
-            "margin": 68.78,
+            "cutoff": 90.0,
+            "margin": 61.44,
             "estimated_rank": {
-              "rank": 46,
-              "percentile": 99.99,
-              "label": "Top 100",
-              "total_appeared": 600000
+              "rank": 124,
+              "percentile": 99.98,
+              "label": "Top 500",
+              "total_appeared": 650000
             }
           }
-        },
+        }
+      },
+      "rank": 3
+    },
+    {
+      "model": "openrouter/openai/gpt-5.2",
+      "overall": {
+        "total_questions": 100,
+        "correct": 81,
+        "wrong": 19,
+        "unanswered": 0,
+        "accuracy": 81.0,
+        "gs1_avg_marks": 149.46,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {
+        "gs1": {
+          "total_marks": 149.46,
+          "max_marks": 200,
+          "correct": 81,
+          "wrong": 19,
+          "unanswered": 0,
+          "years_passed": 1,
+          "years_total": 1
+        }
+      },
+      "yearly": {
         "2025": {
-          "csat": {
-            "marks": 119.23,
+          "gs1": {
+            "marks": 149.46,
             "max_marks": 200,
-            "correct": 54,
+            "correct": 81,
             "wrong": 19,
-            "unanswered": 7,
-            "accuracy": 67.5,
+            "unanswered": 0,
+            "accuracy": 81.0,
             "passed": true,
-            "cutoff": 66,
-            "margin": 53.23
-          },
+            "cutoff": 90.0,
+            "margin": 59.46,
+            "estimated_rank": {
+              "rank": 172,
+              "percentile": 99.97,
+              "label": "Top 500",
+              "total_appeared": 650000
+            }
+          }
+        }
+      },
+      "rank": 4
+    },
+    {
+      "model": "openrouter/google/gemini-2.5-flash",
+      "overall": {
+        "total_questions": 100,
+        "correct": 77,
+        "wrong": 21,
+        "unanswered": 2,
+        "accuracy": 77.0,
+        "gs1_avg_marks": 140.14,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {
+        "gs1": {
+          "total_marks": 140.14,
+          "max_marks": 200,
+          "correct": 77,
+          "wrong": 21,
+          "unanswered": 2,
+          "years_passed": 1,
+          "years_total": 1
+        }
+      },
+      "yearly": {
+        "2025": {
           "gs1": {
             "marks": 140.14,
             "max_marks": 200,
@@ -382,11 +328,11 @@
           }
         }
       },
-      "rank": 4
+      "rank": 5
     }
   ],
   "metadata": {
-    "total_models": 4,
+    "total_models": 5,
     "years": [
       2024,
       2025

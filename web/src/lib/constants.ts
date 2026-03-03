@@ -17,6 +17,7 @@ export const MODEL_DISPLAY_NAMES: Record<string, string> = {
   "openrouter/openai/gpt-5.2": "GPT-5.2",
   "openrouter/x-ai/grok-4": "Grok 4",
   "openrouter/google/gemini-2.5-flash": "Gemini 2.5 Flash",
+  "openrouter/google/gemini-3-flash-preview": "Gemini 3 Flash",
 };
 
 export const MODEL_COLORS: Record<string, string> = {
@@ -25,6 +26,7 @@ export const MODEL_COLORS: Record<string, string> = {
   "openrouter/openai/gpt-5.2": "#10B981",
   "openrouter/x-ai/grok-4": "#EF4444",
   "openrouter/google/gemini-2.5-flash": "#60A5FA",
+  "openrouter/google/gemini-3-flash-preview": "#34D399",
 };
 
 export const PAPER_LABELS: Record<string, string> = {

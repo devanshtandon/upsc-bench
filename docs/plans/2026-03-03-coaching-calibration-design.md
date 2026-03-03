@@ -1,20 +1,36 @@
-# Coaching Calibration for LLM-as-Judge — Design Doc
+# Judge Validation for UPSC Mains Benchmark — Design Doc
 
 **Date:** 2026-03-03
-**Status:** Approved
-**Goal:** Calibrate the Opus judge's Mains scoring against coaching institute model answers to produce credible, externally-anchored scores.
+**Status:** Approved (v2 — reframed)
+**Goal:** Validate that the Opus LLM-as-judge produces scores consistent with real UPSC grading standards, so we can trust its assessment of AI models — including the possibility that AI genuinely outperforms human toppers.
 
 ---
 
 ## Problem
 
-All 5 AI models score 58-72% on Mains, while the human AIR 1 topper (Shakti Dubey, CSE 2024) is estimated at ~48%. The judge's own prompt says >75% is "almost never awarded" and 55-65% is "top-100 level," yet GPT-5.2 scores 71.8% overall and 74.4% on essays. Scores are inflated by an estimated 15-20% relative to real UPSC grading.
+We can't tell whether the judge is accurate. All 5 AI models score 58-72% on Mains. The human AIR 1 topper is estimated at ~48%. Two hypotheses explain this:
 
-Without an external anchor, the benchmark's headline claim — "AI models pass UPSC Mains" — is unverifiable.
+**H1: AI answers are genuinely better than human toppers.** Plausible. These models solve IMO problems, score 90%+ on MMLU, and have encyclopedic knowledge. A UPSC GS answer that cites specific statistics, constitutional articles, committee reports, and international comparisons — all accurately — could legitimately outperform a human writing under time pressure from memory.
+
+**H2: The LLM judge inflates LLM-style writing.** Also plausible. LLMs produce verbose, well-formatted, comprehensive answers that look impressive to another LLM but might not impress a human examiner who values conciseness, original insight, and practical administrative wisdom over encyclopedic coverage.
+
+**We currently cannot distinguish H1 from H2.** The coaching calibration approach doesn't assume either hypothesis — it measures the judge's accuracy on known-quality human answers to determine which is true.
+
+## Key Principle
+
+**We are not force-calibrating the judge to match human performance.** If the judge is accurate on coaching model answers AND gives AI models higher scores, that's a valid finding — AI genuinely outperforms humans on UPSC Mains. The calibration is about verifying the ruler, not predetermining what it should measure.
+
+---
 
 ## Approach
 
-Collect 15-20 model answers from UPSC coaching institutes (Drishti IAS, Vision IAS, ForumIAS) that come with expected mark ranges. Run these through the current judge. Compute the calibration offset. Adjust the prompt and regrade.
+Collect 15-20 model answers from UPSC coaching institutes with expected mark ranges. Grade these with the current judge. Compare. Three possible outcomes:
+
+1. **Judge matches coaching scores:** The judge is well-calibrated. AI models really do score 58-72%. Report with confidence.
+2. **Judge inflates coaching scores by X%:** The judge has a measurable bias. Apply correction factor, regrade AI answers, report adjusted scores.
+3. **Judge deflates coaching scores:** The judge is actually stricter than real UPSC grading. AI scores might be even higher than reported.
+
+Each outcome is informative. None is predetermined.
 
 ---
 
@@ -58,48 +74,55 @@ Collect 15-20 model answers from UPSC coaching institutes (Drishti IAS, Vision I
 
 ---
 
-## Calibration Pipeline
+## Validation Pipeline
 
-### Step 1: Grade coaching answers with current judge
-Run each coaching model answer through the existing judge prompt (solo grading mode). Record the judge's score.
+### Step 1: Grade coaching answers with the current judge
+Run each coaching model answer through the existing judge prompt (solo grading mode). Record the judge's score per dimension and total.
 
-### Step 2: Compute calibration offset
+### Step 2: Measure judge accuracy
 Compare `judge_score` vs `coaching_expected_score` (midpoint of range):
-- **Global offset:** mean(judge_score - expected_score) across all answers
-- **Per-paper offset:** compute separately for essay, GS1, GS2, GS3, GS4
-- **Per-dimension offset:** content_accuracy, analytical_depth, etc.
+- **Global bias:** mean(judge_score - expected_score) across all answers
+- **Per-paper bias:** compute separately for essay, GS1, GS2, GS3, GS4
+- **Per-dimension bias:** which rubric dimensions does the judge inflate/deflate most?
+- **Correlation:** does the judge's ranking of coaching answers match the coaching institutes' ranking? (Spearman's rho)
 
-If per-paper sample size < 3, fall back to global offset.
+Key metrics:
+- **Mean Absolute Error (MAE):** how far off is the judge on average?
+- **Directional bias:** does it systematically over- or under-score?
+- **Rank correlation:** does it get the ordering right even if absolute scores are off?
 
-### Step 3: Adjust the prompt
-Two mechanisms applied together:
+### Step 3: Interpret results
 
-**A. Shift score anchors** by the computed offset. Example if global offset = +12%:
-```
-Current:                          Adjusted:
-<30%  = Irrelevant               <25%  = Irrelevant
-30-45% = Basic                   25-35% = Basic
-45-55% = Adequate (median)  -->  33-43% = Adequate (median)
-55-65% = Strong (top-100)        43-53% = Strong (top-100)
-65-75% = Excellent (rare)        53-63% = Excellent (rare)
->75%  = Near-perfect             >63%  = Near-perfect
-```
+**If MAE < 1 mark (10-mark questions) / < 10 marks (essays):**
+Judge is well-calibrated. Current AI scores are trustworthy. No prompt changes needed. Publish with a "validated against coaching model answers" note.
 
-**B. Add 2-3 calibration examples** in the prompt:
-- Include short excerpts (150-200 words) of coaching model answers with their expected marks
-- Use diverse styles (structured list, flowing prose, case-study format) to avoid style bias
+**If systematic positive bias detected (judge > coaching):**
+Quantify the bias. Two options:
+- **Option A (preferred):** Add coaching model answer excerpts as few-shot calibration examples in the prompt. Let the judge self-correct by seeing what real scores look like. Re-run validation to confirm bias is reduced.
+- **Option B:** Apply a post-hoc correction factor to the scores. Less principled but simpler.
 
-**C. Enforce dimension-level caps** (not just total):
-- No individual dimension score should exceed 70% of its maximum allocation
+Then regrade AI answers with the improved prompt.
 
-**D. Standardize word limit penalties:**
-- Deduct 1% of total marks for every 10% the answer exceeds the word limit
+**If systematic negative bias detected (judge < coaching):**
+The judge is stricter than real UPSC grading. Current AI scores are conservative. Note this in the methodology and consider whether to adjust upward.
 
-### Step 4: Validate on held-out subset
-Reserve 5 coaching answers for validation (don't use them in prompt examples). Grade with the adjusted prompt. Check scores fall within coaching expected ranges. Iterate if needed.
+### Step 4: Validate corrections (if any)
+If the prompt was adjusted, reserve 5 coaching answers as a held-out validation set. Grade with the adjusted prompt. Confirm scores fall within coaching expected ranges. Check that:
+- Score differentiation between answers of different quality is preserved
+- The judge doesn't collapse into a narrow scoring band
 
-### Step 5: Regrade AI answers
-Once calibrated, regrade all 5 models' 87 Mains answers with the new prompt. Update leaderboard.
+### Step 5: Regrade AI answers (only if prompt changed)
+If the prompt was adjusted, regrade all 5 models' 87 Mains answers. Update the leaderboard. If the judge was already accurate, no regrade needed — just add the validation finding to the methodology.
+
+---
+
+## Prompt Improvements (apply regardless of calibration outcome)
+
+These are process fixes that improve judge quality independent of score calibration:
+
+1. **Standardize word limit penalties:** "Deduct 1% of total marks for every 10% the answer exceeds the word limit." Currently ad-hoc.
+2. **Use comparative grading exclusively:** Solo grading runs 5-10% higher. Always present multiple answers side by side.
+3. **Add inter-rater reliability check:** Grade 5 questions twice with different candidate orderings. Measure consistency before running the full pipeline.
 
 ---
 
@@ -107,11 +130,11 @@ Once calibrated, regrade all 5 models' 87 Mains answers with the new prompt. Upd
 
 | Risk | Mitigation |
 |------|------------|
-| 2025 coaching answers not yet available | Use 2024/2023 answers; calibration is about score distribution, not question-specific correctness |
-| Coaching "expected marks" are noisy | Collect from 2+ sources, average, treat as intervals |
-| Offset not uniform across papers | Compute per-paper offsets, apply independently |
-| Over-correction compresses AI score range | Validation step (Step 4) catches this before full regrade |
+| 2025 coaching answers not yet available | Use 2024/2023 answers; validation is about judge accuracy, not question-specific correctness |
+| Coaching "expected marks" are noisy | Collect from 2+ sources, average, treat as intervals not point estimates |
+| Bias not uniform across papers | Compute per-paper metrics, report separately |
 | Few-shot examples bias toward specific answer styles | Use 2-3 diverse examples (structured, flowing, case-study) |
+| AI genuinely outperforms humans | This is a valid outcome, not a bug. Report it with the validation evidence. |
 
 ---
 
@@ -120,10 +143,10 @@ Once calibrated, regrade all 5 models' 87 Mains answers with the new prompt. Upd
 | File | Description |
 |------|-------------|
 | `data/calibration/coaching_answers.json` | Golden set of coaching model answers with expected marks |
-| `data/calibration/calibration_report.json` | Offset analysis: global, per-paper, per-dimension |
-| `config/judge_prompt_v2.txt` | Recalibrated prompt with shifted anchors + examples |
-| `results/regrade_v2/` | New grading outputs |
-| `results/leaderboard.json` | Updated with calibrated scores |
+| `data/calibration/validation_report.json` | Judge accuracy metrics: MAE, bias, rank correlation |
+| `config/judge_prompt_v2.txt` | Improved prompt (only if corrections needed) |
+| `results/regrade_v2/` | New grading outputs (only if prompt changed) |
+| `results/leaderboard.json` | Updated (only if scores changed) |
 
 ---
 
@@ -131,16 +154,17 @@ Once calibrated, regrade all 5 models' 87 Mains answers with the new prompt. Upd
 
 For a future phase with $500-2000 budget:
 - Hire 2-3 retired UPSC examiners or senior coaching faculty via Mercor
-- Have them grade 20-30 AI answers on the actual rubric
-- Use pairwise ranking ("A is better than B") rather than absolute scoring for higher inter-rater reliability
-- Compute Elo/Bradley-Terry rankings from pairwise preferences
-- Use human scores as gold-standard anchors, replacing coaching estimates
+- Have them grade a mix of AI + human answers (blinded) on the actual UPSC rubric
+- Key question: do human examiners also score AI answers higher than human answers?
+- Use pairwise ranking ("A is better than B") for higher inter-rater reliability
+- This would be the definitive test of H1 vs H2
 
 ---
 
 ## Success Criteria
 
-1. Judge scores on coaching model answers fall within the coaching expected mark range (within 1 mark for 10-mark questions, 2 marks for 15-mark questions, 15 marks for essays)
-2. AI model scores shift to a plausible range relative to the human AIR 1 baseline (~48%)
-3. Relative rankings between models are preserved (if the ordering changes, investigate why)
-4. Score differentiation between models is maintained (spread > 5% between best and worst)
+1. **Judge accuracy measured:** MAE, directional bias, and rank correlation computed across 15-20 coaching model answers
+2. **Bias direction determined:** we know whether the judge inflates, deflates, or is accurate
+3. **If bias exists, it's corrected:** prompt adjustments reduce MAE by >50%
+4. **AI scores are reported with confidence context:** methodology page explains the validation approach and what the coaching calibration shows
+5. **Relative rankings between models are stable:** if rankings change after correction, the change is investigated and explained

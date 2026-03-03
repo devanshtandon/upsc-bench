@@ -4,7 +4,7 @@
 
 ## What is this?
 
-The UPSC Civil Services Examination selects India's top bureaucrats — IAS, IPS, and IFS officers — through a three-stage process that over a million candidates attempt each year, with a selection rate under 0.1%. UPSC Bench evaluates whether frontier AI models can pass this exam, using the real marking scheme, real cutoffs, and real questions from 2024–2025.
+The UPSC Civil Services Examination selects India's top bureaucrats — IAS, IPS, and IFS officers — through a three-stage process that over a million candidates attempt each year, with a selection rate under 0.1%. UPSC Bench evaluates whether frontier AI models can pass this exam, using the real marking scheme, real cutoffs, and real questions from 2025.
 
 What makes it hard: Prelims has negative marking (-0.66 per wrong answer), CSAT has comprehension passages, and Mains demands structured essay writing graded on a 5-dimension rubric. This isn't a trivia quiz — it's the exam that Indian aspirants spend years preparing for.
 
@@ -47,9 +47,9 @@ All five AI models pass both stages. On Mains, all models outscore the estimated
 
 ## Dataset
 
-- **Prelims:** 2024 + 2025, 357 questions total (197 GS Paper I + 160 CSAT Paper II)
+- **Prelims:** 2025, 180 questions (100 GS Paper I + 80 CSAT Paper II)
 - **Mains:** 2025, 87 questions (8 Essay + 20 GS1 + 20 GS2 + 20 GS3 + 19 GS4)
-- **Source:** Questions extracted from official UPSC PDFs, answer keys from coaching institutes (Vision IAS and others)
+- **Source:** Questions from official UPSC papers, answer keys from coaching institutes (Vision IAS and others)
 
 ## Methodology
 

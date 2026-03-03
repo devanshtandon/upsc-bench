@@ -104,23 +104,21 @@ export default function AboutPage() {
 
           <Section title="Dataset">
             <p>
-              The benchmark covers two stages of the UPSC examination:
+              The benchmark covers the 2025 UPSC examination across both stages:
             </p>
             <ul className="list-disc list-inside mt-3 space-y-1">
               <li>
-                <strong style={{ color: "var(--navy)" }}>Prelims (2024 + 2025):</strong> 357 questions
-                total — 197 GS Paper I (General Studies, 100 per year) and 160 CSAT Paper II (Civil
-                Services Aptitude Test, 80 per year)
+                <strong style={{ color: "var(--navy)" }}>Prelims:</strong> 180 questions — 100 GS
+                Paper I (General Studies) and 80 CSAT Paper II (Civil Services Aptitude Test)
               </li>
               <li>
-                <strong style={{ color: "var(--navy)" }}>Mains (2025):</strong> 87 questions — 8 Essay
+                <strong style={{ color: "var(--navy)" }}>Mains:</strong> 87 questions — 8 Essay
                 topics, 20 GS1, 20 GS2, 20 GS3, and 19 GS4 questions
               </li>
             </ul>
             <p className="mt-3">
-              Prelims questions are extracted from official UPSC PDF papers using
-              the Reducto AI document parsing API, then structured into a
-              machine-readable JSON format using LLM-assisted parsing. Answer
+              Questions are sourced from official UPSC papers and structured into
+              a machine-readable JSON format using LLM-assisted parsing. Answer
               keys are sourced from established coaching institutes (Vision IAS
               and others). Mains questions are sourced directly from the official
               question papers.
@@ -285,10 +283,6 @@ export default function AboutPage() {
                   {[
                     { year: 2025, gs1: 90.00, csat: 66 },
                     { year: 2024, gs1: 87.98, csat: 66 },
-                    { year: 2023, gs1: 75.41, csat: 66 },
-                    { year: 2022, gs1: 87.54, csat: 66 },
-                    { year: 2021, gs1: 87.54, csat: 66 },
-                    { year: 2020, gs1: 92.51, csat: 66 },
                   ].map((row) => (
                     <tr
                       key={row.year}

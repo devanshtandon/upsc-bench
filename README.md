@@ -1,6 +1,6 @@
 # UPSC Bench
 
-**Can AI pass India's toughest exam?** An LLM evaluation benchmark based on India's UPSC Civil Services Examination — both Prelims (MCQ) and Mains (essay). [View the live leaderboard →](https://upsc-bench.vercel.app)
+**Can AI pass India's toughest exam?** An LLM evaluation benchmark based on India's UPSC Civil Services Examination — both Prelims (MCQ) and Mains (essay). [View the live leaderboard →](https://upsc-bench.com)
 
 ## What is this?
 

@@ -1,0 +1,352 @@
+{
+  "batch_id": "batch_010",
+  "rubric": {
+    "gs": {
+      "content_accuracy": {
+        "weight": 40,
+        "description": "Facts correct, relevant points covered, no factual errors"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Logical organization, intro/body/conclusion, coherent argument"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific examples, data, case studies, constitutional references"
+      },
+      "analytical_depth": {
+        "weight": 10,
+        "description": "Critical analysis, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, clarity, conciseness, language quality"
+      }
+    },
+    "essay": {
+      "content_breadth": {
+        "weight": 30,
+        "description": "Comprehensive coverage, factual accuracy, relevant examples"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Clear thesis, logical progression, compelling intro/conclusion"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific case studies, data, international comparisons"
+      },
+      "analytical_depth": {
+        "weight": 20,
+        "description": "Original thinking, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, language quality, readability"
+      }
+    }
+  },
+  "answers": [
+    {
+      "question_id": "mains_essay_2025_q7",
+      "year": 2025,
+      "paper": "mains_essay",
+      "question_number": 7,
+      "question_text": "It is best to see life as a journey, not as a destination.",
+      "word_limit": 1200,
+      "max_marks": 125,
+      "question_type": "essay",
+      "section": "B",
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The human experience, in its myriad forms and expressions, has long been a subject of profound contemplation, often distilled into metaphors that seek to capture its essence. Among these, the analogy of life as a journey stands out, resonating deeply across cultures and epochs, suggesting a dynamic process of movement, growth, and transformation rather than a static endpoint. While the allure of a destination \u2013 a state of perfect happiness, ultimate achievement, or complete understanding \u2013 can be powerful, a closer examination reveals that such a singular focus often diminishes the richness and complexity of existence. Indeed, it is best to see life as a journey, for this perspective embraces the continuous unfolding of experiences, the lessons learned along the way, and the inherent value of the process itself, rather than fixating on an elusive, often illusory, finality.\n\nTo view life as a destination is to implicitly suggest that there is a point at which all striving ceases, all questions are answered, and all desires are fulfilled. This mindset, while offering a comforting vision of resolution, can paradoxically lead to profound dissatisfaction and a sense of perpetual incompleteness. If happiness is a destination, then every moment not spent in that state is perceived as a deviation or a failure. If success is a destination, then the period of effort and struggle leading up to it is merely a means to an end, devoid of intrinsic worth. This perspective can foster a relentless pursuit of external markers \u2013 wealth, status, power \u2013 believing that their attainment will unlock the ultimate destination. However, history is replete with examples of individuals who, having reached the pinnacle of their chosen fields, found themselves grappling with an existential void, realizing that the destination itself did not deliver the promised fulfillment. The Buddha\u2019s enlightenment, for instance, was not a final cessation of being but a profound understanding of the nature of suffering and the path to liberation, a continuous practice rather than a one-time arrival. Similarly, the pursuit of scientific knowledge, as exemplified by figures like Marie Curie or Albert Einstein, was not about reaching a definitive answer but about an ongoing exploration, each discovery opening new avenues for inquiry.\n\nIn contrast, embracing life as a journey acknowledges the inherent impermanence and fluidity of existence. It recognizes that change is the only constant, and that growth is an ongoing process, not a finite achievement. This perspective encourages an appreciation for the present moment, for the landscapes traversed, the challenges overcome, and the companions met along the way. Consider the analogy of a river: its essence lies not in its mouth, where it meets the sea, but in its continuous flow, its meandering path through diverse terrains, its erosion and deposition, its nurturing of life along its banks. To focus solely on the river's destination would be to miss the vibrant ecosystem it sustains and the dynamic forces that shape it. Similarly, human life is characterized by a series of transitions \u2013 childhood to adolescence, education to career, singlehood to partnership, parenthood to grandparenthood \u2013 each phase presenting its own unique set of experiences, lessons, and opportunities for growth. The wisdom gained from navigating these transitions, from adapting to new circumstances, and from learning from mistakes, constitutes the true richness of the journey.\n\nMoreover, seeing life as a journey fosters resilience and adaptability. When setbacks occur, as they inevitably do, a destination-oriented mindset might interpret them as failures to reach the desired endpoint, leading to despair. However, a journey-oriented perspective views them as detours, obstacles to be navigated, or even opportunities for redirection. A mountaineer, for instance, understands that reaching the summit is the goal, but the true test and the most profound learning occur during the arduous climb, the unexpected weather changes, the difficult terrain, and the camaraderie forged with fellow climbers. The journey itself builds character, develops skills, and deepens appreciation for the achievement. In the context of personal development, this means embracing continuous learning, viewing challenges as growth opportunities, and understanding that self-improvement is an ongoing process, not a state to be definitively achieved. The concept of 'Ikigai' in Japanese culture, often translated as 'a reason for being,' emphasizes finding joy and purpose in the daily activities and the continuous pursuit of one's passions, rather than waiting for a grand, ultimate fulfillment.\n\nThe journey metaphor also profoundly impacts our relationships and our understanding of community. If life is a destination, then others might be seen as mere instruments to help us reach our goal, or as competitors vying for the same limited resources at the finish line. However, if life is a journey, then companions become fellow travelers, sharing experiences, offering support, and enriching the path with their unique perspectives. The bonds forged through shared struggles and triumphs, the empathy developed through mutual understanding, and the collective wisdom accumulated through shared experiences are invaluable aspects of the human journey. Consider the Indian concept of 'Sangam,' the confluence of rivers, symbolizing the meeting of diverse streams of life, ideas, and cultures, each contributing to a larger, richer flow. The strength of a society lies not in its individual achievements but in the collective journey of its people, their shared aspirations, and their mutual support.\n\nFurthermore, the pursuit of knowledge and creativity is inherently a journey. A scientist does not arrive at a final truth but continuously refines theories, conducts experiments, and pushes the boundaries of understanding. Each discovery opens new questions, leading to further exploration. An artist does not create a definitive masterpiece and then cease to create; rather, each work is a step in an evolving artistic journey, a continuous expression of their vision and skill. The process of creation, the struggle with form and meaning, the moments of inspiration and frustration, are all integral to the artistic journey. Similarly, in education, the emphasis should not be solely on the acquisition of degrees or certifications \u2013 the 'destination' \u2013 but on the lifelong process of learning, critical thinking, and intellectual curiosity. The National Education Policy 2020 in India, for example, stresses holistic development and continuous learning, moving away from a purely rote-learning, destination-focused approach.\n\nHowever, it is important to acknowledge that the journey metaphor, while powerful, does not negate the importance of having goals or aspirations. A journey without a sense of direction can be aimless and unproductive. Goals serve as milestones, as compass points that guide our path, providing motivation and a framework for progress. The distinction lies in how these goals are perceived: not as ultimate destinations that, once reached, signify the end of the journey, but as significant points along an ongoing path. A student aims to graduate, but graduation is a stepping stone to further learning and career development. An entrepreneur aims to launch a successful business, but the launch is merely the beginning of a continuous process of innovation, adaptation, and growth. The Bhagavad Gita, a foundational text in Indian philosophy, emphasizes the importance of 'Karma Yoga' \u2013 performing one's duty without attachment to the fruits of action. This philosophy encourages diligent effort and purposeful action, while simultaneously detaching from the outcome, thereby embracing the journey itself as the primary focus.\n\nIn conclusion, while the human mind often seeks closure and definitive answers, the reality of life is one of continuous flux and evolution. To view life as a journey, rather than a destination, is to embrace this fundamental truth, fostering a mindset of growth, resilience, and appreciation for the present moment. It encourages us to find meaning not just in the attainment of goals, but in the process of striving, learning, and adapting. It transforms setbacks into detours, challenges into opportunities, and companions into fellow travelers. This perspective allows for a richer, more fulfilling existence, where every step, every experience, and every interaction holds intrinsic value. The beauty of life lies not in reaching a final, static endpoint, but in the dynamic, ever-unfolding narrative of our individual and collective journeys, each moment a unique landscape to be explored and cherished.",
+      "word_count": 1332,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_essay_2025_q8",
+      "year": 2025,
+      "paper": "mains_essay",
+      "question_number": 8,
+      "question_text": "Contentment is natural wealth; luxury is artificial poverty.",
+      "word_limit": 1200,
+      "max_marks": 125,
+      "question_type": "essay",
+      "section": "B",
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The ancient wisdom encapsulated in the statement, \"Contentment is natural wealth; luxury is artificial poverty,\" resonates with profound truth across cultures and epochs, offering a timeless commentary on human aspirations and the elusive nature of happiness. It posits a fundamental distinction between an intrinsic state of being, rooted in satisfaction with what one possesses, and an external pursuit driven by an insatiable desire for more, often leading to a perpetual sense of lack. This essay will explore the multifaceted dimensions of this assertion, delving into the philosophical underpinnings of contentment, the psychological traps of luxury, and the societal implications of prioritizing material accumulation over inner peace. It will argue that while luxury, in its moderate form, can enhance life, its unbridled pursuit creates an illusion of prosperity that ultimately impoverishes the human spirit, fostering a cycle of dissatisfaction and environmental degradation.\n\nContentment, at its core, is an internal state of peace and satisfaction, independent of external circumstances. It is the recognition and appreciation of what one has, rather than a yearning for what one lacks. This perspective aligns with various philosophical traditions. Stoicism, for instance, championed the idea of living in accordance with nature and accepting what is beyond one's control, finding tranquility in virtue and self-sufficiency. Epictetus famously advised, \"Wealth consists not in having great possessions, but in having few wants.\" Similarly, Buddhist philosophy emphasizes detachment from desires as the path to liberation from suffering, recognizing that craving is the root of dissatisfaction. In the Indian context, the concept of *Santosha* (contentment) is one of the *Niyamas* in Patanjali's Yoga Sutras, signifying a state of inner peace derived from accepting one's circumstances and finding joy in the present moment. This natural wealth is not quantifiable in monetary terms; it is a richness of spirit, a resilience that allows individuals to navigate life's vicissitudes with equanimity. A farmer in rural India, despite limited material possessions, might experience profound contentment derived from the rhythm of nature, the warmth of family, and the satisfaction of honest labor, a wealth that often eludes the harried urban professional chasing the next promotion or luxury item.\n\nConversely, luxury, when pursued as an end in itself, often morphs into artificial poverty. It creates an endless treadmill of desire, where each acquisition merely sets a new benchmark for the next. The initial thrill of a new car, a designer handbag, or a sprawling mansion quickly fades, replaced by the desire for an even newer model, a more exclusive brand, or a larger estate. This phenomenon is often termed the \"hedonic treadmill,\" where humans adapt to new levels of pleasure, requiring ever-increasing stimuli to maintain the same level of satisfaction. The constant comparison with others, fueled by social media and consumerist culture, exacerbates this artificial poverty. One might possess significant wealth, yet feel impoverished by the perceived greater wealth or more extravagant lifestyles of peers. This is not true poverty, which is characterized by a lack of basic necessities, but an emotional and psychological deficit, a perpetual feeling of not having enough. The individual becomes a slave to their desires, constantly striving, yet never truly arriving at a state of fulfillment. The opulent lifestyles depicted in reality television or glossy magazines, while seemingly embodying ultimate wealth, often mask deep-seated anxieties, competitive pressures, and a profound emptiness that no material possession can fill.\n\nThe societal implications of this distinction are profound. A society that prioritizes the pursuit of luxury over contentment often fosters unsustainable consumption patterns and exacerbates social inequalities. The relentless drive for material accumulation fuels an economic model predicated on perpetual growth, often at the expense of environmental sustainability. The extraction of resources, manufacturing processes, and disposal of goods associated with luxury consumption contribute significantly to climate change, pollution, and biodiversity loss. The fashion industry, for example, with its fast-changing trends and emphasis on disposable luxury, is a major contributor to waste and carbon emissions. The pursuit of luxury also widens the gap between the rich and the poor. While a small segment of society indulges in extravagant lifestyles, a vast majority struggles for basic necessities. This stark contrast can breed resentment, social unrest, and a sense of injustice, undermining the fabric of a cohesive society. The Gini coefficient, a measure of income inequality, has been rising in many nations, including India, indicating a growing disparity where the pursuit of luxury by a few comes at the cost of the well-being of many.\n\nMoreover, the relentless pursuit of luxury can erode intrinsic values and foster a culture of superficiality. Relationships might be valued for their utility in advancing one's social standing or access to resources, rather than for genuine connection. Success is often narrowly defined by material possessions and external markers, rather than by character, contribution, or inner peace. This can lead to a decline in empathy, community spirit, and a focus on collective well-being. The rise of \"keeping up with the Joneses\" mentality, where individuals feel compelled to match or exceed the material possessions of their neighbors, is a clear manifestation of this artificial poverty, where self-worth becomes inextricably linked to external validation through consumption. This phenomenon is particularly evident in rapidly developing economies like India, where a burgeoning middle class, exposed to global consumerist trends, often equates progress and happiness with the acquisition of branded goods and aspirational lifestyles, sometimes at the cost of financial stability and mental peace.\n\nHowever, it is crucial to acknowledge that luxury, in itself, is not inherently evil. When viewed as an occasional indulgence, a reward for hard work, or a means to appreciate craftsmanship and beauty, it can add richness and enjoyment to life. A well-crafted piece of art, a comfortable home, or a gourmet meal can enhance human experience without necessarily leading to artificial poverty, provided they are enjoyed with a sense of gratitude and moderation, rather than as a desperate attempt to fill an inner void. The distinction lies in the *motivation* behind the pursuit. If luxury is sought to impress others, to escape inner emptiness, or to constantly outdo oneself, it becomes a trap. If it is enjoyed as a byproduct of a fulfilling life, without attachment or craving, it can be a source of pleasure. The problem arises when luxury becomes a *necessity* rather than a choice, when one feels impoverished without it.\n\nThe path to natural wealth, therefore, lies in cultivating contentment. This involves a conscious shift in perspective, focusing on gratitude for what one has, practicing mindfulness to appreciate the present moment, and redefining success in terms of inner peace, meaningful relationships, and contribution to society. Minimalism, a growing movement globally, advocates for decluttering one's life of unnecessary possessions to focus on experiences and relationships, thereby fostering a deeper sense of contentment. Financial independence, often mistakenly equated with vast wealth, is more accurately defined by having enough to meet one's needs and pursue one's passions without being enslaved by debt or the need for constant income generation. This aligns with the idea of \"enough,\" a concept that challenges the endless pursuit of more.\n\nIn conclusion, the assertion that \"Contentment is natural wealth; luxury is artificial poverty\" offers a profound critique of modern consumerist culture and a timeless guide to human flourishing. Natural wealth, rooted in contentment, provides an enduring source of peace, resilience, and genuine satisfaction, independent of external circumstances. Artificial poverty, born from the insatiable pursuit of luxury, creates a perpetual state of dissatisfaction, environmental degradation, and social inequality. While luxury can offer fleeting pleasures, its unbridled pursuit ultimately impoverishes the human spirit, trapping individuals in a cycle of craving and comparison. The true path to prosperity lies not in accumulating more, but in desiring less, in appreciating what one has, and in cultivating an inner landscape rich with gratitude, purpose, and connection. It is a call to reclaim our natural wealth by prioritizing inner peace over external possessions, thereby building a more sustainable, equitable, and genuinely fulfilling world.",
+      "word_count": 1317,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q1",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 1,
+      "question_text": "Discuss the salient features of the Harappan architecture.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Harappan architecture, a hallmark of the Indus Valley Civilization (c. 2500-1900 BCE), is characterized by its remarkable urban planning and sophisticated engineering. A salient feature was the **grid pattern layout** of cities like Mohenjo-Daro and Harappa, with streets intersecting at right angles, dividing the city into rectangular blocks.\n\nThe primary building material was **baked bricks of standardized dimensions** (e.g., 1:2:4 ratio), indicating advanced kiln technology and quality control. Buildings were often multi-storied, featuring flat roofs and courtyards. **Drainage systems** were exceptionally advanced, with covered drains running along streets and connecting to individual house drains, showcasing a strong emphasis on hygiene and public health.\n\nNotable structures include the **Great Bath at Mohenjo-Daro**, a large watertight tank likely used for ritualistic bathing, and **granaries** for storing surplus grains, highlighting economic organization. The **citadel**, an elevated area containing important public buildings, further exemplifies their hierarchical urban structure and administrative prowess. The absence of elaborate temples or monumental royal tombs suggests a different socio-political organization compared to contemporary civilizations.",
+      "word_count": 165,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q2",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 2,
+      "question_text": "Examine the main aspects of Akbar's religious syncretism.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Akbar's religious syncretism, a hallmark of his reign (1556-1605), aimed at fostering unity and stability in a diverse empire. Its main aspects include:\n\n1.  **Sulh-i-Kul (Peace to All):** This core principle, derived from Sufi thought, advocated for universal tolerance and non-discrimination among all religions. It rejected the traditional Islamic division of the world into *Dar al-Islam* and *Dar al-Harb*.\n\n2.  **Abolition of Discriminatory Taxes:** Akbar abolished the *jizya* (poll tax on non-Muslims) in 1564 and the pilgrimage tax, signaling equal citizenship for all subjects regardless of faith.\n\n3.  **Ibadat Khana (House of Worship):** Established in Fatehpur Sikri in 1575, it initially hosted debates among Muslim scholars but soon expanded to include Hindus, Jains, Parsis, and Christians. These interfaith dialogues exposed Akbar to diverse theological perspectives.\n\n4.  **Din-i-Ilahi (Divine Faith):** Promulgated in 1582, it was not a new religion but a syncretic ethical system for a select group of courtiers. It drew principles from various faiths, emphasizing monotheism, peace, and a reverence for the emperor as a spiritual guide. Its tenets included vegetarianism, abstention from lust, and charity.\n\n5.  **Patronage of Arts and Literature:** Akbar commissioned translations of Sanskrit texts (e.g., Mahabharata, Ramayana) into Persian, fostering cultural exchange and understanding between different communities.\n\nThese measures collectively aimed at creating a composite Indian identity under a unified state, moving beyond sectarian divisions.",
+      "word_count": 220,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q3",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 3,
+      "question_text": "'The sculptors filled the Chandella artform with resilient vigor and breadth of life.' Elucidate.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Chandella artform, particularly evident in the temples of Khajuraho (c. 950-1050 CE), indeed pulsates with \"resilient vigor and breadth of life,\" primarily through its sculptural program.\n\nThis vigor is manifested in the dynamic poses and intricate detailing of the figures. Unlike static representations, Chandella sculptures often depict figures in *tribhanga* (triple-bend) or *atibhanga* (exaggerated triple-bend) postures, conveying movement and energy. The sheer number of figures, from celestial beings (apsaras, surasundaris) to mythical creatures and everyday life scenes, creates a vibrant tapestry.\n\nThe \"breadth of life\" is reflected in thematic diversity. While religious iconography (Vishnu, Shiva, Devi) is central, the sculptures also embrace secular and erotic themes with remarkable frankness. Scenes of daily life, musicians, dancers, warriors, and even explicit mithuna (amorous) couples are depicted without inhibition. This comprehensive portrayal of human experience, encompassing both the sacred and the profane, the spiritual and the sensual, imbues the art with a profound sense of vitality and a holistic understanding of existence, making it truly unique and enduring.",
+      "word_count": 166,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q4",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 4,
+      "question_text": "How are climate change and the sea level rise affecting the very existence of many island nations? Discuss with examples.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Climate change and sea level rise pose an existential threat to low-lying island nations, directly impacting their landmass, resources, and habitability.\n\nRising sea levels, driven by thermal expansion of oceans and melting glaciers, lead to increased coastal erosion, saltwater intrusion into freshwater lenses, and permanent inundation of land. For example, **Tuvalu**, with an average elevation of just 2 meters, is experiencing significant land loss due to erosion and king tides, threatening its very sovereignty. Similarly, the **Maldives**, the lowest-lying country in the world, faces the prospect of over 80% of its land being submerged by 2050 under high-emission scenarios.\n\nSaltwater intrusion contaminates vital groundwater, crucial for drinking and agriculture, as seen in **Kiribati**, where many wells are now brackish. This compromises food security and forces communities to rely on expensive imported water. Increased frequency and intensity of extreme weather events, like cyclones, exacerbate these impacts, causing widespread destruction and displacement. These combined pressures lead to climate migration, threatening the cultural identity and national existence of these vulnerable island states.",
+      "word_count": 169,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q5",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 5,
+      "question_text": "What are non-farm primary activities? How are these activities related to physiographic features in India? Discuss with suitable examples.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Non-farm primary activities involve the extraction of natural resources directly from the earth, excluding agriculture. These include mining, quarrying, forestry, and fishing.\n\nIn India, these activities are intrinsically linked to physiographic features:\n\n*   **Mining and Quarrying:** Abundant in peninsular India, particularly the Chota Nagpur Plateau (Jharkhand, Odisha, Chhattisgarh), which is rich in mineral deposits like coal, iron ore, bauxite, and mica. The Deccan Traps yield basalt for construction. The Himalayan region, though challenging, has deposits of limestone and gypsum.\n*   **Forestry:** Prevalent in regions with dense forest cover. The Himalayas and the Western Ghats are biodiversity hotspots providing timber, medicinal plants, and non-timber forest products. The central Indian highlands also support significant forest-based livelihoods.\n*   **Fishing:** Primarily concentrated along India's extensive coastline (e.g., Kerala, Gujarat, Maharashtra) and major river systems like the Ganga and Brahmaputra, and numerous lakes and reservoirs. The continental shelf's width and nutrient-rich waters influence marine fish catch.\n\nThus, India's diverse physiography directly dictates the distribution and potential of its non-farm primary activities.",
+      "word_count": 166,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q6",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 6,
+      "question_text": "Explain briefly the ecological and economic benefits of solar energy generation in India with suitable examples.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Solar energy offers substantial ecological and economic benefits for India.\n\n**Ecological Benefits:**\n\n*   **Reduced Carbon Emissions:** Solar power plants, unlike fossil fuel-based ones, produce no greenhouse gas emissions during operation. This directly combats climate change and air pollution, a critical issue in Indian cities. For example, a 1 MW solar plant can offset approximately 1,200-1,500 tonnes of CO2 annually.\n*   **Lower Water Consumption:** Solar PV technology requires significantly less water compared to thermal power plants for cooling, crucial in water-stressed regions of India.\n*   **Reduced Land Degradation:** While requiring land, solar farms avoid the extensive land disruption associated with coal mining and ash disposal.\n\n**Economic Benefits:**\n\n*   **Energy Security and Reduced Imports:** Solar energy lessens India's reliance on imported fossil fuels, saving valuable foreign exchange. India spent over $160 billion on crude oil imports in FY23.\n*   **Job Creation:** The solar sector generates employment across manufacturing, installation, and maintenance. India's solar capacity addition has created thousands of jobs, from large-scale projects like Bhadla Solar Park to rooftop installations.\n*   **Cost Reduction:** The levelized cost of electricity (LCOE) from solar has fallen dramatically, making it competitive with conventional sources. Solar tariffs have dropped to record lows (e.g., \u20b91.99/unit).\n*   **Decentralized Power:** Rooftop solar and mini-grids provide reliable electricity to remote areas, boosting local economies and reducing transmission losses. Examples include solarizing villages in Uttar Pradesh or Rajasthan.",
+      "word_count": 226,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q7",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 7,
+      "question_text": "What are Tsunamis? How and where are they formed? What are their consequences? Explain with examples.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Tsunamis are a series of powerful ocean waves with extremely long wavelengths, typically generated by large-scale displacement of water. They are distinct from regular ocean waves.\n\n**Formation:** Tsunamis are primarily formed by sudden vertical displacement of the seafloor, most commonly due to:\n1.  **Submarine Earthquakes:** Particularly those occurring at convergent plate boundaries (subduction zones) where one plate slides beneath another, causing significant uplift or subsidence of the ocean floor.\n2.  **Volcanic Eruptions:** Submarine or coastal volcanic eruptions can displace large volumes of water.\n3.  **Landslides:** Large coastal or submarine landslides can generate tsunamis.\n4.  **Meteorite Impacts:** Though rare, large oceanic impacts can also cause tsunamis.\n\nThey are predominantly formed in the Pacific Ocean's \"Ring of Fire\" due to its high seismic activity and numerous subduction zones, but can occur in any ocean.\n\n**Consequences:**\n*   **Devastation:** Catastrophic destruction of coastal infrastructure, homes, and ecosystems.\n*   **Loss of Life:** High mortality rates due to the immense force and speed of the waves.\n*   **Economic Impact:** Billions in damages, disruption of trade, and long-term economic setbacks for affected regions.\n*   **Environmental Damage:** Salinization of freshwater sources and agricultural land, destruction of coral reefs and mangroves.\n\n**Examples:**\n*   **2004 Indian Ocean Tsunami:** Triggered by a magnitude 9.1 earthquake off Sumatra, Indonesia, it killed over 230,000 people across 14 countries, demonstrating the devastating trans-oceanic reach.\n*   **2011 Tohoku Tsunami (Japan):** Caused by a magnitude 9.0 earthquake, it led to widespread destruction, including the Fukushima Daiichi nuclear disaster, highlighting the potential for secondary catastrophes.",
+      "word_count": 248,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q8",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 8,
+      "question_text": "How does smart city in India, address the issues of urban poverty and distributive justice?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Smart Cities in India aim to address urban poverty and distributive justice through various integrated approaches.\n\n**Urban Poverty:**\n*   **Affordable Housing:** Smart cities prioritize projects like Pradhan Mantri Awas Yojana (PMAY) to provide affordable housing, often integrating smart technologies for efficient resource management and security.\n*   **Skill Development & Livelihoods:** Digital literacy centers, vocational training programs, and job portals are often integrated into smart city plans, connecting the urban poor to employment opportunities. For instance, Bhubaneswar's Smart City initiative includes skill development centers.\n*   **Access to Basic Services:** Smart solutions ensure equitable access to water, sanitation, electricity, and healthcare through efficient distribution networks and digital platforms, reducing the burden on low-income households.\n\n**Distributive Justice:**\n*   **Inclusive Planning:** Smart city proposals often mandate citizen participation, including marginalized communities, in planning and decision-making processes, ensuring their needs are considered.\n*   **Transparent Governance:** E-governance platforms, open data initiatives, and grievance redressal systems enhance transparency and accountability, reducing corruption and ensuring fair distribution of resources and services.\n*   **Equitable Infrastructure:** Smart infrastructure development focuses on improving public transport, last-mile connectivity, and public spaces, benefiting all residents, especially those reliant on public services. For example, integrated command and control centers can optimize public transport routes for wider accessibility.\n\nWhile challenges remain, the smart city framework provides a platform for leveraging technology and data to create more inclusive and equitable urban environments.",
+      "word_count": 226,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q9",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 9,
+      "question_text": "The ethos of civil service in India stands for the combination of professionalism with nationalistic consciousness \u2013 Elucidate.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Indian civil service ethos, envisioned by Sardar Patel as the \"steel frame,\" embodies a crucial blend of professionalism and nationalistic consciousness. \n\n**Professionalism** entails adherence to principles of impartiality, integrity, efficiency, and rule of law. Civil servants are expected to be apolitical, merit-based in their decisions, and dedicated to public service delivery, irrespective of personal beliefs. This ensures effective governance and equitable implementation of policies. For instance, an IAS officer managing disaster relief must prioritize efficient resource allocation and coordination based on need, not political affiliation.\n\n**Nationalistic consciousness** signifies a deep commitment to India's constitutional values, unity, sovereignty, and socio-economic development. It's not about jingoism, but about working towards the nation's progress and upholding its democratic fabric. This translates into a sense of duty to uplift the marginalized, promote social justice, and safeguard national interests. For example, a diplomat negotiating international treaties must prioritize India's strategic and economic interests, while a district magistrate implementing welfare schemes must ensure they reach the intended beneficiaries to strengthen national cohesion.\n\nThis combination ensures that professional competence is directed towards achieving national goals, making the civil service a vital instrument for India's progress and stability.",
+      "word_count": 191,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q10",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 10,
+      "question_text": "Do you think that globalization results in only an aggressive consumer culture? Justify your answer.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Globalization's impact extends beyond merely fostering an aggressive consumer culture, though that is a significant aspect. While it undeniably promotes consumerism through the proliferation of global brands, advertising, and the availability of diverse products, leading to increased consumption and sometimes unsustainable practices, it also brings other outcomes.\n\nFor instance, globalization facilitates cultural exchange, leading to the adoption of new ideas, cuisines, and art forms. It can foster greater understanding and appreciation of diverse cultures. Economically, it can drive innovation, create jobs, and improve living standards through increased trade and investment. Furthermore, globalization has enabled the spread of democratic ideals, human rights awareness, and facilitated global cooperation on issues like climate change and public health.\n\nTherefore, while the rise of consumer culture is a prominent feature, globalization's effects are multifaceted, encompassing economic, social, political, and cultural dimensions that are not solely aggressive consumerism.",
+      "word_count": 142,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q11",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 11,
+      "question_text": "Mahatma Jotirao Phule's writings and efforts of social reforms touched issues of almost all subaltern classes. Discuss.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Mahatma Jotirao Phule, a towering figure of 19th-century Maharashtra, indeed addressed the multifaceted oppression faced by various subaltern classes through his prolific writings and relentless social reform efforts. His work transcended narrow caste boundaries, encompassing the plight of women, Dalits, and the peasantry.\n\nPhule's most significant contribution was his radical critique of the Brahmanical social order and the caste system. In works like **Gulamgiri (Slavery, 1873)** and **Shetkaryacha Asud (Cultivator's Whipcord, 1881)**, he exposed how the caste system, particularly the dominance of Brahmins, systematically exploited and dehumanized the Shudras and Ati-Shudras (Dalits). He argued that the Puranas and Hindu scriptures were tools of oppression, designed to maintain the hegemony of the upper castes. His establishment of the **Satya Shodhak Samaj (Truth-Seekers' Society) in 1873** aimed to empower these communities by promoting education, self-respect, and rational thought, challenging the traditional priestly monopoly.\n\nBeyond caste, Phule was a staunch advocate for women's rights, a truly revolutionary stance for his time. He recognized that women, irrespective of caste, were subjected to patriarchal control and denied education. He opened India's first school for girls in Pune in 1848, with his wife Savitribai Phule as the first teacher, defying immense social opposition. He also championed widow remarriage and condemned child marriage, understanding these as critical steps towards women's emancipation.\n\nFurthermore, Phule deeply empathized with the struggles of the peasantry. In **Shetkaryacha Asud**, he meticulously detailed the exploitation of farmers by moneylenders, landlords, and the colonial state's revenue policies. He advocated for fair land revenue, access to irrigation, and education for farmers' children, recognizing that economic upliftment was crucial for their liberation.\n\nIn essence, Phule's holistic approach to social reform, encompassing caste, gender, and class, demonstrates his profound understanding of the interconnectedness of various forms of oppression. His writings and actions laid the groundwork for future social justice movements, making him a true pioneer in the struggle for the rights of all subaltern classes.",
+      "word_count": 318,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q12",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 12,
+      "question_text": "Trace India's consolidation process during early phase of independence in terms of polity, economy, education and international relations.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "India's consolidation post-independence (1947-early 1960s) was a multi-faceted process across polity, economy, education, and international relations.\n\n**Polity:** The immediate challenge was integrating over 560 princely states. Sardar Patel, with V.P. Menon, masterminded their accession, using a mix of persuasion (privy purses) and force (Hyderabad, Junagadh, Kashmir). The adoption of the Constitution in 1950 established a sovereign, socialist, secular, democratic republic, creating a unified legal and administrative framework. Linguistic reorganization of states, though contentious, eventually strengthened federalism by accommodating regional identities (e.g., Andhra Pradesh in 1953, Maharashtra and Gujarat in 1960).\n\n**Economy:** India adopted a mixed economy model with a strong emphasis on state-led industrialization. The First Five-Year Plan (1951-56) focused on agriculture and irrigation (e.g., Bhakra Nangal Dam), while the Second Plan (1956-61) prioritized heavy industries (e.g., Bhilai, Rourkela steel plants). Land reforms aimed at abolishing zamindari and redistributing land, though implementation varied. The establishment of institutions like the Planning Commission (1950) and nationalization of the Imperial Bank of India (1955, becoming SBI) were crucial steps in economic planning and control.\n\n**Education:** The Kothari Commission (1964-66) laid the groundwork for a national education policy, though earlier efforts were significant. The establishment of IITs (Kharagpur 1951, Bombay 1958, Madras 1959, Kanpur 1959, Delhi 1961) and IIMs (Calcutta, Ahmedabad 1961) aimed at creating a skilled workforce. The University Grants Commission (UGC) was formalized in 1956 to coordinate and maintain standards in higher education, expanding access and quality.\n\n**International Relations:** India championed Non-Alignment, refusing to join either the US or Soviet blocs. This policy, articulated by Nehru, aimed at preserving India's strategic autonomy and promoting world peace. India played a leading role in the Bandung Conference (1955) and the formation of the Non-Aligned Movement (NAM) in 1961. It actively supported decolonization and anti-apartheid movements, enhancing its moral standing on the global stage. Early relations with China were cordial (\"Hindi-Chini bhai-bhai\") but deteriorated by the early 1960s, culminating in the 1962 war, which significantly impacted India's foreign policy outlook.",
+      "word_count": 325,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q13",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 13,
+      "question_text": "The French Revolution has enduring relevance to the contemporary world. Explain.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The French Revolution (1789-1799) remains profoundly relevant today, shaping modern political thought, governance, and societal values. Its core ideals of Liberty, Equality, and Fraternity continue to resonate globally, influencing democratic movements and human rights discourse.\n\nFirstly, the Revolution popularized the concept of **popular sovereignty**, asserting that legitimate political authority derives from the will of the people, not divine right or inherited privilege. This foundational principle underpins most modern democracies, where citizens elect representatives and constitutions enshrine their rights. The Declaration of the Rights of Man and of the Citizen (1789) served as a blueprint for subsequent human rights declarations, including the Universal Declaration of Human Rights.\n\nSecondly, it championed **individual liberties** and **equality before the law**, dismantling feudal privileges and advocating for meritocracy. While its implementation was often violent and inconsistent, the aspiration for a society free from arbitrary power and discrimination continues to drive struggles for civil rights, gender equality, and social justice worldwide. Contemporary debates on affirmative action, LGBTQ+ rights, and economic inequality echo the revolutionary call for a more equitable society.\n\nThirdly, the Revolution introduced the idea of **nationalism** as a unifying force, where citizens identify with a shared culture, language, and political destiny rather than a monarch. This concept profoundly influenced the formation of modern nation-states and continues to shape international relations, often leading to both solidarity and conflict.\n\nFinally, the Revolution demonstrated the **transformative power of collective action** and the potential for radical societal change, inspiring countless subsequent revolutions and reform movements, from the Russian Revolution to anti-colonial struggles. Its legacy reminds us of the ongoing tension between revolutionary ideals and their practical implementation, and the enduring struggle for a more just and free world.",
+      "word_count": 280,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q14",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 14,
+      "question_text": "Give a geographical explanation of the distribution of off-shore oil reserves of the world. How are they different from the on-shore occurrences of oil reserves?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Offshore oil reserves are predominantly found in continental shelf areas, passive continental margins, and rift basins, where specific geological conditions favor their formation and accumulation.\n\n**Geographical Explanation of Offshore Oil Distribution:**\n\n1.  **Continental Shelves and Slopes:** The vast majority of offshore oil is found on continental shelves and slopes. These areas are characterized by thick sedimentary basins, often formed by the accumulation of organic-rich marine sediments over millions of years. The relatively shallow water depths (up to 200 meters on shelves) allow for efficient burial and maturation of organic matter into hydrocarbons. Examples include the North Sea (UK, Norway), Gulf of Mexico (USA), Campos Basin (Brazil), and the Persian Gulf.\n\n2.  **Passive Continental Margins:** These margins, formed by the rifting and separation of continents, are ideal for oil accumulation. They feature extensive sedimentary basins that develop as the crust subsides and sediments accumulate from continental erosion and marine deposition. The West African margin (e.g., Angola, Nigeria) and the Brazilian margin are prime examples, with significant deepwater discoveries.\n\n3.  **Rift Basins:** Failed rifts or active rift zones, both onshore and offshore, can create grabens and half-grabens that act as traps for sediments and hydrocarbons. The North Sea, for instance, is underlain by a complex rift system.\n\n4.  **Upwelling Zones:** Areas with high biological productivity due to oceanic upwelling (e.g., parts of the West African coast) contribute to the deposition of organic-rich source rocks, which are crucial for oil formation.\n\n**Differences from Onshore Occurrences:**\n\n| Feature             | Offshore Oil Reserves                               | Onshore Oil Reserves                                  |\n| :------------------ | :-------------------------------------------------- | :---------------------------------------------------- |\n| **Geological Setting** | Primarily continental shelves, slopes, deepwater basins, passive margins. | Diverse: sedimentary basins, foreland basins, rift valleys, cratonic basins. |\n| **Source Rocks**    | Predominantly marine organic matter (algae, plankton). | Marine, lacustrine (lakes), and terrestrial organic matter (plants). |\n| **Reservoir Rocks** | Marine sandstones, carbonates (reefs).              | Sandstones, limestones, dolomites, fractured shales.  |\n| **Traps**           | Structural (faults, folds, salt domes), stratigraphic (unconformities, pinch-outs). | Similar, but often more complex due to tectonic history. |\n| **Exploration/Production** | Higher costs, complex technology (platforms, FPSOs, subsea systems), environmental challenges. | Lower costs, simpler technology (land rigs), easier logistics, but often mature fields. |\n| **Depth**           | Can range from shallow shelf to ultra-deepwater (>1500m water depth). | Typically shallower, but can extend to significant depths. |\n| **Examples**        | North Sea, Gulf of Mexico, Campos Basin, West Africa. | Permian Basin (USA), Ghawar Field (Saudi Arabia), Western Siberia (Russia). |\n\nIn essence, offshore oil is largely a product of marine sedimentation and basin development along continental margins, while onshore oil can originate from a wider variety of depositional environments and tectonic settings.",
+      "word_count": 446,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q15",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 15,
+      "question_text": "How can Artificial Intelligence (AI) and drones be effectively used along with GIS and RS techniques in locational and areal planning?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Artificial Intelligence (AI) and drones, integrated with Geographic Information Systems (GIS) and Remote Sensing (RS), offer transformative capabilities for locational and areal planning. This synergy enhances data acquisition, analysis, and decision-making, leading to more efficient, sustainable, and resilient urban and regional development.\n\nDrones, equipped with high-resolution cameras and LiDAR sensors, provide rapid and cost-effective acquisition of detailed geospatial data. They can generate precise orthomosaics, 3D models, and digital elevation models (DEMs) of specific areas, overcoming limitations of traditional ground surveys or satellite imagery for fine-grained analysis. This data feeds directly into GIS platforms, creating rich foundational layers for planning.\n\nAI algorithms then process this vast dataset. Machine learning (ML) can be employed for automated feature extraction, identifying land use patterns, building footprints, road networks, and vegetation cover with high accuracy. For instance, AI can classify different types of informal settlements from drone imagery, aiding in slum upgrading projects. Predictive AI models can forecast urban growth patterns, traffic congestion, or environmental impacts based on historical data and current trends, informing infrastructure placement and zoning regulations. Deep learning techniques can analyze complex spatial relationships, identifying optimal locations for new facilities (e.g., schools, hospitals) by considering factors like accessibility, population density, and existing infrastructure.\n\nIn areal planning, AI-powered GIS can simulate various development scenarios, evaluating their impact on factors like green space, walkability, and resource consumption. For example, an AI model could optimize the layout of a new residential area to maximize solar exposure for buildings or minimize stormwater runoff. RS data, processed by AI, can monitor environmental changes, detect illegal construction, or assess disaster vulnerability, enabling proactive planning and mitigation strategies.\n\nThis integrated approach allows planners to move beyond descriptive analysis to prescriptive and predictive planning, making data-driven decisions for sustainable urban expansion, resource management, and disaster preparedness.",
+      "word_count": 296,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q16",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 16,
+      "question_text": "Discuss how the changes in shape and sizes of continents and ocean basins of the planet take place due to tectonic movements of the crustal masses.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Earth's crust is fragmented into several large and small rigid plates, known as tectonic plates, which are in constant motion relative to each other. This movement, driven by convection currents within the Earth's mantle, is the fundamental mechanism behind the changes in the shape and size of continents and ocean basins.\n\nAt **divergent plate boundaries**, plates move apart. This process, known as seafloor spreading, leads to the creation of new oceanic crust. As magma rises from the mantle, it solidifies to form new crust, pushing the existing plates away from the ridge. This continuous creation of new crust effectively increases the size of ocean basins, such as the Atlantic Ocean, which is widening by approximately 2.5 cm per year. The separation of continental landmasses, like the ongoing rifting in the East African Rift Valley, can eventually lead to the formation of new ocean basins and the splitting of continents.\n\nConversely, at **convergent plate boundaries**, plates collide. When oceanic crust converges with continental crust, the denser oceanic plate subducts beneath the continental plate. This process leads to the destruction of oceanic crust, thereby reducing the size of ocean basins. The subduction zone is often marked by deep oceanic trenches (e.g., Mariana Trench) and volcanic arcs on the overriding plate (e.g., Andes Mountains). When two continental plates collide, neither subducts significantly due to their similar densities. Instead, the immense compressional forces cause the crust to buckle, fold, and thicken, leading to the formation of vast mountain ranges like the Himalayas, where the Indian plate is colliding with the Eurasian plate. This collision also alters the shape and elevation of the continental landmasses.\n\nAt **transform plate boundaries**, plates slide past each other horizontally. While these boundaries do not directly create or destroy crust, they cause significant deformation and faulting, altering the local shape and configuration of landmasses. The San Andreas Fault in California is a prime example, where the Pacific Plate is sliding past the North American Plate.\n\nOver geological timescales, these continuous tectonic movements have dramatically reshaped the Earth's surface, leading to the assembly and breakup of supercontinents (e.g., Pangea), the opening and closing of oceans, and the constant evolution of continental and oceanic configurations.",
+      "word_count": 364,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q17",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 17,
+      "question_text": "Discuss the distribution and density of population in the Ganga River Basin with special reference to land, soil and water resources.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Ganga River Basin, a vast and fertile plain, exhibits a high population density and uneven distribution, primarily influenced by its abundant land, soil, and water resources.\n\n**Distribution:** Population distribution is largely concentrated along the main stem of the Ganga and its major tributaries (Yamuna, Ghaghara, Kosi, Gandak). This linear pattern reflects the historical and ongoing dependence on riverine resources for agriculture, transport, and settlement. Urban centers like Delhi, Kanpur, Lucknow, Varanasi, Patna, and Kolkata are major population clusters, often located at strategic confluences or along major transportation routes. Denser populations are found in the middle and lower Ganga plains, where floodplains are wider and more fertile. The upper reaches, particularly the Himalayan foothills, show sparser populations due to rugged terrain and limited arable land.\n\n**Density:** The Ganga Basin is one of the most densely populated regions globally. States like Uttar Pradesh, Bihar, and West Bengal, which encompass significant portions of the basin, have average population densities far exceeding the national average. For instance, Bihar's density is over 1100 persons/sq km, and West Bengal's is around 1030 persons/sq km (Census 2011). This high density is directly attributable to:\n\n*   **Land Resources:** The extensive flat alluvial plains provide vast tracts of arable land, ideal for intensive agriculture.\n*   **Soil Resources:** The fertile alluvial soils, renewed annually by riverine deposits, support multiple cropping cycles (rice, wheat, sugarcane) and high agricultural productivity, sustaining a large population.\n*   **Water Resources:** The perennial Ganga and its tributaries provide abundant surface water for irrigation, domestic use, and industrial purposes. The high groundwater potential further supports agriculture and urban water supply. This reliable water availability has historically attracted and sustained dense human settlements.\n\nHowever, this high density also puts immense pressure on these resources, leading to issues like groundwater depletion, soil degradation, and water pollution.",
+      "word_count": 298,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q18",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 18,
+      "question_text": "How do you account for the growing fast food industries given that there are increased health concerns in modern society? Illustrate your answer with the Indian experience.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The seemingly paradoxical growth of the fast-food industry amidst rising health concerns can be attributed to a confluence of socio-economic, cultural, and psychological factors.\n\nFirstly, **convenience and time constraints** are paramount. Modern lifestyles, characterized by dual-income households, longer working hours, and increased urbanization, leave little time for traditional home cooking. Fast food offers a quick, accessible, and often affordable meal solution.\n\nSecondly, **affordability and perceived value** play a significant role. While health concerns exist, for many, the immediate economic benefit of a cheap meal outweighs the long-term health risks, especially in developing economies.\n\nThirdly, **effective marketing and globalization** have normalized fast food consumption. Aggressive advertising campaigns, often targeting younger demographics, create aspirational value and brand loyalty. The global spread of Western culture has also made fast food a symbol of modernity and progress.\n\nIn the **Indian context**, these factors are amplified. The burgeoning middle class, with increased disposable income, is a key driver. The rise of nuclear families and working women has reduced the prevalence of traditional home-cooked meals. Fast food chains like McDonald's, KFC, and Domino's have successfully **localized their menus** (e.g., McAloo Tikki, Paneer Zinger) to cater to Indian palates and dietary preferences, including vegetarian options, making them more appealing.\n\nFurthermore, the **\"experience economy\"** contributes significantly. Fast-food outlets often provide air-conditioned, hygienic spaces for socializing, especially for youth, which is a major draw in crowded urban environments. The perception of fast food as a \"treat\" or a \"reward\" also overrides health considerations for many.\n\nWhile health awareness is growing, the immediate gratification, convenience, and social aspects offered by fast food often trump the abstract, long-term health risks for a large segment of the population.",
+      "word_count": 276,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    }
+  ],
+  "count": 20
+}

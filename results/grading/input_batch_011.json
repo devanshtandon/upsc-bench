@@ -1,0 +1,352 @@
+{
+  "batch_id": "batch_011",
+  "rubric": {
+    "gs": {
+      "content_accuracy": {
+        "weight": 40,
+        "description": "Facts correct, relevant points covered, no factual errors"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Logical organization, intro/body/conclusion, coherent argument"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific examples, data, case studies, constitutional references"
+      },
+      "analytical_depth": {
+        "weight": 10,
+        "description": "Critical analysis, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, clarity, conciseness, language quality"
+      }
+    },
+    "essay": {
+      "content_breadth": {
+        "weight": 30,
+        "description": "Comprehensive coverage, factual accuracy, relevant examples"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Clear thesis, logical progression, compelling intro/conclusion"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific case studies, data, international comparisons"
+      },
+      "analytical_depth": {
+        "weight": 20,
+        "description": "Original thinking, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, language quality, readability"
+      }
+    }
+  },
+  "answers": [
+    {
+      "question_id": "mains_gs1_2025_q19",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 19,
+      "question_text": "Achieving sustainable growth with emphasis on environmental protection could come into conflict with poor people's needs in a country like India \u2013 Comment.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Achieving sustainable growth with environmental protection in India often presents a complex dilemma, potentially conflicting with the immediate needs of its vast poor population. This tension arises from the inherent trade-offs between economic development, poverty alleviation, and ecological preservation.\n\nFor a significant portion of India's poor, natural resources are directly linked to their livelihoods. Forests provide fuelwood, fodder, and non-timber forest products; rivers offer water for irrigation and fishing; and land is essential for agriculture and housing. Strict environmental regulations, such as those prohibiting deforestation, restricting mining, or establishing protected areas, can directly impact these communities by limiting access to resources they depend on for survival. For instance, the declaration of a wildlife sanctuary might displace tribal communities or restrict their traditional forest-based livelihoods, pushing them further into poverty.\n\nFurthermore, the pursuit of \"green\" technologies and sustainable practices can sometimes be more expensive in the short term. Transitioning to renewable energy, implementing advanced waste management systems, or adopting organic farming methods might require initial investments that are unaffordable for the poor, or lead to higher costs for essential goods and services. This can exacerbate existing inequalities, as the poor may bear the brunt of these transitions without immediately reaping the benefits.\n\nHowever, it's crucial to recognize that environmental degradation disproportionately affects the poor. They are often the most vulnerable to climate change impacts like droughts, floods, and extreme weather events, which destroy crops and homes. Air and water pollution, often concentrated in poorer urban areas or industrial zones, lead to severe health issues and loss of productivity. Therefore, while immediate needs might conflict, long-term environmental protection is essential for the well-being and sustainable livelihoods of the poor.\n\nThe challenge lies in finding inclusive solutions. This requires policies that integrate poverty alleviation with environmental goals, such as promoting sustainable agriculture that enhances food security, investing in decentralized renewable energy solutions that benefit rural communities, and ensuring equitable benefit-sharing mechanisms from conservation efforts. Participatory approaches, where the poor are involved in decision-making processes regarding resource management, are vital to mitigate conflicts and foster sustainable development that truly serves all sections of society.",
+      "word_count": 350,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs1_2025_q20",
+      "year": 2025,
+      "paper": "mains_gs1",
+      "question_number": 20,
+      "question_text": "Does tribal development in India centre around two axes, those of displacement and of rehabilitation? Give your opinion.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Tribal development in India has historically been significantly shaped by the twin axes of displacement and rehabilitation, though it would be an oversimplification to claim it *only* centres around these. Large-scale infrastructure projects (dams like Sardar Sarovar, mining in resource-rich tribal areas like Jharkhand and Odisha), industrialization, and forest conservation policies (e.g., creation of national parks and wildlife sanctuaries) have invariably led to the displacement of tribal communities from their ancestral lands. This displacement often disrupts their traditional livelihoods, social structures, cultural practices, and spiritual connections to land and forests.\n\nThe state's response to such displacement has primarily been through rehabilitation packages. These packages typically involve monetary compensation, alternative land allocation (often infertile or distant), and promises of employment or civic amenities. However, the effectiveness of these rehabilitation efforts has been widely debated. Issues include inadequate compensation, delays in implementation, lack of culturally appropriate resettlement options, and the failure to restore lost livelihoods and social capital. The shift from a forest-based economy to a cash-based one, or to agricultural labour, often pushes tribals into poverty and marginalization.\n\nWhile displacement and rehabilitation are undeniably central, tribal development also encompasses other crucial dimensions. These include:\n\n*   **Protection of Rights:** Legislation like the Forest Rights Act (FRA) 2006 aims to recognize and vest forest rights and land tenure, preventing arbitrary displacement and empowering communities.\n*   **Socio-economic Upliftment:** Initiatives focusing on education, healthcare, skill development, and market linkages for tribal products.\n*   **Cultural Preservation:** Efforts to protect tribal languages, art forms, and traditional knowledge.\n*   **Self-Governance:** Provisions under PESA (Panchayats Extension to Scheduled Areas) Act 1996, empowering Gram Sabhas in scheduled areas to manage their resources and development.\n\nIn conclusion, while displacement and rehabilitation have been dominant and often problematic features of tribal development, the discourse is evolving to include a more rights-based, participatory, and holistic approach that prioritizes self-determination and cultural integrity, moving beyond merely mitigating the negative impacts of displacement.",
+      "word_count": 318,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q1",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 1,
+      "question_text": "Discuss the 'corrupt practices' for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute 'undue influence' and consequently a corrupt practice.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Representation of the People Act, 1951 (RPA) defines 'corrupt practices' under Sections 123, aiming to ensure free and fair elections. These include bribery, undue influence, appeal on grounds of religion/race/caste/community/language, publication of false statements, hiring of vehicles, and incurring unauthorized election expenses.\n\nDisproportionate increase in assets of legislators or their associates, while indicative of potential corruption, does not automatically constitute 'undue influence' under the RPA. 'Undue influence' (Section 123(2)) specifically refers to direct interference with the free exercise of electoral rights, such as threatening voters or inducing them to vote/not vote. While such asset growth might be a consequence of corrupt acts, proving a direct link to influencing voters during an election, as required by the RPA, is challenging.\n\nHowever, such disproportionate assets could be investigated under other anti-corruption laws like the Prevention of Corruption Act, 1988, or the Prevention of Money Laundering Act, 2002. The Election Commission of India, through affidavits and disclosure norms, monitors assets, but the RPA's scope for 'undue influence' is narrower, focusing on direct electoral interference.",
+      "word_count": 172,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q2",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 2,
+      "question_text": "Comment on the need of administrative tribunals as compared to the court system. Assess the impact of the recent tribunal reforms through rationalization of tribunals made in 2021.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Administrative tribunals are crucial for specialized, speedy, and cost-effective justice delivery, alleviating the burden on conventional courts. They possess expertise in specific domains (e.g., service matters, tax, environment), allowing for quicker resolution of complex technical disputes. This aligns with the principle of *droit administratif* prevalent in many civil law systems.\n\nThe Tribunal Reforms (Rationalisation and Conditions of Service) Ordinance, 2021 (later Act), aimed to streamline the tribunal system by abolishing nine appellate tribunals and transferring their functions to High Courts. This was intended to reduce multiplicity, ensure judicial oversight, and potentially improve access to justice by bringing cases closer to litigants.\n\nHowever, the impact is mixed. While it might reduce administrative overheads, concerns persist regarding the increased burden on High Courts, which are already grappling with significant backlogs. The specialized expertise of tribunals might be diluted within the generalist court system, potentially slowing down resolution of technical matters. The Supreme Court, in *Madras Bar Association v. Union of India* (2021), has also raised concerns about the independence and conditions of service of tribunal members, emphasizing the need for robust institutional safeguards.",
+      "word_count": 181,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q3",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 3,
+      "question_text": "Compare and contrast the President's power to pardon in India and in the USA. Are there any limits to it in both the countries? What are 'preemptive pardons'?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "In India, the President's pardoning power (Article 72) extends to all offenses, including court-martial sentences and death sentences. It's exercised on the advice of the Council of Ministers, making it a political decision. The Supreme Court, in *Kehar Singh v. Union of India* (1989), held that the President is not bound to hear the convict orally but can scrutinize the record. There are no explicit statutory limits, but judicial review is possible if the decision is arbitrary or mala fide.\n\nIn the USA, the President's power (Article II, Section 2) applies to federal offenses, excluding impeachment. It's a unilateral executive power, not requiring Congressional approval. The Supreme Court, in *Ex parte Garland* (1866), affirmed its broad nature. While not explicitly limited by statute, it's generally understood not to extend to state crimes.\n\n**Limits:** Both countries face implicit limits through public opinion and potential political backlash. In India, judicial review provides a check. In the USA, the power is largely unchecked legally, but political accountability exists.\n\n**Preemptive Pardons:** These are pardons granted before a conviction or even before charges are filed. US Presidents have used them, most famously Gerald Ford pardoning Richard Nixon for all offenses he \"committed or may have committed\" during his presidency. In India, the concept is not explicitly recognized or practiced, as pardons typically follow a conviction.",
+      "word_count": 220,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q4",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 4,
+      "question_text": "Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Jammu and Kashmir Reorganization Act, 2019, fundamentally altered the nature of its Legislative Assembly. Previously a state legislature, it is now the legislative body for the **Union Territory of Jammu and Kashmir (UT of J&K)**, a Union Territory with a legislature, akin to Delhi and Puducherry. This means its powers are derived from and subordinate to the Parliament of India, as per **Article 239A** (applied to J&K via the Act).\n\nThe Assembly's powers and functions are defined by the Act and are generally similar to other UT legislatures. It can legislate on subjects in the **State List** and **Concurrent List**, *except* for \"public order,\" \"police,\" and \"land,\" which fall under the purview of the Lieutenant Governor (LG) and the Union Government. Financial powers include passing the annual budget and appropriation bills. The Council of Ministers, headed by a Chief Minister, is collectively responsible to the Assembly. However, the LG holds significant discretionary powers, including the power to assent to bills, reserve them for Presidential consideration, and even promulgate ordinances. This structure reflects a reduced autonomy compared to its pre-2019 status.",
+      "word_count": 181,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q5",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 5,
+      "question_text": "\"The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.\" Discuss his responsibilities, rights and limitations in this regard.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Attorney General of India (AGI), established under Article 76 of the Constitution, is the Union Government's chief legal advisor.\n\n**Responsibilities:**\n*   To advise the Government of India on legal matters referred by the President.\n*   To perform duties of a legal character assigned by the President.\n*   To appear on behalf of the Government of India in all cases in the Supreme Court and High Courts.\n*   To represent the Government in any reference made by the President to the Supreme Court under Article 143.\n\n**Rights:**\n*   Right to speak and take part in the proceedings of both Houses of Parliament, joint sittings, and any committee of Parliament of which he may be named a member, without the right to vote (Article 88).\n*   Enjoys all privileges and immunities available to a Member of Parliament (Article 105).\n*   Right of audience in all courts in the territory of India.\n\n**Limitations:**\n*   Cannot advise or hold a brief against the Government of India.\n*   Cannot advise or hold a brief in cases where he is called upon to advise the Government of India.\n*   Cannot defend accused persons in criminal prosecutions without the permission of the Government of India.\n*   Cannot accept appointment as a director in any company or corporation without the permission of the Government of India.\n*   He is not a full-time government servant and is not debarred from private legal practice.\n\nThe AGI's role is crucial for upholding the rule of law and ensuring the government's actions are constitutionally sound.",
+      "word_count": 254,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q6",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 6,
+      "question_text": "Women's social capital complements in advancing empowerment and gender equity. Explain.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Women's social capital, encompassing networks, trust, and shared norms, significantly advances empowerment and gender equity. It provides crucial support systems, enabling women to overcome societal barriers and access opportunities.\n\n**How it works:**\n\n*   **Information and Resource Sharing:** Networks facilitate the exchange of information on government schemes (e.g., Beti Bachao Beti Padhao, Mahila Shakti Kendra), employment opportunities, and legal rights, empowering women to make informed decisions.\n*   **Collective Action and Advocacy:** Strong social ties enable women to form self-help groups (SHGs) like those promoted by the National Rural Livelihoods Mission (NRLM), which enhance financial inclusion, entrepreneurship, and collective bargaining power. This collective voice can advocate for policy changes and challenge discriminatory practices.\n*   **Psychological and Emotional Support:** Social capital provides a sense of belonging and mutual support, crucial for women facing domestic violence, discrimination, or mental health challenges. This solidarity builds confidence and resilience.\n*   **Challenging Norms:** Through shared experiences and discussions within their networks, women can collectively question and transform patriarchal norms, fostering a more equitable environment.\n\nBy leveraging their social capital, women enhance their agency, economic independence, and political participation, thereby accelerating progress towards gender equity.",
+      "word_count": 187,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q7",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 7,
+      "question_text": "e-governance projects have a built-in bias towards technology and back-end integration than user-centric designs. Examine.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "E-governance projects often prioritize technological sophistication and seamless back-end integration over user-centric design, leading to suboptimal citizen experiences. The focus frequently lies on digitizing existing processes, automating workflows, and ensuring interoperability between government departments (e.g., linking Aadhaar with various services). This emphasis on the \"how\" of technology and the \"what\" of data integration can overshadow the \"who\" \u2013 the end-user.\n\nConsequently, interfaces may be complex, non-intuitive, or require specific technical literacy, alienating citizens, particularly those in rural areas or with limited digital skills. For instance, early iterations of some online tax portals or land record systems were criticized for their convoluted navigation and jargon-heavy language.\n\nTo counter this, projects like the *Digital India* initiative now increasingly advocate for user experience (UX) design principles, including multi-lingual support and mobile-first approaches. Recommendations from the *Second Administrative Reforms Commission (ARC)* on \"Citizen-Centric Administration\" also stressed the importance of simplifying procedures and designing services from the citizen's perspective. International best practices, such as those in Estonia's e-Residency program, demonstrate how a strong user focus can drive high adoption rates and citizen satisfaction.",
+      "word_count": 178,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q8",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 8,
+      "question_text": "Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "While CSOs are indeed non-State actors, perceiving them as inherently \"anti-State\" is an oversimplification. Their role is more nuanced.\n\nCSOs often act as watchdogs, holding the government accountable for its policies and actions. This critical function, while sometimes appearing confrontational, is essential for a healthy democracy. For instance, environmental CSOs might challenge government-backed projects for their ecological impact, or human rights organizations might highlight State excesses. This advocacy, though critical, aims to improve governance, not to dismantle the State.\n\nHowever, some CSOs, particularly those receiving foreign funding, have been accused of pursuing agendas that conflict with national interests or of being used to destabilize governments. The government's response, such as stricter regulations under the Foreign Contribution (Regulation) Act (FCRA), reflects this concern.\n\nUltimately, most CSOs operate within the democratic framework, advocating for marginalized groups, delivering services where the State falls short (e.g., disaster relief, education), and enriching public discourse. Their role is primarily to complement and constructively critique the State, making them partners in development and governance rather than adversaries.",
+      "word_count": 170,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q9",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 9,
+      "question_text": "India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The India-Africa digital partnership is indeed fostering mutual respect, co-development, and long-term institutional ties. This collaboration is built on India's experience in leveraging digital public infrastructure (DPI) for inclusive growth, which resonates with Africa's aspirations for digital transformation.\n\n**Mutual Respect and Co-development:** India's approach emphasizes sharing knowledge and technology without imposing conditions, respecting African nations' sovereignty and development priorities. Initiatives like the **e-VidyaBharati and e-ArogyaBharati (e-VBAB) Network Project** exemplify this, providing online education and tele-medicine services, thereby enhancing human capital and healthcare access. This is a co-development model, where solutions are tailored to local needs.\n\n**Long-term Institutional Partnerships:** The focus extends beyond project-based aid to building sustainable institutional capacities. India's expertise in developing platforms like **Aadhaar, UPI, and DigiLocker** is being shared to help African countries build their own DPI. For instance, discussions are underway to adapt India's **Unified Payments Interface (UPI)** model for cross-border payments in Africa, promoting financial inclusion and regional trade. Furthermore, capacity building programs under the **Indian Technical and Economic Cooperation (ITEC)** scheme train African professionals in digital skills, ensuring long-term self-reliance. This collaborative framework, often discussed at **India-Africa Forum Summits**, aims to create a robust digital ecosystem across the continent.",
+      "word_count": 195,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q10",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 10,
+      "question_text": "\"With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.\" Elucidate.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The post-Cold War era, initially characterized by a surge in globalization and multilateralism, is witnessing a discernible shift towards sovereign nationalism. This \"waning of globalization\" is driven by several factors.\n\nEconomically, the 2008 financial crisis exposed vulnerabilities of interconnectedness, leading nations to prioritize domestic industries and supply chain resilience. The rise of protectionist trade policies, like those seen during the US-China trade war, exemplifies this.\n\nPolitically, the perceived erosion of national sovereignty by international institutions and agreements has fueled populist movements. Brexit, for instance, was largely predicated on regaining national control over borders and laws. The COVID-19 pandemic further accelerated this trend, as countries closed borders and prioritized national health responses, often at the expense of coordinated global action.\n\nThis resurgence of nationalism manifests as a renewed emphasis on national interests, cultural identity, and border control, challenging the universalist ideals that underpinned the initial phase of post-Cold War globalization.",
+      "word_count": 149,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q11",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 11,
+      "question_text": "\"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike\u2026\" In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Constitutional morality, as articulated by the Supreme Court, signifies adherence not merely to the letter but to the spirit and core values enshrined in the Constitution. It demands fidelity to principles like democracy, secularism, equality, liberty, and justice, ensuring that all actions, whether by state functionaries or citizens, align with the foundational ethos of the republic. It acts as a guiding star, preventing majoritarianism from eroding fundamental rights and upholding the transformative vision of the Constitution.\n\nIn the context of judicial independence and accountability, constitutional morality plays a crucial balancing role:\n\n**Ensuring Judicial Independence:**\n\n*   **Protection from Political Interference:** Constitutional morality mandates that the executive and legislature respect the judiciary's autonomy, refraining from actions that undermine its impartiality or decision-making. This includes upholding the security of tenure, fixed salaries, and privileges of judges (Article 124(2), 125).\n*   **Upholding Rule of Law:** Judges, guided by constitutional morality, must decide cases based on law and constitutional principles, not popular sentiment or political pressure. This reinforces their independence to deliver justice without fear or favour.\n*   **Judicial Review:** The power of judicial review (Article 13, 32, 226) is an embodiment of constitutional morality, allowing the judiciary to strike down unconstitutional laws or executive actions, thereby safeguarding the basic structure and fundamental rights.\n\n**Ensuring Judicial Accountability:**\n\n*   **Adherence to Due Process:** Constitutional morality demands that judges follow established legal procedures and principles of natural justice, ensuring fairness and transparency in their proceedings.\n*   **Ethical Conduct:** Judges are expected to uphold the highest standards of integrity, impartiality, and ethical conduct. Any deviation, such as corruption or abuse of power, violates constitutional morality and warrants accountability mechanisms. The 'Restatement of Values of Judicial Life' serves as a guide.\n*   **Self-Correction and Transparency:** While direct accountability mechanisms like impeachment (Article 124(4)) are rare, constitutional morality encourages internal self-regulation, robust appellate review, and reasoned judgments, which are open to public scrutiny and academic critique. The Supreme Court's own pronouncements on judicial ethics reflect this.\n*   **Public Trust:** Ultimately, judicial accountability is rooted in maintaining public trust. When judges act in consonance with constitutional morality, their decisions command respect and reinforce the legitimacy of the judicial system.\n\nThus, constitutional morality serves as the bedrock upon which both judicial independence and accountability are built, ensuring that the judiciary remains a strong, impartial, and responsible guardian of the Constitution.",
+      "word_count": 388,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q12",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 12,
+      "question_text": "Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Indian Constitution, while granting Parliament the power to amend its provisions under Article 368, has incorporated both procedural and substantive limitations to prevent its arbitrary exercise.\n\n**Procedural Limitations:**\n\nArticle 368 outlines specific procedural hurdles. An amendment bill must be introduced in either House of Parliament, passed by a special majority (absolute majority of the total membership and a two-thirds majority of members present and voting) in each House. For amendments affecting federal features (e.g., election of the President, extent of executive power of the Union or states, distribution of legislative powers), ratification by at least half of the state legislatures by a simple majority is additionally required. The President's assent is mandatory, but unlike ordinary bills, the President cannot withhold assent or return the bill for reconsideration.\n\n**Substantive Limitations:**\n\nThe most significant substantive limitation emerged from the Supreme Court's \"Basic Structure Doctrine.\" In **Kesavananda Bharati v. State of Kerala (1973)**, the Court held that while Parliament has the power to amend any part of the Constitution, it cannot alter its \"basic structure\" or \"essential features.\" This doctrine, though not explicitly defined, includes elements like the supremacy of the Constitution, republican and democratic form of government, secular character, separation of powers, federal character, judicial review, and the rule of law. Subsequent judgments, such as **Minerva Mills v. Union of India (1980)**, reinforced that the power to amend is not a power to destroy.\n\nThis doctrine acts as a powerful check, ensuring that the fundamental identity and values enshrined in the Constitution remain inviolable, even by a parliamentary majority. It prevents Parliament from using its amending power to subvert the very foundations upon which the Constitution rests, thereby safeguarding constitutionalism and the democratic fabric of India.",
+      "word_count": 285,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q13",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 13,
+      "question_text": "Discuss the evolution of collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The collegium system, the method for appointing judges to the Supreme Court and High Courts in India, evolved through a series of judicial pronouncements. The **First Judges Case (S.P. Gupta v. Union of India, 1981)** held that the President's decision on judicial appointments was not subject to judicial review and that the Chief Justice of India's (CJI) opinion was merely consultative. This gave the executive primacy.\n\nHowever, the **Second Judges Case (Supreme Court Advocates-on-Record Association v. Union of India, 1993)** reversed this, establishing the collegium system. It ruled that the CJI's opinion, formed in consultation with two senior-most judges, would have primacy. The **Third Judges Case (1998)** further expanded the collegium to include the CJI and four senior-most judges. This system, though not explicitly mentioned in the Constitution, derives its authority from Articles 124(2) and 217.\n\n**Advantages of the Collegium System (India):**\n\n*   **Judicial Independence:** It insulates the judiciary from executive interference, crucial for maintaining the separation of powers.\n*   **Expertise:** Judges are best placed to assess the suitability of candidates for judicial roles.\n\n**Disadvantages of the Collegium System (India):**\n\n*   **Lack of Transparency:** The opaque nature of its functioning, with no public record of deliberations or reasons for selections/rejections, leads to accusations of nepotism and favoritism.\n*   **Accountability Deficit:** There is no mechanism for external scrutiny or accountability.\n*   **Limited Pool:** It often leads to a narrow pool of candidates, primarily from the High Court judiciary.\n\n**Appointment of Judges in the USA:**\n\nIn the USA, federal judges, including Supreme Court Justices, are nominated by the President and confirmed by a simple majority vote in the Senate (Article II, Section 2 of the US Constitution).\n\n**Advantages of the US System:**\n\n*   **Transparency and Accountability:** The nomination and confirmation process involves public hearings and scrutiny, ensuring a degree of transparency and accountability.\n*   **Broader Pool:** The President can nominate individuals from diverse backgrounds, including academics and legal practitioners, not just existing judges.\n\n**Disadvantages of the US System:**\n\n*   **Politicization:** The process is highly politicized, with appointments often reflecting the President's ideological leanings and Senate's partisan divisions.\n*   **Delays:** Confirmation battles can lead to prolonged vacancies on the bench.\n\n**Critical Examination:**\n\nWhile India's collegium prioritizes judicial independence, it sacrifices transparency and accountability. The US system, conversely, offers transparency but at the cost of significant politicization. Both systems have their flaws. India's attempt to introduce the National Judicial Appointments Commission (NJAC) through the 99th Constitutional Amendment was struck down by the Supreme Court in 2015, citing threats to judicial independence. A balanced approach, perhaps involving a more transparent collegium with defined criteria and a role for the executive, while safeguarding judicial independence, could be a way forward for India.",
+      "word_count": 446,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q14",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 14,
+      "question_text": "Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Centre-State financial relations in India have undergone a significant evolution, particularly in the context of planned development. Initially, the Planning Commission played a dominant role, allocating resources and influencing state finances through discretionary grants and centrally sponsored schemes. This led to a \"top-down\" approach, often criticized for creating vertical and horizontal imbalances and eroding the autonomy of states. The Finance Commissions, constitutionally mandated under Article 280, primarily focused on tax devolution and grants-in-aid to cover revenue deficits, but their recommendations were often overshadowed by the Planning Commission's influence.\n\nRecent reforms have profoundly impacted fiscal federalism. The most significant change is the **abolition of the Planning Commission in 2015 and its replacement by NITI Aayog**. This marked a shift from a command-and-control model to a more cooperative and consultative approach. NITI Aayog, unlike its predecessor, does not have the power to allocate funds, thereby enhancing the role of the Finance Commission.\n\nThe **14th Finance Commission (2015-2020)** significantly increased the states' share in the divisible pool of central taxes from 32% to 42%, a substantial jump that provided states with greater untied funds and flexibility in their spending. This was a landmark step towards empowering states and reducing their dependence on central grants. The **15th Finance Commission (2020-2025)** largely maintained this higher devolution, albeit with some adjustments and specific grants for sectors like health and disaster management.\n\nFurthermore, the **introduction of the Goods and Services Tax (GST) in 2017** (under Article 279A) has been a game-changer. While it streamlined indirect taxation and created a common national market, it also necessitated a new mechanism for revenue sharing and compensation to states for revenue losses. The GST Council, a unique federal body, exemplifies cooperative federalism in decision-making on tax rates and policies.\n\nThese reforms have undeniably strengthened fiscal federalism by:\n1.  **Increasing fiscal autonomy of states:** Higher tax devolution provides states with more untied funds.\n2.  **Reducing discretionary central control:** The diminished role of a central planning body in resource allocation.\n3.  **Promoting cooperative federalism:** Through bodies like the GST Council and NITI Aayog's consultative approach.\n\nHowever, challenges remain, such as the continued reliance on centrally sponsored schemes, the impact of GST on states' revenue buoyancy, and the need for greater transparency and accountability in state finances. The evolving pattern suggests a move towards a more balanced and empowered fiscal federalism, though the journey is ongoing.",
+      "word_count": 392,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q15",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 15,
+      "question_text": "What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Environmental pressure groups are non-governmental organizations (NGOs) or informal collectives that advocate for environmental protection and sustainable practices. They aim to influence public opinion, government policies, and corporate behavior to address environmental challenges.\n\nIn India, these groups play a crucial role in:\n\n**1. Raising Awareness:** They educate the public about environmental degradation, climate change impacts, and the importance of conservation. Groups like **CSE (Centre for Science and Environment)** publish reports, magazines (e.g., *Down To Earth*), and conduct workshops to disseminate information. The **Chipko Movement** in the 1970s, led by Sunderlal Bahuguna, effectively raised awareness about deforestation through non-violent protests.\n\n**2. Influencing Policies:** Environmental groups actively lobby the government for stronger environmental laws and better implementation. They participate in public consultations, submit recommendations, and challenge environmentally damaging projects in courts. For instance, the **National Green Tribunal (NGT)** has seen numerous petitions filed by environmental groups leading to significant policy interventions, such as stricter emission norms or protection of wetlands. The **Kalpavriksh Environmental Action Group** has been instrumental in advocating for biodiversity conservation policies.\n\n**3. Advocating for Environmental Protection:** They champion specific causes, from protecting endangered species and forests to combating pollution. Groups like **Greenpeace India** have campaigned against coal-fired power plants and plastic pollution, advocating for renewable energy and sustainable waste management. The **Bombay Natural History Society (BNHS)** has been a pioneer in wildlife research and conservation advocacy for over a century.\n\nTheir methods include public protests, legal action (Public Interest Litigations), research and advocacy, media campaigns, and community mobilization. While facing challenges like funding constraints and occasional government resistance, environmental pressure groups remain vital watchdogs, ensuring environmental concerns are on the national agenda and pushing for a greener, more sustainable future for India.",
+      "word_count": 283,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q16",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 16,
+      "question_text": "Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of 'paradox of poverty'.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The \"paradox of poverty\" refers to the perplexing situation where widespread poverty persists despite abundant resources and significant economic growth. A primary driver of this paradox is the **inequality in the ownership pattern of resources**.\n\nHistorically and contemporaneously, the concentration of productive assets \u2013 land, capital, technology, and even human capital (through unequal access to education and healthcare) \u2013 in the hands of a few perpetuates poverty for the many. For instance, in India, land ownership patterns, despite land reforms, remain skewed. The **National Sample Survey Office (NSSO) data** consistently shows that a small percentage of large landowners control a disproportionately large share of agricultural land, leaving a vast majority of small and marginal farmers, and landless labourers, vulnerable to poverty. This limits their ability to generate income, build assets, and escape the poverty trap.\n\nSimilarly, access to capital and technology is often concentrated among the wealthy, creating barriers for small entrepreneurs and innovators. This is exacerbated by financial exclusion, where the poor lack access to formal credit, forcing them into exploitative informal lending. Government initiatives like the **Pradhan Mantri Jan Dhan Yojana** aim to address financial inclusion, but the underlying structural inequalities in asset ownership remain a challenge.\n\nThe **World Inequality Report** consistently highlights how the top 1% globally capture a significant share of wealth, while the bottom 50% struggle. This unequal distribution of resources, rather than a scarcity of resources itself, is a fundamental cause of poverty. It restricts opportunities, limits social mobility, and creates a cycle of intergenerational poverty, making the paradox of poverty a stark reality. Addressing this requires comprehensive policies focusing on equitable resource distribution, progressive taxation, and inclusive growth strategies.",
+      "word_count": 276,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q17",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 17,
+      "question_text": "\"In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.\" Critically evaluate.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The statement highlights a critical flaw in many contemporary development models: the disconnect between decision-making centers and the ground realities where development initiatives are implemented. This spatial and informational gap often leads to ineffective policies and suboptimal outcomes, ultimately defeating the objectives of development.\n\nOne major reason for this disconnect is **centralized planning**. Decisions are often made by bureaucrats and experts in capital cities, far removed from the specific needs, cultural contexts, and local knowledge of the communities they aim to serve. This can result in \"one-size-fits-all\" solutions that fail to address diverse local challenges. For instance, a top-down agricultural policy might not account for regional soil variations or traditional farming practices.\n\nThis issue is exacerbated by a lack of **participatory governance**. When local communities are not involved in identifying problems, designing solutions, or monitoring implementation, their valuable insights are lost. The 73rd and 74th Constitutional Amendments in India, establishing Panchayati Raj Institutions and Urban Local Bodies, aimed to decentralize power and bring decision-making closer to the people. However, their effectiveness is often hampered by inadequate financial devolution and capacity building.\n\nFurthermore, **information asymmetry** plays a significant role. Data collected at the local level may be filtered, distorted, or misinterpreted as it travels up the bureaucratic hierarchy, leading to flawed policy formulations. This can be seen in the implementation of schemes like the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), where local needs for specific works might be overlooked due to centralized allocation decisions.\n\nThe consequences are profound: **inefficient resource allocation, lack of ownership among beneficiaries, and ultimately, unsustainable development**. Projects designed without local input often face resistance, are poorly maintained, and fail to achieve their intended impact.\n\nTo overcome this, development models must embrace **subsidiarity**, where decisions are made at the lowest appropriate level. This requires strengthening local governance institutions, empowering communities through capacity building, and fostering genuine participatory planning. International comparisons, such as the success of community-driven development programs in countries like Indonesia (Kecamatan Development Program), demonstrate the efficacy of devolving decision-making and resources to the local level.\n\nIn conclusion, for development objectives to be truly met, decision-making and problem-solving must be intrinsically linked to the source of information and execution. This necessitates a paradigm shift towards decentralized, participatory, and context-sensitive approaches that value local knowledge and empower communities.",
+      "word_count": 382,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q18",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 18,
+      "question_text": "The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The National Commission for Protection of Child Rights (NCPCR) faces a critical mandate in safeguarding children in the rapidly evolving digital era. Children are increasingly exposed to online risks such as cyberbullying, online sexual abuse and exploitation (CSAM), privacy violations, and harmful content.\n\n**Existing Policies and Frameworks:**\n\nIndia has several policies aimed at child protection online:\n\n*   **Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021:** These rules mandate due diligence by intermediaries, including age-gating, grievance redressal mechanisms, and removal of unlawful content, particularly CSAM.\n*   **Protection of Children from Sexual Offences (POCSO) Act, 2012:** While primarily offline, Section 14 and 15 address production and dissemination of child pornography, extending its ambit to online content.\n*   **Juvenile Justice (Care and Protection of Children) Act, 2015:** Focuses on rehabilitation and social reintegration, with provisions for children in conflict with law, which can include cybercrimes.\n*   **National Policy for Children, 2013:** Acknowledges the need to protect children from all forms of abuse and exploitation, including those facilitated by technology.\n\n**Challenges and Gaps:**\n\nDespite these, challenges persist:\n\n*   **Enforcement:** Effective implementation and enforcement of existing laws remain a hurdle.\n*   **Digital Literacy:** Low digital literacy among children, parents, and educators makes them vulnerable.\n*   **Jurisdictional Issues:** Cross-border nature of online crimes complicates investigation and prosecution.\n*   **Rapid Technological Advancements:** Policies often lag behind new technologies and platforms.\n*   **Data Privacy:** Inadequate protection of children's personal data online.\n\n**Measures the NCPCR Can Initiate:**\n\n1.  **Strengthen Advocacy and Awareness:** Launch nationwide campaigns on digital literacy, online safety, and responsible internet use for children, parents, and teachers.\n2.  **Policy Review and Recommendations:** Regularly review existing policies and recommend amendments to address emerging digital threats, including specific guidelines for age-appropriate design and data protection for children.\n3.  **Capacity Building:** Train law enforcement agencies, judiciary, and child protection units on digital forensics, cybercrime investigation, and child-friendly justice mechanisms for online offences.\n4.  **Collaboration with Stakeholders:** Foster partnerships with technology companies to develop safer platforms, implement robust age verification, and expedite content moderation. Collaborate with civil society organizations for outreach and support services.\n5.  **Research and Data Collection:** Conduct studies on the impact of digital technologies on children's well-being, identify emerging risks, and collect data to inform policy decisions.\n6.  **Grievance Redressal Mechanism:** Enhance and publicize child-friendly online grievance redressal mechanisms, ensuring swift action on complaints related to online harm.\n7.  **International Cooperation:** Engage with international bodies like UNICEF and ITU to share best practices and facilitate cross-border cooperation in tackling online child abuse.\n\nBy proactively addressing these areas, the NCPCR can significantly enhance child protection in the digital era, ensuring a safe and empowering online environment for every child.",
+      "word_count": 443,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    }
+  ],
+  "count": 20
+}

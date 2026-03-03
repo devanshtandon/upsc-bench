@@ -1,0 +1,627 @@
+[
+  {
+    "question_id": "mains_gs1_2025_q16",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A well-structured answer covering all three plate boundary types with relevant examples (East African Rift, Mid-Atlantic Ridge, Pacific Ring of Fire, Himalayas, San Andreas Fault) and a conclusion referencing Pangaea and the Wilson Cycle. Exceeds word limit substantially at 330 words.",
+        "analysis": "The answer demonstrates strong conceptual understanding of plate tectonics and its role in reshaping continents and ocean basins. Each boundary type is clearly subdivided into its effect on continents versus oceans, which is a logical and effective organizational choice. The examples are well-chosen and geographically diverse. The mention of the Wilson Cycle and Pangaea provides historical depth. However, the answer exceeds the 250-word limit by 80 words, which a UPSC examiner would penalize. The bold formatting and bullet-point style, while clear, gives it a textbook feel rather than an analytical essay. The answer lacks mention of associated features like trenches or island arcs at convergent boundaries.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.4,
+            "justification": "All major concepts covered accurately: divergent, convergent, and transform boundaries with correct mechanisms. Accurate examples with specific data (2-5 cm/year Atlantic widening). Minor gap: no mention of ocean-ocean convergence or island arc formation."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Excellent logical organization with clear introduction, three numbered sections each subdivided by continent/ocean effect, and a conclusion. Coherent flow from creation to destruction to lateral displacement. The subdivision approach is effective."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Strong examples: East African Rift, Mid-Atlantic Ridge with spreading rate, Pacific Ring of Fire, India-Eurasia collision with timeline (50 MYA), San Andreas Fault, Pangaea breakup. Specific and relevant throughout."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Mentions the cyclical nature of tectonic processes via the Wilson Cycle, demonstrating understanding beyond mere description. However, analysis remains largely descriptive rather than critically examining driving forces or competing theories."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Clear and readable language. However, significantly exceeds word limit (330 vs 250), which is a notable penalty in UPSC Mains. The markdown formatting with bold and bullets is effective for clarity."
+          }
+        },
+        "total_score": 10.8,
+        "max_marks": 15,
+        "brief_feedback": "Comprehensive and well-organized answer with strong examples. The continent-vs-ocean subdivision under each boundary type is effective. Main weakness is significantly exceeding the word limit and lacking discussion of ocean-ocean convergence."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A thorough answer covering all three boundary types with appropriate examples and a concluding paragraph on supercontinents. Accurate content but verbose at 364 words, the longest of all candidates.",
+        "analysis": "The answer provides solid coverage of tectonic processes and their effects on continents and ocean basins. It correctly explains divergent, convergent, and transform boundaries with relevant examples. The mention of the Mariana Trench and Andes Mountains at convergent boundaries adds detail missing from some other answers. The concluding paragraph on supercontinental cycles is relevant. However, the answer is the most verbose at 364 words, far exceeding the 250-word limit. The prose style, while clear, lacks the conciseness expected in UPSC Mains. The answer reads more like a textbook explanation than an analytical essay. It does not mention the Wilson Cycle or driving mechanisms beyond convection currents.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Accurate coverage of all three boundary types with correct mechanisms. Good mention of Mariana Trench and Andes. However, the explanation is somewhat generic and does not go beyond standard textbook content. All facts stated are correct."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Logical organization with introduction, three boundary types, and conclusion. Flow is coherent. However, the structure is somewhat formulaic and the paragraphs are uneven in length, with convergent boundaries receiving disproportionate coverage."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good examples: Atlantic Ocean widening (2.5 cm/year), East African Rift, Mariana Trench, Andes, Himalayas, San Andreas Fault, Pangea. However, examples are presented without much analytical depth or interconnection."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Largely descriptive with limited analytical depth. Mentions assembly and breakup of supercontinents but does not explore the Wilson Cycle concept or critically analyze the processes. Does not discuss competing driving forces or the cyclical nature of these changes in depth."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Clear and readable prose but massively exceeds the word limit (364 vs 250). UPSC examiners would penalize this significantly. The writing is competent but lacks the conciseness that distinguishes strong Mains answers."
+          }
+        },
+        "total_score": 9.7,
+        "max_marks": 15,
+        "brief_feedback": "Accurate and comprehensive coverage but excessively verbose at 364 words. The answer reads like a textbook chapter rather than a focused UPSC response. Good mention of Mariana Trench and Andes but lacks the analytical edge and conciseness needed for higher marks."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "A well-structured answer with clear section headings covering theoretical framework, all three boundary types with sub-categories, historical evidence, and Wilson Cycle conclusion. Closest to the word limit at 268 words.",
+        "analysis": "This answer stands out for its efficient organization and breadth of coverage within a near-appropriate word count. The theoretical framework section citing Wegener and Hess provides context that other answers lack. The convergent boundary section effectively distinguishes three sub-types (ocean-ocean, ocean-continent, continent-continent) with relevant examples. The historical evidence section adds depth by mentioning Pangaea breakup, Tethys Sea closure, and Australia's continued drift. The Wilson Cycle is explicitly named in the conclusion. The answer demonstrates strong geographical knowledge with varied examples. At 268 words, it is close to the word limit, showing discipline. The markdown heading format, while clear, is somewhat excessive for an exam answer.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.45,
+            "justification": "Excellent coverage: all three boundary types with correct sub-types under convergent boundaries (ocean-ocean, ocean-continent, continent-continent). Accurate references to Wegener, Hess, spreading rates, and historical evidence. The Tethys Sea and Australia's northward drift add extra breadth."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Outstanding organization with clear sections: theoretical framework, three boundary types, historical evidence, and conclusion. The logical flow from theory to mechanisms to evidence to conclusion is excellent. Sub-categorization of convergent boundaries is particularly effective."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Rich examples: Mid-Atlantic Ridge with rate, East African Rift, Japanese archipelago, Andes, India-Eurasia collision, San Andreas Fault, Pangaea, Tethys Sea, Australia. The historical evidence section adds a dimension most other answers lack."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "Demonstrates good analytical framing by starting with the theoretical evolution (Wegener to Hess to plate tectonics) and ending with the Wilson Cycle concept. The three-way convergent classification shows analytical thinking beyond mere description."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Concise at 268 words, close to the 250-word limit. Clear language with effective use of headings. Well-balanced sections. The markdown heading format may appear slightly unconventional for an exam but aids readability."
+          }
+        },
+        "total_score": 11.25,
+        "max_marks": 15,
+        "brief_feedback": "The strongest answer in the batch for this question. Excellent breadth with efficient word use, strong theoretical framing (Wegener-Hess lineage), three convergent sub-types, historical evidence section, and Wilson Cycle conclusion. Minor improvement possible in deeper analysis of driving mechanisms."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A concise, well-organized answer at 239 words that covers all three boundary types, mentions hotspots and isostatic adjustments as additional mechanisms, and concludes with the Wilson Cycle. Best word limit adherence.",
+        "analysis": "This answer is notable for its conciseness and inclusion of additional mechanisms beyond the three standard boundary types. The mention of hotspots, mantle plumes (Hawaii, Deccan Traps), and isostatic adjustments adds breadth that other candidates lack. The examples are well-chosen and the timeline for Pangaea breakup (180-200 MYA) is specific. The Wilson Cycle is correctly referenced. At 239 words, this is the only answer within the word limit, demonstrating the conciseness valued in UPSC Mains. However, the answer's brevity means some points lack elaboration, and the transform boundary section is relatively thin. The answer does not mention ocean-ocean convergence explicitly.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Accurate coverage of all three boundary types plus additional mechanisms (hotspots, mantle plumes, isostatic adjustments) that others omit. Correct specific details: Pangaea breakup timeline, Peru-Chile Trench, Japan island arc, Deccan Traps. Minor gap: ocean-ocean convergence could be more explicit."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Clear three-part structure with numbered boundary types, an additional paragraph on supplementary mechanisms, and a concise concluding sentence. Logical flow. The inclusion of hotspots as a separate section shows good organizational thinking."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Strong examples: Mid-Atlantic Ridge with timeline, East African Rift, Peru-Chile Trench, Japan arc, Tethys Sea, Himalayas/Tibetan Plateau, San Andreas Fault, Hawaii, Deccan Traps. The hotspot and plume examples add distinctive depth."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "Goes beyond the standard three-boundary framework by including hotspots, mantle plumes, and isostatic adjustments, showing a more complete understanding. The Wilson Cycle reference in conclusion demonstrates cyclical thinking. Slightly more analytical breadth than peers."
+          },
+          "presentation": {
+            "score": 1.3,
+            "justification": "Excellent word limit adherence at 239 words (within 250). Clear, concise language. Well-balanced coverage without unnecessary verbosity. The best presentation in this batch in terms of disciplined writing."
+          }
+        },
+        "total_score": 11.2,
+        "max_marks": 15,
+        "brief_feedback": "A concise, disciplined answer that uniquely includes hotspots, mantle plumes, and isostatic adjustments beyond standard boundary types. Best word limit adherence. Could benefit from slightly more elaboration on transform boundaries and explicit ocean-ocean convergence discussion."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs1_2025_q17",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A comprehensive answer organized around three resource factors (land, soil, water) with specific data on population densities of Bihar and West Bengal, and soil types (Khadar, Bangar). Includes a conclusion mentioning Namami Gange.",
+        "analysis": "The answer directly addresses the question's framing by organizing discussion around the three specified resources: land, soil, and water. The spatial differentiation between upper, middle, and lower basin is clear and geographically accurate. Specific data points (Bihar 1,106 persons/sq km, West Bengal 1,028 persons/sq km) add credibility. The soil discussion correctly identifies Khadar and Bangar with their agricultural significance. The water section effectively covers both surface and groundwater, with a relevant reference to the Green Revolution. The concluding paragraph on resource stress and Namami Gange shows forward-thinking. However, at 322 words the answer exceeds the limit. The answer could better discuss the uneven distribution within the basin and the role of flooding in shaping settlement patterns.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Accurate facts on basin geography, soil types (Khadar/Bangar), population densities of Bihar and West Bengal, tributary names, and major cities. The connection between Green Revolution and groundwater is valid. Minor issue: could discuss flood-prone areas affecting density patterns."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Excellent organization directly mirroring the question's framework (land, soil, water) with numbered sections. Each section has a clear heading and logical sub-points. The introduction and conclusion frame the answer well."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Good specific data: Bihar and West Bengal population densities, Khadar/Bangar soil classification, named tributaries (Yamuna, Ghaghara, Kosi), city names (Kanpur, Prayagraj, Patna, Kolkata), Namami Gange scheme. Lacks flood-related examples."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Identifies the synergistic interplay of resources and draws the connection between resource endowment and demographic concentration. The conclusion on resource stress shows analytical thinking. However, analysis of constraints and uneven distribution within the basin is limited."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Clear and well-written. However, exceeds word limit at 322 words. The numbered section format is effective but the answer could be more concise. Language quality is high."
+          }
+        },
+        "total_score": 10.9,
+        "max_marks": 15,
+        "brief_feedback": "Strong answer well-organized around the three resource factors specified in the question. Good specific data and soil classification. Weakness in exceeding word limit and insufficient discussion of constraints like flooding that create uneven distribution within the basin."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A well-organized answer with regional breakdown (Upper, Middle, Lower basin) and specific density figures. Includes key observations section discussing flood-prone areas and groundwater overexploitation.",
+        "analysis": "This answer effectively combines regional breakdown with resource analysis. The three-zone approach (Upper, Middle, Lower) provides clear spatial differentiation, and each zone discusses land, soil, and water together, which mirrors real-world geographic interconnection. The specific density figures for different zones and the Kolkata metropolitan figure (24,000+ persons/sq km) add precision. The Key Observations section is valuable, noting the flood-prone Kosi-Gandak belt and groundwater overexploitation. The answer correctly identifies the paradox of fertile but flood-prone areas having relatively lower density. The basin area figure (8.6 lakh sq km, 26%) and population share (43%) provide strong contextual framing. At 293 words, it slightly exceeds the limit but less egregiously than some. The answer could benefit from deeper analysis of how these resources interact to create the observed patterns.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.6,
+            "justification": "Excellent factual accuracy: basin area (8.6 lakh sq km, 26%), population share (43%), average density (520/sq km), regional densities, Khadar and Bangar soils, flood-prone areas affecting density. The observation about flood-prone areas having lower density despite fertility is insightful and accurate."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Clear regional organization (Upper, Middle, Lower) with an overview and key observations section. The integration of land/soil/water within each regional section is logical. The format is clean and easy to follow."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Rich in data: basin statistics, regional density ranges, Kolkata metro density, named cities (Varanasi, Patna, Allahabad), soil types, crop names, river names (Kosi, Gandak). The flood-prone area observation adds a distinctive dimension."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Good analytical insight on the correlation between resource endowment and population concentration, and the counterpoint that flood-prone areas show lower density despite fertile soils. The conclusion mentions sustainability concerns. Could go deeper on the causal mechanisms."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Well-presented with clear headings and sub-points. At 293 words, slightly over limit but more disciplined than some competitors. Language is clear and appropriate for an exam context."
+          }
+        },
+        "total_score": 11.1,
+        "max_marks": 15,
+        "brief_feedback": "Strong answer combining regional breakdown with resource analysis. Excellent opening statistics on basin area and population share. The observation on flood-prone areas affecting density despite fertility is a distinctive analytical point. Slightly over word limit."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "A concise answer at 248 words that efficiently covers spatial distribution, the role of land/soil/water resources, and constraints shaping clustering patterns. Includes specific density data from Census 2011.",
+        "analysis": "This is the most efficient answer in the batch, covering all required dimensions within the word limit. The opening paragraph immediately provides the key statistics (26% area, 43% population). The spatial distribution section gives specific district densities with Census 2011 attribution, including the often-overlooked Chotanagpur plateau fringe and Sundarbans constraints. The resource analysis is concise but covers the key points: flat alluvial plains, Khadar/Bhangar soils, multiple cropping, and irrigation systems including the Upper Ganga Canal. The constraints section is a distinctive strength, discussing flooding, waterlogging, bank erosion, salinity, and arsenic contamination. The final sentence effectively synthesizes the argument. The answer demonstrates remarkable information density without sacrificing clarity. The only weakness is that the highly compressed format may not allow for sufficient elaboration of each point.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.45,
+            "justification": "Excellent factual accuracy with Census-attributed density data, correct soil classification (Khadar/Bhangar), specific irrigation reference (Upper Ganga Canal), and importantly the constraints: arsenic contamination in WB-Bihar, salinity in delta, Kosi-Gandak flooding. The most factually comprehensive answer despite being the shortest."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Clear organization into spatial distribution, resource roles, and constraints. The flow from overview to distribution to resources to constraints to synthesis is logical. Slightly less visually structured than some competitors but the content flow is coherent."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Exceptional information density: Census 2011 data, specific state densities, Chotanagpur plateau, Sundarbans, Upper Ganga Canal, named crops, Kosi-Gandak belt, arsenic contamination, named urban corridor (Kanpur-Prayagraj-Patna-Kolkata). More examples per word than any other candidate."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Strong analytical framing: identifies both the factors creating high density and the constraints creating unevenness within the basin. The concluding synthesis captures the interplay well. The arsenic and salinity mentions show depth of understanding beyond standard answers."
+          },
+          "presentation": {
+            "score": 1.3,
+            "justification": "Excellent word limit adherence at 248 words (within 250). Remarkably concise while covering more ground than longer answers. Clear language with effective use of bold emphasis. The best presentation discipline in this batch."
+          }
+        },
+        "total_score": 11.25,
+        "max_marks": 15,
+        "brief_feedback": "The strongest answer for this question: maximum information density within the word limit, distinctive coverage of constraints (arsenic, salinity, waterlogging), and a sophisticated analytical synthesis. Demonstrates that brevity and depth are not mutually exclusive."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A solid answer covering distribution patterns and density with land/soil/water factors. Includes Census 2011 data and a concluding paragraph on resource pressure. Standard coverage without distinctive analytical depth.",
+        "analysis": "The answer provides competent coverage of the topic with a clear distinction between distribution (linear pattern along rivers, urban clusters) and density (state-level figures from Census 2011). The three resource factors are correctly addressed with appropriate explanations. The mention of Delhi as a basin city is slightly questionable as it sits at the edge of the basin. The answer correctly identifies the flat alluvial plains, fertile soils, and perennial water as key drivers. However, compared to other candidates, this answer lacks distinctive analytical insights. It does not mention specific soil types (Khadar/Bangar), flooding constraints, arsenic contamination, or specific irrigation infrastructure. The concluding paragraph on resource pressure is appropriate but generic. At 298 words, it exceeds the limit moderately.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.9,
+            "justification": "Broadly accurate coverage of distribution patterns and density factors. Census 2011 data for Bihar and West Bengal is correct. However, lacks specificity in soil types (no Khadar/Bangar mention), does not discuss constraints like flooding or arsenic, and the inclusion of Delhi as a major Ganga basin city is debatable."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Clear two-part structure (Distribution then Density with three sub-factors). Logical flow. However, the distribution section could be more tightly integrated with the resource analysis rather than treated separately."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Reasonable examples: named states and cities, Census 2011 data, crop names. But lacks the specific examples that distinguish other answers: no irrigation infrastructure names, no soil sub-types, no constraint-based examples (flooding, arsenic). The most generic in terms of specificity."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Limited analytical depth. The answer describes the correlation between resources and population but does not analyze constraints, unevenness within the basin, or the paradox of high density in hazard-prone areas. The conclusion on resource pressure is appropriate but underdeveloped."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Clear language and readable structure. Exceeds word limit at 298 words. The prose style is competent but somewhat textbook-like. Bullet points under density are effective."
+          }
+        },
+        "total_score": 9.3,
+        "max_marks": 15,
+        "brief_feedback": "Competent but generic coverage that lacks the specific details and analytical insights of stronger answers. Missing soil classification, flooding constraints, and irrigation infrastructure details. Would benefit from discussing what creates unevenness within the high-density basin."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs1_2025_q18",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A focused, well-structured answer identifying the risk-convenience trade-off as the central thesis, with five clearly articulated factors and a synthesis paragraph specific to the Indian experience.",
+        "analysis": "This answer effectively frames the paradox as a risk-convenience trade-off, which is a strong analytical opening. The five factors are well-chosen and distinctly articulated: urbanization/time poverty, affordability/standardization, platform economy, aspirational marketing, and nutrition transition. The Indian experience is woven throughout rather than treated as an afterthought. The mention of cloud kitchens, Swiggy/Zomato, and specific localized products (McAloo Tikki, paneer burgers) demonstrates current awareness. The discussion of the NCD burden alongside the booming QSR sector shows analytical depth. The reference to FSSAI's Eat Right India and trans-fat initiatives provides a policy dimension. At 275 words, it is slightly over the limit but not excessively. The answer balances supply-side and demand-side factors well. The only weakness is that it could more explicitly discuss why awareness fails to translate into behavior change.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.4,
+            "justification": "Accurate identification of driving factors with correct references to Swiggy/Zomato, cloud kitchens, FSSAI initiatives, NCD burden. The distinction between structural factors and ignorance in the opening is analytically sound. All claims are factually supportable."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Clear structure with analytical opening, five numbered factors, and a synthesis paragraph. The flow from structural factors to market dynamics to policy gaps is logical. The Indian experience paragraph ties the threads together well."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Good examples: Swiggy/Zomato, cloud kitchens, McAloo Tikki, peri-peri variants, FSSAI trans-fat initiatives, Eat Right India. The platform economy discussion with its mechanisms (discounting, subscriptions) is specific. Lacks quantitative data on market size or NCD statistics."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Strong analytical framing with the risk-convenience trade-off concept. The distinction between awareness and behavior change is important. The policy gaps identification (front-of-pack labelling, advertising regulation) shows critical thinking. Good balance of supply and demand factors."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Clear, concise language at 275 words (slightly over limit). Well-balanced paragraphs. The analytical tone is appropriate for UPSC Mains. Good use of terminology without being jargon-heavy."
+          }
+        },
+        "total_score": 11.0,
+        "max_marks": 15,
+        "brief_feedback": "Strong analytical answer with an effective risk-convenience trade-off framing. Good integration of Indian experience throughout rather than as a bolted-on section. Could strengthen with specific NCD data and deeper exploration of the awareness-behavior gap."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A well-written answer identifying convenience, affordability, marketing, and the experience economy as drivers. The Indian context section covers localization and social spaces. Balanced but somewhat generic.",
+        "analysis": "The answer provides a clear, readable analysis of the fast food paradox. The general factors (convenience, affordability, marketing) are well-explained. The Indian context section effectively discusses menu localization and the experience economy concept (air-conditioned spaces as social hubs), which is a distinctive point. However, the answer feels somewhat generic in its first half, reading like a general sociology textbook before becoming India-specific. It lacks quantitative data on India's QSR market size or NCD burden. The experience economy point about air-conditioned, hygienic spaces for youth is insightful and India-specific. The conclusion about immediate gratification trumping abstract health risks is valid but could be more analytically developed. At 276 words, it is slightly over the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.8,
+            "justification": "Broadly accurate but relatively generic. The general factors are correct but well-known. The Indian section is more specific with McDonald's, KFC, Domino's localization examples. However, lacks data on market size, NCD prevalence, or policy frameworks. No mention of food delivery platforms by name."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Clear structure with general factors followed by Indian context. However, the general and Indian sections feel somewhat disconnected rather than integrated. The transition between global and Indian analysis could be smoother."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Limited specific examples: McAloo Tikki, Paneer Zinger, and the experience economy point. Missing: food delivery platforms (Swiggy/Zomato), cloud kitchens, market size data, NCD statistics, FSSAI policies. Less specific than competitors."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "The experience economy concept is a good analytical contribution. However, the overall analysis stays at a descriptive level. Does not explore why health awareness fails to change behavior, nor discuss policy interventions or the nutrition transition concept."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Well-written prose with good readability. At 276 words, slightly over limit. The language is competent and the flow is smooth. Good use of italics for emphasis."
+          }
+        },
+        "total_score": 9.3,
+        "max_marks": 15,
+        "brief_feedback": "Readable and well-written but relatively generic compared to competitors. The experience economy point is distinctive. Needs more India-specific data, policy references, and deeper analytical engagement with why awareness does not curb consumption."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "A structured answer with market data ($50 billion, 18-20% growth), coverage of multiple driving factors, health consequences with ICMR reference, and a way-forward section. Comprehensive but somewhat formulaic.",
+        "analysis": "This answer provides good quantitative framing with the $50 billion market size and 18-20% growth rate, though these figures should be verified. The factors are well-categorized: urbanization, youth demographics, economic liberalization, affordability/localization, and aggressive marketing. The health consequences section with ICMR reference and diabetes rate (11.4%) adds a dimension some others lack. The way-forward section with FSSAI, Eat Right Movement, and school nutrition education is practical. However, the answer follows a very formulaic structure (factors, consequences, way forward, conclusion) that reads like a coaching institute template. The post-1991 liberalization reference is relevant. The 'health-washing' concept is important but could be elaborated more. At 286 words, it is moderately over the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Good factual coverage with market data, urbanization percentage (35%), median age (28 years), diabetes rate (11.4%), ICMR reference. The $50 billion market figure needs verification but the growth rate range is plausible. Health-washing concept is accurately described."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Clear section-based structure with introduction, factors, health consequences, way forward, and conclusion. However, it follows a formulaic template that feels mechanical. The integration between sections could be more organic."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good examples: McDonald's, Domino's, KFC, Swiggy, Zomato, McAloo Tikki, ICMR, FSSAI Eat Right Movement. Market data provides quantitative depth. However, the health-washing and celebrity endorsement points lack specific examples."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "The dual burden of malnutrition and obesity is a good analytical point. Health-washing concept shows critical thinking. However, the analysis does not deeply explore why the paradox persists or what structural forces make regulation difficult. The way-forward section is prescriptive rather than analytical."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Clear and well-organized. At 286 words, moderately over limit. The section heading format is clean but the formulaic structure may not impress UPSC examiners who see many such template-based answers. Language is competent."
+          }
+        },
+        "total_score": 9.7,
+        "max_marks": 15,
+        "brief_feedback": "Good quantitative depth with market size and health data. The dual burden of malnutrition-obesity and health-washing concepts are valuable. However, the formulaic structure (factors-consequences-way forward) feels template-driven. Needs more integrated analysis rather than compartmentalized sections."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A well-organized answer using QSR terminology, covering five driving factors with Indian-specific examples, and concluding with regulatory interventions including fat tax. Strong integration of Indian experience throughout.",
+        "analysis": "This answer demonstrates strong subject knowledge with the use of QSR sector terminology and CAGR data (15%+). The five factors are well-articulated and India-specific throughout: time poverty with dual-income nuclear families, the Swiggy/Zomato/cloud kitchen ecosystem, glocalization with specific product examples, demographic dividend with tier-2/3 city expansion, and health-washing. The health-washing point is particularly well-developed, distinguishing it from other candidates who merely mention it. The conclusion effectively identifies the gap between awareness and behavior, and proposes specific interventions: FSSAI's Eat Right India, front-of-pack labelling, and fat tax. The mention of tier-2 and tier-3 cities' aspirational consumption is a distinctive insight. At 289 words, it moderately exceeds the limit. The answer balances economic and sociological analysis well.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.3,
+            "justification": "Accurate coverage with QSR CAGR data, correct references to Swiggy/Zomato, cloud kitchens, glocalization examples (McAloo Tikki, Paneer Makhani Pizza), demographic data (50% under 25), FSSAI Eat Right India, fat tax concept. All claims are factually supportable."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Clear structure with analytical opening, five numbered factors, and a conclusion with policy recommendations. The flow is logical, moving from demand-side factors to supply-side adaptation to policy response. Well-balanced sections."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Strong India-specific examples throughout: QSR sector data, named platforms, specific localized products, tier-2/3 city expansion, health-washing with multigrain/baked alternatives. The fat tax mention is a distinctive policy reference. Good specificity."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "Good analytical concepts: glocalization, health-washing (pseudo-healthy alternatives creating a health halo), aspirational value in tier-2/3 cities, and the explicit gap between awareness and gratification. The demographic dividend framing adds analytical weight."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Clear and professional language with appropriate terminology. At 289 words, moderately over limit. The five-point structure with conclusion is effective. Good balance between accessibility and technical depth."
+          }
+        },
+        "total_score": 10.7,
+        "max_marks": 15,
+        "brief_feedback": "Strong India-centric answer with distinctive points on health-washing, tier-2/3 aspirational consumption, and fat tax. Good integration of economic and sociological analysis. The glocalization and health halo concepts demonstrate analytical sophistication. Slightly over word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs1_2025_q19",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A balanced answer discussing both the conflict and the counter-argument that environmental degradation disproportionately affects the poor. Proposes inclusive solutions in the final paragraph. Very verbose at 350 words.",
+        "analysis": "The answer addresses the core tension competently, covering livelihood restrictions, cost of green technologies, and vulnerability of the poor to environmental degradation. The argument about wildlife sanctuaries displacing tribal communities is relevant. The counter-argument that environmental degradation disproportionately affects the poor shows balanced thinking. The final paragraph on inclusive solutions (sustainable agriculture, decentralized renewable energy, participatory approaches) is appropriate. However, the answer is extremely verbose at 350 words, far exceeding the 250-word limit, which is a significant penalty. The analysis lacks specific Indian examples, government schemes, or legislative references that would strengthen it. It reads more like a general essay than an India-specific answer. No mention of specific acts (FRA, PESA), schemes (MGNREGA, Ujjwala), or landmark cases (Niyamgiri).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.5,
+            "justification": "Broadly accurate discussion of the conflict between environmental protection and poverty needs. Correctly identifies access restrictions, cost of green technologies, and disproportionate vulnerability. However, very generic with no specific Indian legislative references, scheme names, or concrete examples. Wildlife sanctuary displacement is mentioned generically."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Logical structure with conflict identification, counter-argument, and resolution. The flow is coherent. However, the lack of clear sections or headings makes the dense text harder to navigate. The four-paragraph structure is appropriate but verbose."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Weakest dimension: no specific Indian examples, no named schemes (Ujjwala, MGNREGA, PM-KUSUM), no legislative references (FRA, PESA, LARR), no landmark cases (Niyamgiri, Narmada). The answer remains at a conceptual level without grounding in India's specific policy landscape."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Good analytical balance between conflict and synergy perspectives. The counter-argument about poor being most vulnerable to environmental degradation is well-made. However, the analysis stays at a general level without engaging with India-specific trade-offs or policy frameworks."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Major penalty for word count: 350 words far exceeds the 250-word limit. The prose is readable but not concise. A UPSC examiner would note the lack of discipline in word management. Language quality is adequate."
+          }
+        },
+        "total_score": 8.3,
+        "max_marks": 15,
+        "brief_feedback": "Generic and excessively verbose. While the analytical balance between conflict and synergy is good, the answer critically lacks India-specific examples, legislative references, and government scheme names that are essential for a UPSC Mains answer. Word limit severely exceeded."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A strong, well-structured answer with specific Indian examples covering livelihoods vs conservation, energy security, agricultural regulations, and coastal policies. Includes counter-perspective and way-forward with specific schemes.",
+        "analysis": "This is a well-crafted answer that directly addresses the conflict with India-specific examples throughout. The four areas of conflict are well-chosen and diverse: livelihoods vs conservation (Wildlife Protection Act, MFP), energy security (coal jobs in Jharkhand/Chhattisgarh), agricultural regulations (stubble burning, groundwater), and coastal/urban policies (CRZ norms, slum evictions). Each has concrete Indian examples. The counter-perspective section efficiently argues that the conflict is short-term and that the poor are most vulnerable to environmental degradation. The way-forward section is impressively specific: FRA 2006, PM-KUSUM, Ujjwala Yojana, MGNREGA. The SDG references (SDG 1 and 13) add an international framework dimension. The concluding line about costs not being disproportionately borne by the poor is powerful. At 312 words, it exceeds the limit but the content justifies the length more than others.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.6,
+            "justification": "Excellent factual accuracy with specific references: Wildlife Protection Act, MFP, coal mining regions (Jharkhand, Chhattisgarh), CRZ norms, stubble burning, FRA 2006, PM-KUSUM, Ujjwala Yojana, MGNREGA, SDGs 1 and 13. All references are accurate and relevant. The most factually grounded answer in this batch."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Excellent structure: areas of conflict, counter-perspective (synergy), and way forward with a just transition framing. The flow from conflict to resolution is well-managed. Each conflict area is distinct and non-overlapping."
+          },
+          "depth_examples": {
+            "score": 2.35,
+            "justification": "Outstanding examples: four distinct conflict areas with specific Indian references, three named government schemes in way-forward, SDG framework, coal job numbers, FRA implementation, CRZ norms affecting fisherfolk. The richest example base in this batch."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Strong analytical framing with the short-term vs long-term conflict distinction. The Just Transition concept linking SDG 1 and SDG 13 is sophisticated. The community-led conservation vs exclusionary conservation distinction shows nuanced thinking."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Clear and well-organized with effective use of bold headings and bullet points. At 312 words, exceeds the limit but the content is dense and relevant. The concluding sentence is impactful. Language quality is high."
+          }
+        },
+        "total_score": 11.25,
+        "max_marks": 15,
+        "brief_feedback": "The strongest answer in this batch with excellent India-specific examples across four distinct conflict areas, a strong counter-perspective, and a specific way-forward section. The Just Transition and SDG framing adds analytical sophistication. Word limit penalty somewhat offset by content density."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "A concise answer at 283 words with specific data (250-300 million forest-dependent Indians), named examples (Kanha, Sariska, Narmada), and a well-developed counter-argument with rights-based alternatives.",
+        "analysis": "This answer efficiently covers the conflict while providing specific data and examples that ground the argument. The opening clearly frames why conflicts arise (nature-dependent, cash-constrained livelihoods vs environmental regulations). The four conflict areas are well-chosen: access restrictions on commons, development-environment trade-offs, compliance costs, and resource pricing. The 250-300 million forest-dependent estimate and specific examples (Kanha, Sariska, Narmada dams) add credibility. The Narmada dams discussion effectively illustrates the Adivasi/small farmer rehabilitation issue. The counter-argument section is well-developed, mentioning FRA 2006, community forest management, PM-KUSUM, Ujjwala, MGNREGA watershed works, EIA, PESA, and payments for ecosystem services. The concluding frame\u2014environmental protection conflicts when exclusionary but synergizes with inclusive institutions\u2014is analytically sharp. At 283 words, moderately over the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Strong factual base: 250-300 million forest-dependent Indians, named relocations (Kanha, Sariska), Narmada dams and Adivasi rehabilitation, FRA 2006, PM-KUSUM, Ujjwala, MGNREGA, EIA, PESA, payments for ecosystem services. All references are accurate. The carbon/energy tax point is relevant."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Clear structure: why conflicts arise, four specific areas, counter-argument (not inevitable), three resolution approaches. The flow from conflict identification to resolution is logical and well-paced. The concluding synthesis is effective."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Excellent examples: forest-dependent population estimate, Kanha/Sariska relocations, Narmada dams with specific community impacts, community forest management in Maharashtra/Odisha, Upper Ganga Canal, multiple named schemes. The Maharashtra/Odisha CFR reference is a distinctive addition."
+          },
+          "analytical_depth": {
+            "score": 1.05,
+            "justification": "Strong analytical conclusion: environmental protection conflicts when exclusionary but synergizes with inclusive institutions and transition support. The distinction between exclusionary and inclusive approaches is sophisticated. The rights-based conservation framing shows critical thinking."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Good word discipline at 283 words (moderately over). Effective use of bold emphasis. Clear, academic language appropriate for UPSC Mains. Well-balanced sections without unnecessary verbosity."
+          }
+        },
+        "total_score": 11.25,
+        "max_marks": 15,
+        "brief_feedback": "A strong, analytically sharp answer with specific data and examples. The exclusionary-vs-inclusive framing in the conclusion is particularly effective. Good balance of conflict identification and resolution. The community forest management reference for Maharashtra/Odisha is a distinctive touch."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A comprehensive answer with clear sections covering conflict areas and reconciliation strategies. Includes specific examples (Kanha, Sariska, Kanpur tanneries) and government schemes. Formulaic structure.",
+        "analysis": "The answer provides solid coverage with specific conflict areas: livelihoods vs conservation (FRA vs Wildlife Protection Act, tiger reserve displacements), energy access vs clean energy (coal phase-out, 30 million households without electricity), industrial restrictions (Kanpur tanneries), and agriculture (stubble burning, groundwater). The reconciliation section includes MGNREGA, just transition skilling, joint forest management, Ujjwala Yojana, and payment for ecosystem services. The opening provides context (230 million below poverty line). The Kanpur tanneries closure example is distinctive and well-chosen. However, the answer follows a very formulaic structure (introduction, conflict areas, reconciliation, conclusion) that reads like a coaching template. The 'pro-poor environmentalism' concept in the conclusion is appropriate but could be more developed. At 299 words, moderately over the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.1,
+            "justification": "Accurate content with specific references: FRA vs Wildlife Protection Act, Kanha/Sariska displacements, coal mining regions, 30 million households, Kanpur tanneries, MGNREGA, Joint Forest Management, Ujjwala. The 230 million poverty figure needs context (which poverty line). The fisheries ban mention is relevant."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Clear section-based structure with introduction, four conflict areas, reconciliation, and conclusion. However, formulaic and predictable. The conflict areas are listed rather than analytically connected. Reads like a template answer."
+          },
+          "depth_examples": {
+            "score": 2.1,
+            "justification": "Good examples: Kanha/Sariska, Kanpur tanneries (distinctive), Jharkhand/Chhattisgarh coal, stubble burning, Ujjwala, MGNREGA, Joint Forest Management, payment for ecosystem services. The tannery closure example adds a unique dimension. Slightly less integrated than best competitors."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "The pro-poor environmentalism concept and the complementary vs competing goals framing show some analytical depth. However, the analysis is more descriptive than critical. The reconciliation section is prescriptive rather than analytical. Lacks the nuanced framing of the best answers."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Clear presentation with section headings. At 299 words, moderately over limit. The formulaic structure, while organized, may not distinguish the answer from many similar coaching-template responses. Language is appropriate."
+          }
+        },
+        "total_score": 9.9,
+        "max_marks": 15,
+        "brief_feedback": "Solid coverage with distinctive examples like Kanpur tanneries closure. However, the formulaic template structure limits analytical impact. The answer lists points rather than weaving them into an integrated argument. The pro-poor environmentalism concept could be more deeply developed."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs1_2025_q20",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A concise answer at 235 words that acknowledges the displacement-rehabilitation frame as largely fitting but argues it is incomplete, advocating for a rights-based, participatory, in-situ development paradigm.",
+        "analysis": "This answer demonstrates excellent analytical framing by first acknowledging why the displacement-rehabilitation axis fits (resource geography overlap, disproportionate displacement, specific illustrations, R&R deficits) and then arguing why it is incomplete (in-situ empowerment, Gram Sabha consent, community forest management, education, livelihoods). The specific examples are strong: Sardar Sarovar/Narmada, Hirakud, Koel-Karo, Polavaram, Saranda, Hasdeo Arand, Kanha, Niyamgiri, Mendha-Lekha. The legislative references are comprehensive: LARR 2013, PESA 1996, FRA 2006, Fifth/Sixth Schedules. The Mendha-Lekha reference is particularly distinctive, showing deep knowledge. The opinion is clearly stated: displacement-rehabilitation is central but narrow. At 235 words, this is within the word limit, demonstrating excellent discipline. The answer packs remarkable information density into a concise format.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.4,
+            "justification": "Exceptional factual accuracy and breadth: resource geography overlap, disproportionate displacement statistics (8-9% population, one-third+ displaced), seven specific project/area examples, four legislative references, Eklavya schools, TRIFED, Mendha-Lekha community management. All references are accurate and specific."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Effective two-part structure: why the frame fits, then why it is incomplete. Clear opinion at the end. The flow from acknowledgment to critique to alternative vision is well-managed. Concise and purposeful."
+          },
+          "depth_examples": {
+            "score": 2.25,
+            "justification": "Outstanding example density: Sardar Sarovar, Hirakud, Koel-Karo, Polavaram, Saranda, Hasdeo Arand, Kanha, Niyamgiri, Mendha-Lekha, LARR 2013, PESA 1996, FRA 2006, Fifth/Sixth Schedules, TRIFED, Eklavya schools. The most example-rich answer in this batch by far."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Excellent analytical sophistication: the frame is acknowledged as largely valid but argued to be narrow. The alternative vision (rights-based, participatory, in-situ development) is well-articulated. The displacement-as-exception-not-default framing is powerful. Strong opinion clearly stated."
+          },
+          "presentation": {
+            "score": 1.2,
+            "justification": "Exceptional word discipline at 235 words (within 250). Remarkable information density without sacrificing clarity. Bold emphasis used effectively. The most concise yet most substantive answer in this batch."
+          }
+        },
+        "total_score": 11.25,
+        "max_marks": 15,
+        "brief_feedback": "Outstanding answer: the most example-rich, analytically sharp, and word-disciplined response. The Mendha-Lekha and Hasdeo Arand references show deep knowledge. The rights-based alternative framing is powerful. Sets the benchmark for this question."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A balanced answer acknowledging displacement-rehabilitation as central but arguing development also encompasses rights protection (FRA), socio-economic upliftment, cultural preservation, and self-governance (PESA). Very verbose at 318 words.",
+        "analysis": "The answer takes a balanced position, acknowledging displacement-rehabilitation as central while arguing it is not the only dimension. The initial discussion of displacement impacts (livelihoods, social structures, cultural practices, spiritual connections) is appropriate. The rehabilitation critique (inadequate compensation, delays, lack of culturally appropriate options) is valid. The four additional dimensions (rights protection, socio-economic upliftment, cultural preservation, self-governance) are well-identified with appropriate legislative references (FRA 2006, PESA 1996). However, the answer is very verbose at 318 words and lacks the specific project examples that distinguish the best answer. It mentions Sardar Sarovar and mining in Jharkhand/Odisha but does not name specific projects like Koel-Karo, Polavaram, or Hasdeo Arand. The conclusion is well-phrased but the path to it is unnecessarily lengthy.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.9,
+            "justification": "Accurate but less specific than the best. Correctly references Sardar Sarovar, mining in tribal areas, FRA 2006, PESA 1996. Discusses rehabilitation inadequacies accurately. However, lacks the breadth of specific examples (no Koel-Karo, Polavaram, Mendha-Lekha, TRIFED) that would demonstrate deeper knowledge."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Clear three-part structure: displacement-rehabilitation centrality, additional dimensions, and conclusion. Logical flow. However, the initial two paragraphs on displacement and rehabilitation are somewhat repetitive of common knowledge. The four additional dimensions could be more integrated."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Limited specific examples: Sardar Sarovar, mining in Jharkhand/Odisha (generic), FRA 2006, PESA 1996. Missing: specific project names, community examples, Xaxa Committee, tribal development schemes. The additional dimensions section lists categories without specific illustrative examples."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Good balanced perspective acknowledging centrality of displacement-rehabilitation while arguing for broader dimensions. The shift to rights-based, participatory approach is noted. However, the analysis is somewhat predictable and does not offer a distinctive analytical frame."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Verbose at 318 words, significantly exceeding the 250-word limit. While the prose is competent, the wordiness suggests lack of discipline. The bullet-point list of additional dimensions feels like padding. Could be substantially trimmed."
+          }
+        },
+        "total_score": 9.3,
+        "max_marks": 15,
+        "brief_feedback": "Balanced perspective but verbose and lacking specific examples. The four additional dimensions are identified but not illustrated with concrete examples. Needs more specific project references, tribal development schemes, and better word discipline."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "A well-structured answer with Census data (10.45 crore, 8.6%), displacement statistics (50-60 million displaced, 40-50% tribal), and specific examples (Sardar Sarovar, Polavaram, Niyamgiri). Includes a beyond-the-two-axes section.",
+        "analysis": "The answer provides strong quantitative grounding with Census 2011 tribal population data and displacement statistics (50-60 million displaced, tribals constituting 40-50%). The three examples under displacement are well-chosen: Sardar Sarovar (Bhil and Tadvi tribals), Polavaram (Koya and Konda Reddi), and Niyamgiri (Dongria Kondh). Naming specific tribal communities affected by each project demonstrates depth of knowledge. The rehabilitation section references NRRP 2007, FRA 2006, and LARR 2013 with the important note about state-level dilution. The beyond-the-two-axes section mentions Fifth/Sixth Schedules, PESA 1996, Eklavya schools, Autonomous District Councils. The answer effectively argues for a rights-based approach. At 269 words, it is close to the word limit. The formulaic heading structure is a minor weakness.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.4,
+            "justification": "Strong factual content: Census tribal population, displacement statistics with proportion, three specific dam/mining projects with affected tribal communities named, NRRP 2007, FRA 2006, LARR 2013 with state dilution note, PESA, Eklavya schools, ADCs. Naming Bhil/Tadvi, Koya/Konda Reddi, Dongria Kondh shows specific knowledge."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Clear section-based structure: introduction, displacement, rehabilitation, beyond two axes, conclusion. Logical flow. However, the heading-based format feels somewhat formulaic for a UPSC essay. The sections are distinct but could be more analytically integrated."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Good specific examples: Sardar Sarovar with Bhil/Tadvi, Polavaram with Koya/Konda Reddi, Niyamgiri with Dongria Kondh, colonial forest policies, NRRP 2007, LARR 2013, Eklavya Model Residential Schools, Autonomous District Councils. Naming affected communities is a strong differentiator."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Good analytical point about LARR state-level dilution. The distinction between displacement-rehabilitation as dominant but insufficient is clear. The rights-based approach conclusion is well-framed. However, the analysis could be more nuanced in exploring why the displacement-rehabilitation frame persists."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Good word discipline at 269 words (close to 250). Clear language with effective data presentation. The section heading format is organized but slightly formulaic. Overall well-presented."
+          }
+        },
+        "total_score": 10.8,
+        "max_marks": 15,
+        "brief_feedback": "Strong answer with excellent specific examples, including naming affected tribal communities for each project. Good quantitative grounding with displacement statistics. The LARR state dilution point shows critical awareness. Could benefit from a more distinctive analytical framework."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "The most comprehensive answer referencing the Xaxa Committee, multiple development axes (political autonomy, socio-economic empowerment, human development, cultural preservation), and Nehru's Tribal Panchsheel. Very verbose at 345 words.",
+        "analysis": "This answer demonstrates the broadest knowledge base in the batch. The Xaxa Committee reference with specific findings (8.6% population, 40% displaced) is a strong academic citation. The four axes beyond displacement-rehabilitation are well-developed: political autonomy (FRA, PESA, Gram Sabha), socio-economic empowerment (TRIFED, Van Dhan Vikas Kendras, MSP for MFP), human development (Eklavya schools, National Sickle Cell Anaemia Elimination Mission), and cultural preservation (PM-JANMAN for PVTGs). The Nehru's Tribal Panchsheel reference in the conclusion is distinctive and shows historical depth. The Niyamgiri hills conflict is well-referenced. However, the answer is extremely verbose at 345 words, which is a major weakness. The Integration without Assimilation concept is powerful but introduced only in the conclusion. The answer tries to cover too much, sacrificing depth for breadth.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Excellent breadth: Xaxa Committee with specific data, Narmada Bachao Andolan, Niyamgiri/Dongria Kondh, LARR 2013, FRA 2006, PESA 1996, TRIFED, Van Dhan Vikas Kendras, Eklavya schools, National Sickle Cell Anaemia Elimination Mission, PM-JANMAN, PVTGs, Nehru's Tribal Panchsheel. Possibly the most reference-rich answer."
+          },
+          "structure_flow": {
+            "score": 2.1,
+            "justification": "Clear structure with displacement-rehabilitation axes, then multidimensional paradigm with four numbered dimensions, and conclusion. Logical flow from narrow to broad perspective. However, the sheer volume makes it hard to maintain focus. The opinion is clearly stated."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Rich examples: Xaxa Committee, Narmada Bachao Andolan, Niyamgiri/Dongria Kondh, Van Dhan Vikas Kendras, PM-JANMAN, Sickle Cell Mission, Nehru's Tribal Panchsheel. The Van Dhan and PM-JANMAN references are distinctive and show awareness of recent policy developments."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "Good analytical concepts: Integration without Assimilation, rights-empowerment-identity paradigm, Nehru's Panchsheel. The shift from victimhood to agency is well-articulated. However, trying to cover too many dimensions dilutes the depth of analysis on each."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Major word limit violation at 345 words (95 over limit). Despite rich content, the verbosity is a significant penalty. The answer tries to be exhaustive rather than selective, which is a presentation flaw in a word-limited exam context."
+          }
+        },
+        "total_score": 10.6,
+        "max_marks": 15,
+        "brief_feedback": "The most reference-rich answer with distinctive mentions of Xaxa Committee, Van Dhan Vikas Kendras, PM-JANMAN, Sickle Cell Mission, and Nehru's Tribal Panchsheel. However, severely hampered by word limit violation. The answer tries to demonstrate exhaustive knowledge rather than selective analytical depth."
+      }
+    ]
+  }
+]

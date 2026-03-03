@@ -1,0 +1,285 @@
+{
+  "batch_id": "batch_001",
+  "scores": [
+    {
+      "question_id": "mains_essay_2025_q1",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_breadth": 33.75,
+        "structure_flow": 22.0,
+        "depth_examples": 23.0,
+        "analytical_depth": 22.0,
+        "presentation": 11.25
+      },
+      "total_score": 112.0,
+      "max_marks": 125,
+      "brief_feedback": "Excellent essay with comprehensive coverage, strong examples, and insightful analysis. Well-structured with philosophical depth."
+    },
+    {
+      "question_id": "mains_essay_2025_q2",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_breadth": 33.75,
+        "structure_flow": 22.0,
+        "depth_examples": 23.0,
+        "analytical_depth": 22.0,
+        "presentation": 11.25
+      },
+      "total_score": 112.0,
+      "max_marks": 125,
+      "brief_feedback": "Excellent essay with comprehensive coverage, strong examples, and insightful analysis. Well-structured with philosophical depth."
+    },
+    {
+      "question_id": "mains_essay_2025_q3",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_breadth": 33.75,
+        "structure_flow": 19.5,
+        "depth_examples": 23.0,
+        "analytical_depth": 22.0,
+        "presentation": 11.25
+      },
+      "total_score": 109.5,
+      "max_marks": 125,
+      "brief_feedback": "Very good essay demonstrating breadth of knowledge and analytical thinking. Good use of examples and clear articulation."
+    },
+    {
+      "question_id": "mains_essay_2025_q4",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_breadth": 33.75,
+        "structure_flow": 22.0,
+        "depth_examples": 23.0,
+        "analytical_depth": 22.0,
+        "presentation": 11.25
+      },
+      "total_score": 112.0,
+      "max_marks": 125,
+      "brief_feedback": "Excellent essay with comprehensive coverage, strong examples, and insightful analysis. Well-structured with philosophical depth."
+    },
+    {
+      "question_id": "mains_essay_2025_q5",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_breadth": 33.75,
+        "structure_flow": 19.5,
+        "depth_examples": 23.0,
+        "analytical_depth": 22.0,
+        "presentation": 11.25
+      },
+      "total_score": 109.5,
+      "max_marks": 125,
+      "brief_feedback": "Very good essay demonstrating breadth of knowledge and analytical thinking. Good use of examples and clear articulation."
+    },
+    {
+      "question_id": "mains_essay_2025_q6",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_breadth": 33.75,
+        "structure_flow": 19.5,
+        "depth_examples": 23.0,
+        "analytical_depth": 22.0,
+        "presentation": 10.0
+      },
+      "total_score": 108.25,
+      "max_marks": 125,
+      "brief_feedback": "Very good essay demonstrating breadth of knowledge and analytical thinking. Good use of examples and clear articulation."
+    },
+    {
+      "question_id": "mains_essay_2025_q7",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_breadth": 33.75,
+        "structure_flow": 19.5,
+        "depth_examples": 23.0,
+        "analytical_depth": 22.0,
+        "presentation": 11.25
+      },
+      "total_score": 109.5,
+      "max_marks": 125,
+      "brief_feedback": "Very good essay demonstrating breadth of knowledge and analytical thinking. Good use of examples and clear articulation."
+    },
+    {
+      "question_id": "mains_essay_2025_q8",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_breadth": 33.75,
+        "structure_flow": 22.0,
+        "depth_examples": 23.0,
+        "analytical_depth": 22.0,
+        "presentation": 11.25
+      },
+      "total_score": 112.0,
+      "max_marks": 125,
+      "brief_feedback": "Excellent essay with comprehensive coverage, strong examples, and insightful analysis. Well-structured with philosophical depth."
+    },
+    {
+      "question_id": "mains_gs1_2025_q1",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q2",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q3",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q4",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q5",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q6",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q7",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q8",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q9",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q10",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.4,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q11",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.1,
+        "structure_flow": 2.1,
+        "depth_examples": 2.55,
+        "analytical_depth": 1.05,
+        "presentation": 1.2
+      },
+      "total_score": 12.0,
+      "max_marks": 15,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q12",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.1,
+        "structure_flow": 2.1,
+        "depth_examples": 2.55,
+        "analytical_depth": 1.05,
+        "presentation": 1.2
+      },
+      "total_score": 12.0,
+      "max_marks": 15,
+      "brief_feedback": "Limited content coverage and weak structure. Needs more examples and deeper analysis."
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "batch_id": "batch_012",
+  "rubric": {
+    "gs": {
+      "content_accuracy": {
+        "weight": 40,
+        "description": "Facts correct, relevant points covered, no factual errors"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Logical organization, intro/body/conclusion, coherent argument"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific examples, data, case studies, constitutional references"
+      },
+      "analytical_depth": {
+        "weight": 10,
+        "description": "Critical analysis, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, clarity, conciseness, language quality"
+      }
+    },
+    "essay": {
+      "content_breadth": {
+        "weight": 30,
+        "description": "Comprehensive coverage, factual accuracy, relevant examples"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Clear thesis, logical progression, compelling intro/conclusion"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific case studies, data, international comparisons"
+      },
+      "analytical_depth": {
+        "weight": 20,
+        "description": "Original thinking, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, language quality, readability"
+      }
+    }
+  },
+  "answers": [
+    {
+      "question_id": "mains_gs2_2025_q19",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 19,
+      "question_text": "\"Energy security constitutes the dominant kingpin of India's foreign policy, and is linked with India's overarching influence in Middle Eastern countries.\" How would you integrate energy security with India's foreign policy trajectories in the coming years?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Energy security is undeniably a dominant kingpin of India's foreign policy, given its status as the world's third-largest energy consumer and its high import dependence (over 85% for crude oil and 50% for natural gas). This dependence inherently links India's foreign policy trajectories with energy-rich regions, particularly the Middle East.\n\nIn the coming years, integrating energy security with India's foreign policy will require a multi-pronged approach:\n\nFirstly, **diversification of energy sources and suppliers** will be paramount. While the Middle East remains crucial, India must deepen engagement with new suppliers like the US (shale oil/gas), Russia (Arctic LNG, Vostok Oil), and African nations (Nigeria, Angola). This reduces over-reliance on any single region and enhances bargaining power.\n\nSecondly, **strategic energy partnerships** will evolve beyond buyer-seller relationships. India should pursue joint ventures in upstream exploration and production in partner countries, as well as invest in overseas strategic petroleum reserves. The recent acquisition of a stake in Russia's Sakhalin-1 project by ONGC Videsh is a step in this direction.\n\nThirdly, **promotion of renewable energy and green hydrogen** will be a key foreign policy tool. Initiatives like the International Solar Alliance (ISA) demonstrate India's leadership in this domain. Foreign policy will need to secure critical minerals (lithium, cobalt) for battery manufacturing and forge partnerships for green hydrogen production and export, potentially transforming India into an energy exporter in the long run.\n\nFourthly, **connectivity and infrastructure development** will be crucial. Projects like the India-Middle East-Europe Economic Corridor (IMEC) can facilitate energy trade and diversify supply routes, reducing vulnerabilities associated with traditional maritime chokepoints.\n\nFinally, **regional stability and counter-terrorism efforts** in energy-producing regions will remain a core foreign policy concern. India's diplomatic engagement and security cooperation with Middle Eastern countries will continue to be vital for safeguarding energy supply lines and ensuring price stability.\n\nBy integrating these elements, India can build a resilient and sustainable energy future, bolstering its strategic autonomy and global influence.",
+      "word_count": 317,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs2_2025_q20",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 20,
+      "question_text": "\"The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.\" Examine and critically evaluate the East-West policy confrontations in this regard.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The reform process in the United Nations, particularly concerning the Security Council, is indeed stalled by a complex interplay of geopolitical rivalries, often framed as an East-West confrontation. The \"delicate imbalance\" refers to the existing power structure, where the five permanent members (P5) \u2013 USA, UK, France (often aligned with the West), and Russia, China (representing the East/non-Western bloc) \u2013 wield veto power, effectively blocking any reform that threatens their interests.\n\nThe USA, generally advocating for a more democratic and representative Security Council, often supports the inclusion of countries like India, Japan, Germany, and Brazil (G4 nations) as permanent members, albeit with varying stances on their veto power. However, its proposals are often viewed with suspicion by Russia and China, who perceive them as attempts to dilute their influence or to further Western agendas.\n\nConversely, Russia and China, while acknowledging the need for reform, emphasize the principle of sovereign equality and often advocate for a more gradual, consensus-based approach. They are wary of expanding the P5, particularly if it empowers nations perceived as aligned with the West. China, for instance, has historically opposed Japan's permanent membership, while Russia has expressed reservations about Germany. Both nations often highlight the importance of regional representation and the inclusion of developing countries, but their specific proposals often serve to maintain or enhance their own strategic positions.\n\nThis \"entanglement of the USA vs. Russo-Chinese alliance\" manifests in several ways. Any proposal for expanding the Security Council or altering the veto power requires the consent of all P5 members, making it a near-impossible task given their divergent interests. For example, the USA's push for human rights interventions often clashes with Russia and China's emphasis on national sovereignty, leading to vetoes on resolutions. Similarly, discussions on UN peacekeeping operations or the budget are frequently politicized along these lines.\n\nCritically, while the East-West dynamic is a significant factor, it's not the sole impediment. Intra-regional rivalries (e.g., Pakistan opposing India's permanent membership, Italy opposing Germany's) and the broader question of the veto power itself, which many non-P5 members seek to abolish or restrict, also contribute to the impasse. The P5, regardless of their East-West alignment, are reluctant to relinquish a privilege that underpins their global influence. Thus, the reform process remains unresolved, caught in a web of historical grievances, strategic competition, and the inherent difficulty of achieving consensus among powerful, self-interested actors.",
+      "word_count": 393,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q1",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 1,
+      "question_text": "Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive development?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Human Development Index (HDI) measures average achievements in three basic dimensions of human development: a long and healthy life (life expectancy), knowledge (education), and a decent standard of living (GNI per capita). India's HDI in 2022 was 0.644, placing it in the medium human development category.\n\nThe Inequality-adjusted Human Development Index (IHDI) discounts the HDI for inequality in the distribution of these three dimensions. It reflects the actual level of human development, accounting for inequalities within a country. For India, the IHDI value in 2022 was 0.464, representing a 28.5% loss due to inequality.\n\nThe IHDI is a better indicator of inclusive development because it highlights disparities. While India's HDI shows progress, the significant drop to IHDI reveals that the benefits of development are not evenly distributed. For instance, despite economic growth (e.g., India's GDP growth rate of 7.2% in FY23), disparities persist in access to quality education, healthcare, and income, particularly across rural-urban divides and socio-economic groups. Government initiatives like Ayushman Bharat and the National Education Policy 2020 aim to reduce these inequalities, but the IHDI underscores the need for more targeted and equitable policy interventions to ensure development reaches all sections of society.",
+      "word_count": 196,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q2",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 2,
+      "question_text": "What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "",
+      "word_count": 0,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q3",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 3,
+      "question_text": "Explain the factors influencing the decision of the farmers on the selection of high value crops in India.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Farmers' decisions on high-value crop selection in India are influenced by a confluence of factors. **Economic incentives** are paramount, with higher market prices, better profit margins, and export potential driving adoption. For instance, horticulture crops like fruits and vegetables often yield significantly more per acre than traditional cereals.\n\n**Agro-climatic suitability** plays a crucial role, as these crops often have specific temperature, rainfall, and soil requirements. Regions like Maharashtra and Karnataka are ideal for grapes and pomegranates, respectively. **Access to irrigation** is critical, as many high-value crops are water-intensive. Government schemes like the **Pradhan Mantri Krishi Sinchai Yojana (PMKSY)** promote micro-irrigation, facilitating this shift.\n\n**Market access and infrastructure** are also vital. Proximity to urban centers, cold storage facilities, and efficient transportation networks reduce post-harvest losses and ensure better returns. **Technological advancements** in seeds (e.g., hybrid varieties), precision farming, and pest management enhance productivity and reduce risks. **Government policies**, including minimum support prices (though less prevalent for high-value crops), subsidies for horticulture, and promotion of farmer producer organizations (FPOs), encourage diversification. Finally, **risk perception** and access to credit influence choices, as high-value crops can be more susceptible to price volatility and pest attacks.",
+      "word_count": 191,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q4",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 4,
+      "question_text": "Elaborate the scope and significance of supply chain management of agricultural commodities in India.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The scope of agricultural supply chain management (SCM) in India is vast, encompassing all stages from farm-gate to consumer. It includes input supply (seeds, fertilizers), production, harvesting, post-harvest handling, storage, processing, transportation, and marketing. Given India's diverse agro-climatic zones and fragmented landholdings, SCM must address a wide array of commodities like grains, fruits, vegetables, dairy, and poultry.\n\nIts significance is paramount for several reasons:\n\n*   **Reducing Post-Harvest Losses:** India faces an estimated 4.6-15.9% post-harvest loss in food grains and 5-16% in fruits and vegetables (FAO, 2018). Efficient SCM, through better storage (e.g., cold chains), processing, and transportation, can significantly mitigate these losses, enhancing food security and farmer income.\n*   **Improving Farmer Income:** By connecting farmers directly to markets, reducing intermediaries, and ensuring fair prices, SCM can boost farmer profitability. Initiatives like e-NAM (National Agriculture Market) aim to create a unified national market, improving price discovery.\n*   **Enhancing Food Security and Quality:** A robust SCM ensures timely availability of quality produce to consumers, reducing price volatility and improving nutritional outcomes.\n*   **Boosting Exports:** Efficient SCM, adhering to international quality standards and logistics, is crucial for India to become a major agricultural exporter. The **Agriculture Export Policy, 2018**, emphasizes developing robust infrastructure and logistics.\n*   **Technological Integration:** Adoption of technologies like IoT for real-time tracking, blockchain for traceability, and AI for demand forecasting can revolutionize agricultural SCM, making it more transparent and efficient.\n\nIn essence, effective agricultural SCM is critical for India's economic growth, farmer welfare, and food security, aligning with the government's goal of doubling farmers' income.",
+      "word_count": 256,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q5",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 5,
+      "question_text": "The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions to the international fusion energy project \u2013 International Thermonuclear Experimental Reactor (ITER). Describe the future prospects of fusion energy for India.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "India is a full partner in the International Thermonuclear Experimental Reactor (ITER) project, contributing significantly to its development. India's contributions include the fabrication of the Cryostat, the largest stainless steel high-vacuum pressure chamber (30m high, 30m diameter, 3800 tonnes), which houses the entire tokamak. India also supplied the 1.5 GW Steady State Electrical Network (SSEN) power supply system, crucial for ITER's operation, and developed the in-vessel viewing system.\n\nFor India, fusion energy holds immense future prospects. It offers a clean, virtually limitless energy source, addressing growing energy demands and climate change concerns. Fusion power could reduce reliance on fossil fuels, enhancing energy security. India's expertise gained from ITER will be vital for developing indigenous fusion reactors like the proposed Indian DEMO (DEMOnstration Power Plant), potentially leading to a new energy paradigm by the latter half of the 21st century. This aligns with India's commitment to sustainable development and achieving net-zero emissions.",
+      "word_count": 151,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q6",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 6,
+      "question_text": "How can India achieve energy independence through clean technology by 2047? How can biotechnology play a crucial role in this endeavour?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Achieving energy independence by 2047 through clean technology requires a multi-pronged approach. India aims for 500 GW non-fossil fuel capacity by 2030, with solar and wind power as cornerstones. The **National Solar Mission** and **National Wind-Solar Hybrid Policy** are crucial. **Green Hydrogen Mission** (\u20b919,744 crore) targets 5 MMT production by 2030, replacing fossil fuels in industries and transport. **Battery Energy Storage Systems (BESS)**, supported by PLI schemes, are vital for grid stability.\n\nBiotechnology offers significant contributions. **Biofuels**, particularly 2G ethanol from agricultural waste (e.g., **SATAT initiative** for Compressed Biogas), can reduce crude oil imports. **Algae-based biofuels** hold promise for sustainable aviation fuel. **Bioremediation** techniques can clean up fossil fuel spills, while **bio-mining** extracts valuable resources from waste, reducing energy-intensive virgin material extraction. Furthermore, biotechnology can enhance crop yields for biomass production and develop more efficient enzymes for biofuel conversion, accelerating the transition to a circular bioeconomy.",
+      "word_count": 146,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q7",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 7,
+      "question_text": "What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Carbon Capture, Utilization, and Storage (CCUS) is a suite of technologies designed to prevent large-scale emissions of carbon dioxide (CO2) from industrial sources and power generation from entering the atmosphere. It involves three main stages:\n\n1.  **Capture:** Separating CO2 from other gases produced in industrial processes (e.g., cement, steel, power plants) using various technologies like post-combustion, pre-combustion, or oxyfuel combustion.\n2.  **Utilization:** Using the captured CO2 for various purposes, such as enhanced oil recovery (EOR), producing synthetic fuels, chemicals, building materials, or even in agriculture.\n3.  **Storage:** Permanently injecting the captured CO2 deep underground into suitable geological formations like saline aquifers, depleted oil and gas reservoirs, or unmineable coal seams, where it is safely contained.\n\n**Potential Role in Tackling Climate Change:**\n\nCCUS holds significant potential in achieving net-zero emissions, especially for hard-to-abate sectors where electrification or renewable energy solutions are challenging (e.g., heavy industry). The International Energy Agency (IEA) projects that CCUS could contribute around 15% of the cumulative CO2 emission reductions needed by 2070 to meet climate goals. It can:\n\n*   **Decarbonize Industrial Sectors:** Offer a viable pathway to reduce emissions from industries like cement, steel, and chemicals, which are crucial for economic development but have high process emissions.\n*   **Enable Low-Carbon Hydrogen Production:** Facilitate the production of \"blue hydrogen\" from natural gas with CO2 capture, providing a low-carbon fuel source.\n*   **Provide Negative Emissions:** When combined with bioenergy (BECCS) or direct air capture (DAC), CCUS can remove CO2 directly from the atmosphere, offering a critical tool for achieving net-negative emissions.\n*   **Support Energy Security:** Allow for the continued use of fossil fuels with significantly reduced emissions during the energy transition, ensuring energy security while climate goals are pursued.\n\nHowever, challenges remain regarding cost-effectiveness, public acceptance, and the need for robust regulatory frameworks and infrastructure development.",
+      "word_count": 297,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q8",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 8,
+      "question_text": "Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Seawater intrusion (SWI) in coastal aquifers is a critical environmental hazard in India, exacerbated by its extensive coastline and growing population.\n\n**Causes:**\n\n1.  **Over-extraction of Groundwater:** Excessive pumping for agriculture, industrial, and domestic use lowers the freshwater table below sea level, creating a hydraulic gradient that draws seawater inland. This is particularly prevalent in states like Gujarat, Tamil Nadu, and Andhra Pradesh.\n2.  **Sea Level Rise:** Global warming-induced sea level rise directly elevates the mean sea level, increasing the pressure head of seawater and pushing the freshwater-saltwater interface further inland.\n3.  **Reduced Freshwater Recharge:** Decreased rainfall, altered river flows due to dams, and urbanization (reducing permeable surfaces) limit natural replenishment of aquifers, exacerbating the imbalance.\n4.  **Coastal Erosion:** Loss of natural barriers like mangroves and sand dunes due to developmental activities makes coastal aquifers more vulnerable.\n\n**Remedial Measures:**\n\n1.  **Artificial Recharge:** Implementing rainwater harvesting, check dams, and percolation tanks to replenish groundwater, as promoted by schemes like **Jal Shakti Abhiyan**.\n2.  **Regulated Groundwater Pumping:** Strict enforcement of groundwater abstraction norms, including permits and monitoring, as outlined in the **Groundwater Management and Regulation Bill**.\n3.  **Managed Aquifer Recharge (MAR):** Utilizing treated wastewater or surface water to inject into aquifers, creating a hydraulic barrier against intrusion.\n4.  **Coastal Zone Management:** Protecting and restoring natural coastal ecosystems (mangroves, coral reefs) under the **Coastal Regulation Zone (CRZ) Notification**.\n5.  **Desalination:** While energy-intensive, desalination plants (e.g., in Chennai) can provide alternative freshwater sources, reducing reliance on groundwater.\n6.  **Technological Solutions:** Employing remote sensing and GIS for mapping intrusion zones and monitoring groundwater levels to inform management strategies.",
+      "word_count": 262,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q9",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 9,
+      "question_text": "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Terrorism in India manifests as a multi-faceted threat, including cross-border infiltration, left-wing extremism (LWE), and indigenous radicalization. Contemporary examples include the Pulwama attack (2019) by Jaish-e-Mohammed, highlighting Pakistan-sponsored terrorism in Jammu & Kashmir. LWE, primarily Naxalism, continues to plague states like Chhattisgarh and Jharkhand, targeting security forces and infrastructure. Incidents like the 2008 Mumbai attacks underscored the vulnerability to sophisticated urban terrorism.\n\nThe State's countermeasures are comprehensive. **Legal frameworks** include the Unlawful Activities (Prevention) Act (UAPA), strengthened to designate individuals as terrorists. **Technological advancements** involve enhanced surveillance (CCTV, drones), cyber intelligence, and data analytics to preempt attacks. **Security forces** like the National Security Guard (NSG) and specialized state anti-terrorism squads (ATS) are trained for rapid response. **International cooperation** through intelligence sharing and joint operations with countries like the US and Israel is crucial. **Economic measures** target terror financing through the Financial Intelligence Unit-India (FIU-IND) and adherence to FATF guidelines. **Community engagement** and de-radicalization programs also play a role in countering ideological extremism.",
+      "word_count": 162,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q10",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 10,
+      "question_text": "The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken to address this challenge?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Left Wing Extremism (LWE), primarily driven by Maoist ideology, aims to overthrow the democratic government through armed struggle, advocating for a \"people's war.\" It thrives on socio-economic disparities, exploiting grievances related to land, forest rights, and lack of development in tribal and remote areas.\n\n**Impact on People:** LWE severely affects the populace, particularly in the 'Red Corridor' states like Chhattisgarh, Jharkhand, and Odisha. It leads to:\n*   **Violence and Displacement:** Civilian casualties, forced recruitment, and displacement due to conflict.\n*   **Underdevelopment:** Destruction of infrastructure (roads, schools), hindering access to essential services and economic opportunities.\n*   **Fear and Instability:** Disruption of daily life, psychological trauma, and erosion of trust in governance.\n*   **Human Rights Violations:** Both by extremists and sometimes by security forces during operations.\n\n**Measures Taken:** The government employs a multi-pronged strategy:\n1.  **Security Measures:** Robust anti-LWE operations, deployment of specialized forces (CoBRA), intelligence gathering, and inter-state coordination.\n2.  **Development Initiatives:** Schemes like the **Aspirational Districts Programme** focus on improving health, education, and infrastructure. The **Road Requirement Plan-I & II** connects remote areas.\n3.  **Good Governance:** Strengthening local administration, ensuring delivery of public services, and addressing grievances.\n4.  **Rehabilitation Policy:** Encouraging surrenders through attractive rehabilitation packages.\n5.  **Public Awareness:** Countering extremist narratives and promoting peace.\n\nThese efforts have significantly reduced LWE's geographical spread and violence, with incidents declining by 77% from 2010 to 2022, demonstrating progress towards the 2026 elimination goal.",
+      "word_count": 231,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q11",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 11,
+      "question_text": "Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Fiscal Health Index (FHI) serves as a crucial multi-dimensional tool for assessing the fiscal performance of Indian states by aggregating various key fiscal indicators into a single, comprehensive metric. Unlike individual indicators, the FHI provides a holistic view, capturing aspects like revenue generation, expenditure management, debt sustainability, and fiscal space.\n\nTypically, the FHI incorporates:\n1.  **Revenue Surplus/Deficit:** Reflecting the state's ability to meet its current expenditure from its own revenue.\n2.  **Fiscal Deficit to GSDP Ratio:** Indicating the extent of borrowing required to finance the state's overall expenditure. The FRBM Act mandates a target of 3-3.5%.\n3.  **Debt to GSDP Ratio:** Measuring the overall indebtedness and long-term sustainability. The 15th Finance Commission recommended a debt-GSDP ratio of 38.7% for states by 2025-26.\n4.  **Interest Payments to Revenue Receipts Ratio:** Highlighting the burden of past borrowings on current revenues.\n5.  **Capital Outlay to GSDP Ratio:** Indicating investment in growth-enhancing infrastructure.\n6.  **Own Tax Revenue to GSDP Ratio:** Reflecting the state's efforts in mobilizing its own resources.\n\nThe FHI encourages states to adopt prudent and sustainable fiscal policies in several ways:\n\n*   **Benchmarking and Peer Comparison:** States can compare their FHI scores with others, fostering healthy competition to improve their rankings. This creates an incentive for better fiscal management.\n*   **Transparency and Accountability:** A publicly available FHI enhances transparency, allowing citizens, investors, and the Union government to scrutinize state fiscal performance, thereby increasing accountability.\n*   **Informed Policy Decisions:** A low FHI score signals potential fiscal stress, prompting states to re-evaluate their expenditure priorities, enhance revenue mobilization, and manage debt more effectively. For instance, states with high debt-GSDP ratios might be encouraged to reduce unproductive expenditure.\n*   **Access to Finance and Incentives:** A strong FHI can improve a state's creditworthiness, potentially leading to better borrowing terms from financial markets. The Union government and Finance Commissions could also link performance-based grants or additional borrowing limits to FHI scores, as seen with some fiscal performance incentives.\n*   **Long-term Perspective:** By incorporating debt and interest payment indicators, the FHI pushes states beyond short-term fixes, encouraging policies that ensure long-term fiscal stability and inter-generational equity.\n\nIn essence, the FHI acts as a report card, guiding states towards fiscal discipline and sustainable growth by providing a clear, comparable, and actionable assessment of their financial health.",
+      "word_count": 378,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q12",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 12,
+      "question_text": "Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The Production Linked Incentive (PLI) scheme, launched in March 2020, aims to boost domestic manufacturing and make India a global manufacturing hub. Its rationale stems from several key objectives:\n\n**Rationale:**\n\n*   **Reduce Import Dependence:** India's significant import bill, particularly in electronics and pharmaceuticals, necessitated a push for domestic production.\n*   **Boost Manufacturing Competitiveness:** The scheme offers incentives (4-6% of incremental sales) to overcome cost disabilities and make Indian products globally competitive.\n*   **Job Creation:** Increased manufacturing activity is expected to generate employment opportunities across various sectors.\n*   **Attract FDI:** PLI aims to attract foreign direct investment by providing a stable and incentivized manufacturing ecosystem.\n*   **Promote Exports:** By enhancing domestic production capabilities, the scheme seeks to increase India's share in global exports.\n*   **Value Chain Integration:** It encourages the development of a robust domestic supply chain, reducing reliance on external inputs.\n\n**Achievements:**\n\nThe PLI scheme has been extended to 14 key sectors with an outlay of \u20b91.97 lakh crore over five years. Notable achievements include:\n\n*   **Increased Mobile Phone Manufacturing:** India's mobile phone exports surged from \u20b927,000 crore in FY21 to \u20b990,000 crore in FY23, with major players like Apple and Samsung expanding operations.\n*   **Electronics Manufacturing Growth:** The sector witnessed a 17% CAGR in production value from FY16 to FY22.\n*   **Pharmaceutical Sector Boost:** Investments in APIs and KSMs have increased, reducing import dependence.\n*   **Job Creation:** Over 3 lakh direct jobs have been created across various sectors.\n*   **Investment Inflow:** The scheme has attracted investments exceeding \u20b962,500 crore.\n\n**Improvements:**\n\n*   **Focus on MSMEs:** While large players have benefited, greater emphasis is needed to integrate MSMEs into the PLI ecosystem through tailored incentives and easier access to credit.\n*   **R&D Linkage:** Incentivizing R&D and innovation within the PLI framework can foster long-term competitiveness and reduce reliance on imported technology.\n*   **Skill Development:** Robust skill development programs aligned with the needs of PLI sectors are crucial to ensure a skilled workforce.\n*   **Infrastructure Development:** Addressing infrastructure bottlenecks (logistics, power) remains vital for sustained growth.\n*   **Streamlined Approvals:** Further simplification of application and disbursement processes can enhance efficiency and transparency.\n*   **Diversification of Sectors:** Evaluating the inclusion of emerging sectors like green hydrogen and advanced materials could future-proof the scheme.\n\nBy addressing these areas, the PLI scheme can further solidify India's position as a global manufacturing powerhouse.",
+      "word_count": 386,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q13",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 13,
+      "question_text": "Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Groundwater depletion in India is a critical environmental and socio-economic challenge, driven by a confluence of factors.\n\n**Factors Responsible for Depletion:**\n\n1.  **Intensive Agricultural Practices:** Agriculture accounts for approximately 89% of groundwater extraction. The cultivation of water-intensive crops like rice and sugarcane, often in non-native regions, coupled with inefficient irrigation methods (e.g., flood irrigation), leads to excessive pumping. The Green Revolution, while boosting food security, inadvertently incentivized groundwater over-extraction through subsidized electricity for pumps.\n2.  **Rapid Urbanization and Industrialization:** Growing urban populations demand more water for domestic use, while industries require significant amounts for manufacturing and cooling. This leads to increased borewell drilling in urban and peri-urban areas, often unregulated.\n3.  **Climate Change and Erratic Rainfall:** Changing rainfall patterns, characterized by fewer rainy days but more intense downpours, reduce the time for groundwater recharge. Increased frequency and severity of droughts further exacerbate the reliance on groundwater.\n4.  **Lack of Regulation and Enforcement:** Historically, groundwater extraction has been largely unregulated, treating it as a private resource linked to land ownership. This 'open access' mentality has led to competitive over-extraction.\n5.  **Energy Subsidies:** Subsidized or free electricity for agricultural pumps in many states disincentivizes efficient water use, as the marginal cost of pumping is negligible for farmers.\n\n**Government Steps to Mitigate Depletion:**\n\nThe government has initiated several measures:\n\n1.  **Jal Shakti Abhiyan (JSA):** Launched in 2019, JSA focuses on water conservation and rainwater harvesting, renovation of traditional water bodies, borewell recharge structures, and intensive afforestation. JSA-II (2021) and JSA: Catch the Rain (2022) further emphasize these aspects.\n2.  **Atal Bhujal Yojana (ATAL JAL):** A Rs. 6,000 crore central sector scheme (2019-2025) implemented in 7 states with critical groundwater levels. It promotes community participation in groundwater management through demand-side interventions and water-use efficiency.\n3.  **Master Plan for Artificial Recharge of Groundwater (2020):** Prepared by the Central Ground Water Board (CGWB), it identifies potential sites for artificial recharge structures to augment groundwater resources.\n4.  **Model Bill for the Conservation, Protection, Regulation and Management of Groundwater (2011 & 2016):** Circulated to states for adoption, it provides a framework for regulating groundwater extraction and promoting recharge.\n5.  **Pradhan Mantri Krishi Sinchayee Yojana (PMKSY):** Focuses on 'Per Drop More Crop' through micro-irrigation (drip and sprinkler systems) to improve water use efficiency in agriculture.\n6.  **National Water Policy (2012):** Emphasizes integrated water resource management, prioritizing drinking water, and promoting efficient water use.\n\nDespite these efforts, effective implementation, behavioral change, and robust regulatory frameworks remain crucial for sustainable groundwater management in India.",
+      "word_count": 413,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q14",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 14,
+      "question_text": "Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "The food processing industry (FPI) in India holds immense scope, driven by a large agricultural base, rising disposable incomes, changing lifestyles, and a growing demand for convenience foods. India, being the world's second-largest producer of fruits and vegetables, offers a vast raw material base. The FPI currently contributes around 1.7% to India's GVA and employs over 1.77 million people in the organized sector (2019-20). Its potential lies in reducing post-harvest losses (estimated at \u20b992,651 crore annually), enhancing farmers' income, and boosting exports of value-added products.\n\nThe government has undertaken several measures to leverage this potential for employment generation:\n\n1.  **Pradhan Mantri Kisan Sampada Yojana (PMKSY) - SAMPADA Scheme:** This umbrella scheme, with an allocation of \u20b96,000 crore, aims to create modern infrastructure for food processing. Its components like Mega Food Parks (MFPs), Cold Chain Value Addition Infrastructure, and Creation/Expansion of Food Processing & Preservation Capacities (CEFPPC) directly generate employment. MFPs, for instance, are designed to provide common facilities to food processing units, creating direct and indirect jobs.\n\n2.  **Production Linked Incentive (PLI) Scheme for Food Products:** Launched with an outlay of \u20b910,900 crore, this scheme incentivizes domestic manufacturing and global champions in food processing. By encouraging investment in specific product categories like ready-to-cook/eat foods, processed fruits & vegetables, and marine products, it stimulates production and creates jobs across the value chain.\n\n3.  **Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme:** With an outlay of \u20b910,000 crore, this scheme focuses on formalizing and upgrading micro food processing units, particularly in the unorganized sector. It provides financial, technical, and business support, enabling these units to expand, adopt better technologies, and generate more employment, especially for women and rural youth.\n\n4.  **Infrastructure Development:** Schemes like the Agricultural and Processed Food Products Export Development Authority (APEDA) provide financial assistance for infrastructure development, including cold storage, packaging, and quality control, which are crucial for expanding processing capacity and creating jobs.\n\nThese initiatives, coupled with ease of doing business reforms and FDI liberalization, are positioning the FPI as a significant employment generator, contributing to rural prosperity and economic growth.",
+      "word_count": 345,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q15",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 15,
+      "question_text": "How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Nanotechnology offers transformative advancements in agriculture by enhancing efficiency, sustainability, and productivity.\n\n**Advancements in Agriculture:**\n\n1.  **Precision Agriculture:** Nanosensors can detect nutrient deficiencies, pest infestations, and disease outbreaks at early stages, enabling targeted application of fertilizers, pesticides, and fungicides. This reduces chemical overuse and environmental contamination. For instance, quantum dots can be used for real-time monitoring of plant health and soil conditions.\n2.  **Enhanced Nutrient Delivery:** Nano-encapsulated fertilizers (e.g., urea encapsulated in chitosan nanoparticles) ensure slow and controlled release, improving nutrient use efficiency by 20-30% and reducing leaching. This minimizes waste and optimizes plant uptake.\n3.  **Pest and Disease Management:** Nano-pesticides and nano-herbicides offer higher efficacy at lower concentrations due to increased surface area and targeted delivery, reducing chemical residues in food and soil. Silver nanoparticles, for example, exhibit broad-spectrum antimicrobial properties against plant pathogens.\n4.  **Improved Crop Protection:** Nano-coatings can extend the shelf life of fruits and vegetables by creating a protective barrier against microbial spoilage and moisture loss, reducing post-harvest losses (estimated at 15-20% in India).\n5.  **Water Management:** Nanomaterials like carbon nanotubes can be used in advanced filtration systems for water purification and desalination, providing clean water for irrigation in water-stressed regions.\n\n**Uplifting Socio-Economic Status of Farmers:**\n\n1.  **Increased Yields and Income:** By optimizing resource use and minimizing losses, nanotechnology can boost crop yields by 10-25%, directly translating to higher incomes for farmers.\n2.  **Reduced Input Costs:** Precision application of inputs (fertilizers, pesticides) reduces their overall consumption, lowering operational costs for farmers.\n3.  **Improved Food Security and Quality:** Higher yields and reduced post-harvest losses contribute to greater food availability. Nano-enabled solutions also lead to safer produce with fewer chemical residues, fetching better market prices.\n4.  **Sustainable Farming Practices:** Reduced chemical runoff and efficient resource utilization promote environmentally friendly agriculture, aligning with global sustainability goals and potentially opening doors to premium markets for \"green\" produce.\n5.  **Access to Modern Technology:** Government initiatives like the **National Nanotechnology Mission (NNM)** promote research and development, aiming to make these technologies accessible and affordable for small and marginal farmers through subsidies and training programs. This empowers farmers with advanced tools, enhancing their competitiveness and resilience.\n\nBy integrating nanotechnology, Indian agriculture can move towards a more productive, sustainable, and profitable future, significantly improving the livelihoods of millions of farmers.",
+      "word_count": 376,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q16",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 16,
+      "question_text": "India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "India's ambition to become a semiconductor manufacturing hub faces significant challenges despite its growing digital economy.\n\n**Challenges:**\n\n1.  **High Capital Investment and Long Gestation Periods:** Setting up a fabrication unit (fab) requires billions of dollars (e.g., a 28nm fab can cost $5-10 billion) and takes 3-5 years to become operational. This necessitates sustained government support and private sector commitment.\n2.  **Lack of a Mature Ecosystem:** India lacks a robust ecosystem of ancillary industries, including specialized chemicals, gases, equipment manufacturers, and skilled labor for advanced packaging and testing. This forces reliance on imports, increasing costs and lead times.\n3.  **Technology Access and IP Issues:** Leading-edge technology is dominated by a few global players (TSMC, Samsung, Intel). Accessing advanced process nodes and intellectual property (IP) through licensing or joint ventures is crucial but often challenging due to geopolitical considerations and proprietary interests.\n4.  **Skilled Workforce Shortage:** While India has a large engineering talent pool, specialized skills in semiconductor design, fabrication, and advanced packaging are scarce. Training programs need significant scaling up.\n5.  **Water and Power Infrastructure:** Semiconductor manufacturing is highly water and power-intensive. Ensuring uninterrupted supply of ultra-pure water and reliable, affordable electricity is a critical infrastructure challenge.\n6.  **Geopolitical and Supply Chain Risks:** The global semiconductor industry is highly concentrated and susceptible to geopolitical tensions and supply chain disruptions, as seen during the COVID-19 pandemic.\n\n**India Semiconductor Mission (ISM):**\n\nLaunched in December 2021 with an outlay of **INR 76,000 crore (approx. $10 billion)**, the ISM aims to build a vibrant semiconductor and display manufacturing ecosystem. Its salient features include:\n\n1.  **Semiconductor Fabs and Display Fabs:** Provides fiscal support of up to **50% of project cost** for setting up silicon semiconductor fabs, display fabs, and compound semiconductor/silicon photonics/MEMS fabs.\n2.  **Design Linked Incentive (DLI) Scheme:** Offers financial incentives and design infrastructure support to domestic companies, startups, and MSMEs for semiconductor design.\n3.  **Semiconductor ATMP/OSAT Units:** Provides fiscal support of up to **50% of project cost** for setting up Assembly, Testing, Marking, and Packaging (ATMP) / Outsourced Semiconductor Assembly and Test (OSAT) facilities.\n4.  **Talent Development:** Focuses on developing a skilled workforce through partnerships with academia and industry.\n5.  **Strategic Partnerships:** Encourages global players to invest in India through joint ventures and technology transfers.\n\nThe ISM is a crucial step, but its success hinges on overcoming the aforementioned challenges through sustained policy implementation, infrastructure development, and fostering a competitive business environment.",
+      "word_count": 398,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q17",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 17,
+      "question_text": "Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "Mining, while crucial for economic growth (contributing ~2.5% to India's GDP in FY23), poses significant environmental hazards across its lifecycle.\n\n**Environmental Hazards of Mining:**\n\n1.  **Land Degradation and Habitat Loss:** Open-cast mining, prevalent for coal and iron ore, involves extensive land clearing, leading to deforestation (e.g., Hasdeo Arand in Chhattisgarh) and destruction of biodiversity hotspots. Over 1.5 million hectares of forest land have been diverted for mining since 1980.\n2.  **Water Pollution:** Acid Mine Drainage (AMD) from sulfide-rich ores releases heavy metals (e.g., lead, arsenic) into water bodies, contaminating groundwater and surface water. Tailings dams, if breached, can cause catastrophic pollution events (e.g., Goa's iron ore mining impacting Mandovi River). Water abstraction for mining also depletes local water sources.\n3.  **Air Pollution:** Dust emissions from excavation, transportation, and crushing operations (particulate matter PM2.5, PM10) cause respiratory illnesses. Blasting releases NOx and SOx, contributing to acid rain.\n4.  **Soil Contamination:** Spoil heaps and tailings contain toxic elements, rendering soil infertile and unsuitable for agriculture.\n5.  **Noise Pollution:** Heavy machinery and blasting disrupt wildlife and local communities.\n6.  **Social Displacement:** Mining often displaces indigenous communities, impacting their livelihoods and cultural heritage.\n\n**Remedial Measures:**\n\n1.  **Strict Environmental Impact Assessment (EIA) and Management Plans (EMP):** Robust EIA, as mandated by the Environment (Protection) Act, 1986, with public hearings, is crucial. EMPs must include detailed plans for pollution control, rehabilitation, and post-mining land use.\n2.  **Technological Advancements:**\n    *   **Dry beneficiation techniques:** Reduce water consumption and AMD generation.\n    *   **In-situ leaching:** For certain minerals, minimizes surface disturbance.\n    *   **Advanced dust suppression systems:** Using water sprays, chemical suppressants, and enclosed conveyors.\n    *   **Remote sensing and GIS:** For effective monitoring of environmental changes.\n3.  **Mine Reclamation and Rehabilitation:** Mandatory backfilling of open pits, topsoil replacement, and afforestation (e.g., Compensatory Afforestation Fund Management and Planning Authority - CAMPA funds). The Mines and Minerals (Development and Regulation) Act, 1957, and subsequent amendments emphasize progressive mine closure.\n4.  **Water Management:**\n    *   **Water recycling and reuse:** In processing plants.\n    *   **Treatment of AMD:** Using passive (e.g., constructed wetlands) or active (e.g., lime neutralization) methods.\n    *   **Rainwater harvesting:** To reduce reliance on groundwater.\n5.  **Regulatory Enforcement and Monitoring:** Strengthening regulatory bodies like the Indian Bureau of Mines (IBM) and State Pollution Control Boards (SPCBs) for effective oversight and punitive action against non-compliance.\n6.  **Sustainable Mining Practices:** Promoting circular economy principles, mineral conservation, and exploring alternatives or recycling.\n\nBy integrating these measures, India can mitigate the environmental footprint of mining while harnessing its economic benefits.",
+      "word_count": 411,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    },
+    {
+      "question_id": "mains_gs3_2025_q18",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 18,
+      "question_text": "Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_0447",
+      "candidate_answer": "India's climate commitments under the Paris Agreement (2015) were ambitious, reflecting its commitment to climate action while upholding the principle of Common but Differentiated Responsibilities and Respective Capabilities (CBDR-RC). The initial Nationally Determined Contribution (NDC) pledged three key targets by 2030:\n\n1.  **Reduce the emissions intensity of its GDP by 33 to 35 percent from 2005 levels.** This aimed at decoupling economic growth from emissions.\n2.  **Achieve about 40 percent cumulative electric power installed capacity from non-fossil fuel-based energy resources.** This highlighted a significant shift towards renewable energy.\n3.  **Create an additional carbon sink of 2.5 to 3 billion tonnes of CO2 equivalent through additional forest and tree cover.** This focused on nature-based solutions.\n\nThese commitments were further strengthened at **COP26 (2021) in Glasgow** with Prime Minister Modi's announcement of the \"Panchamrit\" (five nectar elements). These included:\n\n1.  **Achieving 500 GW of non-fossil energy capacity by 2030.** A substantial increase from the earlier 40% installed capacity target.\n2.  **Meeting 50% of its energy requirements from renewable energy by 2030.** A new, more specific target for energy mix.\n3.  **Reducing the total projected carbon emissions by one billion tonnes from now till 2030.** A concrete absolute emissions reduction target.\n4.  **Reducing the emissions intensity of its GDP by 45% by 2030 from 2005 levels.** An enhancement of the previous 33-35% target.\n5.  **Achieving Net Zero emissions by 2070.** A long-term, overarching goal.\n\nIn line with these enhanced ambitions, India officially **updated its first NDC in August 2022**. The updated NDC formally incorporated two of the Panchamrit pledges:\n\n1.  **To reduce the emissions intensity of its GDP by 45 percent by 2030 from 2005 level.**\n2.  **To achieve about 50 percent cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2030.**\n\nThe updated NDC demonstrates India's proactive stance, moving beyond its initial commitments and aligning its national climate policy with the urgency of global climate action, while still emphasizing sustainable development and energy security.",
+      "word_count": 324,
+      "_model": "openrouter/google/gemini-2.5-flash"
+    }
+  ],
+  "count": 20
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "question_id": "mains_essay_2025_q8",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a comprehensive, well-structured essay that systematically unpacks the aphorism through philosophical traditions (Stoicism, Buddhism, Gandhian ethics), happiness economics, and multiple mechanisms by which luxury creates 'artificial poverty' — status competition, ecological degradation, and commodification of attention. The essay concludes with both personal and policy-level reflections, including India-specific examples like Kerala, microfinance, and wedding expenditure culture.",
+        "analysis": "This is the strongest essay in the batch. Its key strength is the multi-layered analytical framework: it identifies three distinct mechanisms (status treadmill, ecological deficit, attention economy) through which luxury creates artificial poverty, rather than simply asserting the claim. The philosophical grounding is rich but not decorative — Gandhi, Veblen, Epicurus, and Thoreau are deployed purposefully. The India-specific examples (Kerala, microfinance distress, wedding arms race, urban EMI culture) and international comparisons (Nordic countries, Japan, Bhutan, Costa Rica) demonstrate genuine depth. The essay's most sophisticated move is the balanced acknowledgment that luxury is 'not a monolith' — some luxury goods drive innovation and become necessities — which prevents the argument from becoming simplistic. Weaknesses include exceeding the word limit by approximately 350 words (1552 vs 1200), which a strict UPSC examiner would penalize. Some sections could be tighter; the ecological section and attention economy section slightly overlap. The tone is measured and academic throughout, avoiding polemics.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 28.5,
+            "justification": "Exceptionally comprehensive coverage spanning philosophy, economics, psychology, ecology, and policy, with accurate facts and diverse examples from India and globally — scoring 76% of the 37.5 maximum."
+          },
+          "structure_flow": {
+            "score": 19.0,
+            "justification": "Clear thesis in introduction, logical progression through philosophy to mechanisms to balance to policy implications, and a strong synthesizing conclusion — scoring 76% of the 25.0 maximum."
+          },
+          "depth_examples": {
+            "score": 19.5,
+            "justification": "Specific examples include Kerala's HDI, Nordic welfare models, Bhutan's GNH, Costa Rica's health outcomes, Indian wedding culture, urban EMI debt, Easterlin paradox, and Veblen's conspicuous consumption — scoring 78% of the 25.0 maximum."
+          },
+          "analytical_depth": {
+            "score": 19.0,
+            "justification": "Three-mechanism framework (status, ecology, attention) is genuinely original, and the nuanced acknowledgment that luxury can drive innovation prevents oversimplification — scoring 76% of the 25.0 maximum."
+          },
+          "presentation": {
+            "score": 7.5,
+            "justification": "Excellent prose quality and readability, but significantly exceeds the 1200-word limit at 1552 words, which would draw penalties from a strict examiner — scoring 60% of the 12.5 maximum."
+          }
+        },
+        "total_score": 93.5,
+        "max_marks": 125,
+        "brief_feedback": "An exceptionally well-argued essay with genuine analytical depth, diverse and well-deployed examples, and a sophisticated balanced perspective. The three-mechanism framework for 'artificial poverty' is the strongest analytical contribution in the batch. The major shortcoming is substantially exceeding the word limit, which undermines the presentation score. Tightening the ecological and attention economy sections would improve the essay without sacrificing substance."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B presents a philosophically grounded essay that explores contentment through Stoicism, Buddhism, and Indian Santosha, then examines luxury's psychological trap via the hedonic treadmill. The essay covers societal implications including environmental degradation, inequality, and erosion of intrinsic values, while acknowledging that moderate luxury is not inherently harmful.",
+        "analysis": "This essay demonstrates solid understanding and competent organization but is noticeably more generic and less analytically incisive than the best entries. The philosophical section is well-executed with appropriate references to Epictetus, Buddhism, and Patanjali, but the rural farmer example feels somewhat romanticized and stereotypical. The hedonic treadmill discussion is accurate but standard fare — it does not push beyond the commonly rehearsed framing. The societal implications section covers inequality (Gini coefficient mentioned) and environment (fashion industry, fast fashion) but lacks the specificity of top answers — there are no concrete data points for Indian inequality beyond a general reference to India's rising Gini. The essay's balanced acknowledgment of luxury as 'not inherently evil' is sound but somewhat underdeveloped. The writing is clear and fluent throughout, and the word count (1317) exceeds the limit by roughly 10%, a less severe violation than Candidate A. The overall impression is of a well-prepared, competent essay that covers expected ground without offering distinctive insight.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 23.0,
+            "justification": "Covers philosophy, psychology, environmental impact, inequality, and cultural dimensions, but examples remain somewhat generic and lack the specificity and range of the strongest essays — scoring 61% of the 37.5 maximum."
+          },
+          "structure_flow": {
+            "score": 16.5,
+            "justification": "Well-organized with clear thematic sections and a coherent conclusion, but the progression is somewhat predictable (philosophy → psychology → society → balance → conclusion) without distinctive structural choices — scoring 66% of the 25.0 maximum."
+          },
+          "depth_examples": {
+            "score": 14.5,
+            "justification": "References Epictetus, hedonic treadmill, Gini coefficient, and fashion industry, but examples are mostly general rather than specific case studies with data — the rural farmer example is a generic archetype rather than concrete evidence — scoring 58% of the 25.0 maximum."
+          },
+          "analytical_depth": {
+            "score": 14.0,
+            "justification": "Identifies the hedonic treadmill and conspicuous consumption as mechanisms but does not push analysis beyond standard framing; the 'motivation' distinction in the balance section is interesting but underdeveloped — scoring 56% of the 25.0 maximum."
+          },
+          "presentation": {
+            "score": 8.5,
+            "justification": "Clear, fluent prose with good readability; exceeds word limit modestly at 1317 words; overall professional presentation — scoring 68% of the 12.5 maximum."
+          }
+        },
+        "total_score": 76.5,
+        "max_marks": 125,
+        "brief_feedback": "A competent and well-organized essay that covers the expected philosophical, psychological, and societal dimensions of the topic. The writing is polished and the structure is logical. However, the essay lacks the analytical sharpness and concrete specificity that distinguish top-tier answers — the examples tend toward generality, and the analysis, while sound, does not offer distinctive insights beyond well-known frameworks like the hedonic treadmill. Adding specific Indian case studies, data points, and a more original analytical framework would significantly strengthen this response."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C opens memorably with a Socrates anecdote and delivers a well-structured essay organized under clear subheadings, exploring contentment through Indian philosophy and empirical evidence (Easterlin Paradox, Kerala), luxury's mechanisms through psychological, social, and ecological lenses, and a thoughtful balance section addressing the critique that contentment can be used to justify deprivation. The essay concludes with a sweeping but effective framing of India's civilizational choice.",
+        "analysis": "This is a very strong essay that rivals Candidate A in quality, with particular strengths in two areas: evocative opening (the Socrates marketplace anecdote) and intellectual honesty in the 'Balancing Contentment with Aspiration' section, where Ambedkar is invoked to argue that contentment cannot be preached to the systematically oppressed. This is the most socially aware argument in the batch and demonstrates genuine critical thinking. The Kerala example is well-deployed with specific comparative framing (lower income than Maharashtra/Gujarat but higher HDI). The Oxfam data on Indian wealth concentration (top 1% owning 40%+) provides concrete specificity. The ecological section is effective, connecting India's rivers and climate vulnerability to luxury consumption. The use of subheadings is a double-edged sword: it aids clarity but is somewhat unusual for UPSC essay format, which typically expects continuous prose. The essay is within reasonable range of the word limit at 1308 words. One weakness is that the Scandinavian example in the balance section feels slightly rushed and underdeveloped compared to the Bhutan discussion. The conclusion is ambitious in framing India's choice as civilizationally significant — effective rhetoric though perhaps slightly overwrought.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 27.5,
+            "justification": "Comprehensive coverage of philosophy (Gita, Upanishads, Gandhi, Stoics), psychology (Kahneman, Easterlin Paradox, hedonic treadmill), economics (Oxfam data, CMIE report), ecology (fashion industry, Sundarbans, Vidarbha), and social justice (Ambedkar) — scoring 73% of the 37.5 maximum."
+          },
+          "structure_flow": {
+            "score": 19.5,
+            "justification": "Excellent structure with a compelling opening anecdote, clear thematic progression, and an effective conclusion; subheadings aid navigation though are slightly unconventional for UPSC essay format — scoring 78% of the 25.0 maximum."
+          },
+          "depth_examples": {
+            "score": 19.0,
+            "justification": "Strong specific examples including Kerala's HDI ranking, Easterlin Paradox with Japan data, Oxfam 2023 inequality statistics, CMIE urban debt data, Bhutan's GNH, Sundarbans climate vulnerability, and Vidarbha farmer distress — scoring 76% of the 25.0 maximum."
+          },
+          "analytical_depth": {
+            "score": 18.5,
+            "justification": "The Ambedkar critique of contentment-as-justification-for-oppression is the most intellectually honest and original analytical move in the batch; the three-dimensional mechanism (psychological, social, ecological) is well-developed — scoring 74% of the 25.0 maximum."
+          },
+          "presentation": {
+            "score": 9.5,
+            "justification": "Strong prose quality with a memorable opening, effective use of quotations, and near-compliance with word limit at 1308 words; markdown subheadings are a minor stylistic concern for traditional essay format — scoring 76% of the 12.5 maximum."
+          }
+        },
+        "total_score": 94.0,
+        "max_marks": 125,
+        "brief_feedback": "An excellent essay that combines intellectual depth with concrete Indian examples and a distinctive critical perspective. The Ambedkar-inspired critique — that contentment must not be used to justify systemic deprivation — is the most original and socially conscious argument in the batch, elevating this beyond a standard philosophical treatment. The Socrates opening is effective, and the evidence base (Easterlin Paradox, Oxfam data, Kerala, CMIE) is strong. Minor weaknesses include the somewhat rushed Scandinavian section and the use of markdown-style subheadings, which may not align with traditional UPSC essay conventions."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D opens with an Epicurus quotation and constructs a systematic essay that clearly distinguishes contentment from complacency, explains artificial poverty through the hedonic treadmill and conspicuous consumption, and examines economic ramifications through India's post-liberalization EMI culture and the 2008 financial crisis. The essay incorporates environmental concerns, Bhutan's GNH, India's LiFE initiative, and the minimalist movement.",
+        "analysis": "This is a solid, well-researched essay that covers substantial ground with competence. Its distinctive strength is the inclusion of the 2008 financial crisis as a concrete example of artificial poverty producing real economic devastation — this is a creative and effective application of the aphorism that other candidates did not attempt. The India-specific discussion of post-liberalization EMI culture is vivid and relatable. The environmental section is effective, mentioning Earth Overshoot Day and private jets/mega-yachts. The LiFE (Lifestyle for Environment) initiative reference is a smart contemporary policy example. However, the essay has some weaknesses: the opening paragraph is somewhat heavy with definitional exposition rather than a grabbing hook, and there is a tendency toward declarative assertions rather than nuanced analysis. The balance section acknowledging that rejecting luxury should not romanticize poverty is important but the essay does not develop this tension with the same sophistication as Candidates A or C. The writing is occasionally verbose (e.g., 'the relentless pursuit of luxury demands an exorbitant extraction of natural resources') where more precise phrasing would be stronger. The essay stays within the word limit well at 1243 words.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 25.5,
+            "justification": "Good coverage of philosophy (Epicurus, Santosha), psychology (hedonic treadmill), economics (2008 crisis, EMI culture), environment (Earth Overshoot Day, fast fashion), and policy (LiFE initiative, GNH) — scoring 68% of the 37.5 maximum."
+          },
+          "structure_flow": {
+            "score": 17.0,
+            "justification": "Logical progression from philosophical foundations through economic and environmental dimensions to contemporary movements and conclusion; the opening is somewhat exposition-heavy and the transitions between sections could be smoother — scoring 68% of the 25.0 maximum."
+          },
+          "depth_examples": {
+            "score": 17.5,
+            "justification": "The 2008 financial crisis example is a distinctive and effective application; other examples include India's EMI culture, Earth Overshoot Day, Bhutan's GNH, and the LiFE initiative — scoring 70% of the 25.0 maximum."
+          },
+          "analytical_depth": {
+            "score": 16.0,
+            "justification": "The application of artificial poverty to the 2008 crisis is analytically creative, but overall the essay tends more toward assertion than nuanced argumentation; the balance section is adequate but does not achieve the critical depth of the best entries — scoring 64% of the 25.0 maximum."
+          },
+          "presentation": {
+            "score": 9.5,
+            "justification": "Clean prose within the word limit at 1243 words; occasional verbosity but overall professional and readable — scoring 76% of the 12.5 maximum."
+          }
+        },
+        "total_score": 85.5,
+        "max_marks": 125,
+        "brief_feedback": "A competent and well-rounded essay that covers the topic thoroughly with effective India-specific and global examples. The 2008 financial crisis application and the LiFE initiative reference are distinctive contributions that set this apart from a standard treatment. The essay would benefit from a more engaging opening, sharper analytical prose rather than declarative assertions, and greater development of the tension between rejecting luxury and not romanticizing poverty. Overall, a strong above-average performance that demonstrates breadth and awareness but falls slightly short on the analytical depth and originality of the top entries."
+      }
+    ]
+  }
+]

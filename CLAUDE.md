@@ -60,7 +60,9 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 
 ## Git History
 ```
-<latest commits from this session will be added after commit>
+bdf732a Update CLAUDE.md: checkpoint after quiz and data cleanup session
+da3c5f1 Add interactive quiz and fix GitHub link in footer
+6b7ec54 Fix GS1 2025 data quality and re-run all model benchmarks
 adf5103 Fix Prelims rankings: rank by GS1 marks instead of combined GS1+CSAT
 969795e Update CLAUDE.md checkpoint: project state after UI polish session
 ffd5da4 Add complete project: evaluation harness, data pipeline, Next.js leaderboard

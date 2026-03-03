@@ -1,0 +1,627 @@
+[
+  {
+    "question_id": "mains_gs4_2025_q5b",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a well-structured answer covering institutional measures, participatory approaches, capacity building, attitudinal shift, and accountability mechanisms. The Gandhian Antyodaya reference adds ethical grounding appropriate for GS4.",
+        "analysis": "The answer is organized into clear thematic categories, which aids readability and demonstrates systematic thinking. The measures suggested are relevant and comprehensive — single-window clearance, PPPs, e-governance, social audits, and convergence approach are all practical and commonly cited in administrative reform discourse. However, the answer reads somewhat like a generic governance reform checklist rather than being sharply focused on the specific 'enabler vs. regulator' distinction the question demands. The Gandhian reference at the end is appropriate but feels tacked on. The answer slightly exceeds the word limit at 166 words, which is minor. Depth could be improved with specific scheme references or examples of successful facilitative governance.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Covers relevant measures across multiple dimensions — institutional, participatory, capacity building, attitudinal, and accountability. All points are factually sound. Lacks specific scheme/programme references (e.g., Mission Karmayogi, Aspirational Districts Programme) that would demonstrate deeper knowledge. Max 4.0, scored at 65%."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Excellent organization with clear thematic headings and a concluding line tying back to the question. Logical flow from structural to attitudinal to accountability measures. Max 2.0, scored at 75%."
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Mentions e-governance, social audits, PPPs, single-window clearance — these are reasonable but generic. No specific examples of successful facilitative governance or named programmes. The Gandhian Antyodaya reference adds some depth but is broadly used. Max 2.0, scored at 55%."
+          },
+          "analytical_depth": {
+            "score": 0.55,
+            "justification": "The answer identifies the shift from command-and-control to facilitative governance, showing understanding of the conceptual transition. However, it does not critically examine challenges or limitations of this shift, nor does it explore tensions between enabling and regulating. Max 1.0, scored at 55%."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Clear, concise language with effective use of bullet points and bold formatting. Slightly over the word limit. Well-written concluding sentence. Max 1.0, scored at 70%."
+          }
+        },
+        "total_score": 6.45,
+        "max_marks": 10,
+        "brief_feedback": "Solid, well-organized answer covering the key dimensions of facilitative governance. Would benefit from specific programme references and deeper analysis of the enabler-regulator tension."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B delivers a strong answer anchored in the 'Minimum Government, Maximum Governance' framework, with specific measures including process simplification, participatory governance, e-governance, capacity building, and attitudinal shift. References to Mission Karmayogi and Jan Bhagidari demonstrate current awareness.",
+        "analysis": "This is the strongest answer in the set. The opening framing with 'Minimum Government, Maximum Governance' immediately contextualizes the question within India's governance reform discourse. Each measure is specific and actionable — self-certification, DBT, Ease of Doing Business/Living are concrete references rather than vague prescriptions. The reference to Mission Karmayogi under attitudinal shift is particularly apt as it directly addresses the transformation of civil servants from rule-bound to role-bound. The distinction between 'gatekeepers' and 'enablers' in the conclusion effectively summarizes the argument. The Jan Bhagidari reference and inclusion of marginalized communities shows sensitivity to inclusive governance. Slightly over word limit at 169 words. The answer could benefit from mentioning convergence across departments and data-driven governance.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.9,
+            "justification": "All measures are factually accurate and highly relevant. References to self-certification, DBT, Ease of Doing Business, Ease of Living, Mission Karmayogi, and Jan Bhagidari demonstrate strong domain knowledge. Covers process, participation, technology, capacity, and attitude dimensions. Max 4.0, scored at 72.5%."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Clear thematic structure with an effective opening framework and strong concluding sentence. Logical progression from process simplification to participatory governance to technology to capacity building to attitudinal change. Max 2.0, scored at 75%."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Strong specific references: Mission Karmayogi, DBT, Jan Bhagidari, Ease of Doing Business, self-certification, emotional intelligence. These are concrete and current, going beyond generic prescriptions. Max 2.0, scored at 70%."
+          },
+          "analytical_depth": {
+            "score": 0.65,
+            "justification": "The rule-bound to role-bound distinction shows analytical thinking. The framing of citizens as 'self-reliant partners rather than passive beneficiaries' demonstrates a nuanced understanding of the facilitative model. Could explore challenges or limitations more. Max 1.0, scored at 65%."
+          },
+          "presentation": {
+            "score": 0.75,
+            "justification": "Polished, fluent writing with effective use of italics for Hindi terms and strong opening and closing sentences. Slightly over word limit. Language quality is high throughout. Max 1.0, scored at 75%."
+          }
+        },
+        "total_score": 7.2,
+        "max_marks": 10,
+        "brief_feedback": "The strongest answer — well-framed, specific, and current. Mission Karmayogi and Jan Bhagidari references elevate this above generic governance prescriptions. Could add convergence approach and data-driven governance."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a concise, practitioner-oriented answer with seven specific measures ranging from citizen-centric governance to data-driven decision-making and ethical leadership. The answer stays within word limits and reads like an experienced administrator's action plan.",
+        "analysis": "This answer stands out for its practical, operational focus. Measures like risk-based audits, shared beneficiary databases, coordinated field teams, and district-level mission mode reflect actual administrative practice rather than textbook prescriptions. The convergence point (health-education-nutrition-livelihood integration) is a sophisticated measure that many candidates miss. The emphasis on trust-based compliance and minimal discretion to curb rent-seeking shows understanding of governance pathologies. However, the answer lacks a conceptual framework or theoretical grounding — there is no reference to governance reform principles, ethical theories, or named programmes/policies. The phrase 'ease of living' and 'ease of doing business' appear but are not developed. The opening sentence clearly frames the shift from permission-oriented to outcome-oriented, which is apt. At 146 words, it respects the word limit well.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Covers seven distinct measures, all relevant and accurate. The convergence point, risk-based audits, and shared beneficiary databases are sophisticated additions not seen in other answers. All factual content is sound. Max 4.0, scored at 70%."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Presented as a bullet-point list with a brief intro. While organized, it lacks thematic grouping (unlike Candidates A and B) and has no concluding statement. The list format, while efficient, sacrifices narrative flow. Max 2.0, scored at 60%."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Practical examples like risk-based audits, shared beneficiary databases, district-level mission mode, and real-time dashboards demonstrate operational knowledge. However, no named schemes, programmes, or reforms are referenced. Max 2.0, scored at 65%."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The permission-to-outcome framing is good, and the rent-seeking point shows awareness of governance challenges. However, the answer lacks theoretical depth or critical analysis of the enabler-regulator tension. Max 1.0, scored at 50%."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Concise and within word limit. Writing is clear and professional. The dash-based formatting with bold headings works well. Could benefit from a concluding sentence. Max 1.0, scored at 70%."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Practitioner-oriented and concise with sophisticated operational measures. Would score higher with a theoretical framework, named policy references, and a stronger conclusion."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D offers a numbered list of six measures including process simplification, proactive information dissemination, capacity building, collaborative governance, feedback mechanisms, and performance-based incentives. The answer is clear but somewhat generic.",
+        "analysis": "The answer covers the essential dimensions but lacks the specificity and conceptual depth of stronger responses. The measures are sound — process simplification, collaborative governance, capacity building, and feedback mechanisms are all relevant. The proactive information dissemination point is a useful addition not prominent in other answers, showing awareness of information asymmetry as a governance challenge. The performance-based incentives point is also a practical measure. However, no specific programmes, reforms, or theoretical frameworks are referenced. The answer does not invoke any governance reform discourse (Minimum Government/Maximum Governance, Mission Karmayogi, etc.) or ethical frameworks. The language is clear but generic — phrases like 'foster partnerships,' 'empower stakeholders,' and 'conducive to sustainable development' are boilerplate. At 174 words, it exceeds the word limit noticeably.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Six relevant measures are listed, all factually accurate. Proactive information dissemination and performance-based incentives are useful additions. However, no specific scheme or programme references. Content is accurate but surface-level. Max 4.0, scored at 60%."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear numbered format with an introductory sentence and concluding statement. Logical organization. However, lacks thematic grouping — six measures are presented sequentially without any higher-level categorization. Max 2.0, scored at 65%."
+          },
+          "depth_examples": {
+            "score": 0.9,
+            "justification": "No specific examples, named programmes, data points, or case studies. All measures are stated at a general level. The proactive information dissemination point is somewhat specific (mentions awareness campaigns and helplines) but still generic. Max 2.0, scored at 45%."
+          },
+          "analytical_depth": {
+            "score": 0.45,
+            "justification": "The answer identifies the shift from regulation to enabling but does not critically examine what this entails, what challenges arise, or what tensions exist. Analysis is shallow. Max 1.0, scored at 45%."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Clear and readable language. Numbered format is easy to follow. However, exceeds word limit at 174 words and uses somewhat boilerplate language. Max 1.0, scored at 60%."
+          }
+        },
+        "total_score": 5.65,
+        "max_marks": 10,
+        "brief_feedback": "A competent but generic answer. The proactive information dissemination point is a useful differentiator, but the overall response lacks specificity, named references, and analytical depth."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs4_2025_q6a",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a well-rounded answer on ensuring a value-based work culture with five clear measures including leading by example, sensitization, ethics-integrated appraisals, whistleblower protection, and transparency. The Sanskrit reference and emphasis on means vs. ends is effective.",
+        "analysis": "The answer opens with a nuanced distinction between having a code of ethics and actually translating it into practice, which directly addresses the question's premise. The 'Yatha Raja, Tatha Praja' reference is appropriate and adds cultural depth. The third point on integrating ethics into performance appraisals is well-articulated — the distinction between 'ends' and 'means' is a powerful ethical argument relevant to organisational ethics. The whistleblower protection point and participative decision-making are standard but relevant. The concluding paragraph on 'structural mechanisms with behavioral nudges' is sophisticated. However, the answer is at 180 words, exceeding the limit. It does not mention an Ethics Committee, ethical audits, or induction training, which would strengthen institutional mechanisms. The answer is somewhat top-heavy on leadership and light on systemic enforcement.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.7,
+            "justification": "Five relevant measures, all factually sound. The means-vs-ends distinction, leading by example, and whistleblower protection are well-addressed. Misses ethics committee, ethical audits, and induction training. Overall coverage is good but not comprehensive. Max 4.0, scored at 67.5%."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear bullet-point structure with effective opening and closing paragraphs. The flow from introduction to measures to conclusion is logical. The concluding paragraph adds a synthesizing element that elevates the answer. Max 2.0, scored at 70%."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "The 'Yatha Raja, Tatha Praja' reference and the means-vs-ends argument add depth. Case-study-based discussions are mentioned but not exemplified. No specific organisational ethics examples or named whistleblower protection frameworks (like CVC guidelines). Max 2.0, scored at 60%."
+          },
+          "analytical_depth": {
+            "score": 0.65,
+            "justification": "The structural-mechanisms-plus-behavioral-nudges framing shows analytical sophistication. The means-vs-ends distinction demonstrates critical thinking about organisational ethics. However, the answer does not explore challenges of implementing these measures or tensions between enforcement and trust. Max 1.0, scored at 65%."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Well-written with effective use of italics and bold. Language is fluent and polished. Exceeds word limit at 180 words. The concluding sentence is particularly strong. Max 1.0, scored at 70%."
+          }
+        },
+        "total_score": 6.65,
+        "max_marks": 10,
+        "brief_feedback": "Strong answer with a sophisticated framing and good ethical references. The means-vs-ends argument and concluding synthesis are highlights. Would benefit from institutional mechanisms like ethics committees and ethical audits."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a comprehensive, well-organized answer covering institutional framework, capacity building, leadership and culture, and monitoring and accountability. The ethics committee and ethical audits are distinctive additions.",
+        "analysis": "This is the most systematically organized answer, dividing measures into four clear categories that cover the full spectrum from institutional architecture to monitoring. The inclusion of an Ethics Committee is a strong institutional measure that other candidates miss. The mention of ethical audits under monitoring adds a compliance dimension. The induction-time value-orientation programme is practical. However, the answer reads somewhat like a textbook enumeration — well-organized but lacking in personality or nuanced analysis. There is no specific ethical theory, cultural reference, or named framework. The phrase 'moving beyond mere compliance toward internalized value-based conduct' in the conclusion is a good insight but is not developed. At 168 words, it is slightly over the limit. The answer would benefit from specific examples or case references demonstrating how these measures work in practice.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Most comprehensive coverage of institutional measures: code of ethics, ethics committee, whistleblower protection, training, induction, ethical leadership, open communication, ethical audits, performance appraisals. All points are relevant and accurate. Max 4.0, scored at 70%."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Excellent four-category structure (Institutional Framework, Capacity Building, Leadership and Culture, Monitoring and Accountability) that is logical and exhaustive. Clear heading and concluding statement. Max 2.0, scored at 75%."
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "While the range of measures is broad, each is stated without specific examples, named frameworks, or case references. Ethics committee, ethical audits, and induction programmes are mentioned but not elaborated with real-world references. Max 2.0, scored at 50%."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The compliance-to-internalization insight in the conclusion is good but underdeveloped. The answer does not explore why codes of ethics fail, what challenges arise in implementation, or how to handle resistance. Analysis is limited. Max 1.0, scored at 50%."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Clean, professional formatting with clear headings. Language is precise if somewhat dry. Slightly over word limit. The structure itself is a presentation strength. Max 1.0, scored at 70%."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "The most comprehensively organized answer with strong institutional measures. The ethics committee and ethical audits are valuable additions. Would benefit from theoretical depth, specific examples, and more nuanced analysis of implementation challenges."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C presents four measures for ensuring a value-based work culture: active dissemination and training, leadership by example, open communication channels with whistleblower protection, and integration into performance management. The answer is clear but exceeds the word limit substantially.",
+        "analysis": "The answer opens well by distinguishing between having a code and ensuring it functions — a relevant observation. The four measures are sensible and cover training, leadership, reporting mechanisms, and performance integration. Each point is elaborated with reasoning, which demonstrates understanding of why each measure matters. The performance management integration point — that 'ethical behavior is as crucial as achieving targets' — echoes Candidate A's means-vs-ends argument. However, the answer is significantly over the word limit at 206 words, which in UPSC Mains is a notable flaw. The answer also lacks any distinctive elements — no cultural/ethical references, no named frameworks, no institutional innovations like ethics committees or ethical audits. The four points, while well-explained, are essentially the most standard prescriptions. The concluding sentence about embedding values into 'organizational DNA' is a good metaphor but does not add substance.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Four relevant measures, all factually accurate. Covers training, leadership, whistleblower protection, and performance integration. However, missing institutional measures (ethics committee, audits, induction programmes) and lacking in breadth compared to other candidates. Max 4.0, scored at 60%."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear numbered format with opening and closing paragraphs. Each measure is self-contained and well-explained. However, four points without thematic grouping limits structural sophistication. Max 2.0, scored at 65%."
+          },
+          "depth_examples": {
+            "score": 0.8,
+            "justification": "No specific examples, frameworks, cultural references, or named policies. Each measure is explained through reasoning but not grounded in concrete examples. The 'real-world scenarios' mentioned under training are generic. Max 2.0, scored at 40%."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The opening distinction between having a code and ensuring its effectiveness is a good analytical point. The performance management argument shows some critical thinking. However, no deeper analysis of challenges, tensions, or failure modes. Max 1.0, scored at 50%."
+          },
+          "presentation": {
+            "score": 0.55,
+            "justification": "Clear and readable language. However, significantly exceeds word limit at 206 words, which is a notable presentation flaw for a 150-word question. Writing is correct but lacks distinctive flair. Max 1.0, scored at 55%."
+          }
+        },
+        "total_score": 5.55,
+        "max_marks": 10,
+        "brief_feedback": "A clear and logical answer with sound measures, but lacks distinctiveness — no ethical frameworks, cultural references, or institutional innovations. Significantly exceeding the word limit hurts the presentation score."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a concise, action-oriented answer with eight specific measures including co-creating the code, robust systems like e-office and maker-checker controls, safe reporting mechanisms, and stakeholder feedback. The answer stays within the word limit and reads like a practitioner's checklist.",
+        "analysis": "This answer is distinctive for its operational specificity. Measures like e-office, transparent workflows, maker-checker controls, rotation in sensitive posts, and audit trails are concrete administrative tools rarely mentioned by other candidates. The co-creation of the code with staff is an excellent starting point that shows understanding of participatory ethics. Conflict-of-interest disclosure is a specific and relevant measure. The stakeholder feedback point including citizen charters and climate surveys adds an external accountability dimension. However, the answer reads as a rapid-fire list without analytical depth or theoretical grounding. There is no mention of ethical theories, no cultural references, and no exploration of why ethics initiatives fail. The language is telegraphic — effective for conveying information but lacking in the discursive quality expected in GS4 answers. At 144 words, it is within the word limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Eight distinct measures, all accurate and relevant. Unique additions include co-creation, conflict-of-interest disclosure, maker-checker controls, rotation in sensitive posts, audit trails, and climate surveys. Broadest range of specific institutional measures. Max 4.0, scored at 70%."
+          },
+          "structure_flow": {
+            "score": 1.1,
+            "justification": "Bullet-point list with brief intro. While the bullets are logically ordered (create → train → model → systematize → protect → enforce → reward → feedback), there is no thematic grouping, no section headings, and no concluding synthesis. Structure is functional but basic. Max 2.0, scored at 55%."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "The most specific answer in terms of concrete mechanisms: e-office, maker-checker, rotation, audit trails, conflict-of-interest disclosure, climate surveys. These are drawn from actual administrative practice. However, no named case studies or organisational examples. Max 2.0, scored at 70%."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Almost purely prescriptive with no analytical framing. Does not explore why codes of ethics succeed or fail, does not discuss ethical theory, and does not examine tensions between enforcement and trust-building. Max 1.0, scored at 40%."
+          },
+          "presentation": {
+            "score": 0.65,
+            "justification": "Within word limit, clear and concise. Telegraphic style is efficient but lacks the discursive quality expected in ethics paper answers. No concluding statement. Max 1.0, scored at 65%."
+          }
+        },
+        "total_score": 6.35,
+        "max_marks": 10,
+        "brief_feedback": "The most operationally specific answer with unique measures like maker-checker controls and climate surveys. Would score higher with analytical depth, theoretical grounding, and a more discursive writing style expected for GS4."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs4_2025_q6b",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a sophisticated answer organized around the Triple Bottom Line framework, applying Rawlsian justice, Gandhian Antyodaya, trusteeship, and inclusive utilitarianism to food security, environment, and instability respectively. Strong ethical grounding throughout.",
+        "analysis": "This is an exceptionally well-framed answer for a GS4 question. The Triple Bottom Line (People, Planet, Profit) framework provides an elegant organizing principle. Each section is grounded in a named ethical theory — Rawlsian justice for food security, trusteeship for environment, inclusive utilitarianism for stability — demonstrating strong command of ethical frameworks. The specific recommendations are practical: strengthening PDS, climate-resilient agriculture, renewable energy transition, LiFE initiative, social security nets. The LiFE (Lifestyle for Environment) reference is current and specific. The Sarvodaya conclusion effectively ties the answer together. However, the answer is at 180 words, exceeding the limit. Some recommendations could be more specific — 'equitable access to skill development' is generic. The intergenerational equity concept is well-deployed. The three-part structure elegantly maps ethical principles to policy domains.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.9,
+            "justification": "Covers food security, environment/energy, and instability with accurate recommendations. Ethical theories (Rawlsian justice, trusteeship, utilitarianism) are correctly applied. LiFE initiative, Antyodaya, Sarvodaya, PDS, renewable energy are all factually sound. Max 4.0, scored at 72.5%."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Excellent three-part structure organized around Triple Bottom Line with clear headings. Each section pairs an ethical principle with a policy domain. Strong introduction and concluding statement. Max 2.0, scored at 75%."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Rich references: Triple Bottom Line, Rawlsian justice, Antyodaya, trusteeship, LiFE initiative, Sarvodaya, PDS, renewable energy. The combination of ethical frameworks with specific policy references demonstrates strong depth. Max 2.0, scored at 70%."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The mapping of ethical theories to specific policy domains shows strong analytical thinking. The 'inclusive utilitarianism' concept demonstrates nuanced understanding — qualifying utilitarianism with inclusivity addresses a common critique. The intergenerational equity argument is well-deployed. Max 1.0, scored at 70%."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Polished and eloquent writing. Effective use of italics for Sanskrit/Hindi terms. Slightly over word limit at 180 words. The concluding Sarvodaya reference is powerful. Max 1.0, scored at 70%."
+          }
+        },
+        "total_score": 7.2,
+        "max_marks": 10,
+        "brief_feedback": "Outstanding GS4 answer with ethical frameworks elegantly mapped to policy domains. The Triple Bottom Line structure, Rawlsian justice, trusteeship, and LiFE references demonstrate strong command of ethics and current affairs."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a structured answer listing ethical principles upfront and organizing recommendations by sector (food security, energy, environment, instability), with a constitutional framework reference to DPSPs. Coverage is broad and accurate.",
+        "analysis": "The answer opens by listing relevant ethical principles — intergenerational equity, distributive justice, trusteeship, sustainable development, and CBDR — which demonstrates awareness of the ethical framework dimension. The sector-wise recommendations are relevant: Aadhaar-linked PDS, renewable energy, polluter-pays principle, circular economy. The connection between each recommendation and an ethical principle (Antyodaya for food, intergenerational justice for energy, trusteeship for environment) strengthens the GS4 relevance. The overarching framework reference to DPSPs and constitutional vision is appropriate. However, the answer reads somewhat mechanically — each section follows the same template of recommendation + ethical principle. The CBDR reference (common but differentiated responsibilities) is relevant to international climate ethics but slightly tangential for domestic policy recommendations. The circular economy mention is good but undeveloped. At 162 words, it is slightly over the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.7,
+            "justification": "Broad coverage of all four sectors with accurate recommendations. Ethical principles are correctly identified and applied. Aadhaar-linked PDS, polluter-pays, circular economy, and DPSP references are all accurate. The CBDR reference is slightly tangential. Max 4.0, scored at 67.5%."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized with ethical principles listed upfront, sector-wise recommendations, and an overarching framework conclusion. Clear headings and logical flow. Max 2.0, scored at 70%."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "References to Antyodaya, intergenerational justice, trusteeship, Aadhaar-linked distribution, polluter-pays, circular economy, and DPSPs demonstrate good range. However, each reference is brief and could be more elaborated. Max 2.0, scored at 60%."
+          },
+          "analytical_depth": {
+            "score": 0.55,
+            "justification": "Ethical principles are applied to sectors but the analysis is somewhat formulaic — each section pairs a principle with a recommendation without examining tensions or trade-offs. The DPSP reference in the conclusion adds constitutional analysis. Max 1.0, scored at 55%."
+          },
+          "presentation": {
+            "score": 0.65,
+            "justification": "Clean formatting with bold headings and clear sections. Language is professional. Slightly over word limit. Lacks the eloquence of Candidate A's writing. Max 1.0, scored at 65%."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Well-organized sector-wise answer with appropriate ethical frameworks. The upfront listing of ethical principles is a good strategy for GS4. Could benefit from more depth in each recommendation and less formulaic application of principles."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a four-point recommendation framework covering sustainable agriculture, renewable energy, environmental governance, and inclusive growth. The answer is generic and lacks the ethical framework emphasis expected in a GS4 question.",
+        "analysis": "While the recommendations are sensible and cover the four areas identified in the question, this answer is the weakest on the ethical framework dimension that is central to a GS4 question. The opening paragraph mentions intergenerational equity, social justice, and environmental stewardship, but these are listed rather than applied. The recommendations read like a general studies or economics answer rather than an ethics paper response. Phrases like 'invest in climate-resilient farming practices' and 'aggressively pursue solar, wind, and hydro power' are standard prescriptions without ethical grounding. The 'just transition' mention is a good ethical point but is not elaborated. The answer is significantly over the word limit at 205 words. No named ethical theories (Rawlsian justice, utilitarianism, trusteeship) are applied. The concluding sentence refers to 'fairness, responsibility, and long-term well-being' but these remain abstract.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.3,
+            "justification": "Four recommendations covering the question's sectors are factually accurate. Climate-resilient farming, renewable energy, environmental governance, and social safety nets are all valid. However, the ethical framework dimension is underdeveloped for a GS4 question. Max 4.0, scored at 57.5%."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear four-point numbered structure with introductory and concluding paragraphs. Each point has a heading and explanation. Logical but conventional. Max 2.0, scored at 65%."
+          },
+          "depth_examples": {
+            "score": 0.8,
+            "justification": "Mentions just transition and organic farming but no named ethical theories, specific Indian schemes or programmes, or data points. References are generic — 'invest in,' 'promote,' 'strengthen.' Max 2.0, scored at 40%."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Minimal ethical analysis. The intergenerational equity concept is mentioned but not developed. No examination of tensions between growth and sustainability, no ethical theory application, no discussion of distributive justice challenges. Max 1.0, scored at 40%."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Clear language but significantly exceeds word limit at 205 words. Writing is competent but generic — could be from any general studies paper. Lacks the distinctive ethical vocabulary expected in GS4. Max 1.0, scored at 50%."
+          }
+        },
+        "total_score": 5.3,
+        "max_marks": 10,
+        "brief_feedback": "A competent general-studies-style answer that lacks the ethical framework depth demanded by a GS4 question. The recommendations are valid but need grounding in named ethical theories, not just abstract values."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a compact, five-point recommendation framework grounding each measure in ethical principles like energy justice, polluter-pays, and just transition. The answer is within the word limit and demonstrates strong practical awareness.",
+        "analysis": "This answer effectively balances brevity with substance. The opening sentence immediately frames the ethical foundation — prosperity with justice, dignity, and intergenerational equity — setting up the ethical lens. Each recommendation integrates an ethical principle: rights-based nutrition for food security, energy justice for energy transition, polluter-pays for environment. The 'just transition' concept (reskilling, local jobs for coal-dependent regions) is a sophisticated and current reference. The inclusion of open contracting, strong regulators, and curbing cronyism under institutional integrity is a bold and relevant point that other candidates avoid. The health-education-skilling investment linked to expanding capabilities echoes the capabilities approach (Amartya Sen). At 138 words, it is within the word limit and efficiently written. However, the telegraphic style means ethical principles are named but not elaborated, and the answer lacks a proper conclusion.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Five recommendations covering all sectors with accurate ethical grounding. Rights-based nutrition, energy justice, just transition, polluter-pays, open contracting, and capabilities approach are all correctly referenced. The cronyism/institutional integrity point is a distinctive and relevant addition. Max 4.0, scored at 70%."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clear five-point numbered format with an ethical framing sentence and a brief concluding line. However, the telegraphic style limits narrative flow, and the concluding sentence is too brief. No thematic grouping beyond numbering. Max 2.0, scored at 60%."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Specific references: rights-based nutrition, PDS portability, millet/pulse diversification, just transition with reskilling, polluter-pays, EIAs, circular economy, open contracting. The breadth and specificity of references is strong. Max 2.0, scored at 70%."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Ethical principles are named and applied to each sector, showing analytical mapping. The cronyism point shows willingness to address uncomfortable truths. However, no deeper examination of trade-offs or tensions. The capabilities expansion point echoes Amartya Sen but is not explicitly referenced. Max 1.0, scored at 60%."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Within word limit at 138 words. Efficient writing that packs substantial content into limited space. Bold emphasis on key ethical terms. However, the telegraphic style sacrifices readability and the expected discursive quality of GS4. Max 1.0, scored at 70%."
+          }
+        },
+        "total_score": 6.7,
+        "max_marks": 10,
+        "brief_feedback": "Compact and ethically grounded with strong practical specificity. The energy justice, just transition, and anti-cronyism points are distinctive. Would benefit from more discursive development of ethical arguments."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs4_2025_q7",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A presents a comprehensive four-option framework with clear identification of ethical dilemmas, balanced evaluation of each option, and a well-justified recommendation of Option 4 (coordinate with sister, perform rites later). References to Bhagavad Gita's Kartavya Palana and Sardar Patel add depth.",
+        "analysis": "The answer addresses all four sub-parts systematically. The four options identified are distinct and well-differentiated — particularly Option 4 (coordinate with sister) which shows creative problem-solving beyond the binary stay-or-leave framework. The ethical dilemmas section effectively uses consequentialism vs. deontology and professional vs. filial duty, though cultural expectations could be explored more. The critical evaluation is balanced, acknowledging strengths and weaknesses of each option. The final recommendation is well-justified with the Bhagavad Gita's Kartavya Palana reference and the Sardar Patel example — the latter is a powerful and specific historical reference that directly parallels Vijay's situation. The closing line ('His mother would arguably want him to save lives') adds an emotional and ethical resonance. At 315 words, it is within the range for a 250-word case study where some overrun is more acceptable. However, Option 3 (middle path) and Option 4 are somewhat similar and could be more clearly differentiated.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.6,
+            "justification": "All four sub-parts addressed with accurate content. Four distinct options, four ethical dilemmas, balanced evaluation of each option, and justified recommendation. Ethical frameworks (consequentialism, deontology, dharma of office) correctly applied. Sardar Patel reference is historically accurate. Max 8.0, scored at 70%."
+          },
+          "structure_flow": {
+            "score": 2.8,
+            "justification": "Excellent four-part structure matching the four sub-questions with clear headings. Logical progression from options to dilemmas to evaluation to recommendation. Each section is clearly delineated. Max 4.0, scored at 70%."
+          },
+          "depth_examples": {
+            "score": 2.8,
+            "justification": "Strong specific references: Bhagavad Gita's Kartavya Palana, Sardar Patel's court case example, dharma of office concept. The Sardar Patel parallel is particularly apt and adds significant depth. Consequentialism vs. deontology framework is well-deployed. Max 4.0, scored at 70%."
+          },
+          "analytical_depth": {
+            "score": 1.3,
+            "justification": "Good multi-dimensional analysis covering ethical, practical, emotional, and cultural dimensions. The consequentialism vs. deontology framing provides theoretical depth. The evaluation of each option acknowledges trade-offs. However, the distinction between Options 3 and 4 could be sharper. Max 2.0, scored at 65%."
+          },
+          "presentation": {
+            "score": 1.4,
+            "justification": "Well-written with effective markdown formatting. Clear, compelling language. The concluding sentence is emotionally resonant. Slightly over the 250-word limit at 315 words but within acceptable range for case studies. Max 2.0, scored at 70%."
+          }
+        },
+        "total_score": 13.9,
+        "max_marks": 20,
+        "brief_feedback": "Strong, comprehensive answer with distinctive references (Sardar Patel, Kartavya Palana). All four sub-parts addressed effectively. Options 3 and 4 could be more sharply differentiated."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B presents only two options rather than the expected three or four, but provides thorough analysis of each. The answer effectively uses ethical frameworks and concludes with Nishkama Karma and a practical coordination plan.",
+        "analysis": "The answer has a significant structural weakness: only two options are identified (leave or stay), reducing the breadth of the analysis the question demands. In UPSC Mains case studies, identifying multiple options (typically 3-4) demonstrates comprehensive thinking, and a binary framing oversimplifies the dilemma. That said, within this binary framework, the analysis is deep and well-argued. The ethical dilemmas section effectively covers personal vs. professional duty, utilitarianism vs. individual morality, and emotional vulnerability vs. objective leadership — this last point is often missed and adds nuance. The critical evaluation of each option is balanced and thorough. The recommendation is practical — contacting Kerala district administration and arranging proxy rites shows problem-solving ability. The Nishkama Karma reference is apt. The 'highest possible tribute to his mother's memory' conclusion is emotionally compelling. At 311 words, it is within acceptable range.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.0,
+            "justification": "Ethical frameworks (utilitarianism, personal duty, Nishkama Karma) are correctly applied. Analysis of each option is factually sound. However, identifying only two options when the question expects more is a significant content gap. The practical suggestion of contacting Kerala district administration is a good addition. Max 8.0, scored at 62.5%."
+          },
+          "structure_flow": {
+            "score": 2.8,
+            "justification": "Clear four-part structure addressing all sub-questions. Well-organized with clean headings. However, the binary option framework (only 2 options) limits the structural complexity of parts (a) and (c). The progression from options to dilemmas to evaluation to recommendation is logical. Max 4.0, scored at 70%."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Nishkama Karma and Dharma references are appropriate. The 'emotional vulnerability vs. objective leadership' dilemma is a sophisticated addition. The practical coordination suggestion (Kerala district admin, proxy rites) shows depth. However, no historical parallels or named examples. Max 4.0, scored at 60%."
+          },
+          "analytical_depth": {
+            "score": 1.3,
+            "justification": "The three ethical dilemmas are well-analyzed with genuine tension explored. The 'emotional vulnerability vs. objective leadership' point shows nuanced thinking. The evaluation section weighs pros and cons effectively. However, the binary framing limits analytical scope. Max 2.0, scored at 65%."
+          },
+          "presentation": {
+            "score": 1.4,
+            "justification": "Clear, polished writing with effective emphasis. The concluding sentences are powerful. Within acceptable word count range. Good use of italics for Sanskrit terms. Max 2.0, scored at 70%."
+          }
+        },
+        "total_score": 12.9,
+        "max_marks": 20,
+        "brief_feedback": "Well-argued but limited by the binary option framework. The emotional vulnerability dilemma and Nishkama Karma reference are strengths. Needs more options to fully address the question's demands."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides the most nuanced option analysis with four clearly differentiated options and recommends Option 3 (stabilize then brief leave) — the most balanced and practically sophisticated choice. The evaluation is crisp and well-differentiated.",
+        "analysis": "This answer stands out for the quality of its option analysis and its pragmatic recommendation. Four genuinely distinct options are identified, including the sophisticated Option 3 (stabilize operations, hand over to competent officer, take brief bereavement leave) and Option 4 (remote coordination). The critical evaluation is exceptionally crisp — each option's strengths and risks are identified in one or two precise sentences. The ethical dilemmas section effectively uses role-model integrity and public perception, which is a dimension other candidates miss. The recommendation of Option 3 is the most nuanced choice in the batch — it neither rigidly stays nor leaves but finds a practical middle ground that honours both duties. The practical details (written orders, SDRF coordination, video supervision, 24-48 hour stabilization period) demonstrate administrative thinking. At 255 words, it is close to the word limit. The answer could benefit from more ethical theory references and the writing is somewhat compressed.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.8,
+            "justification": "Four well-differentiated options, three ethical dilemmas, balanced evaluation, and a nuanced recommendation with practical details. The acting DC with written orders, SDRF coordination, and video supervision are specific and accurate administrative procedures. All ethical frameworks correctly applied. Max 8.0, scored at 72.5%."
+          },
+          "structure_flow": {
+            "score": 3.0,
+            "justification": "Excellent four-part structure with clear sub-headings matching each sub-question. Options are numbered, evaluation is clearly linked to option numbers, and the recommendation flows logically from the analysis. Very tight and efficient organization. Max 4.0, scored at 75%."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Practical administrative references (acting DC, written orders, SDRF, video/telephonic supervision) add depth. Ethical frameworks (consequentialism, deontology, role-model integrity) are applied. However, no historical parallels (like Sardar Patel) or specific philosophical references. Max 4.0, scored at 60%."
+          },
+          "analytical_depth": {
+            "score": 1.5,
+            "justification": "The most analytically sophisticated answer in the batch. The four options are genuinely differentiated. The role-model integrity dilemma (perception of abandonment vs. humane legitimacy) shows nuanced thinking. The recommendation of Option 3 demonstrates ability to find a balanced solution rather than defaulting to the obvious 'stay' answer. Max 2.0, scored at 75%."
+          },
+          "presentation": {
+            "score": 1.3,
+            "justification": "Efficient writing close to word limit at 255 words. Clear bold formatting. However, the compressed style means some points are underdeveloped. Language is professional but could be more eloquent. Max 2.0, scored at 65%."
+          }
+        },
+        "total_score": 14.0,
+        "max_marks": 20,
+        "brief_feedback": "The most analytically sophisticated answer with four well-differentiated options and the most nuanced recommendation (Option 3). Strong administrative detail. Would benefit from more ethical theory references and slightly more discursive development."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides an exhaustive analysis with four options, four ethical dilemmas, detailed evaluation of each option with ethical framework labels, and a thorough justification. However, the answer is excessively verbose at 775 words.",
+        "analysis": "This answer demonstrates comprehensive knowledge of ethical frameworks and thorough analysis of the case. Four options are identified with clear labels. The ethical dilemmas section identifies four dilemmas including the 'short-term vs. long-term impact' dimension which is insightful. The critical evaluation labels each option with pros and cons and identifies the relevant ethical framework — this explicit labeling (deontology for Option 1, utilitarianism + virtue ethics for Option 2) shows textbook knowledge. The recommendation section is the most detailed, covering severity of crisis, irreplaceability, ethos of public service, utilitarian principle, and long-term impact. However, the answer is massively over the word limit at 775 words — more than triple the 250-word limit. In UPSC Mains, this is a serious flaw that would indicate poor time management and inability to be concise. The answer is also repetitive — the justification section essentially restates what was already said in the evaluation. Despite its thoroughness, the verbosity and repetition significantly undermine the answer's quality.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.4,
+            "justification": "Comprehensive coverage of all four sub-parts. Four options, four dilemmas, detailed evaluation, and extensive justification. Ethical frameworks (deontology, utilitarianism, virtue ethics) correctly applied. All factual content is accurate. However, some points are repeated across sections. Max 8.0, scored at 67.5%."
+          },
+          "structure_flow": {
+            "score": 2.6,
+            "justification": "Well-organized with clear headings for each sub-question. Within each section, the analysis is logically structured. However, the extreme length creates redundancy between sections (c) and (d), undermining the overall flow. Max 4.0, scored at 65%."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Ethical frameworks are explicitly named and applied (deontology, utilitarianism, virtue ethics). The 'short-term vs. long-term impact' dilemma is insightful. However, no historical parallels, named examples, or specific philosophical references beyond basic framework labels. The depth comes from volume rather than precision. Max 4.0, scored at 50%."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "The explicit mapping of options to ethical frameworks shows analytical awareness. The four-dimension justification (severity, irreplaceability, ethos, utilitarianism) is thorough. However, the analysis is more exhaustive than insightful — it covers ground thoroughly but does not produce novel insights. The binary recommendation (stay) despite having four options reduces analytical nuance. Max 2.0, scored at 60%."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Drastically exceeds the 250-word limit at 775 words — more than triple. This is the most serious presentation flaw in the batch and would severely hurt a UPSC candidate. The writing is clear and competent, but verbosity and repetition are significant weaknesses. Max 2.0, scored at 35%."
+          }
+        },
+        "total_score": 11.9,
+        "max_marks": 20,
+        "brief_feedback": "Comprehensive and thorough with explicit ethical framework labeling, but severely undermined by extreme verbosity (775 words vs. 250-word limit). The answer repeats itself across sections and lacks the concision expected in UPSC Mains."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs4_2025_q8",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a strong three-part answer with a clear ethical stance against unconditional deforestation, well-identified challenges across socio-economic/administrative/ethical dimensions, and six specific alternatives. The observation about 'stigmatization of the homeless' in the anti-social elements framing is particularly perceptive.",
+        "analysis": "This answer excels in its ethical analysis. The most distinctive contribution is the observation that the 'curbing anti-social elements' argument reflects stigmatization of the homeless — this is a sophisticated ethical critique that other candidates miss entirely. The response to part (a) is well-grounded in multiple ethical frameworks: intergenerational justice, tribal rights under FRA, Gandhian trusteeship. The counter-argument that environmental destruction creates new vulnerabilities (floods, soil erosion) for the very communities targeted is logically powerful. Part (b) effectively separates socio-economic, administrative, and ethical challenges with specific examples in each. Part (c) offers six practical alternatives including brownfield development, vertical construction, PMAY, compensatory afforestation, convergence approach (MGNREGA + FRA), and mandatory EIA with public hearings. The concluding statement is powerful. At 281 words, it is slightly over the limit but within acceptable range. The answer could explore the community consent dimension more.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.8,
+            "justification": "All three sub-parts comprehensively addressed. Legal references (FRA 2006, Article 48A) are accurate. Ethical frameworks (intergenerational justice, trusteeship, DPSPs) correctly applied. The stigmatization observation is factually and ethically sound. Six alternatives are all practical and relevant. Max 8.0, scored at 72.5%."
+          },
+          "structure_flow": {
+            "score": 3.0,
+            "justification": "Clear three-part structure with headings matching sub-questions. Within each section, points are well-organized. The flow from ethical stance to challenges to alternatives is logical and builds a coherent argument. Max 4.0, scored at 75%."
+          },
+          "depth_examples": {
+            "score": 2.8,
+            "justification": "Rich references: FRA 2006, Article 48A, DPSPs Articles 38/39/41, Gandhian trusteeship, PMAY, MGNREGA, brownfield development, compensatory afforestation, EIA. The stigmatization observation demonstrates independent critical thinking. Max 4.0, scored at 70%."
+          },
+          "analytical_depth": {
+            "score": 1.5,
+            "justification": "Exceptional analytical insight in identifying the stigmatization framing. The argument that environmental destruction creates new vulnerabilities for target beneficiaries is logically powerful. Multiple ethical frameworks are juxtaposed. The procedural justice point (tribal consent not sought) adds another analytical layer. Max 2.0, scored at 75%."
+          },
+          "presentation": {
+            "score": 1.4,
+            "justification": "Strong, assertive writing with an effective concluding statement. Good use of bold and markdown formatting. Slightly over word limit at 281 words. Language is clear, precise, and appropriate for the ethics paper. Max 2.0, scored at 70%."
+          }
+        },
+        "total_score": 14.5,
+        "max_marks": 20,
+        "brief_feedback": "The strongest answer in this batch with distinctive analytical contributions — the stigmatization critique and the circular vulnerability argument elevate this above standard responses. Rich legal and ethical references throughout."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a thorough and well-structured answer covering all three sub-parts with detailed analysis. The answer correctly identifies the false dichotomy between development and conservation but is excessively verbose at 460 words.",
+        "analysis": "The answer demonstrates strong understanding of the ethical dimensions. Part (a) effectively argues against unconditional justification, deploying utilitarian, rights-based, and intergenerational equity perspectives. The point about utilitarianism overlooking minority rights is a valid critique. Part (b) identifies relevant challenges across all three dimensions with reasonable depth. Part (c) offers seven alternatives including comprehensive land use planning, vertical development, community-led conservation, ecological restoration, integrated impact assessments, green building technologies, and policy coherence — the most extensive list in the batch. The 'community-led conservation' point, recognizing traditional knowledge of tribal communities, is a valuable addition. However, the answer is nearly double the word limit at 460 words, which is a serious flaw. The analysis, while thorough, is somewhat textbook-like — covering all bases methodically but without the distinctive insights that characterize the strongest answers.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.6,
+            "justification": "All three sub-parts addressed with accurate content. Ethical frameworks (utilitarian, rights-based, intergenerational equity) correctly applied. Seven alternatives are all valid and practical. The minority rights critique of utilitarianism is accurate. Max 8.0, scored at 70%."
+          },
+          "structure_flow": {
+            "score": 2.8,
+            "justification": "Well-organized three-part structure with clear headings. Within each section, points are logically ordered. Part (c) uses numbered format effectively. However, the overall length undermines the structural efficiency. Max 4.0, scored at 70%."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "References to tragedy of the commons, ESIAs, compensatory afforestation, green building technologies, and community-led conservation with traditional knowledge recognition. Good range but each reference is stated without deep elaboration. No specific legal references (FRA, Article 48A). Max 4.0, scored at 60%."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "Solid analysis covering multiple ethical perspectives. The minority rights critique of utilitarianism shows analytical awareness. The 'intrinsic value of nature' reference engages with environmental ethics. However, analysis is thorough rather than incisive — it lacks the distinctive insights of Candidate A. Max 2.0, scored at 60%."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Clear and professional writing, but severely exceeds the word limit at 460 words — nearly double the 250-word limit. While less egregious than Candidate D in Q7, this is still a significant presentation flaw. Language quality is good. Max 2.0, scored at 45%."
+          }
+        },
+        "total_score": 12.9,
+        "max_marks": 20,
+        "brief_feedback": "Thorough and methodical with the most extensive alternatives list. The minority rights critique of utilitarianism is a good analytical point. Severely penalized for exceeding the word limit (460 vs. 250 words)."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C delivers a compact, legally grounded answer introducing a 'last resort + least harm' test for ethical permissibility of deforestation, identifies stakeholders explicitly, and provides practical alternatives including in-situ upgradation and demand-side measures. The answer stays close to the word limit.",
+        "analysis": "This answer is distinguished by its legal and procedural sophistication. The 'last resort + least harm' test is an elegant ethical framework that provides clear criteria for decision-making — the three conditions (no feasible alternative, free prior informed consent, minimal diversion with mitigation) are precisely formulated. The explicit stakeholder identification is a valuable addition that other candidates omit. The challenges section is efficiently organized by category with precise examples. The alternatives section is practical and includes measures other candidates miss: in-situ upgradation of slums, transit-oriented affordable housing, serviced sites, credit-linked subsidies, and rental housing. These demand-side measures show sophisticated understanding of housing policy beyond the typical 'build elsewhere' prescriptions. The micro-siting concept (if diversion unavoidable) and survival audits for compensatory afforestation are specific technical measures demonstrating deep domain knowledge. The FRA compliance and Gram Sabha consent requirements are legally precise. At 225 words, it is close to the word limit. The concluding line ('compassion with prudence') effectively captures the balanced approach.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.8,
+            "justification": "All three sub-parts addressed with exceptional accuracy. The 'last resort + least harm' test with three conditions is precisely formulated. FRA, Gram Sabha consent, in-situ upgradation, micro-siting, biodiversity offsets, and survival audits are all technically accurate and specific. Stakeholder identification adds completeness. Max 8.0, scored at 72.5%."
+          },
+          "structure_flow": {
+            "score": 3.0,
+            "justification": "Highly efficient three-part structure with clear sub-headings. The stakeholder identification after part (a) is a smart structural addition. The challenges section uses category labels effectively. The alternatives section separates primary and contingency measures. Max 4.0, scored at 75%."
+          },
+          "depth_examples": {
+            "score": 3.0,
+            "justification": "The richest set of specific references: FRA, Gram Sabha consent, free prior informed consent, in-situ upgradation, micro-siting, biodiversity offsets, survival audits, transit-oriented housing, credit-linked subsidies, NTFP-based incomes, EIA. These demonstrate deep domain expertise across environmental law, housing policy, and administrative practice. Max 4.0, scored at 75%."
+          },
+          "analytical_depth": {
+            "score": 1.5,
+            "justification": "The 'last resort + least harm' framework is an original analytical contribution. The distinction between primary alternatives and contingency measures (if diversion unavoidable) shows nuanced thinking. The 'rights vs rights' and 'ends vs means' framing in challenges is apt. Max 2.0, scored at 75%."
+          },
+          "presentation": {
+            "score": 1.4,
+            "justification": "Concise and close to word limit at 225 words. Dense but readable. Effective bold formatting. The concluding line ('compassion with prudence') is memorable. Professional and efficient writing style. Max 2.0, scored at 70%."
+          }
+        },
+        "total_score": 14.7,
+        "max_marks": 20,
+        "brief_feedback": "The most legally and technically sophisticated answer with the original 'last resort + least harm' framework. Exceptional depth in alternatives (micro-siting, survival audits, demand-side measures). Efficient writing within word limits."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a well-structured answer framing the dilemma as anthropocentric vs. eco-centric, with clear analysis across all three sub-parts. The Article 21 dual interpretation (right to shelter vs. right to healthy environment) is a distinctive constitutional reference.",
+        "analysis": "The answer opens with a useful framing — anthropocentric development vs. eco-centric conservation — that sets up the analytical lens. Part (a) makes the strong point that fulfilling one vulnerable group's rights by disenfranchising another (tribals) is unjust, which is an effective ethical argument. The observation that environmental degradation harms the poorest through climate vulnerabilities creates a logical chain undermining the pro-deforestation argument. Part (b) identifies the 'zero-sum game mentality' as a socio-economic challenge, which is a good analytical insight. The Article 21 dual interpretation (right to shelter vs. right to healthy environment) is a sophisticated constitutional reference. Part (c) offers four alternatives: brownfield development, vertical expansion, wasteland utilization, and policy interventions including carrying capacity assessments. The SDG references (SDG 11 and SDG 15) in the conclusion add an international framework dimension. At 311 words, it is somewhat over the word limit. The answer could benefit from more specific alternatives (demand-side measures, micro-siting) and legal references (FRA).",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.4,
+            "justification": "All three sub-parts addressed with accurate content. The anthropocentric vs. eco-centric framing, Article 21 dual interpretation, and SDG references are all correct. Four alternatives are relevant. However, alternatives are less specific than Candidates A and C. Missing FRA reference. Max 8.0, scored at 67.5%."
+          },
+          "structure_flow": {
+            "score": 2.8,
+            "justification": "Clear three-part structure with stakeholder identification in the introduction. Well-organized with headings for each sub-question. The concluding sentence effectively synthesizes the argument. Logical flow throughout. Max 4.0, scored at 70%."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Article 21 dual interpretation and SDG 11/SDG 15 references are distinctive. Carrying capacity assessments is a specific and relevant concept. However, fewer specific policy, legal, or technical references compared to Candidates A and C. No FRA, Gram Sabha, or specific housing policy references. Max 4.0, scored at 60%."
+          },
+          "analytical_depth": {
+            "score": 1.3,
+            "justification": "The 'zero-sum mentality' insight is good. The argument about disenfranchising one vulnerable group to help another is well-articulated. The Article 21 tension (shelter vs. environment) adds constitutional analysis. However, the analysis does not produce a distinctive framework like Candidate C's 'last resort + least harm' test. Max 2.0, scored at 65%."
+          },
+          "presentation": {
+            "score": 1.3,
+            "justification": "Clear, well-written with effective bold formatting. The concluding sentence with SDG references is strong. Somewhat over the word limit at 311 words. Good use of stakeholder identification in the opening. Max 2.0, scored at 65%."
+          }
+        },
+        "total_score": 13.2,
+        "max_marks": 20,
+        "brief_feedback": "Well-framed answer with distinctive Article 21 dual interpretation and SDG references. The anthropocentric vs. eco-centric lens is effective. Could benefit from more specific alternatives and legal references like FRA."
+      }
+    ]
+  }
+]

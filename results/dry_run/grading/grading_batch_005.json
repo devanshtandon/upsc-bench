@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_005",
+  "scores": [
+    {
+      "question_id": "mains_gs4_2025_q1a",
+      "candidate_id": "candidate_7823",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.5,
+        "depth_examples": 1.2,
+        "analytical_depth": 0.7,
+        "presentation": 0.9
+      },
+      "total_score": 7.7,
+      "max_marks": 10,
+      "brief_feedback": "Well-structured answer identifying key ethical dilemmas with clear language, but lacks specific examples, case studies, and deeper critical analysis of competing stakeholder interests. Would benefit from constitutional references and concrete instances of harm."
+    }
+  ]
+}

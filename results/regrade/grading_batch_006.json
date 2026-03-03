@@ -1,0 +1,127 @@
+[
+  {
+    "question_id": "mains_essay_2025_q6",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a wide-ranging essay covering individual life lessons, compounding effects, social reform, economic policy (1991 reforms, GST), digital infrastructure (UPI, Aadhaar), governance trade-offs (Green Revolution, polio eradication), climate change, and the crucial caveat that time alone does not guarantee wisdom without reflection. The essay is policy-heavy with a distinctly Indian governance lens, moving fluently between personal, societal, and global scales.",
+        "analysis": "The essay's greatest strength is its extraordinary breadth and the sheer density of relevant, well-chosen examples drawn from Indian governance, public health, technology, and social reform. The discussion of UPI as patient institution-building, the Green Revolution's ecological costs, and the NFHS data revealing long-term social transitions demonstrates genuine policy sophistication. The counter-argument section — that years can entrench prejudice, and that urgent problems cannot wait — adds analytical maturity. However, the essay significantly exceeds the 1200-word limit at 1524 words, which is a notable presentation flaw. The writing, while consistently competent, occasionally reads more like a policy document than a reflective essay — it could benefit from more philosophical grounding or literary texture. Compared to the other candidates, it is the most policy-rich and example-dense, but lacks the philosophical framing of C and D.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 28.5,
+            "justification": "Exceptionally comprehensive coverage spanning individual compounding, social reform (sati, 73rd/74th Amendments), economic policy (1991, GST), technology (UPI, GDPR), public health (polio, COVID), climate change, and governance — among the widest range of any candidate, with strong factual accuracy throughout."
+          },
+          "structure_flow": {
+            "score": 17.5,
+            "justification": "Well-organized with a clear thesis in the introduction and logical progression from individual to societal to global, with counter-arguments near the end and a synthesizing conclusion; however, the essay lacks a truly compelling narrative arc and reads somewhat as a catalogue of well-argued sections."
+          },
+          "depth_examples": {
+            "score": 18.0,
+            "justification": "Specific and well-deployed examples — UPI's billions of transactions, polio eradication 2014, NFHS data, Green Revolution's groundwater depletion, aspirational districts programme — though many examples are mentioned at moderate depth rather than developed with granular data or case-study detail."
+          },
+          "analytical_depth": {
+            "score": 18.5,
+            "justification": "The tension between patience and urgency, the caveat that years can entrench injustice, and the distinction between knowing and understanding demonstrate genuine analytical layering; the essay consistently offers balanced perspectives (e.g., GST's promise and limitations, digital inclusion gaps)."
+          },
+          "presentation": {
+            "score": 7.5,
+            "justification": "Clear, professional prose with good readability, but significantly overshoots the 1200-word limit by 324 words (27% over), which is a meaningful deduction in UPSC essay evaluation; the language is competent but occasionally formulaic."
+          }
+        },
+        "total_score": 90.0,
+        "max_marks": 125,
+        "brief_feedback": "A policy-dense, analytically mature essay with outstanding breadth and well-chosen Indian examples. The counter-arguments about time not guaranteeing wisdom and the urgency-patience tension elevate it. The significant word-limit overshoot and slightly catalogue-like structure prevent it from reaching the highest tier. One of the strongest essays in the batch."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B structures the essay around five thematic pillars: resilience and perseverance, the cyclical nature of life, discerning true progress, self-knowledge and personal growth, and the enduring power of human connection. The essay draws on examples including Abraham Lincoln, India's independence movement, the fight against polio, COVID-19, and the philosophical concepts of anicca and kalachakra.",
+        "analysis": "The essay demonstrates a sound understanding of the topic and is well-organized into clear thematic sections. However, it suffers from several weaknesses relative to the other candidates. First, many of its examples are generic and predictable — Abraham Lincoln's perseverance and the farmer understanding drought cycles are well-worn illustrations that lack originality. Second, the essay is heavily weighted toward the personal and philosophical, with comparatively thin engagement with governance, policy, and contemporary India — which is a significant gap for a UPSC essay. Third, there is noticeable repetition: each paragraph essentially restates the same thesis (daily experiences seem important but years reveal deeper truth) without adding meaningfully different analytical angles. The writing is competent but occasionally verbose, with long sentences that dilute impact. The polio eradication example is effective, but the plastic waste point is underdeveloped. Compared to A, C, and D, this essay lacks specificity, policy depth, and original analytical contribution.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 21.0,
+            "justification": "Covers personal resilience, cyclicality, progress measurement, self-knowledge, and human connection, but the coverage leans heavily on generic philosophical themes with limited engagement with governance, economics, or contemporary Indian policy — a notable gap for UPSC."
+          },
+          "structure_flow": {
+            "score": 16.0,
+            "justification": "Clear five-part thematic structure with introduction and conclusion provides good readability, but the parallel construction of each section (daily experience seems X, but years reveal Y) becomes repetitive and the essay lacks progressive deepening of argument."
+          },
+          "depth_examples": {
+            "score": 13.5,
+            "justification": "Examples are mostly generic (Lincoln, farmer and drought, elders' wisdom) with limited specificity; the polio eradication mention is good but brief, and the plastic waste point is asserted rather than developed with data or case detail."
+          },
+          "analytical_depth": {
+            "score": 13.0,
+            "justification": "The essay largely restates the central thesis in different contexts without developing genuinely distinct analytical insights; there is no counter-argument or nuanced caveat about the limits of time as teacher, and the treatment of Buddhist/Hindu philosophical concepts remains surface-level."
+          },
+          "presentation": {
+            "score": 9.0,
+            "justification": "Meets the 1200-word limit exactly, with clear and grammatically correct prose; the language is competent though occasionally verbose, with some sentences that could be tightened for impact."
+          }
+        },
+        "total_score": 72.5,
+        "max_marks": 125,
+        "brief_feedback": "A well-structured but somewhat generic essay that relies on predictable examples and restates the central thesis without sufficient analytical progression. The heavy tilt toward personal philosophy at the expense of governance, policy, and contemporary India weakens it for a UPSC audience. Clean writing and exact word-limit adherence are positives, but the essay needs sharper examples and deeper engagement with counter-arguments to compete with the stronger entries in this batch."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C frames the essay explicitly through Emerson's authorship, developing arguments across individual resilience (Mandela), nation-building (Indian independence), governance and short-termism (1991 reforms), science and climate change, societal and cultural evolution (Phule couple), and a counter-perspective acknowledging the importance of watershed days (Hiroshima, Berlin Wall). The essay is philosophically grounded with strong historical examples.",
+        "analysis": "This is a sophisticated and well-balanced essay. Its standout strength is the counter-perspective section, which introduces the concept of Black Swan events (Hiroshima, Berlin Wall) as days that teach lessons the years cannot — a genuinely original analytical move that none of the other candidates attempt with such clarity. The Mandela example is developed with specific biographical detail (Robben Island, 27 years, Pietermaritzburg incident), and the Phule couple example is both specific and emotionally resonant (stones, mud, cow dung). The climate change section makes the elegant distinction that 'the days know only the weather; the years teach us about the climate.' However, the essay has some weaknesses: the Indian independence section, while competent, covers well-trodden ground (Chauri Chaura, Quit India), and the 1991 reforms discussion, though correct, is less nuanced than Candidate A's treatment. The essay slightly exceeds the word limit at 1230 words, which is a minor issue. Overall, the essay is analytically the most balanced of the four, with genuine originality in its counter-argument.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 26.5,
+            "justification": "Covers individual resilience, national independence movements, economic reforms, science and evolution, climate change, social reform, and Black Swan counter-examples — strong breadth across personal, national, scientific, and philosophical domains, though governance/policy discussion is less detailed than Candidate A."
+          },
+          "structure_flow": {
+            "score": 19.0,
+            "justification": "Excellent structure with a clear Emerson attribution framing, logical progression from individual to national to scientific to societal, a well-placed counter-perspective section, and a conclusion that ties contemporary relevance (social media, algorithmic outrage) back to the thesis — the strongest structural arc in the batch."
+          },
+          "depth_examples": {
+            "score": 17.5,
+            "justification": "Mandela's Robben Island years are developed with specific biographical detail, the Phule couple's daily commute facing stones and mud is vivid and specific, and the Hiroshima/Berlin Wall counter-examples are well-chosen; however, the 1991 reforms and Indian independence examples, while accurate, are somewhat standard fare."
+          },
+          "analytical_depth": {
+            "score": 19.5,
+            "justification": "The Black Swan counter-argument — that certain watershed days teach lessons years cannot — is the most original analytical contribution in the entire batch; the weather/climate distinction is elegant, and the conclusion's reference to algorithmic outrage trapping us 'in the days' is a sharp contemporary insight."
+          },
+          "presentation": {
+            "score": 9.5,
+            "justification": "Polished, confident prose with memorable phrasing ('the days know only the weather; the years teach us about the climate'); only marginally over the 1200-word limit at 1230 words, which is a negligible overshoot; strong readability throughout."
+          }
+        },
+        "total_score": 92.0,
+        "max_marks": 125,
+        "brief_feedback": "The most analytically balanced essay in the batch, distinguished by its genuinely original counter-perspective (Black Swan events as days that teach), elegant turns of phrase, and the strongest structural arc. The Mandela and Phule examples are developed with vivid specificity. Slightly less policy-dense than Candidate A, but compensates with superior analytical originality and philosophical coherence. A top-tier UPSC essay."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D opens with an explicit Emerson attribution and develops the essay through individual transformation (Gandhi in South Africa), India's constitutional journey, economic trajectory (License Raj to liberalization), global historical lessons (Treaty of Versailles vs. Marshall Plan), scientific progress (Fleming/penicillin, mRNA vaccines, ISRO), climate change, and a caveat about time requiring reflection. The essay is richly detailed with specific historical and Indian examples.",
+        "analysis": "This is a formidable essay that combines philosophical depth with historical specificity at an exceptional level. Its treatment of Gandhi's transformation is the best biographical example in the batch — the specific detail of the Pietermaritzburg train incident, the 'two decades' timeframe, and the framing of Satyagraha as 'the slow distillation of suffering, experimentation, and reflection' is both accurate and eloquent. The constitutional journey section is particularly strong for a UPSC audience, with specific references to Ambedkar, literacy rising from 12% to 77%, and seventeen general elections. The Versailles/Marshall Plan juxtaposition is an excellent global example that none of the other candidates use. The science section is the deepest in the batch, with the Katalin Kariko/mRNA example being both contemporary and specific, and the ISRO trajectory from bicycle-transported rockets to Chandrayaan-3 being evocative and distinctly Indian. The caveat section, referencing Phule, Periyar, and Ambedkar as agents who brought 'critical consciousness' to break the cycle of entrenched prejudice, is analytically sophisticated. The main weaknesses are the word-limit overshoot (1339 words, 12% over) and some verbosity in transitions. Compared to C, it trades structural elegance for greater depth of examples; compared to A, it is more historically grounded but less policy-focused.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 28.0,
+            "justification": "The broadest and deepest coverage in the batch: individual transformation (Gandhi), constitutional history (Ambedkar, fundamental rights), economic trajectory (License Raj, IITs, ISRO, liberalization), global history (Versailles, Marshall Plan), science (Fleming, Kariko, ISRO), climate change (Amphan, Biparjoy, Himalayan glaciers), and social reform (Phule, Periyar, Ambedkar) — all factually accurate and well-integrated."
+          },
+          "structure_flow": {
+            "score": 18.0,
+            "justification": "Clear progression from individual to national to global to scientific to philosophical, with a caveat section and synthesizing conclusion; slightly less elegant than C's structural arc due to some verbose transitions, but the intellectual trajectory is compelling and the conclusion is strong."
+          },
+          "depth_examples": {
+            "score": 20.5,
+            "justification": "The deepest examples in the batch: Gandhi's two decades in South Africa with the Pietermaritzburg detail, literacy rising from 12% to 77% over seven decades, Katalin Kariko's decades of rejected mRNA research, ISRO's bicycle-to-Chandrayaan-3 journey, and the Versailles/Marshall Plan contrast — each developed with specific data and narrative texture."
+          },
+          "analytical_depth": {
+            "score": 19.0,
+            "justification": "The caveat that years can 'entrench hierarchy rather than challenge it' without 'critical consciousness' is analytically strong, and the present-bias concept from psychology adds theoretical grounding; however, the counter-argument is less original than C's Black Swan framing and the analysis occasionally tells rather than shows."
+          },
+          "presentation": {
+            "score": 8.0,
+            "justification": "Confident, eloquent prose with memorable phrasing ('the slow distillation of suffering, experimentation, and reflection'), but overshoots the word limit by 139 words (12% over) and uses a Markdown heading format that is slightly inappropriate for an essay examination context."
+          }
+        },
+        "total_score": 93.5,
+        "max_marks": 125,
+        "brief_feedback": "The most richly detailed and historically grounded essay in the batch, with the best-developed biographical examples (Gandhi, Kariko) and the strongest India-specific content (constitutional journey, ISRO). The Versailles/Marshall Plan juxtaposition and the ISRO bicycle-to-Chandrayaan arc are distinctive contributions. The word-limit overshoot and occasional verbosity are notable weaknesses. Analytically strong but slightly less structurally elegant than Candidate C. A top-tier essay that would score exceptionally well in UPSC evaluation."
+      }
+    ]
+  }
+]

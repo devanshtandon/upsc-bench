@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_002",
+  "scores": [
+    {
+      "question_id": "mains_gs1_2025_q1",
+      "candidate_id": "candidate_7823",
+      "rubric_scores": {
+        "content_accuracy": 3.80,
+        "structure_flow": 1.80,
+        "depth_examples": 1.76,
+        "analytical_depth": 0.65,
+        "presentation": 0.92
+      },
+      "total_score": 8.93,
+      "max_marks": 10,
+      "brief_feedback": "Strong answer with accurate facts, excellent organization, and specific examples (Great Bath dimensions, brick ratio). Lacks critical analytical depth and comparative perspective on contemporary civilizations."
+    }
+  ]
+}

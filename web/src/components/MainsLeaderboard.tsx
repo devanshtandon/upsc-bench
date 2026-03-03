@@ -87,7 +87,7 @@ export default function MainsLeaderboard({ models, year, paper }: MainsLeaderboa
                       </span>
                       {isHuman && (
                         <span className="text-[10px] font-medium" style={{ color: "rgba(139,92,246,0.6)" }}>
-                          CSE 2024 AIR 1 · Written 843/1750
+                          CSE 2024 AIR 1 · Est. 602/1250 (from 843/1750)
                         </span>
                       )}
                     </div>
@@ -205,7 +205,7 @@ export default function MainsLeaderboard({ models, year, paper }: MainsLeaderboa
         </p>
         <p className="text-[10px]" style={{ color: "rgba(139,92,246,0.5)" }}>
           <span style={{ color: "#8B5CF6" }}>Human reference:</span>{" "}
-          Shakti Dubey (CSE 2024 AIR 1, written 843/1750). Essay+GS scores estimated — UPSC does not publish paper-wise marks. Optional paper (~300/500) excluded from our benchmark.
+          Shakti Dubey (CSE 2024 AIR 1, written 843/1750). Score proportionally estimated for our 1250-mark subset — UPSC does not publish paper-wise marks. Optional paper excluded from benchmark.
         </p>
       </div>
     </div>

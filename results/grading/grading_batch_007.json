@@ -1,0 +1,285 @@
+{
+  "batch_id": "batch_007",
+  "scores": [
+    {
+      "question_id": "mains_gs2_2025_q6",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.8,
+        "structure_flow": 2.0,
+        "depth_examples": 2.0,
+        "analytical_depth": 0.95,
+        "presentation": 0.95
+      },
+      "total_score": 9.7,
+      "max_marks": 10,
+      "brief_feedback": "Excellent answer covering all dimensions of social capital (bonding, bridging, linking) with strong constitutional anchors (Art. 14, 15, 243D/T, 106th Amendment) and practical schemes (DAY-NRLM, PMJDY). Well-structured and concise despite complexity. Minor: could strengthen international comparison slightly."
+    },
+    {
+      "question_id": "mains_gs2_2025_q7",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.6,
+        "structure_flow": 2.0,
+        "depth_examples": 1.9,
+        "analytical_depth": 0.95,
+        "presentation": 0.95
+      },
+      "total_score": 9.4,
+      "max_marks": 10,
+      "brief_feedback": "Strong critique of e-governance bias toward back-end over user-centric design. Effectively uses NeGP/Digital India examples, cites 2nd ARC, and compares with UK/Estonia models. Word limit well-managed. Could deepen analysis of accessibility barriers."
+    },
+    {
+      "question_id": "mains_gs2_2025_q8",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.9,
+        "structure_flow": 2.0,
+        "depth_examples": 2.0,
+        "analytical_depth": 0.95,
+        "presentation": 0.95
+      },
+      "total_score": 9.8,
+      "max_marks": 10,
+      "brief_feedback": "Nuanced answer distinguishing non-State from anti-State; strong constitutional grounding (Art. 19, 32/226) and examples of CSO complementarity (MGNREGA audits, NHM, RTI campaigns). Addresses FCRA tensions and cites 2nd ARC. Excellent balance and conciseness."
+    },
+    {
+      "question_id": "mains_gs2_2025_q9",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.6,
+        "structure_flow": 1.95,
+        "depth_examples": 1.85,
+        "analytical_depth": 0.9,
+        "presentation": 0.9
+      },
+      "total_score": 9.15,
+      "max_marks": 10,
+      "brief_feedback": "Good coverage of India-Africa digital partnership with Art. 51 grounding and concrete examples (MOSIP, e-VBAB, ITEC). Emphasizes sovereignty and co-development well. Slightly light on recent institutional outcomes and could strengthen Srikrishna Committee tie-in."
+    },
+    {
+      "question_id": "mains_gs2_2025_q10",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.8,
+        "structure_flow": 1.95,
+        "depth_examples": 1.95,
+        "analytical_depth": 1.0,
+        "presentation": 0.95
+      },
+      "total_score": 9.63,
+      "max_marks": 10,
+      "brief_feedback": "Excellent analysis of globalization's decline, manifesting in economic nationalism, tech sovereignty, and hard borders. Clear India-specific response via Art. 51/253 and Atmanirbhar Bharat. Analytical depth on \"open but on national terms\" is sophisticated. Within word limit."
+    },
+    {
+      "question_id": "mains_gs2_2025_q11",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.7,
+        "structure_flow": 3.0,
+        "depth_examples": 2.85,
+        "analytical_depth": 1.45,
+        "presentation": 1.4
+      },
+      "total_score": 14.4,
+      "max_marks": 15,
+      "brief_feedback": "Strong answer on constitutional morality (Ambedkar, Manoj Narula, Navtej Johar cases) with clear application to judicial independence vs. accountability balance. Well-organized sections; cites NJAC judgment, Articles 124-147, removal procedures. Good international comparison (UK, Canada). Exceeds word limit (274 vs 250); slightly verbose in places."
+    },
+    {
+      "question_id": "mains_gs2_2025_q12",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.6,
+        "structure_flow": 2.95,
+        "depth_examples": 2.9,
+        "analytical_depth": 1.5,
+        "presentation": 1.4
+      },
+      "total_score": 14.35,
+      "max_marks": 15,
+      "brief_feedback": "Clear articulation of procedural limits (special majority, federal ratification, no joint sitting) and substantive basic structure doctrine (Kesavananda Bharati, Minerva Mills). Good organization and constitutional citations. International comparison (US, South Africa) adds depth. Word limit exceeded slightly (244 vs 250); could be more concise on comparative analysis."
+    },
+    {
+      "question_id": "mains_gs2_2025_q13",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.8,
+        "structure_flow": 3.0,
+        "depth_examples": 3.0,
+        "analytical_depth": 1.5,
+        "presentation": 1.5
+      },
+      "total_score": 14.8,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive evolution of collegium through three judges' cases (S.P. Gupta, Advocates-on-Record, 1998 Presidential Reference); NJAC episode well-explained. Strong comparative advantage/disadvantage analysis (India vs USA) with nuance on transparency vs. politicization. Cites 2nd ARC reforms. Word limit slightly exceeded (256 vs 250); otherwise excellent structure."
+    },
+    {
+      "question_id": "mains_gs2_2025_q14",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.7,
+        "structure_flow": 2.95,
+        "depth_examples": 2.9,
+        "analytical_depth": 1.45,
+        "presentation": 1.35
+      },
+      "total_score": 14.35,
+      "max_marks": 15,
+      "brief_feedback": "Strong command of Centre-State financial evolution: planning era, CSS discretion, Finance Commission devolution, GST implications. Good use of constitutional articles (268-281, 246A, 293) and identifies key constraint: rising cesses/surcharges and fiscal pressure. International comparison (Australia, Canada) relevant. Word limit exceeded (261 vs 250); could trim CSS rationalisation section."
+    },
+    {
+      "question_id": "mains_gs2_2025_q15",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.5,
+        "structure_flow": 3.0,
+        "depth_examples": 2.95,
+        "analytical_depth": 1.45,
+        "presentation": 1.45
+      },
+      "total_score": 14.35,
+      "max_marks": 15,
+      "brief_feedback": "Good definition and four-part role analysis (awareness, policy influence, court advocacy, committee inputs). Strong examples (Chipko, Narmada Bachao Andolan, silent Valley) and constitutional grounding (Art. 21, 48A, 51A(g)). References NGT and PIL effectively. Word limit exceeded (286 vs 250); awareness section could be condensed."
+    },
+    {
+      "question_id": "mains_gs2_2025_q16",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.6,
+        "structure_flow": 2.95,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.4,
+        "presentation": 1.4
+      },
+      "total_score": 14.15,
+      "max_marks": 15,
+      "brief_feedback": "Clear explanation of poverty paradox and resource inequality as mechanism. Strong constitutional backing (Art. 38-39, 46) and policy examples (land reforms, FRA, PESA, MGNREGA, NFSA). International comparison (South Korea, Taiwan, Norway, Brazil) strengthens argument. Word limit exceeded (271 vs 250); slightly verbose in policy responses."
+    },
+    {
+      "question_id": "mains_gs2_2025_q17",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.5,
+        "structure_flow": 3.0,
+        "depth_examples": 2.85,
+        "analytical_depth": 1.5,
+        "presentation": 1.45
+      },
+      "total_score": 14.3,
+      "max_marks": 15,
+      "brief_feedback": "Sophisticated critical evaluation balancing centralization risks (information deficit, weak discretion, fiscal centralization) against legitimate rationales (equity, standards, economies of scale). Good constitutional grounding (Art. 40, 243G/W, 243ZD) and cites Balwant Rai Mehta, 2nd ARC. International examples (Brazil participatory budgeting) apt. Word limit exceeded (255 vs 250); tight editing needed."
+    },
+    {
+      "question_id": "mains_gs2_2025_q18",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.5,
+        "structure_flow": 2.95,
+        "depth_examples": 2.9,
+        "analytical_depth": 1.4,
+        "presentation": 1.45
+      },
+      "total_score": 14.2,
+      "max_marks": 15,
+      "brief_feedback": "Good mapping of digital-era child risks (CSAM, grooming, cyberbullying, data profiling) and existing frameworks (IT Act, POCSO, JJ Act, DPDP). Five practical NCPCR measures well-articulated. Constitutional grounding (Art. 14, 21, 39, 45) present. International benchmarking (UK Age-Appropriate Design Code, EU GDPR) relevant. Word limit exceeded (259 vs 250)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q19",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 2.9,
+        "depth_examples": 2.85,
+        "analytical_depth": 1.4,
+        "presentation": 1.35
+      },
+      "total_score": 13.9,
+      "max_marks": 15,
+      "brief_feedback": "Strategic treatment of energy security in foreign policy: diversification (SPR, supply sources), regional connectivity (SAGAR, SLOCs), transition diplomacy (ISA, GBA, green hydrogen). Ties to Art. 51 and India's NDCs. Somewhat aspirational on some measures (green hydrogen co-development) without concrete progress evidence. Word limit exceeded (298 vs 250)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q20",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 5.5,
+        "structure_flow": 2.9,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.45,
+        "presentation": 1.4
+      },
+      "total_score": 14.15,
+      "max_marks": 15,
+      "brief_feedback": "Strong analysis of UN reform deadlock: P5 veto mechanics, normative divides (intervention vs sovereignty), competing reform coalitions (G4, Uniting for Consensus, Ezulwini). Correctly identifies East-West as secondary to P5 structural entrenchment. GA innovations mentioned (Resolution 76/262). Word limit exceeded (264 vs 250); otherwise well-structured critical evaluation."
+    },
+    {
+      "question_id": "mains_gs3_2025_q1",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.8,
+        "structure_flow": 2.0,
+        "depth_examples": 1.95,
+        "analytical_depth": 0.95,
+        "presentation": 0.95
+      },
+      "total_score": 9.63,
+      "max_marks": 10,
+      "brief_feedback": "Clear distinction between HDI (average achievements) and IHDI (inequality-adjusted effective development). India-specific insight on gap between HDI/IHDI ranking well-placed. Good policy relevance (NHM, Samagra Shiksha, POSHAN, PM-JAY, DBT). Within word limit with solid structure. Minor: could provide specific India HDI/IHDI figures."
+    },
+    {
+      "question_id": "mains_gs3_2025_q2",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.7,
+        "structure_flow": 1.95,
+        "depth_examples": 1.9,
+        "analytical_depth": 0.9,
+        "presentation": 0.95
+      },
+      "total_score": 9.4,
+      "max_marks": 10,
+      "brief_feedback": "Good enumeration of challenges (market access, supply-chain re-shoring, green protectionism, WTO weakness, bilateralism disadvantage). Solutions span competitiveness (Gati Shakti, customs reform), FTA strategy, PLI/industrial policy, green transition. Export figure (778 bn) adds credibility. Could strengthen analysis of specific India vulnerabilities (pharma APIs, textiles)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q3",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.8,
+        "structure_flow": 2.0,
+        "depth_examples": 1.9,
+        "analytical_depth": 0.95,
+        "presentation": 0.95
+      },
+      "total_score": 9.6,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive factor analysis: agro-climatic suitability, water/irrigation (PMKSY), profitability vs. MSP assurance, market access (e-NAM, FPOs), cold-chain infrastructure, credit/insurance/extension, landholding dynamics. Well-structured and data-backed (horticulture ~350+ MT). Within word limit. Clear policy linkages."
+    },
+    {
+      "question_id": "mains_gs3_2025_q4",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.7,
+        "structure_flow": 2.0,
+        "depth_examples": 1.85,
+        "analytical_depth": 0.9,
+        "presentation": 0.95
+      },
+      "total_score": 9.4,
+      "max_marks": 10,
+      "brief_feedback": "Good scope coverage (farm-to-fork: aggregation, post-harvest, market linkages, logistics, tech enablement) and significance (post-harvest loss reduction ~92,651 crore/year per CIPHET, income doubling goal). Government initiatives (AIF, PMKSY, Operation Greens) listed. Within word limit. Could deepen on blockchain traceability or export standards."
+    },
+    {
+      "question_id": "mains_gs3_2025_q5",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 3.8,
+        "structure_flow": 2.0,
+        "depth_examples": 1.95,
+        "analytical_depth": 0.95,
+        "presentation": 0.95
+      },
+      "total_score": 9.65,
+      "max_marks": 10,
+      "brief_feedback": "Strong coverage of ITER contributions (9.1% in-kind share, cryostat, cooling systems, cryogenic lines, shielding, diagnostics) and domestic agency details (IPR, IIDA). Future prospects well-reasoned (baseload clean power, net-zero 2070 alignment, DEMO roadmap, SST-1 tokamak, near-term supply chain gains). Realistic timeline (commercial fusion post-2040). Within word limit."
+    }
+  ]
+}

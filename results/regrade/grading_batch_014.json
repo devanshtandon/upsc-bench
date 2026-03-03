@@ -1,0 +1,627 @@
+[
+  {
+    "question_id": "mains_gs2_2025_q6",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A well-structured answer that effectively deploys the bonding-bridging-linking capital framework and ties it to constitutional provisions and specific government schemes. The international comparisons (Grameen, Nordic model) add useful breadth within a tight word count.",
+        "analysis": "Candidate A demonstrates strong conceptual clarity by organizing the response around Putnam's three forms of social capital (bonding, bridging, linking), which provides analytical depth beyond a mere listing approach. The constitutional references (Art. 14, 15(1), 15(3), Art. 243D/243T, 106th Amendment) are precise and relevant, showing genuine command of the legal framework underpinning women's empowerment in India. The inclusion of specific schemes (DAY-NRLM, PMJDY-MUDRA, One-Stop Centres, PMMVY) and the Justice Verma Committee reference grounds the answer in concrete policy. The international examples are apt but could have been developed slightly more. The answer stays within word limit, which is commendable.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Facts are accurate throughout. Constitutional articles correctly cited. Schemes and committees correctly referenced. The bonding-bridging-linking framework is correctly applied. Minor gap: could have addressed challenges or limitations of social capital for women."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Well-organized with a conceptual framework (three types of capital) followed by Indian context and international comparison. Flows logically from theory to domestic application to global evidence. No explicit conclusion but the structure itself is coherent."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Rich in specific examples: DAY-NRLM, PMJDY-MUDRA, One-Stop Centres, PMMVY, Justice Verma Committee, 106th Amendment, Grameen model, Nordic countries. Constitutional articles cited precisely. Examples are relevant and not merely listed."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The bonding-bridging-linking framework provides genuine analytical structure rather than a flat enumeration. However, the answer could have explored tensions or limitations of social capital (e.g., caste-based exclusion within SHGs, elite capture)."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Stays within 150-word limit (147 words). Clear, concise language. Bold formatting aids readability. Dense but not cluttered."
+          }
+        },
+        "total_score": 7.5,
+        "max_marks": 10,
+        "brief_feedback": "Excellent conceptual framework (bonding/bridging/linking) with strong constitutional and scheme-level specificity. Could improve by acknowledging limitations of women's social capital (caste barriers, patriarchal norms within SHGs)."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A clearly organized answer using bullet-point sub-themes that covers information sharing, collective action, psychological support, and norm-challenging functions of women's social capital. However, it exceeds the word limit substantially and reads more like a generic development studies essay.",
+        "analysis": "Candidate B identifies four mechanisms through which social capital advances women's empowerment, providing reasonable coverage of the topic. The mention of SHGs, NRLM, Beti Bachao Beti Padhao, and Mahila Shakti Kendra shows awareness of government schemes. However, the answer lacks constitutional grounding compared to Candidate A — there are no article references beyond a passing mention. The four sub-themes (information sharing, collective action, psychological support, challenging norms) are somewhat generic and could apply to any social development context, not specifically tied to social capital theory. The answer exceeds the 150-word limit at 187 words, which would cost marks in a real exam. The conclusion is formulaic.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Content is broadly accurate but somewhat generic. Scheme references (BBBP, Mahila Shakti Kendra, NRLM) are correct but not deeply integrated into the social capital argument. The four mechanisms identified are valid but lack the precision of a social capital framework."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear sub-heading organization with four thematic bullets and a concluding paragraph. However, the structure is somewhat mechanical — each point is self-contained without building toward a synthesized argument."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Examples mentioned (BBBP, NRLM, Mahila Shakti Kendra) are relevant but not deeply developed. No constitutional articles cited. No international comparisons. Examples are listed rather than analyzed."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The answer describes what social capital does rather than analyzing how it specifically complements empowerment. No theoretical framework applied. No critical perspective or nuance about limitations."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Exceeds word limit significantly (187 vs 150). While formatted clearly with bullets, the verbosity dilutes impact. Language is competent but formulaic."
+          }
+        },
+        "total_score": 6.2,
+        "max_marks": 10,
+        "brief_feedback": "Decent thematic coverage but lacks theoretical depth and constitutional grounding. Significantly exceeds word limit. Needs sharper analytical framework rather than generic enumeration of social capital benefits."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "A competent answer that covers SHGs, political participation, collective bargaining, and knowledge sharing with relevant examples (SEWA, Kudumbashree, PWDVA). Includes a useful 'challenges' section but slightly exceeds word limit and relies on a listing approach.",
+        "analysis": "Candidate C provides a well-organized answer with clear sub-themes and specific Indian examples. The mention of SEWA, Kudumbashree, SHG-Bank Linkage, 73rd/74th Amendments, PWDVA 2005, and Maternity Benefit Act demonstrates solid knowledge of the policy landscape. The inclusion of SDG-5 adds an international dimension. The 'challenges' section (caste-based exclusion, digital divide, patriarchal norms) is a strong addition that shows critical thinking — this is something other candidates largely miss. However, the answer reads as a series of discrete points rather than a cohesive argument. The opening definition of social capital is somewhat textbook. The markdown heading format is inappropriate for an exam answer. At 165 words, it slightly exceeds the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Accurate references to NRLM-Aajeevika, SHG-Bank Linkage, 73rd/74th Amendments, SEWA, Kudumbashree, PWDVA 2005, Maternity Benefit Act, SDG-5. All factual claims are correct. The challenges section adds important nuance."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear sub-sections covering different dimensions. However, the heading-based format (markdown #) is not appropriate for an exam setting. Points are somewhat siloed — each section stands alone without connecting threads."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Strong specific examples: SEWA, Kudumbashree, NRLM-Aajeevika, SHG-Bank Linkage, PWDVA 2005. Constitutional amendments correctly cited. SDG-5 reference adds breadth. Challenges section with caste exclusion and digital divide shows depth."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The challenges section provides some critical analysis, but overall the answer is more descriptive than analytical. The connection between social capital theory and empowerment outcomes could be more explicitly argued."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Slightly over word limit (165 words). Markdown heading format inappropriate for exam. Clear language but somewhat textbook-like in tone."
+          }
+        },
+        "total_score": 6.8,
+        "max_marks": 10,
+        "brief_feedback": "Good range of examples and commendable inclusion of challenges/limitations. Needs better integration of points into a cohesive argument rather than listing. The heading format is not exam-appropriate."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A strong, well-organized answer that combines economic, political, and social justice dimensions with specific examples (Kudumbashree, Grameen, Lakhpati Didi) and constitutional backing (Art. 19(1)(c), Art. 243D). The mention of the 2nd ARC and the 'Sarpanch Pati' syndrome shows depth.",
+        "analysis": "Candidate D delivers a well-structured answer organized around three clear dimensions (economic, political, social justice) with an institutional backing section. The 'Sarpanch Pati' syndrome reference is particularly impressive — it demonstrates understanding of how social capital addresses real-world barriers to women's political participation beyond mere reservation. The constitutional references (Art. 19(1)(c), Art. 243D) are precise and relevant. The Lakhpati Didi initiative is a contemporary reference showing awareness of recent policy. The Grameen Bank and Kudumbashree examples are well-chosen. The concluding line about transforming women from passive beneficiaries to active agents provides a strong synthesis. At 176 words, it exceeds the limit, which is a concern, but the content density justifies the length more than Candidate B's verbosity.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Factually accurate throughout. DAY-NRLM, Lakhpati Didi, Grameen Bank, Kudumbashree, Art. 243D, Art. 19(1)(c), 2nd ARC — all correctly referenced. The Sarpanch Pati syndrome is an apt and accurate reference."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Excellent three-part structure (economic, political, social justice) with an institutional backing section and a strong concluding synthesis. Each section builds on the previous one logically. Clear progression from individual to collective to institutional."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Rich and varied examples: DAY-NRLM, Lakhpati Didi, Grameen Bank, Kudumbashree, Sarpanch Pati syndrome, 2nd ARC recommendation. Constitutional articles precisely cited. SDG-5 for international framing."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The Sarpanch Pati reference shows genuine analytical insight into the gap between formal and substantive representation. The framing of women as 'agents of change' rather than 'passive beneficiaries' provides a strong analytical lens. Could still explore tensions more."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Exceeds word limit (176 vs 150). Well-formatted with clear bullets. Language is strong and authoritative. The 'word count' note at the end is unnecessary for an exam."
+          }
+        },
+        "total_score": 7.4,
+        "max_marks": 10,
+        "brief_feedback": "Strong answer with excellent analytical touches (Sarpanch Pati syndrome, passive-to-active agent framing). Good constitutional and policy grounding. Needs to respect word limit more strictly."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q7",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A dense, well-informed answer that identifies the technology bias in e-governance, diagnoses its causes (vendor-led procurement, departmental silos, wrong metrics), and offers solutions with international comparisons. Stays precisely within word limit.",
+        "analysis": "Candidate A demonstrates exceptional command of the subject matter, correctly diagnosing why e-governance projects favor back-end integration: vendor-led procurement, silo-based design, and metrics focused on 'services online' rather than user satisfaction. The constitutional framing (Art. 14, 21, 38, 39A, 46) elevates the answer from a technology discussion to a governance and rights issue — this is exactly what UPSC examiners look for. The reference to the 2nd ARC (2008) with specific recommendations (citizen-centricity, single-window, Sevottam, process re-engineering) shows deep knowledge. International comparisons (UK GDS, Estonia) are well-chosen. The mention of NeSDA, UMANG, CSCs as corrective steps shows balance. The answer is remarkably well-calibrated at exactly 148 words. The density of information is impressive without feeling rushed.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "Highly accurate. Correctly identifies NeGP/Digital India infrastructure (Aadhaar seeding, DBT rails, BharatNet, State Data Centres, e-Office). Constitutional articles (14, 21, 38, 39A, 46) precisely cited. 2nd ARC recommendations (Sevottam, single-window, process re-engineering) correctly referenced. UMANG, CSCs, NeSDA correctly identified as corrective measures."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Excellent three-part flow: problem identification (bias toward IT plumbing), diagnosis (drivers of bias), and solutions (international models + Indian corrective steps). Constitutional framing ties the technical discussion to governance principles. Cohesive argument throughout."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "Exceptional density of relevant examples: BharatNet, State Data Centres, e-Office, Aadhaar, DBT, 2nd ARC 2008, Sevottam, UK GDS, Estonia once-only, UMANG, CSCs, NeSDA, WCAG. Each example serves a purpose in the argument."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Strong analytical insight in diagnosing the root causes of the bias (vendor-led procurement, wrong success metrics, silos). The constitutional rights framing adds genuine analytical value. Doesn't just describe the problem but explains why it persists."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Precisely within word limit (148 words). Dense but readable. Constitutional parentheticals are efficiently integrated. Language is crisp and authoritative."
+          }
+        },
+        "total_score": 8.0,
+        "max_marks": 10,
+        "brief_feedback": "Outstanding answer — correctly diagnoses root causes of technology bias, provides constitutional framing, and offers balanced solutions. Exceptionally well-calibrated within word limit. One of the stronger answers across all candidates."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A comprehensive answer with clear sub-sections covering manifestations, constitutional implications, and a way forward with both domestic and international references. However, significantly exceeds the word limit.",
+        "analysis": "Candidate B provides a thorough treatment of the topic with well-identified manifestations of technology bias (administrative convenience over citizen ease, accessibility barriers, complex navigation). The constitutional angle (Art. 14 for digital divide, Art. 21 for dignified life) is well-deployed. The 2nd ARC's 11th Report reference with Government Process Re-engineering (GPR) is a strong specific citation. The international comparisons (UK GOV.UK, Estonia once-only) and domestic corrective measures (UMANG, Bhashini) are relevant. The closing line about evolving from 'digitization to we-governance' is a good rhetorical touch. However, at 206 words, the answer significantly exceeds the 150-word limit — in a real UPSC exam, this would be penalized. The answer is also somewhat over-structured with too many sub-headings for a 150-word answer.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Accurate throughout. State Data Centres, India Stack, CCTNS, GSTN, EPF portals all correctly referenced. 2nd ARC 11th Report on GPR is precisely cited. WCAG, UMANG, Bhashini correctly mentioned. Constitutional articles (14, 21) appropriately applied."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Well-organized with manifestations, way forward, and conclusion sections. However, the structure is over-elaborate for a 150-word answer — three separate sub-sections with multiple bullets feels like a 250-word answer format."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Good range of examples: GSTN, EPF portals, CCTNS, WCAG, 2nd ARC 11th Report, UK GOV.UK, Estonia once-only, UMANG, Bhashini. Examples are relevant and serve the argument well."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Good identification of how the accessibility bias deepens the digital divide (connecting it to Art. 14). The GPR recommendation shows understanding that the problem is process-level, not just interface-level. Some analytical merit in connecting technology bias to rights violations."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Significantly exceeds word limit (206 vs 150 — 37% over). While well-formatted, the length penalty is substantial. Language is good but verbose in places."
+          }
+        },
+        "total_score": 7.1,
+        "max_marks": 10,
+        "brief_feedback": "Strong content and analysis but heavily penalized for exceeding word limit by 37%. The over-structured format doesn't suit a 150-word answer. Would score higher with tighter editing."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "A well-structured answer identifying the technology-centric bias with relevant examples (NeGP, MCA21, passport seva, Aadhaar) and corrective measures. The 2nd ARC reference about mere 'computerization' vs re-engineering is apt but the answer lacks constitutional depth.",
+        "analysis": "Candidate C provides a clear, methodical treatment with two main sections: evidence of bias and corrective measures. The specific examples of projects that suffered from technology-first design (MCA21, passport seva) are apt and concrete. The 2nd ARC observation about processes being 'computerized without re-engineering' is precisely the insight this question demands. The digital divide dimensions (rural, elderly, marginalized, language barriers) are relevant. The corrective measures (UMANG, DigiLocker, GeM, Estonia X-Road) show awareness of both domestic and international solutions. The mention of mandatory usability audits and participatory design is a forward-looking suggestion. However, the answer lacks any constitutional framing — no articles cited. The conclusion is brief but effective. At 172 words, it exceeds the limit modestly.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Accurate references to NeGP (2006), SWAN, CSCs, MCA21, passport seva, Aadhaar, UMANG, DigiLocker, GeM, Estonia X-Road. 2nd ARC point about computerization without re-engineering is correct. No factual errors detected."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear two-part structure: bias identification + corrective measures, with a concise conclusion. The markdown heading format is not exam-appropriate but the logical flow is sound. The 'manifestations' subsection adds a useful layer."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Good concrete examples (MCA21, passport seva, NeGP 2006, SWAN, UMANG, DigiLocker, GeM). However, no constitutional articles cited, which weakens the answer for a GS-II paper. Estonia X-Road is a relevant international comparison."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The 2nd ARC insight about computerization vs re-engineering provides analytical value. The identification of multiple affected groups (rural, elderly, marginalized) shows understanding of impact. However, lacks deeper analysis of why the bias persists."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Slightly over word limit (172 vs 150). Markdown formatting not exam-appropriate. Clear language. The bullet-point approach is efficient but somewhat mechanical."
+          }
+        },
+        "total_score": 6.4,
+        "max_marks": 10,
+        "brief_feedback": "Good factual coverage with apt examples (MCA21, passport seva) but lacks constitutional framing crucial for GS-II. The 2nd ARC point is well-used. Needs tighter word discipline and deeper causal analysis."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A balanced answer that identifies the technology bias problem, explains its consequences for citizens, and offers corrective trends. However, it is the least specific of the four, reading more like a general essay than a policy-focused UPSC answer.",
+        "analysis": "Candidate D provides a competent but somewhat generic treatment of the topic. The core argument — that e-governance prioritizes the 'how' of technology and 'what' of data over the 'who' of end-users — is well-articulated and provides a useful framing. The mention of early tax portals and land record systems as examples of user-unfriendly design is relevant but vague ('some online tax portals'). The Digital India, 2nd ARC, and Estonia references are correct but less precisely cited than other candidates. The answer lacks constitutional grounding — no articles mentioned. The causal analysis of why the bias exists is thin. At 178 words, it exceeds the limit. The overall impression is of a well-written but insufficiently specific answer that would struggle to stand out in an actual UPSC examination.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Content is broadly accurate but vague. References to 'some online tax portals' and 'land record systems' lack specificity. Digital India, 2nd ARC, Aadhaar, UPI, DigiLocker, Estonia e-Residency mentioned but not deeply analyzed. No constitutional articles cited."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Logical three-paragraph flow: problem statement, consequences, and corrective measures. Well-organized prose style. However, the structure is somewhat loose — the argument meanders rather than building progressively."
+          },
+          "depth_examples": {
+            "score": 0.9,
+            "justification": "Examples are few and vague: 'some online tax portals,' 'land record systems.' 2nd ARC mentioned but without specific report number or recommendation. Estonia e-Residency is mentioned but Aadhaar/UPI/DigiLocker are listed without analysis. No constitutional references."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The 'how/what/who' framing provides a useful lens. However, the analysis remains surface-level — no exploration of procurement practices, institutional incentives, or structural reasons for the bias."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Exceeds word limit (178 vs 150). Well-written prose with good readability. However, the lack of specificity and constitutional grounding limits impact for a GS-II answer."
+          }
+        },
+        "total_score": 5.4,
+        "max_marks": 10,
+        "brief_feedback": "Well-written but too general for UPSC Mains. Needs more specific scheme/project names, constitutional articles, and deeper causal analysis. The 'how/what/who' framing is good but underdeveloped."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q8",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "An exceptionally well-argued answer that takes a clear position (CSOs are non-State, pro-Constitution actors), supports it with constitutional provisions and specific examples, and provides a balanced treatment of why the anti-State perception arises. Precisely within word limit.",
+        "analysis": "Candidate A demonstrates outstanding command of both the normative and empirical dimensions of the CSO debate. The constitutional framing is comprehensive — Art. 19(1)(a), 19(1)(c), 32/226 for PIL — establishing the legal legitimacy of CSO activity. The specific examples of constructive CSO engagement (social audits under MGNREGA, community monitoring in NHM, RTI-based campaigns, Swachh Bharat participation) are precise and varied. The acknowledgment of why the anti-State perception exists (litigation, corruption exposure, FCRA tensions) shows balance without conceding the core argument. The National Policy on Voluntary Sector (2007) and 2nd ARC references are precisely cited. The international comparative framework (UK Charity Commission, US non-profit regimes, China as cautionary example) is excellent. The concluding nuance — 'except fringe, opaque, or partisan actors' — shows mature judgment. At 149 words, it is masterfully precise.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "Highly accurate. Constitutional articles (19(1)(a), 19(1)(c), 32/226) precisely cited. FCRA 2010, National Policy on Voluntary Sector 2007, 2nd ARC all correctly referenced. Social audits under MGNREGA, NHM community monitoring, RTI campaigns are accurate examples. UK Charity Commission and US non-profit regimes correctly cited as comparators."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Excellent argumentative flow: establishes constitutional legitimacy → provides evidence of constructive role → acknowledges anti-State perception with causes → cites policy recommendations → offers international comparison → nuanced conclusion. Cohesive argument throughout."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "Richly supported: MGNREGA social audits, NHM community monitoring, RTI campaigns, Swachh Bharat Mission, FCRA 2010, National Policy 2007, 2nd ARC, UK Charity Commission, US non-profit regimes, China. Every claim is backed by a specific reference."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Strong analytical positioning — argues CSOs are 'pro-Constitution' rather than merely 'non-State.' The distinction between legitimate watchdog function and the perception of being adversarial is well-drawn. The concluding caveat about 'fringe, opaque, or partisan actors' shows nuanced judgment."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Precisely within word limit (149 words). Dense but clear. Bold formatting used effectively. Language is authoritative and measured."
+          }
+        },
+        "total_score": 8.0,
+        "max_marks": 10,
+        "brief_feedback": "Masterful answer with precise constitutional grounding, balanced argumentation, and excellent international comparisons. The 'pro-Constitution' framing elevates the analysis. Near-perfect word discipline."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A well-structured answer that takes a clear position (disagrees with anti-State perception), provides specific evidence for both sides (IB Report 2014, FCRA 2020, Akshaya Patra, MKSS), and offers a constructive recommendation. Slightly verbose.",
+        "analysis": "Candidate B demonstrates strong argumentative clarity by explicitly stating disagreement upfront and then systematically building the case. The IB Report 2014 reference with the specific GDP impact claim (2-3%) and its link to FCRA 2020 amendments is a strong, specific piece of evidence that other candidates reference only generally. The examples of CSO contributions are well-chosen: Akshaya Patra in PM-POSHAN and Sulabh International in Swachh Bharat show service delivery, while MKSS/RTI and Forest Rights Act show legislative advocacy. The 2nd ARC and National Policy on Voluntary Sector (2007) references are precise. The recommendation for a National Accreditation Council modeled on the UK Charity Commission is a forward-looking suggestion. The answer is well-organized with clear sub-sections. At 172 words, it exceeds the limit, and the Russia 'foreign agent' comparison, while interesting, is not essential.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Accurate throughout. IB Report 2014 with GDP impact claim is a specific, credible reference. FCRA 2020 amendments, Akshaya Patra, Sulabh International, MKSS/RTI Act, Forest Rights Act all correctly cited. National Policy on Voluntary Sector 2007 and 2nd ARC correctly referenced. Russia's foreign agent laws are a relevant comparator."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Clear three-part structure: basis of anti-State perception, CSOs as non-State actors, conclusion with recommendation. The argument builds logically from acknowledging the perception to refuting it with evidence to proposing institutional reform."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Strong examples: IB Report 2014 (with GDP figure), FCRA 2020, Kudankulam protests, Akshaya Patra/PM-POSHAN, Sulabh/Swachh Bharat, MKSS/RTI, Forest Rights Act, Russia's foreign agent laws, UK Charity Commission. Well-diversified across service delivery and advocacy."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Good analytical framing distinguishing welfare delivery from democratic deepening. The National Accreditation Council proposal shows constructive thinking. However, could explore why governments tend toward the anti-State framing more deeply."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Exceeds word limit (172 vs 150). Well-formatted but could be more concise. The Russia comparison, while interesting, adds length without essential value."
+          }
+        },
+        "total_score": 7.2,
+        "max_marks": 10,
+        "brief_feedback": "Strong answer with precise evidence (IB Report 2014, GDP claim, FCRA 2020) and constructive institutional recommendation. Would benefit from tighter editing to meet word limit."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "A balanced, well-written prose answer that addresses both sides of the debate but lacks the specificity and constitutional grounding that distinguish stronger responses. Competent but generic.",
+        "analysis": "Candidate C provides a reasonable discussion of the CSO debate in flowing prose, which reads well but lacks the policy and constitutional specificity expected in a UPSC GS-II answer. The answer correctly identifies the watchdog function, environmental and human rights advocacy, FCRA regulations, and service delivery roles. However, compared to other candidates, it lacks: specific CSO names (no MKSS, Akshaya Patra, Sulabh mentioned), specific constitutional articles (only FCRA mentioned as regulation), specific committee/report references (no 2nd ARC, no IB Report, no National Policy), and international comparisons. The answer reads more like a general essay than a targeted UPSC response. The position taken is balanced but somewhat non-committal — the question asks to 'justify' a position, and the answer could be more decisive. At 170 words, it exceeds the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.0,
+            "justification": "Content is accurate but vague. FCRA mentioned without specifying year or amendments. No specific CSOs named. No constitutional articles cited. No committee reports referenced. The general claims about environmental CSOs and human rights organizations are true but unsubstantiated."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Well-written prose with a clear three-paragraph structure: critical function, foreign funding concerns, and constructive role. Flows well as an essay. However, the argumentative structure is weak — doesn't build to a strong, justified position."
+          },
+          "depth_examples": {
+            "score": 0.7,
+            "justification": "Notably lacks specific examples. No named CSOs, no constitutional articles, no committee reports, no international comparisons. References to 'environmental CSOs' and 'human rights organizations' are categories, not examples. FCRA is the only specific reference."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Some analytical merit in distinguishing between the watchdog role appearing confrontational and actually being anti-State. However, the analysis remains surface-level without exploring structural or institutional dimensions."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Slightly over word limit (170 vs 150). Well-written prose with good readability. Language is mature and measured. However, the lack of formatting (bold, bullets) makes it harder to scan."
+          }
+        },
+        "total_score": 5.1,
+        "max_marks": 10,
+        "brief_feedback": "Well-written prose but severely lacks specificity — no named CSOs, no constitutional articles, no committee reports. A GS-II answer demands concrete evidence, not generalized discussion."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A clearly structured answer with a definitive position (disagrees) supported by named CSOs (PRATHAM, Barefoot College, Goonj, SEWA, MKSS), constitutional backing, and balanced treatment of the anti-State perception. Good specific references but slightly exceeds word limit.",
+        "analysis": "Candidate D takes a clear position and supports it methodically. The named CSO examples are well-chosen and diverse: PRATHAM (education), Barefoot College (skills), Goonj (service delivery), SEWA (economic empowerment), MKSS (RTI/accountability). The connection of PRATHAM to SSA and Barefoot College to Skill India shows understanding of CSO-government complementarity. Art. 19(1)(c) is correctly cited. The anti-State perception section is well-evidenced: Narmada Bachao Andolan, FCRA 2020, IB Report 2014. The 2nd ARC recommendation for government-CSO partnerships is aptly cited. The concluding line — 'dissent strengthens democracy, not weakens the State' — is a strong rhetorical closer. However, the markdown heading format is inappropriate for an exam answer. At 162 words, it exceeds the limit. The analysis could have been deeper on the structural reasons for the perception.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Accurate references: PRATHAM, Barefoot College, SSA, Skill India, Goonj, SEWA, MKSS/RTI, Art. 19(1)(c), Narmada Bachao Andolan, FCRA 2020, IB Report 2014, 2nd ARC. All factual claims verified. Good range of named CSOs."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear three-part structure: constructive role, anti-State perception, balanced view. The argument flows from evidence of constructive engagement to acknowledging counter-evidence to synthesis. Markdown headings are not exam-appropriate."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Strong specific examples: PRATHAM, Barefoot College, Goonj, SEWA, MKSS, Narmada Bachao Andolan, FCRA 2020, IB Report 2014. Each CSO paired with its area of impact. Constitutional article cited. 2nd ARC referenced."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The 'watchdogs, not adversaries' framing is clear. The concluding point about dissent strengthening democracy provides philosophical depth. However, the analysis of why the perception persists could be more structural and less descriptive."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Slightly over word limit (162 vs 150). Markdown heading format inappropriate for exam. The 'Word count: ~160' note is unnecessary. Clear language and good use of bold formatting."
+          }
+        },
+        "total_score": 6.8,
+        "max_marks": 10,
+        "brief_feedback": "Good answer with strong named examples and clear position. The range of CSOs cited (PRATHAM, Goonj, SEWA, MKSS) demonstrates breadth. Could deepen the analytical reasoning and remove exam-inappropriate formatting."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q9",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A concise, well-structured answer organized around the three themes of the question (mutual respect, co-development, institutional partnerships) with strong constitutional backing (Art. 51) and specific program references (MOSIP, e-VBAB, ITEC). Within word limit.",
+        "analysis": "Candidate A delivers a tightly constructed answer that directly addresses the three dimensions named in the question. The Art. 51 reference (promoting international cooperation) is a smart constitutional hook for a GS-II answer. The concept of 'digital sovereignty' in the mutual respect section is well-deployed, contrasting India's approach with 'proprietary, vendor-locked' alternatives without naming competitors — this shows diplomatic sophistication. The co-development section's mention of MOSIP as an open-source identity platform is precise and relevant. The institutional partnerships section correctly references the evolution from PAENP to e-VBAB and includes ITEC/e-ITEC and Centres of Excellence. The Justice Srikrishna Committee reference for data protection is interesting but slightly tangential. The concluding frame — 'aid to shared digital public infrastructure' — is strong. At 129 words, it's actually under the limit, which is unusual but not problematic given the density.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Highly accurate. Art. 51, MOSIP, e-VBAB (correctly identified as PAENP successor), ITEC/e-ITEC, Digital India/India Stack, Justice Srikrishna Committee, Centres of Excellence — all correctly cited. The contrast with proprietary approaches is fair and defensible."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Perfectly organized around the three themes explicitly named in the question (mutual respect, co-development, institutional partnerships). Each section flows logically. Constitutional framing at the top and synthesizing conclusion at the bottom provide coherence."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Good specific references: MOSIP, e-VBAB, ITEC/e-ITEC, India Stack (Aadhaar, UPI, DigiLocker), Centres of Excellence, Justice Srikrishna Committee. Could have named specific African countries benefiting from these programs."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The 'digital sovereignty' concept and the contrast with proprietary models show analytical maturity. The 'aid to shared infrastructure' transition framing provides a meaningful analytical lens. Could have explored challenges or limitations."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Well within word limit (129 words). Clear, concise language. Bold formatting used effectively. Dense without being cluttered."
+          }
+        },
+        "total_score": 7.5,
+        "max_marks": 10,
+        "brief_feedback": "Strong, focused answer perfectly aligned to the question's three-part structure. Art. 51 and MOSIP references distinguish it. Could benefit from naming specific African partner countries."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A clearly organized answer covering all three dimensions with relevant references (e-VBAB, UPI, Aadhaar, IAFS, ITEC). The '10 Guiding Principles' reference is a good touch, though some points are vague or speculative.",
+        "analysis": "Candidate B provides a well-structured treatment organized around the three themes of the question. The '10 Guiding Principles for Africa engagement' reference is specific and demonstrates awareness of India's Africa policy framework. The e-VBAB reference with its predecessor (Pan-African e-Network) is correct. The IAFS as an institutional platform is relevant. However, several points are vague or speculative: 'UPI-like systems being explored for African markets' lacks specificity, 'iCET-like frameworks' is an inaccurate extension (iCET is India-US, not India-Africa), and 'African AU-India collaboration on digital infrastructure' is vague. The 'demand-driven assistance' framing in the mutual respect section is appropriate. The markdown heading format, while clear, is not exam-appropriate. At 155 words, it slightly exceeds the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Mostly accurate but with notable issues. e-VBAB, ITEC, IAFS correctly referenced. The '10 Guiding Principles' is a good specific reference. However, 'iCET-like frameworks' is misleading — iCET is India-US specific and doesn't apply to India-Africa. 'UPI-like digital payment systems being explored' is speculative. Some claims are vague."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized around the three themes with clear sub-headings. Each section is distinct and addresses its theme directly. The markdown format is clear but not exam-appropriate."
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Relevant references: e-VBAB, PAENP, UPI, Aadhaar, IAFS, ITEC, 10 Guiding Principles, IT centres. However, 'Aadhaar-inspired digital identity frameworks adapted for African contexts' lacks specific country names or project names (compare with Candidate A's MOSIP reference)."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The demand-driven approach framing provides some analytical value. However, the analysis remains largely descriptive — listing initiatives rather than analyzing how they specifically achieve mutual respect, co-development, and institutional depth."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Slightly over word limit (155 vs 150). Markdown heading format not exam-appropriate. Clear and readable. Some vague phrasing weakens impact."
+          }
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Good structure and the '10 Guiding Principles' is a distinctive reference, but weakened by the inaccurate iCET extension, speculative claims, and lack of specific African country examples."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "The strongest answer on this question — well-structured around the three themes with precise, specific references (MOSIP with Morocco/Togo, Kampala Principles, AU Agenda 2063, CEITs in Ghana/Tanzania, e-VBAB). Rich in concrete detail.",
+        "analysis": "Candidate C delivers an impressive answer with exceptional specificity. The Kampala Principles reference is distinctive and demonstrates knowledge of development effectiveness frameworks. The AU Agenda 2063 link shows understanding of African developmental aspirations. The MOSIP reference with specific adopting countries (Morocco, Togo) is precisely the kind of evidence UPSC examiners reward — it transforms a general claim into a verifiable fact. The CEITs with specific countries (Ghana, Tanzania) similarly ground the institutional partnership claim. The e-VBAB reference with its PAENP predecessor is correct. The ITEC programme for capacity building is relevant. The 'Sabka Saath, Sabka Vikas' closing connects to India's overarching development philosophy. At 193 words, it significantly exceeds the limit, which is the primary weakness. The markdown headings are not exam-appropriate.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "Exceptionally accurate with rare specificity. Kampala Principles, AU Agenda 2063, MOSIP adoption by Morocco and Togo, PAENP to e-VBAB evolution, ITEC programme, CEITs in Ghana and Tanzania — all correctly referenced. DPI concept correctly framed."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Perfectly organized around the three question themes with numbered sections and a conclusion. Each section directly addresses its theme with supporting evidence. The progression from respect to co-development to institutions is logical."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Outstanding specificity: MOSIP with Morocco and Togo, CEITs in Ghana and Tanzania, Kampala Principles, AU Agenda 2063, PAENP/e-VBAB, ITEC, DPI. Named countries distinguish this answer significantly from others."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Good analytical framing contrasting India's approach with 'neo-colonial or debt-heavy models.' The digital sovereignty and data localization points show understanding of why India's approach resonates with African nations. The 'democratizing technology' conclusion provides synthesis."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Significantly exceeds word limit (193 vs 150 — 29% over). Markdown heading format not exam-appropriate. The Sabka Saath closing, while thematic, adds unnecessary words. Would benefit from aggressive editing."
+          }
+        },
+        "total_score": 7.5,
+        "max_marks": 10,
+        "brief_feedback": "Exceptional specificity (MOSIP/Morocco/Togo, CEITs/Ghana/Tanzania) and the Kampala Principles reference distinguish this answer. Significantly let down by word limit violation. Would be the top answer with tighter editing."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A competent, well-written prose answer covering the three themes with relevant references (e-VBAB, Aadhaar, UPI, DigiLocker, ITEC, IAFS). However, it lacks the specificity and named country examples that distinguish stronger answers.",
+        "analysis": "Candidate D provides a readable prose-style answer that covers all three dimensions of the question. The e-VBAB reference with its predecessor network is correct. The mention of India's DPI experience (Aadhaar, UPI, DigiLocker) is relevant. The ITEC scheme for capacity building and IAFS for institutional framework are appropriate references. However, the answer reads as somewhat generic — phrases like 'discussions are underway to adapt UPI for cross-border payments' are speculative, and 'helping African countries build their own DPI' is vague without naming specific countries or projects. Compared to Candidate C's MOSIP/Morocco/Togo specificity, this answer falls short. No constitutional articles or development framework references (no Kampala Principles, no AU Agenda 2063). At 195 words, it significantly exceeds the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Broadly accurate. e-VBAB, Aadhaar, UPI, DigiLocker, ITEC, IAFS all correctly referenced. However, 'discussions underway to adapt UPI for cross-border payments in Africa' is vague and potentially speculative. No factual errors but lacks precision."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Two sub-headed sections covering mutual respect/co-development and institutional partnerships. The prose flows well but the two themes (mutual respect and co-development) are merged rather than treated distinctly, which doesn't fully address the question's three-part structure."
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "References (e-VBAB, Aadhaar, UPI, DigiLocker, ITEC, IAFS) are relevant but not deeply specific. No named African countries benefiting from programs. No development framework references. Compare with Candidate C's MOSIP/Morocco/Togo specificity."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The 'sharing without imposing conditions' framing provides some analytical value. The 'beyond project-based aid to sustainable institutional capacities' point is a useful distinction. However, overall analysis is shallow."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Significantly exceeds word limit (195 vs 150 — 30% over). Well-written prose but verbose. Could be cut substantially without losing content."
+          }
+        },
+        "total_score": 5.6,
+        "max_marks": 10,
+        "brief_feedback": "Competent but generic. Needs specific African country examples and development framework references. Significantly exceeds word limit. The prose style is readable but lacks the precision UPSC demands."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q10",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "A well-organized answer covering manifestations of sovereign nationalism and their drivers, with a counter-perspective acknowledging selective multilateralism. Good examples but lacks India-specific depth and constitutional references expected in GS-II.",
+        "analysis": "Candidate A provides a clear, systematic treatment with separate sections for manifestations, driving factors, and a counter-perspective. The manifestations are well-identified: US-China trade wars, Brexit, nationalist leaders (Trump, Orban, Bolsonaro), WTO paralysis, Paris Agreement withdrawal, WHO undermining. The driving factors section (economic anxieties, migration backlash, pandemic nationalism, civilizational assertions) adds analytical depth. The counter-perspective section is a strength — acknowledging that digital connectivity, COP frameworks, and groupings like QUAD/AUKUS represent 'selective multilateralism' shows nuanced thinking. The 'glocal' order conclusion is insightful. However, the answer lacks India-specific analysis — no mention of Art. 51, Atmanirbhar Bharat, or India's strategic autonomy doctrine. For a GS-II paper, this India dimension is important. At 187 words, it exceeds the limit. The markdown format is not exam-appropriate.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Accurate examples: US-China trade wars, Brexit, Trump/Orban/Bolsonaro, WTO paralysis, Paris Agreement, WHO/COVID. Russia-Ukraine correctly cited. QUAD/AUKUS mentioned as selective multilateralism examples. No factual errors."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear four-part structure: context, manifestations, driving factors, counter-perspective, conclusion. Each section is distinct and builds on the previous. However, the markdown heading format is not exam-appropriate."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Good range of international examples: trade wars, Brexit, nationalist leaders, WTO, Paris Agreement, WHO, QUAD, AUKUS, COP. However, no India-specific examples (no Atmanirbhar Bharat, no strategic autonomy, no Art. 51). No data or specific policy references."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The counter-perspective section showing selective multilateralism vs complete retreat is analytically strong. The 'glocal' order framing provides synthesis. The driving factors section shows causal thinking. However, lacks India's positioning in this landscape."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Exceeds word limit (187 vs 150). Markdown heading format not exam-appropriate. Clear language and good use of bold formatting."
+          }
+        },
+        "total_score": 6.4,
+        "max_marks": 10,
+        "brief_feedback": "Good global coverage with a strong counter-perspective, but lacks the India-specific analysis (Art. 51, Atmanirbhar Bharat, strategic autonomy) crucial for a GS-II answer. Word limit exceeded."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A strong, analytically rich answer that combines global manifestations with India-specific responses (Atmanirbhar Bharat, DPDP Act, strategic autonomy). The 'slowbalization' framing and supply chain sovereignty section are distinctive strengths.",
+        "analysis": "Candidate B delivers the most analytically sophisticated treatment of this question. The four manifestations are precisely identified and each is supported with specific policy references: trade war/WTO paralysis, supply chain sovereignty (CHIPS Act, SCRI, Atmanirbhar Bharat), geopolitical assertiveness (Brexit, America First, SWIFT weaponization), and techno-nationalism (DPDP Act, Splinternet, Indonesia nickel ban). The supply chain section is particularly strong — naming SCRI (Supply Chain Resilience Initiative) shows granular knowledge. The DPDP Act reference grounds data sovereignty in Indian policy. The 'Splinternet' concept and Indonesia nickel export ban demonstrate breadth. The conclusion introducing 'slowbalization' and India's 'strategic autonomy' and 'multi-alignment' positions is exactly the India-centric analysis GS-II demands. At 189 words, it exceeds the limit, but the content density justifies it more than most.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.2,
+            "justification": "Highly accurate with granular references: WTO Appellate Body paralysis, US-China trade war, CHIPS and Science Act, SCRI (Japan-India-Australia), Atmanirbhar Bharat, Brexit, SWIFT weaponization, DPDP Act, Splinternet, Indonesia nickel ban. All correctly cited."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Well-organized with an intro, four numbered manifestations, and a synthesizing conclusion. Each point builds on the previous to paint a comprehensive picture. The conclusion ties global trends to India's response."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "Exceptional range of specific references: WTO Appellate Body, CHIPS Act, SCRI, Atmanirbhar Bharat, Brexit, SWIFT weaponization, DPDP Act, Splinternet, Indonesia nickel ban, COVID supply chain disruptions. Each manifestation supported by concrete policy evidence."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Strong analytical sophistication. The 'slowbalization' concept and 'fragmented multipolarity' framing show academic grounding. India's 'strategic autonomy' and 'issue-based multi-alignment' provide the India-centric analysis missing in other answers. The SWIFT weaponization point shows understanding of how sovereignty manifests in financial systems."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Exceeds word limit (189 vs 150). Well-formatted with numbered points. Language is precise and academic. Dense but readable."
+          }
+        },
+        "total_score": 7.6,
+        "max_marks": 10,
+        "brief_feedback": "Analytically the strongest answer — slowbalization, SCRI, DPDP Act, Splinternet, and India's strategic autonomy framing are all distinctive. Exceeds word limit but content density is exceptional."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "The most tightly written answer, precisely within word limit, with strong India-specific constitutional and policy references (Art. 51, Art. 253, Atmanirbhar Bharat, Make in India, PLI). Excellent integration of Indian positioning within global trends.",
+        "analysis": "Candidate C demonstrates exceptional conciseness and precision. The opening efficiently frames the WTO paralysis, de-risking, and normative shocks (2008, COVID, Russia-Ukraine) as the context for sovereign nationalism. The manifestations are well-chosen: economic nationalism (America First, CHIPS Act, dual circulation, Brexit), tech/data sovereignty, hard borders, and strategic autonomy. China's 'dual circulation' is a distinctive reference that other candidates miss. The India section is the answer's greatest strength — Art. 51 (international cooperation) and Art. 253 (treaty implementation with parliamentary sovereignty) provide the constitutional grounding that a GS-II answer demands. Linking Atmanirbhar Bharat, Make in India, PLI, and data governance reforms to the concept of 'open, but on national terms' is an analytically precise formulation. At 138 words, it's within the limit — a rare achievement among the candidates.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Accurate throughout. WTO paralysis, de-risking of GVCs, America First, CHIPS Act, dual circulation (China), Brexit correctly referenced. Art. 51 and Art. 253 precisely cited and correctly characterized. Atmanirbhar Bharat, Make in India, PLI correctly identified as sovereign nationalism manifestations."
+          },
+          "structure_flow": {
+            "score": 1.6,
+            "justification": "Exceptional flow: context (why globalization is waning) → manifestations (four dimensions) → India's response (constitutional + policy). The progression from global to Indian is precisely what GS-II demands. Tight, purposeful structure."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Good range: WTO, GVC de-risking, America First, CHIPS Act, dual circulation, Brexit, FDI screening, Art. 51, Art. 253, Atmanirbhar Bharat, Make in India, PLI. Constitutional articles are a crucial differentiator. Could have included more specific international examples."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "The 'constitutional internationalism' vs 'calibrated sovereign nationalism' framing is analytically sophisticated. The 'open, but on national terms' formulation precisely captures India's positioning. Art. 253's parliamentary sovereignty angle adds constitutional depth that others miss."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Within word limit (138 words) — the only candidate to achieve this. Dense but clear. Bold and bullet formatting used efficiently. Language is crisp and authoritative."
+          }
+        },
+        "total_score": 7.7,
+        "max_marks": 10,
+        "brief_feedback": "The most exam-ready answer — precisely within word limit, constitutionally grounded (Art. 51, Art. 253), and with a distinctive 'calibrated sovereign nationalism within constitutional internationalism' framing. China's dual circulation is a unique reference."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "A competent, well-written prose answer covering the shift from globalization to sovereign nationalism with relevant examples (2008 crisis, Brexit, COVID). However, it lacks India-specific analysis and is the least specific of the four.",
+        "analysis": "Candidate D provides a readable, general treatment of the globalization-to-nationalism shift. The answer correctly identifies key drivers: 2008 financial crisis exposing interconnection vulnerabilities, protectionist trade policies (US-China), Brexit as sovereignty reclamation, and COVID-19 accelerating nationalist trends. The writing quality is good — the prose flows well with clear causal connections. However, the answer suffers from significant gaps for a GS-II paper: no constitutional articles (no Art. 51), no India-specific policy analysis (no Atmanirbhar Bharat, no strategic autonomy), no specific policy names beyond vague references to 'protectionist trade policies.' Compared to Candidates B and C, it lacks both the analytical frameworks (slowbalization, calibrated sovereign nationalism) and the specific evidence (CHIPS Act, SCRI, DPDP Act, dual circulation). At 149 words, it's within the limit, which is commendable.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.0,
+            "justification": "Content is accurate but generic. 2008 financial crisis, US-China trade war, Brexit, COVID-19 — all correct but well-known. No specific policy names (no CHIPS Act, no DPDP Act). No constitutional articles. No India-specific analysis."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear three-paragraph structure: post-Cold War context, economic and political drivers, and manifestations. Prose flows well. However, the structure is somewhat flat — no distinct analytical framework or synthesis."
+          },
+          "depth_examples": {
+            "score": 0.8,
+            "justification": "Limited specific examples: 2008 crisis, US-China trade war, Brexit, COVID-19. These are general knowledge examples. No specific policies, acts, or constitutional articles. No named trade agreements, sanctions, or technology policies."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Identifies economic vulnerability and sovereignty erosion as drivers, which is sound. However, lacks any distinctive analytical framework — no slowbalization, no strategic autonomy, no India positioning. The analysis is descriptive rather than explanatory."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Within word limit (149 words). Well-written, clear prose. Good readability. However, the generic nature of the content limits its impact."
+          }
+        },
+        "total_score": 5.3,
+        "max_marks": 10,
+        "brief_feedback": "Well-written but too general for UPSC Mains. Critically missing India-specific analysis (Art. 51, Atmanirbhar Bharat, strategic autonomy) and specific policy references. Needs to move beyond general knowledge examples."
+      }
+    ]
+  }
+]

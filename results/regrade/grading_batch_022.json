@@ -1,0 +1,627 @@
+[
+  {
+    "question_id": "mains_gs4_2025_q3b",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A submitted an empty response with zero words. No attempt was made to answer the question.",
+        "analysis": "This is a non-attempt. The candidate provided no content whatsoever, resulting in zero marks across all dimensions. There is nothing to evaluate in terms of content accuracy, structure, examples, analysis, or presentation. This could indicate a technical failure or deliberate skip.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 0.0,
+            "justification": "No content submitted. Zero engagement with William James' quote or its contemporary relevance."
+          },
+          "structure_flow": {
+            "score": 0.0,
+            "justification": "No structure present as no answer was provided."
+          },
+          "depth_examples": {
+            "score": 0.0,
+            "justification": "No examples, data, or references of any kind."
+          },
+          "analytical_depth": {
+            "score": 0.0,
+            "justification": "No analysis attempted."
+          },
+          "presentation": {
+            "score": 0.0,
+            "justification": "Empty submission."
+          }
+        },
+        "total_score": 0.0,
+        "max_marks": 10,
+        "brief_feedback": "Non-attempt. No response submitted."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a well-structured answer covering governance, society, individuals, and nation-building dimensions, with a relevant example of Armstrong Pame. The answer correctly interprets the quote and connects it to civil service ethics.",
+        "analysis": "The answer demonstrates good understanding of William James' philosophy of attitude shaping outcomes. The categorisation into governance, society, individuals, and nation-building is effective and shows structured thinking. The Armstrong Pame example is specific and apt, illustrating how a positive attitude overcame bureaucratic constraints. The Gandhi quote at the end is a strong concluding reference. However, at 172 words it exceeds the 150-word limit noticeably. The answer is somewhat list-like in places, and the analysis could go deeper into the psychological and philosophical underpinnings rather than remaining at a surface-application level. The phrase 'growth mindset' feels contemporary-corporate rather than ethically grounded.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Accurately interprets the quote's meaning. Covers multiple relevant dimensions (governance, society, individual, nation-building). The Armstrong Pame reference is factually correct. The Gandhi connection is apt. Minor issue: some points are stated rather than substantiated. 40% weight, quality fraction ~0.65."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Well-organised with clear sub-headings and a logical flow from meaning to applications to conclusion. The four-domain categorisation works well. However, the heading-heavy format is somewhat formulaic. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Armstrong Pame is a strong, specific example. The Gandhi quote adds philosophical depth. However, most other points (gender equality, caste discrimination, mental health challenges) are merely mentioned without specific examples or data. 20% weight, quality fraction ~0.60."
+          },
+          "analytical_depth": {
+            "score": 0.55,
+            "justification": "The distinction between internal reform and external change shows some analytical thinking. However, the analysis remains largely at the assertion level without exploring tensions, limitations, or counterarguments to the attitude-determines-outcomes thesis. 10% weight, quality fraction ~0.55."
+          },
+          "presentation": {
+            "score": 0.55,
+            "justification": "Clear and readable. But exceeds the 150-word limit by 22 words. Bold formatting is used effectively but borders on overuse. Language is competent. 10% weight, quality fraction ~0.55."
+          }
+        },
+        "total_score": 6.2,
+        "max_marks": 10,
+        "brief_feedback": "Good structured answer with an apt Armstrong Pame example and Gandhi reference. Could improve by offering deeper analysis of the attitude-outcome relationship rather than listing application domains, and by staying within the word limit."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C delivers a methodical four-point answer covering personal agency, mental well-being, proactive problem solving, and leadership. The answer is conceptually sound but generic, lacking specific Indian examples or philosophical grounding.",
+        "analysis": "The answer demonstrates competent understanding of the quote's implications. The four categories are logically chosen and the concluding sentence ties the response together. However, the answer is notably generic — it reads like a general self-help essay rather than a UPSC Ethics answer. There are no specific examples (no named individuals, schemes, or events). The mental well-being point, while relevant, lacks connection to governance or public life. At 208 words, it significantly exceeds the 150-word limit, which is a presentation concern. The language is polished but lacks the philosophical or ethical vocabulary expected in a GS4 answer — no references to Nishkama Karma, constitutional morality, or Indian ethical thinkers. The 'leadership and social change' point is too broad to be meaningful.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Correctly interprets the quote and identifies relevant themes (resilience, mental well-being, proactive engagement, leadership). However, the points are generalised and lack specificity to the Indian governance or ethics context expected in GS4. No factual errors but no factual substance either. 40% weight, quality fraction ~0.55."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clear numbered structure with a logical progression from individual to collective. Has an effective concluding sentence. However, the structure is formulaic and the four points are somewhat repetitive in their messaging. 20% weight, quality fraction ~0.60."
+          },
+          "depth_examples": {
+            "score": 0.8,
+            "justification": "This is the weakest dimension. No specific examples, case studies, named individuals, or concrete references are provided. All points remain at the abstract level. For a 10-mark question, at least one or two specific illustrations are expected. 20% weight, quality fraction ~0.40."
+          },
+          "analytical_depth": {
+            "score": 0.45,
+            "justification": "The analysis stays at a surface level. Points about 'proactive problem solving' versus 'victim mentality' show some analytical thinking, but there is no exploration of tensions, limitations, or philosophical depth. 10% weight, quality fraction ~0.45."
+          },
+          "presentation": {
+            "score": 0.45,
+            "justification": "Language is polished and clear. However, significantly exceeds the word limit (208 vs 150, nearly 40% over). This is a notable presentation flaw. The answer is also somewhat verbose for the content it delivers. 10% weight, quality fraction ~0.45."
+          }
+        },
+        "total_score": 5.1,
+        "max_marks": 10,
+        "brief_feedback": "Conceptually adequate but overly generic. Lacks specific examples, Indian ethical references, or governance context. Significantly exceeds word limit without adding proportionate value. Needs concrete illustrations and philosophical grounding for a GS4 answer."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D delivers a concise, well-balanced answer that connects attitude to civil service ethics, with effective contrast between constructive and negative attitudes. The answer stays within word limits and demonstrates mature ethical reasoning.",
+        "analysis": "This is a strong, focused answer. The candidate correctly identifies the quote's core message about attitude's transformative power and contextualises it well for the present era. The connection to civil service values (citizen-centricity, humility, integrity) is directly relevant to GS4. The contrast between constructive and negative attitudes (corruption rationalisation as 'everyone does it') is analytically effective and shows real-world understanding. The concluding framing of specific attitude shifts (self-interest to public interest, bias to fairness) is excellent. At 138 words, it respects the word limit. However, the answer lacks named examples or specific case studies, which would have strengthened it. The philosophical base could have been enriched with references to thinkers or ethical frameworks beyond the implicit Gandhian resonance.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Accurately interprets the quote and applies it thoughtfully to civil service context. The points about resilience, empathy, growth mindset, and the contrast with cynicism and corruption rationalisation are all factually grounded and relevant. Strong connection to governance ethics. 40% weight, quality fraction ~0.70."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Three-paragraph structure (meaning/context, positive attitude, negative attitude) flows logically. The contrast between constructive and negative attitudes creates an effective argumentative arc. Concise without feeling rushed. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "The corruption rationalisation example ('everyone does it') is apt and vivid. However, no named individuals, specific schemes, or case studies are cited. The answer would benefit from at least one concrete illustration. 20% weight, quality fraction ~0.50."
+          },
+          "analytical_depth": {
+            "score": 0.65,
+            "justification": "Good analytical contrast between positive and negative attitudes. The identification of specific attitude shifts (fatalism to agency, self-interest to public interest) shows nuanced thinking. However, could explore deeper philosophical dimensions. 10% weight, quality fraction ~0.65."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Concise and well within word limit (138 words). Language is mature and precise. No unnecessary verbosity. Clean prose without over-reliance on formatting. Best presentation among the candidates for this question. 10% weight, quality fraction ~0.70."
+          }
+        },
+        "total_score": 6.45,
+        "max_marks": 10,
+        "brief_feedback": "Concise, analytically balanced answer with strong civil service contextualisation and effective constructive-versus-negative contrast. Would benefit from specific named examples or philosophical references to elevate further."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs4_2025_q3c",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A offers a structured four-point answer covering legalism, trust, active citizenship, and ethical leadership. The answer is conceptually solid but lacks specific Indian examples and remains somewhat abstract.",
+        "analysis": "The answer correctly interprets Vivekananda's distinction between legal frameworks and moral foundations. The four categories are well-chosen and the concluding sentence effectively synthesises the argument. However, the answer is notably generic — phrases like 'instances where laws are circumvented' beg for specific examples that are never provided. At 189 words, it exceeds the 150-word limit. The 'ethical leadership' point is underdeveloped compared to the others. The answer does not reference any specific Indian laws, social movements, or contemporary events, which weakens it for a GS4 paper where concrete illustrations are valued. The language is polished but the content lacks the specificity needed to score well.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Correctly interprets the quote's meaning and identifies relevant themes. Points about trust, active citizenship, and ethical leadership are valid. However, no specific laws, events, or Indian context examples are mentioned, keeping it abstract. 40% weight, quality fraction ~0.55."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clean four-point structure with a strong concluding sentence. Logical progression from individual to institutional dimensions. Slightly formulaic but effective. 20% weight, quality fraction ~0.60."
+          },
+          "depth_examples": {
+            "score": 0.7,
+            "justification": "Critically weak on examples. The answer mentions 'instances where laws are circumvented' but provides none. No specific laws, case studies, social movements, or Indian references. For GS4, this lack of concrete illustration is a significant gap. 20% weight, quality fraction ~0.35."
+          },
+          "analytical_depth": {
+            "score": 0.45,
+            "justification": "Some analytical thinking in distinguishing external rules from internal moral conviction. However, the analysis remains at assertion level without exploring tensions (e.g., can morality exist without legal backing? what about structural violence?). 10% weight, quality fraction ~0.45."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Language is polished and clear. Exceeds word limit by 39 words. Bullet-point format is appropriate but the content density does not justify the extra length. 10% weight, quality fraction ~0.50."
+          }
+        },
+        "total_score": 5.05,
+        "max_marks": 10,
+        "brief_feedback": "Structurally sound but lacks the specific examples and Indian context that GS4 demands. The generic treatment of a rich topic limits the score. Adding references to specific laws, movements, or contemporary incidents would significantly improve it."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B delivers a well-structured answer with clear sub-sections, multiple specific Indian examples (tax evasion, environmental degradation, COVID-19 black-marketing), and a thoughtful way forward citing Gandhi's trusteeship. Strong overall performance.",
+        "analysis": "This is the strongest answer for this question. The three-section format (meaning, present context, way forward) mirrors good UPSC answer-writing practice. The examples are specific and contemporary — tax evasion despite stringent laws, environmental degradation despite regulations, and COVID-19 black-marketing of medicines are all vivid illustrations of the law-morality gap. The reference to Gandhi's trusteeship concept and 'Dharma consciousness' adds philosophical depth appropriate for GS4. The 'way forward' section (moral education, value-based upbringing, institutional role) shows the candidate thinks beyond diagnosis to solutions. At 169 words, it slightly exceeds the limit but the extra content is substantive. The answer could be strengthened by acknowledging the counter-perspective that strong laws and enforcement can shape morality over time.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Accurately interprets the quote. Correctly identifies the gap between legal provisions and ground reality. Specific references to anti-corruption legislation, environmental regulations, and consumer protection acts are factually grounded. The Gandhi trusteeship reference is apt. 40% weight, quality fraction ~0.70."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Excellent three-part structure: meaning, present context with examples, way forward. This mirrors recommended UPSC answer structure. Clear sub-headings aid readability. Logical and coherent flow throughout. 20% weight, quality fraction ~0.70."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Strong examples: tax evasion, environmental degradation, COVID-19 black-marketing. Each is specific and directly supports the argument. Gandhi's trusteeship adds philosophical depth. Multiple concrete illustrations elevate this answer significantly. 20% weight, quality fraction ~0.70."
+          },
+          "analytical_depth": {
+            "score": 0.55,
+            "justification": "The analysis of the law-morality gap is clear. The way forward shows prescriptive thinking. However, the analysis could explore deeper questions: can morality be cultivated institutionally? What role does structural inequality play? The answer stays largely descriptive. 10% weight, quality fraction ~0.55."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Clear, well-formatted with effective use of headings and bullet points. Slightly over word limit (169 words). Language is confident and precise. Bold formatting is used judiciously. 10% weight, quality fraction ~0.60."
+          }
+        },
+        "total_score": 6.75,
+        "max_marks": 10,
+        "brief_feedback": "The best-structured answer with strong specific examples and a thoughtful way forward. The Gandhi trusteeship reference and COVID-19 black-marketing example demonstrate both philosophical and contemporary awareness. Could deepen the analytical dimension."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a tight, well-argued answer that stays within the word limit while covering both the failure of laws without morality and the benefits of high civic morality. The answer is analytically strong with good examples.",
+        "analysis": "This is an impressively concise and analytically mature answer. At 145 words, it nearly hits the 150-word target precisely — a rare achievement. The answer efficiently covers both sides: why laws fail without morality (corruption, crimes against women, environmental degradation) and why civic morality succeeds (voluntary tax payment, traffic compliance, public accountability). The point about majoritarianism and hate being checked by moral citizens is a sophisticated insight that shows analytical depth beyond the obvious. The concluding distinction between law punishing wrongdoing and morality preventing it is a powerful and memorable formulation. The answer could benefit from slightly more philosophical grounding (Vivekananda's broader ethical philosophy) and perhaps one more specific example, but the efficiency of expression is commendable.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Accurately captures the quote's essence. The examples of anti-corruption statutes, crimes against women, and environmental regulations are all valid and specific to India. The positive side (tax compliance, traffic rules, public property) is equally well-grounded. Factually sound throughout. 40% weight, quality fraction ~0.65."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Three clear paragraphs: laws failing without morality, benefits of civic morality, and synthesis/way forward. Logical flow with effective contrast structure. No wasted transitions. Tight and purposeful. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Good range of examples on both sides of the argument. Anti-corruption statutes, crimes against women, environmental regulations are specific. Tax compliance, traffic rules, public property respect illustrate positive morality. Could add a named individual or specific incident for greater impact. 20% weight, quality fraction ~0.60."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The strongest analytical dimension among all candidates. The insight about moral citizens resisting majoritarianism and hate even when socially rewarded is sophisticated. The law-punishes-versus-morality-prevents distinction is analytically sharp. The concept of 'compliance as evasion, not conscience' is excellent. 10% weight, quality fraction ~0.70."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Excellent word economy at 145 words. Clean prose without excessive formatting. Every sentence earns its place. Language is precise and mature. Best presentation in terms of conciseness and impact. 10% weight, quality fraction ~0.70."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Analytically the sharpest answer with excellent word economy. The 'compliance as evasion not conscience' insight and the majoritarianism point show mature ethical reasoning. Adding a named example or deeper philosophical grounding would push this higher."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a competent answer with specific legal references (Dowry Prohibition Act, Prevention of Corruption Act, Swachh Bharat) and a forward-looking point about technology outpacing legislation. Solid overall but somewhat conventional.",
+        "analysis": "The answer demonstrates good understanding and provides specific Indian legal references that ground the argument well. The Dowry Prohibition Act and Prevention of Corruption Act examples are apt illustrations of laws failing without moral backing. The Swachh Bharat point effectively shows how civic morality determines scheme success. The technology point (AI, deepfakes, cyber-bullying) is a distinctive and relevant contemporary observation that other candidates missed — this shows forward-thinking awareness. The concluding metaphor of laws as 'skeleton' of a nation is vivid. However, the answer is somewhat formulaic in structure and the analysis could go deeper. At 184 words, it exceeds the word limit. The three bullet points are somewhat predictable and could explore more nuanced territory.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Accurate interpretation with specific legal references: Dowry Prohibition Act, Prevention of Corruption Act, Swachh Bharat. The technology point (AI, deepfakes) is factually relevant and contemporary. All claims are well-founded. 40% weight, quality fraction ~0.65."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clear introduction-body-conclusion structure. The three bullet points provide logical organisation. The 'Therefore' conclusion ties things together. However, the structure is somewhat predictable and formulaic. 20% weight, quality fraction ~0.60."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Strong on examples: Dowry Prohibition Act, Prevention of Corruption Act, Swachh Bharat, AI/deepfakes/cyber-bullying. These are specific and varied, covering both traditional and contemporary domains. The technology angle is distinctive. 20% weight, quality fraction ~0.65."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The technology-outpacing-legislation insight shows good contemporary analysis. The distinction between fear-based compliance and genuine duty is analytically valid. However, the overall analysis stays at a descriptive level without exploring deeper philosophical questions about the morality-law relationship. 10% weight, quality fraction ~0.50."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Clear and readable. Effective use of italics and bullet points. However, exceeds word limit (184 vs 150). The skeleton metaphor is vivid. Some verbosity in the conclusion could be trimmed. 10% weight, quality fraction ~0.50."
+          }
+        },
+        "total_score": 6.1,
+        "max_marks": 10,
+        "brief_feedback": "Solid answer with good specific legal references and a distinctive technology angle. The Dowry Prohibition Act and Swachh Bharat examples ground the argument well. Could improve with deeper philosophical analysis and better word limit adherence."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs4_2025_q4a",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a well-structured answer with a clear conceptual framework and two strong examples (PDS/Aadhaar biometric mismatch and Swachh Bharat behavioural change). The contrast between reason without ethics and the integrated approach is analytically effective.",
+        "analysis": "This answer stands out for its analytical clarity. The initial decomposition into reason/critical thinking and ethical framework is clean, and the two examples are well-chosen and complementary. The PDS/Aadhaar biometric mismatch example is particularly strong — it illustrates the tension between administrative reason and ethical compassion with a specific, real-world scenario that resonates with India's welfare implementation challenges. The Swachh Bharat example showing the gap between toilet construction and behavioural change demonstrates critical thinking, while the ethical dimension (dignity for women, persuasion over coercion) is well-articulated. The concluding distinction between efficiency (from critical thinking) and direction (from ethics) is analytically elegant. At 171 words, it exceeds the word limit moderately. The answer could have been strengthened with one more dimension beyond the binary contrast.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Accurate conceptual framework. The PDS/Aadhaar biometric mismatch example is factually grounded in real implementation challenges. The Swachh Bharat analysis correctly identifies the toilet-construction-vs-behaviour-change gap that was widely documented. Constitutional morality, empathy, and justice are correctly cited as ethical foundations. 40% weight, quality fraction ~0.70."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Effective structure: conceptual framing, then contrast (reason without ethics), then integration (Swachh Bharat), then synthesis. The logical flow from definition to example to conclusion is well-executed. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Two strong, specific examples. PDS/Aadhaar biometric denial is vivid and illustrates the ethics gap concretely. Swachh Bharat is analysed beyond the surface (behavioural change, dignity, persuasion vs coercion). Both examples directly support the argument. 20% weight, quality fraction ~0.70."
+          },
+          "analytical_depth": {
+            "score": 0.65,
+            "justification": "The reason-without-ethics-can-be-ruthless insight is analytically strong. The efficiency-vs-direction distinction in the conclusion shows clear conceptual thinking. The contrast between administrative reason and ethical compassion in the PDS example demonstrates nuanced analysis. 10% weight, quality fraction ~0.65."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Clear prose with effective use of bold and em-dash formatting. Exceeds word limit by 21 words but the content justifies the length. Good concluding sentence with italicised key terms. 10% weight, quality fraction ~0.60."
+          }
+        },
+        "total_score": 6.75,
+        "max_marks": 10,
+        "brief_feedback": "Analytically clear answer with two strong, complementary examples. The PDS/Aadhaar biometric mismatch scenario is particularly effective in illustrating the reason-ethics tension. The efficiency-vs-direction synthesis is elegant."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a detailed but overly verbose answer with general examples (food security, housing scheme) that lack specificity. The answer correctly identifies the three elements but fails to integrate them into a cohesive argument.",
+        "analysis": "The answer demonstrates understanding of the question's core requirement but is significantly weakened by verbosity and lack of specificity. At 242 words, it exceeds the 150-word limit by over 60%, which is a major presentation flaw. The examples are generic rather than specific — 'a food security program' and 'a housing scheme' are hypothetical rather than real. The biometric authentication mention is relevant but is framed as a hypothetical rather than grounded in actual PDS reform experience. The two-section structure (reason/critical thinking, then ethical framework) is logical but the sections read as parallel essays rather than an integrated argument. The answer never shows how reason and ethics work together in a specific scenario — it keeps them artificially separated. The language is competent but lacks the precision expected at this level.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Correctly identifies the need for both reason/critical thinking and ethical framework. Points about equity, justice, transparency, and accountability are relevant. However, examples are generic and hypothetical (unnamed food security program, generic housing scheme) rather than specific to Indian governance. 40% weight, quality fraction ~0.55."
+          },
+          "structure_flow": {
+            "score": 1.1,
+            "justification": "Two clear sections with a concluding synthesis. However, the two sections feel disconnected rather than integrated. The argument does not show how reason and ethics interact in practice. The concluding sentence tries to synthesise but feels tacked on. 20% weight, quality fraction ~0.55."
+          },
+          "depth_examples": {
+            "score": 0.8,
+            "justification": "Examples are generic and hypothetical. 'A food security program' and 'a housing scheme' are not named or specific. Biometric authentication is mentioned but not tied to a real programme. No named officers, specific schemes, or documented cases. For GS4, concrete examples are essential. 20% weight, quality fraction ~0.40."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The analysis remains at a descriptive level. The answer explains what reason and ethics do separately but does not explore their interaction, tensions, or how they complement each other in practice. No critical examination of potential conflicts between rational efficiency and ethical considerations. 10% weight, quality fraction ~0.40."
+          },
+          "presentation": {
+            "score": 0.35,
+            "justification": "Significantly exceeds word limit (242 vs 150, over 60% excess). Verbose and repetitive in places. The length is not justified by proportional content depth. Bold formatting is used appropriately but the overall impression is of padding. 10% weight, quality fraction ~0.35."
+          }
+        },
+        "total_score": 4.85,
+        "max_marks": 10,
+        "brief_feedback": "Understands the conceptual framework but weakened by generic hypothetical examples, excessive verbosity, and failure to integrate reason and ethics into a unified argument. Needs specific Indian welfare scheme references and much tighter writing."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C delivers an exceptionally concise answer with three strong, specific examples (PDS reforms, Swachh Bharat, DBT) that each demonstrate the interplay of reason, critical thinking, and ethics. Best word economy in this question set.",
+        "analysis": "This is an outstanding answer that demonstrates mastery of both content and form. At 142 words, it comes in under the 150-word limit while packing in three substantive examples. Each example follows the same effective pattern: identifying the rational/critical thinking dimension, then the ethical safeguard needed. PDS reforms (digitisation efficiency vs biometric exclusion), Swachh Bharat (toilet targets vs behaviour change and dignity), and DBT (corruption reduction vs digital exclusion of vulnerable populations) are all specific, real, and directly relevant. The opening thesis that 'good intentions alone can produce perverse outcomes' is a strong framing that immediately establishes analytical depth. The concluding formula 'evidence-based decisions + ethical safeguards' is crisp and memorable. The answer could benefit from a brief philosophical grounding or reference to a thinker, but the trade-off for conciseness is well-judged.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Three factually grounded examples. PDS reforms with leak analysis and digitisation are well-documented. Swachh Bharat's gap between toilet construction and behavioural change is accurately described. DBT's intermediary elimination and digital exclusion concern are real policy issues. Root cause diagnosis and incentive anticipation are correctly identified as critical thinking elements. 40% weight, quality fraction ~0.70."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Tight thesis-examples-conclusion structure. Each example follows a consistent pattern (rational element, then ethical dimension) that creates coherence. The opening thesis and closing synthesis frame the examples effectively. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Three specific, real-world Indian policy examples, each analysed for both rational and ethical dimensions. PDS biometric failures, Swachh Bharat dignity concerns, and DBT digital exclusion show deep familiarity with welfare implementation challenges. Best example quality in this question set. 20% weight, quality fraction ~0.75."
+          },
+          "analytical_depth": {
+            "score": 0.65,
+            "justification": "The 'good intentions can produce perverse outcomes' framing shows sophisticated understanding. Each example demonstrates the reason-ethics interplay rather than treating them separately. The awareness of unintended consequences (biometric exclusion, digital divide) shows critical analytical thinking. 10% weight, quality fraction ~0.65."
+          },
+          "presentation": {
+            "score": 0.75,
+            "justification": "Exemplary word economy at 142 words — under the limit while delivering three substantial examples. Every word earns its place. Bold formatting is used sparingly and effectively. The 'evidence-based decisions + ethical safeguards' conclusion is crisp and memorable. 10% weight, quality fraction ~0.75."
+          }
+        },
+        "total_score": 7.0,
+        "max_marks": 10,
+        "brief_feedback": "The best answer for this question — three specific, well-analysed examples delivered in under 150 words. The PDS-Swachh Bharat-DBT triad comprehensively illustrates the reason-ethics interplay. Exceptional word economy with strong analytical framing."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a heading-structured answer with the triad of rational analysis, critical thinking, and ethical framework, supported by PM Awas Yojana, DBT/Ashok Khemka, MGNREGA/reservation, and Armstrong Pame examples.",
+        "analysis": "The answer effectively structures the argument around the three components (rational analysis, critical thinking, ethical framework) and provides named examples for each. PM Awas Yojana for data-driven beneficiary identification, Ashok Khemka for DBT reform, and Armstrong Pame for ethical community service are all specific and relevant. The concluding triad formulation (rationality prevents arbitrariness, critical thinking prevents inefficiency, ethics prevents injustice) is analytically strong and memorable. However, there are concerns: the Ashok Khemka reference may be inaccurate — Khemka is known primarily for land-deal whistleblowing and frequent transfers, not specifically for DBT middlemen examination. This factual looseness is a content accuracy concern. At 167 words, it moderately exceeds the word limit. The heading-heavy format, while organised, can feel overly structured for a short answer.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "PM Awas Yojana and MGNREGA are correctly referenced. Armstrong Pame's road-building is accurate. However, the Ashok Khemka reference appears misplaced — Khemka is known for land-deal whistleblowing, not specifically DBT middlemen examination. This factual looseness deducts from accuracy. The triad framework is conceptually sound. 40% weight, quality fraction ~0.60."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Well-organised with clear sub-headings for each component. The three-part framework (rational analysis, critical thinking, ethical framework) creates logical structure. Strong concluding synthesis. However, slightly over-structured with headings for a 150-word answer. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Multiple named examples: PM Awas Yojana, Ashok Khemka, MGNREGA, reservation policies, Armstrong Pame. Good breadth of references. However, the Khemka reference appears inaccurate in this context, and examples are mentioned rather than analysed in depth. 20% weight, quality fraction ~0.65."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The concluding triad (rationality-arbitrariness, thinking-inefficiency, ethics-injustice) is analytically elegant. The identification of corruption, exclusion, and populism as risks without the triad shows critical thinking. However, the analysis within each section is thin — examples are stated rather than explored. 10% weight, quality fraction ~0.60."
+          },
+          "presentation": {
+            "score": 0.55,
+            "justification": "Clean formatting with effective bold text. Exceeds word limit by 17 words. The heading structure is slightly heavy for a short answer but aids readability. The concluding bold statement is impactful. 10% weight, quality fraction ~0.55."
+          }
+        },
+        "total_score": 6.15,
+        "max_marks": 10,
+        "brief_feedback": "Well-structured with named examples and a strong concluding triad. Weakened by the potentially inaccurate Ashok Khemka reference and surface-level analysis of examples. The framework is sound but examples need deeper engagement."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs4_2025_q4b",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a comprehensive and concise answer covering all five vows, Triratna, Anekantavada, Syadvada, and karma, with contemporary applications. Excellent coverage in just 125 words.",
+        "analysis": "This is a remarkably efficient answer. At 125 words, it is well under the 150-word limit while covering more philosophical concepts than any other candidate. The candidate names all five vows (Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha), Triratna, Anekantavada, Syadvada, and karma — demonstrating comprehensive knowledge of Mahavira's teachings. The contemporary relevance connections are apt: Ahimsa for conflict resolution and hate speech, Aparigraha for consumerism and sustainability, Anekantavada for pluralism and polarisation. The inclusion of Syadvada (conditional, humble assertion) is distinctive and shows depth of knowledge. The concluding phrase 'value-based framework for ethical citizenship and compassionate development' effectively synthesises the answer. The only weakness is that the tight word count means each connection is stated rather than elaborated, and no specific modern examples or events are cited.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Covers all five vows correctly with Sanskrit terms. Triratna (right faith, knowledge, conduct) is accurately stated. Anekantavada and Syadvada are correctly explained. Karma and personal responsibility are noted. Factually comprehensive and accurate — the most thorough coverage of Mahavira's teachings. 40% weight, quality fraction ~0.70."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Two clear paragraphs: teachings, then contemporary relevance. The first paragraph covers the philosophical framework, the second applies it. The transition is smooth. However, the compact format means connections between teachings and applications could be more explicit. 20% weight, quality fraction ~0.60."
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "Contemporary applications are mentioned (conflict resolution, hate speech, consumerism, addiction) but none are developed with specific examples or data. The breadth of coverage comes at the cost of depth. No named events, movements, or contemporary incidents. 20% weight, quality fraction ~0.50."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The connection between Syadvada and tolerance/dialogue shows analytical sophistication. The karma-personal responsibility link is analytically valid. However, the tight format means analysis is stated rather than developed. No exploration of tensions or limitations. 10% weight, quality fraction ~0.60."
+          },
+          "presentation": {
+            "score": 0.75,
+            "justification": "Outstanding word economy at 125 words — well under limit while covering the most concepts. Clean prose with effective use of bold for Sanskrit terms. Semi-colon separated list in the relevance paragraph is efficient. 10% weight, quality fraction ~0.75."
+          }
+        },
+        "total_score": 6.35,
+        "max_marks": 10,
+        "brief_feedback": "Most comprehensive coverage of Mahavira's teachings with excellent word economy. The inclusion of Syadvada and Triratna alongside the five vows shows strong knowledge. Would benefit from specific contemporary examples to deepen the relevance discussion."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B presents a clearly structured answer with all five vows explained individually with contemporary relevance for each. The parallel structure is effective but the treatment is somewhat textbook-like.",
+        "analysis": "The answer follows a clean two-part structure: teachings overview, then point-by-point contemporary relevance. Each of the five vows gets its own bullet with a contemporary application, which is thorough and organised. The interpretive flexibility shown with Brahmacharya (acknowledging the traditional celibacy meaning while offering a modern reinterpretation as self-restraint) demonstrates intellectual maturity. The connections are generally sound — Ahimsa to environmental protection, Satya to combating misinformation, Aparigraha to sustainable consumption. However, the answer is somewhat encyclopaedic and lacks specific examples or case studies. At 168 words, it slightly exceeds the limit. The answer also does not mention Anekantavada or Triratna, which are central to Mahavira's philosophical contribution beyond the five vows.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "All five vows are correctly identified and explained. The moksha concept is accurately referenced. Contemporary connections are valid. However, the answer omits Anekantavada and Triratna, which are arguably Mahavira's most philosophically distinctive contributions. This is a notable gap in coverage. 40% weight, quality fraction ~0.60."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear two-part structure with parallel formatting for each vow. Each bullet consistently pairs teaching with contemporary application. The introduction and conclusion frame the content well. Logical and easy to follow. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 0.9,
+            "justification": "Contemporary applications are mentioned (environmental protection, misinformation, consumerism) but none are developed with specific examples. No named events, movements, data, or case studies. The Brahmacharya reinterpretation shows some depth of thinking. 20% weight, quality fraction ~0.45."
+          },
+          "analytical_depth": {
+            "score": 0.45,
+            "justification": "The Brahmacharya reinterpretation shows analytical flexibility. However, the answer largely pairs each vow with an obvious contemporary issue without exploring deeper connections, tensions, or synergies between the teachings. Descriptive rather than analytical. 10% weight, quality fraction ~0.45."
+          },
+          "presentation": {
+            "score": 0.55,
+            "justification": "Clean bullet-point formatting. Slightly exceeds word limit (168 words). Bold and italics used effectively. Language is clear and competent. The parallel structure aids readability. 10% weight, quality fraction ~0.55."
+          }
+        },
+        "total_score": 5.6,
+        "max_marks": 10,
+        "brief_feedback": "Well-structured parallel treatment of the five vows with contemporary applications. Weakened by omission of Anekantavada and Triratna, and lack of specific modern examples. The Brahmacharya reinterpretation is a positive distinguishing feature."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C selectively covers three key teachings (Ahimsa, Anekantavada, Aparigraha) with detailed contemporary relevance for each, including specific applications like animal rights, ideological extremism, and climate change. Depth over breadth approach.",
+        "analysis": "This answer makes a strategic choice: rather than listing all teachings superficially, it focuses on three that have the richest contemporary relevance. This depth-over-breadth approach works well for a 150-word limit. The introduction correctly identifies Mahavira as the 24th Tirthankara and sets up the answer well. Anekantavada is explained clearly and its application to ideological extremism and religious fundamentalism is apt. The Aparigraha section connects to wealth inequality and climate change, showing contemporary awareness. The concluding sentence ('transcend religion, offering a universal ethical compass') is effective. However, by covering only three teachings, the answer omits Satya, Asteya, Brahmacharya, and Triratna. At 169 words, it slightly exceeds the limit. The analysis within each section is stronger than most candidates but could still be more specific.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "The three teachings covered (Ahimsa, Anekantavada, Aparigraha) are accurately explained. Correctly identifies Mahavira as 24th Tirthankara. The contemporary applications are factually sound. However, omitting Satya, Asteya, Brahmacharya, and Triratna means the 'major teachings' are incompletely covered for a question that asks for them. 40% weight, quality fraction ~0.60."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clean numbered format with each teaching paired with 'Contemporary Relevance' in italics. Effective introduction and conclusion. The parallel structure is consistent and aids readability. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Each teaching gets a substantive relevance discussion. Geopolitical conflicts, terrorism, hate speech for Ahimsa; ideological extremism, religious fundamentalism for Anekantavada; wealth inequality, climate change, resource depletion for Aparigraha. More developed than other candidates' examples, though still somewhat general. 20% weight, quality fraction ~0.60."
+          },
+          "analytical_depth": {
+            "score": 0.55,
+            "justification": "Anekantavada as 'antidote to modern ideological extremism' and 'cognitive tolerance' show analytical thinking. Aparigraha as 'behavioral solution' to climate change is an interesting framing. However, the analysis could explore more tensions or show how these teachings interact. 10% weight, quality fraction ~0.55."
+          },
+          "presentation": {
+            "score": 0.55,
+            "justification": "Well-formatted with numbered sections and italicised relevance labels. Slightly over word limit (169 words). Bold and italics used effectively. The conclusion is strong. 10% weight, quality fraction ~0.55."
+          }
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Good depth-over-breadth approach with three teachings well-analysed for contemporary relevance. The Anekantavada section is particularly strong. However, the question asks for 'major teachings' (plural), and omitting Satya, Asteya, Brahmacharya, and Triratna is a coverage gap."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides the most structured answer with comprehensive coverage of all five vows, Anekantavada, Syadvada, and Triratna, followed by a relevance section. Good balance of breadth and contemporary application.",
+        "analysis": "This answer achieves a strong balance between comprehensive coverage and contemporary relevance. The 'Core Teachings' section efficiently lists all major concepts: five vows, Anekantavada, Syadvada, and Triratna. The 'Contemporary Relevance' section then effectively connects these to modern issues. The Gandhian non-violent resistance reference adds a valuable bridge between Mahavira's teachings and modern Indian history. The structure is clear with sub-headings that aid navigation. At 159 words, it's reasonably close to the word limit. The answer is somewhat listing-heavy in the teachings section, but this is partially justified by the question's demand to cover 'major teachings.' The relevance section could be more detailed — each point is a single sentence. The overall impression is of a competent, well-organised answer that covers the expected ground without particular distinction.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Comprehensive coverage: all five vows, Anekantavada, Syadvada, and Triratna are correctly identified and briefly explained. Ahimsa is correctly identified as the foremost teaching. The Gandhian connection is historically accurate. Contemporary applications are sound. Most complete coverage of teachings. 40% weight, quality fraction ~0.70."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear two-section structure (Core Teachings, Contemporary Relevance) with effective sub-headings. The concluding sentence synthesises well. Logical flow from philosophy to application. Heading-heavy but justified by content volume. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Environmental conservation, animal rights, and Gandhian non-violent resistance are mentioned. Communal and ideological conflicts, consumerism, and governance are referenced. However, each is a brief mention rather than a developed example. The Gandhian reference is the most specific. 20% weight, quality fraction ~0.55."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The answer is more descriptive than analytical. Contemporary connections are stated rather than explored. No tensions, limitations, or deeper philosophical analysis. The Gandhian bridge shows some analytical linking but is not developed. 10% weight, quality fraction ~0.50."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Well-formatted with clear headings and bold terms. At 159 words, slightly over the limit. Clean and professional presentation. The two-section format aids readability. 10% weight, quality fraction ~0.60."
+          }
+        },
+        "total_score": 6.3,
+        "max_marks": 10,
+        "brief_feedback": "Most comprehensive coverage of Mahavira's teachings with a clear two-section structure. The Gandhian non-violent resistance bridge is a valuable addition. Relevance section could be more developed with specific examples rather than brief mentions."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs4_2025_q5a",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a concise, analytically mature answer that connects duty (dharma) to both institutional responsibility and personal fulfilment. The caveat about rigid duty ('duty for duty's sake') adds philosophical nuance.",
+        "analysis": "This is a well-crafted answer that demonstrates both philosophical awareness and practical governance understanding. The opening connection to dharma immediately establishes ethical context. The responsibility section effectively lists key attributes (impartiality, diligence, accountability, courage) while grounding them in practical governance scenarios (protecting citizens' rights, public resources, institutional trust). The fulfilment section astutely identifies moral clarity, professional self-respect, and resilience against cynicism as outcomes of duty-centred service — these are specific and non-obvious. The caveat at the end ('devotion must be tempered with empathy and reason, avoiding rigid duty for duty's sake') is a sophisticated addition that shows the candidate can think beyond the straightforward affirmation the question invites. At 141 words, it's within the word limit. The answer lacks named examples but compensates with conceptual richness.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Accurately interprets the statement through the lens of dharma. Constitutional values, impartiality, diligence, accountability, and courage are correctly identified as dimensions of civil service responsibility. The fulfilment analysis (moral clarity, self-respect, resilience) is insightful and accurate. The caveat about rigid duty adds philosophical precision. 40% weight, quality fraction ~0.70."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Three clear movements: responsibility dimension, fulfilment dimension, and qualifying caveat. The answer flows logically from institutional to personal to philosophical. The structure serves the argument without being formulaic. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 0.9,
+            "justification": "No named examples or specific case studies. The answer relies on conceptual illustrations (protecting citizens' rights, political interference, public criticism) rather than concrete references. The dharma framing provides some philosophical depth. For full marks, at least one named example would be needed. 20% weight, quality fraction ~0.45."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "The strongest analytical dimension. The caveat about 'duty for duty's sake' shows the candidate can critically examine the statement rather than merely affirm it. The identification of resilience against cynicism as a fulfilment outcome is non-obvious. The connection between duty-centricity and reduced arbitrariness is analytically sound. 10% weight, quality fraction ~0.70."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Concise at 141 words, within the word limit. Clean prose with effective use of italics and em-dashes. Every sentence contributes substantively. Language is mature and precise. The concluding sentence is well-crafted. 10% weight, quality fraction ~0.70."
+          }
+        },
+        "total_score": 6.4,
+        "max_marks": 10,
+        "brief_feedback": "Analytically mature answer with a distinctive caveat about rigid duty. Strong conceptual framework linking dharma, institutional responsibility, and personal fulfilment. Would benefit from named examples to ground the abstract reasoning."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a well-written answer connecting the statement to Nishkama Karma and civil service context, with clear sections on responsibility and fulfilment. The natural disaster and ration delivery examples illustrate the concepts.",
+        "analysis": "The answer opens strongly with the Nishkama Karma connection, which is philosophically apt and shows UPSC-relevant ethical knowledge. The two-section format (Sense of Responsibility, Personal Fulfilment) directly mirrors the question's structure, which is effective. The transformation of a civil servant from 'mere administrator' to 'trustee of public welfare' is a compelling framing. The natural disaster example, while not naming a specific incident, illustrates the concept effectively. The ration delivery example in the fulfilment section is a grounded illustration. The interpretation of 'highest perfection' as ethical excellence and inner peace is thoughtful. However, at 183 words, it exceeds the word limit. Some phrases ('truly dedicated,' 'tangible positive impact') border on the generic. The answer lacks named individuals or specific case studies that would elevate it.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Nishkama Karma reference is accurate and relevant. Constitutional morality is correctly cited. The trustee-of-public-welfare framing aligns with the Public Trust doctrine. The interpretation of duty as self-actualisation pathway is philosophically sound. No factual errors. 40% weight, quality fraction ~0.65."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear two-section structure directly addressing the question's two dimensions (responsibility and fulfilment). Bold headings aid navigation. The concluding sentence synthesises both dimensions effectively. The flow from philosophical grounding to practical application works well. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.0,
+            "justification": "Natural disaster and ration delivery examples are relevant but generic — no named incidents, officers, or specific schemes. The Nishkama Karma/Bhagavad Gita reference provides philosophical depth. No data, case studies, or documented instances cited. 20% weight, quality fraction ~0.50."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "The administrator-to-trustee transformation is a good analytical insight. The interpretation of 'highest perfection' as ethical excellence plus inner peace shows reflective thinking. However, the analysis largely affirms the statement without exploring limitations, tensions, or counterarguments. 10% weight, quality fraction ~0.50."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Clear and well-written but exceeds word limit (183 vs 150). Some generic phrasing ('truly dedicated,' 'genuine positive impact') could be tightened. Bold headings are effective. Overall readable and professional. 10% weight, quality fraction ~0.50."
+          }
+        },
+        "total_score": 5.9,
+        "max_marks": 10,
+        "brief_feedback": "Solid answer with a strong Nishkama Karma opening and clear two-section structure. The administrator-to-trustee framing is effective. Needs specific named examples and better word limit adherence to score higher."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a competent but somewhat generic answer with clearly labelled sections on responsibility and fulfilment. The answer reads as earnest but lacks distinctive insights or specific examples.",
+        "analysis": "The answer correctly identifies the two dimensions the question asks about and addresses both systematically. The opening interpretation of 'duty' as transcending tasks to encompass constitutional obligation is a good framing. The responsibility section covers expected ground (ethical governance, service delivery, accountability, merit-based decisions) but does so in generic terms. The fulfilment section similarly uses broad language ('witnessing positive impact,' 'contributing to societal progress') without specific anchoring. The concluding transformation of 'work from job to calling' is a reasonable insight but common. At 185 words, it significantly exceeds the word limit. The answer does not reference any philosophical frameworks (no mention of Nishkama Karma, dharma, or ethical thinkers), which weakens it for a GS4 paper. No named examples of devoted civil servants are provided.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Correctly identifies duty as encompassing constitutional obligation, public service, and justice. The responsibility and fulfilment dimensions are accurately described. However, no philosophical references (Bhagavad Gita, Nishkama Karma) and no specific governance examples. Content is correct but thin. 40% weight, quality fraction ~0.55."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clear two-section structure with bold headings mirroring the question's demands. Introduction and conclusion frame the content. However, the sections are somewhat repetitive and the argument does not build progressively. 20% weight, quality fraction ~0.60."
+          },
+          "depth_examples": {
+            "score": 0.6,
+            "justification": "No specific examples whatsoever. No named civil servants, schemes, incidents, philosophical texts, or data. The answer remains entirely at the abstract level throughout. This is a significant weakness for a GS4 answer. 20% weight, quality fraction ~0.30."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "The 'job to calling' transformation is a valid analytical point but common. The answer largely describes rather than analyses. No exploration of tensions (what if duty conflicts with personal values?), limitations, or philosophical depth. The fulfilment discussion is affirming rather than analytical. 10% weight, quality fraction ~0.40."
+          },
+          "presentation": {
+            "score": 0.45,
+            "justification": "Clear and readable but exceeds word limit significantly (185 vs 150). Some verbose phrasing ('This fulfilment is not fleeting but enduring') could be tightened. Bold headings are effective. Language is competent but generic in places. 10% weight, quality fraction ~0.45."
+          }
+        },
+        "total_score": 4.85,
+        "max_marks": 10,
+        "brief_feedback": "Competent but generic treatment of a question that rewards philosophical depth and specific examples. Lacks any references to Nishkama Karma, named civil servants, or concrete governance scenarios. Needs more substance and tighter writing."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides the most example-rich answer, referencing Nishkama Karma, T.N. Seshan, Armstrong Pame, Eudaimonia, Kartavya Bhavana, and the Civil Services Code of Conduct. Strong integration of Eastern and Western philosophical frameworks.",
+        "analysis": "This is the strongest answer for this question, distinguished by its philosophical breadth and specific examples. The Nishkama Karma reference grounds the statement in Indian ethical philosophy, while the Eudaimonia reference brings in Aristotelian ethics — this cross-cultural philosophical integration is impressive for a GS4 answer. T.N. Seshan (electoral reforms) and Armstrong Pame ('People's Officer') are both specific, well-known examples of devoted civil servants. The Civil Services Code of Conduct reference shows institutional awareness. The Kartavya Bhavana concept in the conclusion adds a Hindi/Sanskrit term that resonates with the duty theme. The synthesis section effectively links integrity, selflessness, and resilience to both personal growth and public good. At 164 words, it slightly exceeds the word limit. The only weakness is that the examples are mentioned rather than elaborated — but given the word limit, this is a reasonable trade-off.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.0,
+            "justification": "Nishkama Karma accurately referenced. T.N. Seshan's role in electoral reforms is factually correct. Armstrong Pame's road-building in Manipur is accurate. Eudaimonia correctly described as Aristotelian flourishing. Civil Services Code of Conduct is a real institutional reference. Kartavya Bhavana is correctly used. The richest factual content of all candidates. 40% weight, quality fraction ~0.75."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Three clear sections (responsibility, fulfilment, synthesis) with effective headings. The flow from Nishkama Karma to examples to Eudaimonia to synthesis is logical and builds progressively. The concluding section effectively ties the two dimensions together. 20% weight, quality fraction ~0.65."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "T.N. Seshan and Armstrong Pame are specific, named examples. Nishkama Karma and Eudaimonia provide philosophical depth. The Civil Services Code of Conduct adds institutional grounding. The breadth and quality of references is the strongest in this question set. 20% weight, quality fraction ~0.70."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The cross-cultural philosophical integration (Nishkama Karma + Eudaimonia) shows analytical sophistication. The virtuous cycle concept (responsible action leading to excellence and satisfaction) is analytically valid. However, like the statement itself, the answer is largely affirming rather than critically examining. 10% weight, quality fraction ~0.60."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Well-formatted with bold terms and clear headings. At 164 words, slightly over the limit. The Kartavya Bhavana conclusion is impactful. Bold formatting is used effectively. Language is confident and varied. 10% weight, quality fraction ~0.60."
+          }
+        },
+        "total_score": 6.9,
+        "max_marks": 10,
+        "brief_feedback": "The best answer — distinguished by T.N. Seshan and Armstrong Pame examples, cross-cultural philosophical integration (Nishkama Karma + Eudaimonia), and institutional awareness. The Kartavya Bhavana conclusion is a strong finish. Could critically examine the statement more."
+      }
+    ]
+  }
+]

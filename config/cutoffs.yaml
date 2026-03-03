@@ -36,3 +36,18 @@ marking_scheme:
     unanswered: 0.0
     total_questions: 80
     max_marks: 200
+
+# Mains cutoffs (General category)
+# Note: Real cutoffs include Optional (250) + Interview (275) = total 2025 marks.
+# We evaluate Essay + GS1-4 = 1250 marks, so we compute proportional cutoffs.
+# Source: UPSC official cutoffs for Written Exam (Mains) stage
+mains_cutoffs:
+  2025:
+    total: 800   # Approximate (2025 results not yet announced)
+    max_marks: 1750  # Written total: Essay(250) + GS1-4(1000) + Optional(250) + Language(300 qualifying)
+  2024:
+    total: 782
+    max_marks: 1750
+  2023:
+    total: 747
+    max_marks: 1750

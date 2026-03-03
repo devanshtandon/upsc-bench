@@ -1,0 +1,285 @@
+{
+  "batch_id": "batch_017",
+  "scores": [
+    {
+      "question_id": "mains_gs3_2025_q12",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 6.0,
+        "structure_flow": 3.0,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.2,
+        "presentation": 1.0
+      },
+      "total_score": 14.0,
+      "max_marks": 15,
+      "brief_feedback": "Strong factual content with specific data (₹1.97 lakh crore, 6.7 lakh jobs, $11B mobile exports) but exceeds word limit (350 vs 250). Lacks deeper critical analysis of PLI limitations or comparison with global subsidy models."
+    },
+    {
+      "question_id": "mains_gs3_2025_q13",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 5.8,
+        "structure_flow": 2.8,
+        "depth_examples": 2.6,
+        "analytical_depth": 1.4,
+        "presentation": 0.8
+      },
+      "total_score": 13.4,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive coverage of groundwater depletion factors and 5 government schemes. Exceeds word limit (347 vs 250). Structure is clear but lacks nuanced analysis of scheme effectiveness or trade-offs between subsidies and conservation."
+    },
+    {
+      "question_id": "mains_gs3_2025_q14",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 5.9,
+        "structure_flow": 3.0,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.2,
+        "presentation": 0.9
+      },
+      "total_score": 13.8,
+      "max_marks": 15,
+      "brief_feedback": "Well-structured with specific data on FPI potential (10% processing, 70-80% in developed nations) and three major government schemes. Exceeds word limit (353 vs 250). Limited critical analysis of challenges like cold chain fragmentation or skill gaps."
+    },
+    {
+      "question_id": "mains_gs3_2025_q15",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 6.0,
+        "structure_flow": 3.0,
+        "depth_examples": 2.6,
+        "analytical_depth": 1.2,
+        "presentation": 1.0
+      },
+      "total_score": 13.8,
+      "max_marks": 15,
+      "brief_feedback": "Excellent detail on nanotechnology applications (IFFCO Nano Urea, 85-90% efficiency) and farmer upliftment pathways. Slightly exceeds word limit (326 vs 250). Could deepen analysis of nano-toxicity concerns or adoption barriers among marginal farmers."
+    },
+    {
+      "question_id": "mains_gs3_2025_q16",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 6.2,
+        "structure_flow": 3.2,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.4,
+        "presentation": 1.2
+      },
+      "total_score": 14.8,
+      "max_marks": 15,
+      "brief_feedback": "Strong on India Semiconductor Mission details (₹76,000 crore, 50% support, OSAT/ATMP features). Exceeds word limit (307 vs 250) but provides concrete examples (Tata-PSMC). Lacks deeper analysis of comparative advantage vs Taiwan/SK or execution risks."
+    },
+    {
+      "question_id": "mains_gs3_2025_q17",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 6.0,
+        "structure_flow": 3.0,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.4,
+        "presentation": 1.0
+      },
+      "total_score": 14.2,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive on mining hazards (Acid Mine Drainage, subsidence, Jharia coalfields example) and mitigation measures. Exceeds word limit (344 vs 250). Links well to SDGs and circular economy. Minor: could elaborate on enforcement capacity or DMF effectiveness."
+    },
+    {
+      "question_id": "mains_gs3_2025_q18",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 6.4,
+        "structure_flow": 3.2,
+        "depth_examples": 2.6,
+        "analytical_depth": 1.4,
+        "presentation": 1.2
+      },
+      "total_score": 14.8,
+      "max_marks": 15,
+      "brief_feedback": "Excellent coverage of Paris Agreement targets (33-35% emission intensity), COP26 Panchamrit (500 GW, 50% renewable), and 2022 NDC upgrades (45% reduction, 50% non-fossil). Exceeds word limit (320 vs 250) but lacks comparison with other nations or implementation challenges."
+    },
+    {
+      "question_id": "mains_gs3_2025_q19",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 6.2,
+        "structure_flow": 3.0,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.4,
+        "presentation": 1.0
+      },
+      "total_score": 14.4,
+      "max_marks": 15,
+      "brief_feedback": "Strong on NE challenges (Meitei-Kuki tensions, porous borders, ethnic conflicts) and recent accords (Naga Framework, Bodo Agreement, UNLF 2023). Exceeds word limit (352 vs 250). Links well to Act East Policy. Could explore persistent implementation gaps."
+    },
+    {
+      "question_id": "mains_gs3_2025_q20",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 6.0,
+        "structure_flow": 3.0,
+        "depth_examples": 2.6,
+        "analytical_depth": 1.2,
+        "presentation": 1.0
+      },
+      "total_score": 13.8,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive on maritime security (95% trade by sea, 80% oil imports) and dual challenges (geopolitical, coastal governance). Exceeds word limit (361 vs 250). Mentions SAGAR, QUAD, IPOI well. Limited on emerging threats like submarine capabilities or Indo-Pacific tensions."
+    },
+    {
+      "question_id": "mains_gs4_2025_q1a",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.0,
+        "structure_flow": 1.8,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Identifies 5 key ethical dilemmas (freedom vs harm, privacy vs profit, bias, anonymity, mental health). Slightly exceeds word limit (160 vs 150). Frameworks are generic; lacks concrete social media case studies (Twitter bot networks, Instagram mental health crisis) or regulatory examples (EU DSA)."
+    },
+    {
+      "question_id": "mains_gs4_2025_q1b",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.8,
+        "depth_examples": 1.6,
+        "analytical_depth": 1.0,
+        "presentation": 1.0
+      },
+      "total_score": 8.6,
+      "max_marks": 10,
+      "brief_feedback": "Solid on constitutional morality (B.R. Ambedkar, spirit over letter, equity). References Directive Principles well. Exceeds word limit (183 vs 150). Connects CM to accountability and discretionary power control. Could cite landmark cases (S.P. Gupta, Maneka Gandhi) for stronger judicial grounding."
+    },
+    {
+      "question_id": "mains_gs4_2025_q2a",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 2.8,
+        "structure_flow": 1.6,
+        "depth_examples": 1.4,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 7.4,
+      "max_marks": 10,
+      "brief_feedback": "Brief critical analysis of Clausewitz's realism (Russia-Ukraine example). Correctly notes hybrid warfare expansion. But overly simplistic ethical critique and weak on contemporary examples. Exceeds word limit (161 vs 150). Lacks engagement with offensive realism, power politics, or nuclear deterrence theory."
+    },
+    {
+      "question_id": "mains_gs4_2025_q2b",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.0,
+        "structure_flow": 1.8,
+        "depth_examples": 1.4,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 7.8,
+      "max_marks": 10,
+      "brief_feedback": "Identifies 4 genuine ethical dilemmas (security vs conservation, expediency vs procedural justice, national vs local rights, intergenerational equity). Exceeds word limit (187 vs 150). Proposes Green Engineering and SEA but lacks India-specific examples (Ladakh roads, NE highway projects) or counter-arguments defending strategic exemptions."
+    },
+    {
+      "question_id": "mains_gs4_2025_q3a",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.0,
+        "structure_flow": 1.8,
+        "depth_examples": 1.6,
+        "analytical_depth": 1.0,
+        "presentation": 0.9
+      },
+      "total_score": 8.3,
+      "max_marks": 10,
+      "brief_feedback": "Good interpretation of Thiruvalluvar's wisdom (fortitude, equanimity, resilience). Applies to public administration and societal challenges. References Sthitaprajna well. Exceeds word limit (163 vs 150). Could strengthen with specific IAS/IFS examples (2020 Delhi riots response, Kerala floods) or neuroscience of emotional resilience."
+    },
+    {
+      "question_id": "mains_gs4_2025_q3b",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 0.0,
+        "structure_flow": 0.0,
+        "depth_examples": 0.0,
+        "analytical_depth": 0.0,
+        "presentation": 0.0
+      },
+      "total_score": 0.0,
+      "max_marks": 10,
+      "brief_feedback": "No answer provided. Candidate left this question blank (0 words). Automatic zero score."
+    },
+    {
+      "question_id": "mains_gs4_2025_q3c",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.0,
+        "structure_flow": 1.8,
+        "depth_examples": 1.6,
+        "analytical_depth": 1.0,
+        "presentation": 0.9
+      },
+      "total_score": 8.3,
+      "max_marks": 10,
+      "brief_feedback": "Strong interpretation of Vivekananda on morality vs laws (skeleton metaphor, civic responsibility examples). Good relevance to Dowry Prohibition Act, Swachh Bharat, technological ethics. Exceeds word limit (184 vs 150). Could cite enforcement failures (anti-corruption law vs bureaucratic self-interest) more concretely."
+    },
+    {
+      "question_id": "mains_gs4_2025_q4a",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.0,
+        "structure_flow": 1.8,
+        "depth_examples": 1.6,
+        "analytical_depth": 1.0,
+        "presentation": 0.9
+      },
+      "total_score": 8.3,
+      "max_marks": 10,
+      "brief_feedback": "Balanced justification of reason+ethics synergy with two examples (PDS Aadhaar mismatch vs Swachh Bharat). Conceptually sound on social re-engineering. Exceeds word limit (171 vs 150). Examples are illustrative but could be more specific (actual PDS exclusion cases, Swachh Bharat behavioral mechanics)."
+    },
+    {
+      "question_id": "mains_gs4_2025_q4b",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.0,
+        "structure_flow": 1.8,
+        "depth_examples": 1.4,
+        "analytical_depth": 1.0,
+        "presentation": 0.9
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Good coverage of 3 Mahavira teachings (Ahimsa, Anekantavada, Aparigraha) with contemporary relevance. Links to geopolitics, pluralism, sustainability well. Exceeds word limit (169 vs 150). Could deepen on Anekantavada as counter to religious extremism with specific examples (minority rights, interfaith dialogue)."
+    },
+    {
+      "question_id": "mains_gs4_2025_q5a",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.8,
+        "depth_examples": 1.6,
+        "analytical_depth": 1.0,
+        "presentation": 1.0
+      },
+      "total_score": 8.6,
+      "max_marks": 10,
+      "brief_feedback": "Solid analysis of Nishkama Karma and duty-perfection nexus for civil servants. Good on responsibility vs fulfilment synergy. Exceeds word limit (183 vs 150). Examples (disaster relief) are generic; could cite specific IAS officers (Ramakrishnan, Tina Dabi) or ethical dilemma resolutions (conflict-of-interest handling)."
+    },
+    {
+      "question_id": "mains_gs4_2025_q5b",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.0,
+        "structure_flow": 1.8,
+        "depth_examples": 1.4,
+        "analytical_depth": 0.9,
+        "presentation": 0.9
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Five concrete measures (process simplification, participatory governance, e-governance, capacity building, attitudinal shift). Aligns with Minimum Government mandate. Exceeds word limit (169 vs 150). Could strengthen with implementation examples (Aadhaar rollout challenges, PRI capacity limits) and metrics for measuring facilitator role success."
+    }
+  ]
+}

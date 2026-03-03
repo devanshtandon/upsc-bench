@@ -1,0 +1,352 @@
+{
+  "batch_id": "batch_003",
+  "rubric": {
+    "gs": {
+      "content_accuracy": {
+        "weight": 40,
+        "description": "Facts correct, relevant points covered, no factual errors"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Logical organization, intro/body/conclusion, coherent argument"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific examples, data, case studies, constitutional references"
+      },
+      "analytical_depth": {
+        "weight": 10,
+        "description": "Critical analysis, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, clarity, conciseness, language quality"
+      }
+    },
+    "essay": {
+      "content_breadth": {
+        "weight": 30,
+        "description": "Comprehensive coverage, factual accuracy, relevant examples"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Clear thesis, logical progression, compelling intro/conclusion"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific case studies, data, international comparisons"
+      },
+      "analytical_depth": {
+        "weight": 20,
+        "description": "Original thinking, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, language quality, readability"
+      }
+    }
+  },
+  "answers": [
+    {
+      "question_id": "mains_gs2_2025_q13",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 13,
+      "question_text": "Discuss the evolution of collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Evolution of Collegium System and Comparative Analysis of Judicial Appointments\n\n## Evolution of Collegium System in India\n\nThe Constitution under **Articles 124 and 217** provides that the President shall appoint judges in \"consultation\" with the Chief Justice of India (CJI) and other judges. The interpretation of \"consultation\" evolved through landmark cases:\n\n- **S.P. Gupta Case (1981) - First Judges Case**: Supreme Court held that \"consultation\" does not mean \"concurrence,\" giving primacy to the Executive.\n- **Supreme Court Advocates-on-Record Association v. Union of India (1993) - Second Judges Case**: Overruled the First Judges Case, establishing the **Collegium System** \u2014 CJI along with two senior-most judges would recommend appointments, giving judiciary primacy.\n- **Third Judges Case (1998)**: Presidential Reference expanded the Collegium to **CJI + 4 senior-most judges**.\n- **NJAC (2014)**: The **99th Constitutional Amendment** and NJAC Act sought to replace the Collegium with a National Judicial Appointments Commission, but was struck down in **NJAC v. Union of India (2015)** as violating judicial independence (basic structure).\n\n## Comparative Analysis: India vs. USA\n\n| Aspect | India (Collegium) | USA (Presidential Nomination + Senate Confirmation) |\n|--------|------------------|-----------------------------------------------------|\n| **Transparency** | Opaque, no public hearings | Public Senate hearings ensure transparency |\n| **Accountability** | Judges appoint judges \u2014 no democratic accountability | Executive-Legislative involvement ensures democratic legitimacy |\n| **Independence** | Insulates judiciary from political interference | Susceptible to political polarization and ideological appointments |\n| **Diversity** | Criticized for promoting \"uncle judges\" and nepotism | Greater diversity through political representation |\n| **Politicization** | Minimal political interference | Highly politicized (e.g., Brett Kavanaugh hearings) |\n\n## Conclusion\n\nIndia needs a **middle path** \u2014 a reformed mechanism ensuring transparency, diversity, and accountability while preserving judicial independence, possibly through a restructured NJAC with adequate judicial safeguards, as recommended by the **Law Commission (214th Report)**.",
+      "word_count": 301,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs2_2025_q14",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 14,
+      "question_text": "Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Centre-State Financial Relations and Evolving Fiscal Federalism\n\n## Constitutional Framework\n\nThe Constitution delineates Centre-State financial relations through Articles 268-293, establishing a system of tax assignment, revenue sharing, and grants-in-aid. The Finance Commission (Article 280) and erstwhile Planning Commission were the two principal channels of fiscal transfers.\n\n## Evolving Pattern Under Planned Development\n\n**Phase of Centralization (1950s-1990s):** The Planning Commission dominated resource allocation through discretionary plan grants and centrally sponsored schemes (CSS), undermining state autonomy. The Gadgil-Mukherjee formula governed plan transfers, but conditionalities restricted state flexibility. Heavy reliance on Article 282 (discretionary grants) over Article 275 (statutory grants) tilted the balance towards the Centre.\n\n**Structural Issues:** States faced vertical fiscal imbalance \u2014 collecting ~35% of revenues but bearing ~55% of expenditure responsibilities. Horizontal imbalances between developed and backward states persisted despite equalization transfers.\n\n## Impact of Recent Reforms\n\n**14th and 15th Finance Commissions:** The 14th FC (2015) increased states' share in divisible pool from 32% to 42% \u2014 the single largest devolution increase. The 15th FC maintained this at 41% (adjusted for J&K reorganization), significantly enhancing untied resources.\n\n**Abolition of Planning Commission (2015):** Replacement by NITI Aayog ended the dual-channel transfer system, making the Finance Commission the primary institution for fiscal federalism.\n\n**GST Regime (2017):** The GST Council (Article 279A) represents cooperative federalism in taxation, though compensation cess disputes (especially during COVID-19) revealed tensions.\n\n**Persisting Concerns:** Increasing cess and surcharges (not shared with states), rising CSS conditionalities, and off-budget borrowings continue to constrain state fiscal autonomy.\n\n## Conclusion\n\nWhile reforms have strengthened fiscal federalism structurally, genuine fiscal autonomy requires reducing centrally earmarked transfers and expanding states' independent revenue base.",
+      "word_count": 269,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs2_2025_q15",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 15,
+      "question_text": "What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Environmental Pressure Groups: Role in India's Environmental Governance\n\n## Definition\n\nEnvironmental pressure groups are organized civil society formations that seek to influence public policy, raise ecological awareness, and advocate for environmental protection without directly contesting elections. They operate through lobbying, litigation, public campaigns, and grassroots mobilization.\n\n## Types of Environmental Pressure Groups in India\n\n- **National-level NGOs:** Centre for Science and Environment (CSE), Bombay Natural History Society (BNHS), Wildlife Protection Society of India\n- **Grassroots movements:** Chipko Movement, Narmada Bachao Andolan, Appiko Movement\n- **International organizations with Indian presence:** Greenpeace India, WWF-India\n- **Community-based organizations:** Tribal and indigenous groups protecting local ecosystems\n\n## Role in Raising Awareness\n\n- CSE's publication *Down to Earth* has been instrumental in disseminating environmental information to the public\n- Chipko Movement (1973) led by Sunderlal Bahuguna raised global awareness about deforestation\n- Campaigns on air pollution (e.g., CSE's work on vehicular emissions in Delhi) shaped public discourse\n- Use of social media and digital platforms for wider outreach on issues like plastic pollution\n\n## Role in Influencing Policies\n\n- Narmada Bachao Andolan influenced Supreme Court's directives on rehabilitation and resettlement policies\n- CSE's advocacy led to the introduction of CNG in Delhi's public transport and BS-VI emission norms\n- PIL-based environmental litigation expanded judicial activism under **Articles 21 and 48A**\n- Contributed to enactment of **Forest Rights Act, 2006**, National Green Tribunal Act, 2010, and EIA notifications\n\n## Role in Advocacy and Protection\n\n- Wildlife Protection Society's efforts strengthened anti-poaching enforcement under **Wildlife Protection Act, 1972**\n- Community-based conservation models like Joint Forest Management emerged from grassroots advocacy\n- International pressure groups facilitated India's participation in global frameworks like the **Paris Agreement**\n\n## Conclusion\n\nEnvironmental pressure groups serve as vital democratic watchdogs, bridging governance gaps and ensuring ecological accountability, complementing the **Directive Principles (Article 48A)** and **Fundamental Duties (Article 51A(g))**.",
+      "word_count": 306,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs2_2025_q16",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 16,
+      "question_text": "Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of 'paradox of poverty'.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Inequality in Resource Ownership and the Paradox of Poverty\n\n## Introduction\n\nThe \"paradox of poverty\" refers to the coexistence of abundant resources and widespread poverty \u2014 where resource-rich regions or nations fail to translate their wealth into equitable prosperity. India exemplifies this paradox, being among the world's largest economies yet home to a significant proportion of the global poor.\n\n## Inequality in Resource Ownership as a Cause of Poverty\n\n**Land Ownership:** India's agrarian structure remains highly skewed. The Agricultural Census (2015-16) reveals that marginal and small farmers (below 2 hectares) constitute ~86% of landholdings but own only ~47% of cultivated area. Concentration of land among few perpetuates rural poverty and landlessness.\n\n**Capital and Financial Resources:** Access to institutional credit remains unequal. Large corporates and wealthy individuals command disproportionate capital, while small entrepreneurs and the poor depend on informal moneylenders, trapping them in debt cycles.\n\n**Natural Resources:** Mineral-rich states like Jharkhand, Odisha, and Chhattisgarh paradoxically have the highest poverty rates. Benefits of resource extraction accrue to corporations and elites, while tribal and local communities face displacement \u2014 the classic \"resource curse.\"\n\n**Human Capital:** Unequal access to quality education and healthcare reinforces intergenerational poverty, creating a vicious cycle.\n\n## Government Interventions\n\n- **Land reforms** (though poorly implemented in most states except Kerala and West Bengal)\n- **MGNREGA, PM-KISAN, PMJDY** for financial inclusion\n- **DPSP Articles 38, 39(b), 39(c)** mandate equitable distribution of resources\n\n## Conclusion\n\nAddressing the paradox requires structural reforms \u2014 effective land redistribution, progressive taxation, strengthening commons-based resource governance, and ensuring inclusive growth as envisioned by Amartya Sen's \"capability approach\" and the SDG framework (Goal 1 and 10).",
+      "word_count": 269,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs2_2025_q17",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 17,
+      "question_text": "\"In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.\" Critically evaluate.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Critical Evaluation of Centralized Decision-Making in Development Models\n\n## The Core Problem\n\nThe statement highlights the fundamental disconnect between **centralized decision-making** and **ground-level implementation** \u2014 a persistent challenge in governance that undermines development outcomes. When decisions are made far from where information originates and execution occurs, inefficiency, irrelevance, and accountability deficits follow.\n\n## Evidence Supporting the Statement\n\n**Bureaucratic Centralization:** India's development planning historically followed a top-down approach through the Planning Commission, where schemes were designed in Delhi with insufficient understanding of local contexts. One-size-fits-all programs like early poverty alleviation schemes often failed due to regional diversity.\n\n**Information Asymmetry:** Centralized agencies suffer from delayed, distorted, or incomplete information. The 2nd ARC recommended that decision-making authority should correspond with the level possessing relevant information \u2014 the **principle of subsidiarity**.\n\n**Implementation Gaps:** Schemes like MGNREGA face challenges when block/district officials lack autonomy to adapt to local conditions, leading to poor targeting and leakages.\n\n## Counter-Arguments and Reforms Undertaken\n\n- **73rd and 74th Constitutional Amendments** devolved powers to PRIs and ULBs, bringing decision-making closer to communities.\n- **NITI Aayog's cooperative federalism** model promotes bottom-up planning through district-level plans.\n- **Mission Antyodaya** and **Aspirational Districts Programme** leverage local data for targeted interventions.\n- Technologies like **GIS mapping, Aadhaar-based DBT**, and real-time monitoring have reduced information gaps even in centralized models.\n\n## Way Forward\n\nFollowing the **Balwant Rai Mehta** and **LM Singhvi Committee** recommendations, genuine devolution of **funds, functions, and functionaries** to local bodies, strengthening Gram Sabhas, and adopting **participatory planning** frameworks can align decision-making with information sources, thereby fulfilling development objectives effectively.",
+      "word_count": 258,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs2_2025_q18",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 18,
+      "question_text": "The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# NCPCR and Child Protection in the Digital Era\n\n## Introduction\n\nWith over 500 million internet users in India and increasing digital penetration among children, issues like cyberbullying, online exploitation, exposure to inappropriate content, data privacy violations, and gaming addiction have emerged as critical challenges requiring institutional response.\n\n## Existing Policy Framework\n\n- **POCSO Act, 2012**: Criminalizes use of children for pornographic purposes, including through digital media.\n- **Information Technology Act, 2000**: Section 67B penalizes publishing/transmitting child sexual abuse material (CSAM) online.\n- **Juvenile Justice Act, 2015**: Provides for care and protection of children in need.\n- **National Policy for Children, 2013**: Recognizes protection from all forms of harm as a priority area.\n- **Digital Personal Data Protection Act, 2023**: Mandates verifiable parental consent for processing data of children below 18 years.\n- **NCPCR Guidelines**: Issued advisories on safe internet usage and regulation of online gaming.\n\n## Challenges\n\n- Lack of age-verification mechanisms on platforms\n- Inadequate awareness among parents and children about digital risks\n- Jurisdictional issues in cross-border cybercrimes\n- Insufficient reporting mechanisms for online child abuse\n- Algorithmic targeting of minors by social media platforms\n\n## Suggested Measures for NCPCR\n\n1. **Policy Advocacy**: Push for a comprehensive **Children's Online Privacy and Safety Act** on the lines of USA's COPPA.\n2. **Digital Literacy Campaigns**: Collaborate with schools and NCERT to integrate cyber safety in curricula.\n3. **Monitoring Mechanism**: Establish a dedicated cyber cell for tracking online child exploitation.\n4. **Platform Accountability**: Recommend mandatory safety-by-design standards for tech companies.\n5. **Grievance Redressal**: Create child-friendly online complaint portals.\n6. **Research and Data Collection**: Commission periodic studies on children's digital vulnerabilities.\n7. **International Cooperation**: Coordinate with INTERPOL and UNICEF for tackling transnational online crimes against children.\n\n## Conclusion\n\nNCPCR must evolve from a reactive to a proactive institution, balancing children's right to digital access with robust protection frameworks in the rapidly evolving digital landscape.",
+      "word_count": 313,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs2_2025_q19",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 19,
+      "question_text": "\"Energy security constitutes the dominant kingpin of India's foreign policy, and is linked with India's overarching influence in Middle Eastern countries.\" How would you integrate energy security with India's foreign policy trajectories in the coming years?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Energy Security and India's Foreign Policy: Integration Strategies\n\n## Context\n\nIndia, the world's **third-largest energy consumer** and **third-largest oil importer**, depends on imports for approximately **85% of crude oil** and **50% of natural gas** requirements. The Middle East alone accounts for nearly **60% of India's oil imports**, making energy security a cornerstone of foreign policy.\n\n## India-Middle East Energy Nexus\n\nIndia's strategic engagement with Gulf Cooperation Council (GCC) nations reflects deep energy interdependence. The **India-UAE Comprehensive Strategic Partnership**, **India-Saudi Arabia Strategic Partnership Council**, and agreements with Iraq, Qatar, and Iran underscore this linkage. The **Indian diaspora of 8+ million** in the Gulf further strengthens these ties.\n\n## Integration Strategies for Coming Years\n\n**1. Diversification of Energy Sources:**\n- Strengthen ties with **Russia, Central Asia, Africa, and Latin America** to reduce over-dependence on the Middle East\n- Operationalize **TAPI pipeline** and explore **INSTC** (International North-South Transport Corridor) for energy logistics\n\n**2. Transition to Renewables:**\n- Leverage **International Solar Alliance (ISA)** and **Green Hydrogen Mission** to reduce fossil fuel dependency\n- Bilateral clean energy partnerships (India-US Clean Energy Partnership)\n\n**3. Strategic Reserves and Diplomacy:**\n- Expand **Strategic Petroleum Reserves** (currently at Visakhapatnam, Mangalore, Padur)\n- Negotiate **long-term LNG contracts** and rupee-based trade mechanisms (India-UAE rupee-dirham framework)\n\n**4. Multilateral Engagement:**\n- Active participation in **IEA, OPEC+ dialogues**, and **I2U2 (India-Israel-UAE-US)** grouping for energy cooperation\n\n**5. Act East and Energy:**\n- Pursue energy cooperation with **ASEAN, Australia**, and Pacific nations\n\n## Conclusion\n\nIndia must adopt a **multi-alignment energy diplomacy** balancing traditional Middle Eastern partnerships with diversification, energy transition, and strategic autonomy to ensure long-term energy security.",
+      "word_count": 263,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs2_2025_q20",
+      "year": 2025,
+      "paper": "mains_gs2",
+      "question_number": 20,
+      "question_text": "\"The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.\" Examine and critically evaluate the East-West policy confrontations in this regard.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# UN Reform: East-West Policy Confrontations\n\n## Introduction\n\nThe United Nations, established in 1945, reflects the post-World War II power configuration. Despite decades of advocacy for reform, particularly of the Security Council (UNSC), the process remains stalled due to deep-seated East-West geopolitical rivalries.\n\n## Key Areas of Confrontation\n\n**Security Council Reform:**\n- The P5 veto power remains the most contentious issue. The USA opposes any reform that dilutes Western influence, while Russia and China resist expansion that would strengthen the Western bloc.\n- The G4 nations (India, Brazil, Germany, Japan) seek permanent membership, but face opposition \u2014 China opposes Japan and India's candidature, while the USA selectively supports reforms aligned with its strategic interests.\n\n**Ideological Divergence:**\n- The West emphasizes \"Responsibility to Protect\" (R2P), human rights-based interventions, and liberal democratic governance. Russia and China champion sovereignty, non-interference, and multipolarity, viewing Western interventionism as neo-imperialism (e.g., Libya 2011, Syria).\n\n**Institutional Paralysis:**\n- Over 300 vetoes have been exercised since 1945. Recent Russia-China vetoes on Syria, Ukraine, and Myanmar resolutions demonstrate how East-West rivalry paralyzes UN decision-making.\n\n**Competing Multilateral Frameworks:**\n- The Russo-Chinese alliance promotes alternative institutions (SCO, BRICS, AIIB), challenging Western-dominated Bretton Woods institutions and undermining consensus on UN reform.\n\n## Critical Evaluation\n\nThe **Razali Plan (1997)**, **High-Level Panel Report (2004)**, and **Intergovernmental Negotiations (IGN)** framework have all failed due to this structural deadlock. The \"Coffee Club\" (Uniting for Consensus) further complicates reform.\n\n## Conclusion\n\nMeaningful UN reform requires transcending zero-sum geopolitics. India must continue advocating for reformed multilateralism through platforms like G4 and the African Union partnership, emphasizing representativeness, legitimacy, and effectiveness.",
+      "word_count": 262,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q1",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 1,
+      "question_text": "Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive development?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# HDI vs IHDI: With Special Reference to India\n\n## Human Development Index (HDI)\nDeveloped by UNDP (Mahbub ul Haq, 1990), HDI measures **average achievements** across three dimensions:\n- **Health** (life expectancy at birth)\n- **Education** (mean and expected years of schooling)\n- **Standard of living** (GNI per capita, PPP)\n\nIndia's HDI rank: **134 out of 193** (HDR 2023-24), value 0.644 (Medium Human Development category).\n\n## Inequality-adjusted HDI (IHDI)\nIntroduced in 2010, IHDI **discounts HDI** by accounting for inequalities in each dimension using the Atkinson inequality measure. It reflects **actual levels** of human development considering distribution.\n\nIndia's IHDI value drops significantly (~26% loss), indicating **substantial inequality** in health, education, and income distribution.\n\n## Why IHDI is a Better Indicator of Inclusive Development\n- Captures **distributional disparities**, not just averages\n- Penalizes **unequal access** to opportunities\n- Reflects **ground-level reality** of marginalized sections\n- Aligns with **SDG principle** of \"Leave No One Behind\"\n- Exposes **policy gaps** in equitable service delivery\n\nThus, IHDI provides a more **realistic and comprehensive** assessment of development.",
+      "word_count": 171,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q2",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 2,
+      "question_text": "What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Challenges Before the Indian Economy Amid Rising Protectionism\n\n## Key Challenges:\n\n1. **Export Vulnerability:** India's exports face tariff barriers, particularly from the US (e.g., reciprocal tariffs, 2025) and EU (CBAM), threatening sectors like IT, pharmaceuticals, textiles, and agriculture.\n\n2. **Supply Chain Disruptions:** US-China trade wars and reshoring trends disrupt Global Value Chains (GVCs), affecting India's intermediate goods trade.\n\n3. **Reduced Market Access:** Collapse of WTO's Doha Round and weakening of MFN principles limit multilateral negotiation leverage for developing nations like India.\n\n4. **Technology Restrictions:** Export controls on semiconductors and critical technologies hinder India's digital transformation ambitions.\n\n5. **FDI Diversion:** Protectionist blocs (USMCA, RCEP) may redirect investment away from India.\n\n## Strategies to Address:\n\n- **Diversify trade partnerships** through FTAs (India-EU, India-UK, India-GCC negotiations)\n- **Strengthen Atmanirbhar Bharat** via PLI schemes for domestic manufacturing\n- **Leverage bilateral diplomacy** and strategic partnerships\n- **Boost competitiveness** through infrastructure development, logistics reforms (PM Gati Shakti), and skilling initiatives\n- **Champion WTO reforms** to preserve multilateral frameworks",
+      "word_count": 163,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q3",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 3,
+      "question_text": "Explain the factors influencing the decision of the farmers on the selection of high value crops in India.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Factors Influencing Farmers' Selection of High-Value Crops in India\n\n**Economic Factors:**\n- **Market demand and price realization:** Assured remunerative prices and growing urban demand for fruits, vegetables, spices, and floriculture products incentivize farmers.\n- **Cost-benefit analysis:** Input costs (seeds, fertilizers, labour) versus expected returns influence crop choice.\n- **Contract farming and assured buyback** arrangements under schemes like e-NAM reduce market uncertainty.\n\n**Agro-climatic Factors:**\n- Soil type, rainfall, temperature, and irrigation availability determine crop suitability (e.g., saffron in Kashmir, spices in Kerala).\n\n**Institutional Factors:**\n- Access to credit, crop insurance (PMFBY), cold storage, and supply chain infrastructure.\n- Government subsidies under **Mission for Integrated Development of Horticulture (MIDH)** and **Rashtriya Krishi Vikas Yojana**.\n\n**Technological Factors:**\n- Availability of high-yielding varieties, drip irrigation, and post-harvest technology.\n\n**Social Factors:**\n- Farm size, family labour availability, risk appetite, and knowledge dissemination through KVKs and extension services.\n\n**Proximity to markets** and transportation connectivity also play a decisive role.",
+      "word_count": 154,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q4",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 4,
+      "question_text": "Elaborate the scope and significance of supply chain management of agricultural commodities in India.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Supply Chain Management of Agricultural Commodities in India\n\n## Scope\n\n**Pre-production:** Input supply (seeds, fertilizers), credit access, and farm planning.\n\n**Production:** Technology adoption, precision farming, and quality control at farm level.\n\n**Post-harvest:** Processing, grading, sorting, cold storage, and packaging \u2014 critical given India loses approximately **16% of fruits and vegetables** annually due to inadequate infrastructure.\n\n**Distribution & Marketing:** Transportation, warehousing (WDRA-regulated), e-NAM (electronic National Agriculture Market linking 1,000+ mandis), and retail/export channels.\n\n## Significance\n\n- **Reduces post-harvest losses** worth \u20b990,000+ crore annually\n- **Ensures remunerative prices** to farmers by eliminating excessive intermediaries\n- **Stabilizes consumer prices** and ensures food security for 1.4 billion population\n- **Boosts exports** \u2014 India's agricultural exports crossed $53 billion (2023-24)\n- **Promotes value addition** through food processing (PM-KISAN Sampada Yojana)\n\n## Government Initiatives\nOperation Greens (TOP clusters), Mega Food Parks, Kisan Rails, FPO promotion, and APMC reforms strengthen agricultural supply chains, enhancing efficiency and farmer incomes.",
+      "word_count": 152,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q5",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 5,
+      "question_text": "The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions to the international fusion energy project \u2013 International Thermonuclear Experimental Reactor (ITER). Describe the future prospects of fusion energy for India.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# India's Contributions to ITER and Future Prospects of Fusion Energy\n\n## India's Contributions to ITER\n\nIndia joined the ITER project in 2005 as a full partner alongside EU, USA, Russia, China, Japan, and South Korea. Key contributions include:\n\n- **In-kind components**: Cryostat (largest stainless steel vacuum chamber), ion cyclotron RF heating systems, diagnostic neutral beam systems, and power supplies\n- **Institute of Plasma Research (IPR), Gandhinagar** leads India's ITER participation under ITER-India (a special project of DAE)\n- India contributes approximately **9%** of the project's construction cost, primarily through manufactured components\n- Indian industries like L&T have fabricated critical cryostat segments\n\n## Domestic Fusion Programme\n\nIndia operates **SST-1 (Steady State Superconducting Tokamak)** and is developing **SST-2** as an advanced tokamak\n\n## Future Prospects\n\n- Fusion offers **virtually limitless, clean energy** using deuterium-tritium fuel\n- Addresses India's growing energy demands without carbon emissions\n- Abundant deuterium availability from seawater\n- Technology spin-offs in superconducting magnets, plasma physics, and advanced materials\n- Post-ITER, India aims to develop a **demonstration fusion power plant (DEMO)**",
+      "word_count": 172,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q6",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 6,
+      "question_text": "How can India achieve energy independence through clean technology by 2047? How can biotechnology play a crucial role in this endeavour?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Energy Independence Through Clean Technology by 2047\n\n## Clean Technology Pathway\n\nIndia's energy import bill (~$150 billion annually) necessitates a strategic transition. Key measures include:\n\n- **Renewable Energy Expansion**: Scaling from current ~200 GW installed capacity toward 500 GW by 2030 target (National Solar Mission, Wind Energy Policy)\n- **Green Hydrogen Mission**: \u20b919,744 crore allocation for producing 5 MMT green hydrogen annually by 2030\n- **Nuclear Energy**: Small Modular Reactors and thorium-based reactors leveraging India's vast thorium reserves\n- **Battery Storage & EVs**: National Electric Mobility Mission, PLI schemes for Advanced Chemistry Cells\n- **Smart Grids & Energy Efficiency**: PAT scheme, UJALA programme reducing demand-side pressures\n\n## Role of Biotechnology\n\n- **Biofuels**: 2G/3G ethanol from agricultural waste (SATAT scheme, Ethanol Blending Programme targeting 20% by 2025-26)\n- **Algal biofuels** for aviation and transport\n- **Bio-hydrogen** production through engineered microorganisms\n- **Biomass gasification** using genetically improved energy crops\n- **Microbial fuel cells** for decentralized energy generation\n\nConvergence of clean technology and biotechnology, supported by R&D investment and policy coherence, can realistically achieve **Atmanirbhar Energy** by 2047.",
+      "word_count": 176,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q7",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 7,
+      "question_text": "What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Carbon Capture, Utilization and Storage (CCUS)\n\n## Definition\nCCUS is a suite of technologies that captures CO\u2082 emissions from industrial sources (power plants, cement, steel industries) or directly from the atmosphere, then either **utilizes** it in productive processes or **stores** it permanently in deep geological formations, preventing its release into the atmosphere.\n\n## Three Components\n- **Capture:** Pre-combustion, post-combustion, or oxy-fuel combustion methods\n- **Utilization:** Converting CO\u2082 into fuels, chemicals, building materials, or enhanced oil recovery (EOR)\n- **Storage:** Injecting CO\u2082 into depleted oil/gas reservoirs, saline aquifers, or deep coal seams\n\n## Role in Tackling Climate Change\n- **IEA estimates** CCUS could contribute ~15% of cumulative emission reductions needed for net-zero by 2070\n- Enables decarbonization of **hard-to-abate sectors** (cement, steel, fertilizers)\n- Supports **blue hydrogen** production\n- **Direct Air Capture (DAC)** can achieve negative emissions\n- India's **National Hydrogen Mission** and **NITI Aayog's CCUS policy framework** recognize its strategic importance\n- Bridges transition from fossil fuels to renewables\n\nCCUS is essential but must complement, not substitute, renewable energy expansion.",
+      "word_count": 171,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q8",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 8,
+      "question_text": "Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Seawater Intrusion in Coastal Aquifers\n\n## Causes:\n\n- **Over-extraction of groundwater** beyond natural recharge rates, disturbing the freshwater-saltwater equilibrium (Ghyben-Herzberg relationship)\n- **Rapid urbanization and industrialization** in coastal zones increasing water demand\n- **Decline in natural recharge** due to concretization, deforestation, and reduced rainfall infiltration\n- **Sea-level rise** due to climate change pushing saltwater further inland\n- **Destruction of coastal ecosystems** like mangroves and sand dunes that act as natural barriers\n- **Tidal and storm surge effects** exacerbated by extreme weather events\n\n## Affected Areas:\nGujarat (Saurashtra), Chennai, Kerala coast, Sundarbans, Lakshadweep\n\n## Remedial Measures:\n\n- **Artificial recharge** through injection wells, percolation tanks, and check dams\n- **Subsurface barriers** (physical/hydraulic) to prevent saltwater movement\n- **Regulation of groundwater extraction** through permits and metering\n- **Managed Aquifer Recharge (MAR)** techniques\n- **Desalination plants** to reduce aquifer dependence\n- **Rainwater harvesting** mandated in coastal cities\n- **CGWB monitoring networks** for real-time aquifer surveillance\n- **Integrated Coastal Zone Management Plan** implementation",
+      "word_count": 159,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q9",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 9,
+      "question_text": "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Terrorism in India: Manifestations and Counter-Measures\n\n## Manifestations in India\n\n**Cross-border Terrorism:** Pakistan-sponsored terrorism in J&K (Pulwama attack 2019, recent Pahalgam attack 2025), infiltration attempts along LoC.\n\n**Left-Wing Extremism (LWE):** Naxal-Maoist insurgency in Red Corridor states \u2014 Chhattisgarh, Jharkhand (Dantewada encounters, recent neutralization of top Maoist leaders).\n\n**Ethno-Nationalist Insurgency:** Northeast India \u2014 ULFA, NSCN groups, though significantly reduced after peace accords.\n\n**Lone-Wolf/Radicalization:** ISIS-inspired modules busted in Kerala, Karnataka; online radicalization remains a concern.\n\n**Urban Terrorism:** 26/11 Mumbai attacks legacy; NIA busting terror modules periodically.\n\n## Counter-Measures\n\n- **Legislative:** UAPA (amended 2019), NIA Act, AFSPA in disturbed areas\n- **Institutional:** NIA, NATGRID, MAC (Multi-Agency Centre), NSG hubs\n- **Operational:** Surgical strikes (2016), Balakot airstrikes (2019)\n- **Technological:** CCTNS, social media monitoring, AI-based surveillance\n- **International Cooperation:** FATF pressure on Pakistan, bilateral counter-terrorism agreements\n- **Developmental:** SAMADHAN doctrine for LWE, Aspirational Districts Programme\n\nA comprehensive whole-of-government approach combining kinetic and non-kinetic measures remains essential.",
+      "word_count": 153,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q10",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 10,
+      "question_text": "The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken to address this challenge?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Left Wing Extremism (LWE) in India\n\n## Understanding LWE\nLeft Wing Extremism refers to violence perpetrated by groups ideologically motivated by Marxist-Leninist-Maoist philosophy, seeking to overthrow the democratic state through armed struggle. The CPI(Maoist) is the most significant group, operating across the **Red Corridor** spanning states like Chhattisgarh, Jharkhand, Odisha, Maharashtra, and Andhra Pradesh.\n\n## Impact on People\n- Loss of lives of civilians and security forces\n- Destruction of infrastructure (schools, roads, telecom towers)\n- Displacement and forced recruitment of tribals\n- Hindrance to development, perpetuating poverty and exploitation\n- LWE-affected districts remain among India's most underdeveloped\n\n## Government Measures\n- **Security:** Operation SAMADHAN, deployment of CRPF/CoBRA battalions, strengthening state police\n- **Development:** Aspirational Districts Programme, road connectivity under PMGSY, mobile towers under LWE Mobile Tower Project\n- **Rights-based:** Forest Rights Act implementation, MGNREGA expansion\n- **Surrender/Rehabilitation:** Attractive surrender policies by states\n- **Result:** LWE-affected districts reduced from **126 to 38**\n\nThe integrated approach combining security operations with development holds promise for achieving the 2026 target.",
+      "word_count": 168,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q11",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 11,
+      "question_text": "Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Fiscal Health Index (FHI) as a Tool for Assessing State Fiscal Performance\n\n## Introduction\n\nThe Fiscal Health Index (FHI), conceptualized by NITI Aayog and similar bodies, is a composite indicator that ranks states based on multiple fiscal parameters, promoting competitive federalism and fiscal discipline among Indian states.\n\n## Components of FHI\n\nThe FHI typically assesses states on key parameters:\n\n- **Quality of Expenditure:** Capital expenditure as proportion of total expenditure, developmental vs. non-developmental spending\n- **Revenue Mobilization:** Own tax and non-tax revenue efforts relative to GSDP\n- **Fiscal Prudence:** Fiscal deficit, revenue deficit, and primary deficit as percentage of GSDP\n- **Debt Sustainability:** Debt-to-GSDP ratio, interest payments-to-revenue receipts ratio\n- **Budget Credibility:** Deviation between budgeted and actual figures\n\n## How FHI Assesses Fiscal Performance\n\n- Provides **standardized benchmarking** across states with diverse economic profiles\n- Enables **temporal comparison** to track improvement or deterioration over time\n- Identifies **specific weaknesses** \u2014 whether in revenue generation, expenditure quality, or debt management\n- Facilitates **evidence-based policy dialogue** between Centre and states\n\n## Encouraging Prudent Fiscal Policies\n\n- **Competitive Federalism:** Public ranking incentivizes states to improve fiscal indicators, similar to Ease of Doing Business rankings\n- **Incentive Linkage:** Finance Commission and central transfers can be linked to FHI performance, as recommended by 15th Finance Commission\n- **Transparency & Accountability:** Promotes fiscal transparency, reducing off-budget borrowings (as seen in states like Punjab, Kerala)\n- **FRBM Compliance:** Reinforces adherence to Fiscal Responsibility and Budget Management Act targets\n- **Investor Confidence:** Better FHI scores attract private investment, creating positive feedback loops\n\n## Conclusion\n\nFHI serves as a powerful governance tool that complements FRBM frameworks, fostering fiscal discipline while respecting federal autonomy \u2014 essential for India's sustainable economic growth trajectory.",
+      "word_count": 283,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q12",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 12,
+      "question_text": "Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Production Linked Incentive (PLI) Scheme: Rationale, Achievements & Way Forward\n\n## Rationale\n\nThe PLI scheme, launched in **March 2020** across **14 key sectors** with an outlay of **\u20b91.97 lakh crore** over 5 years, is grounded in the following objectives:\n\n- **Atmanirbhar Bharat vision**: Reducing import dependence, particularly in critical sectors like electronics, pharmaceuticals, and telecom\n- **Enhancing manufacturing competitiveness**: Addressing India's cost disabilities (land, logistics, power) vis-\u00e0-vis competitors like China, Vietnam, and Bangladesh\n- **GVC integration**: Attracting anchor investors to build domestic supply chains and integrate with Global Value Chains\n- **Employment generation**: Creating large-scale jobs in labour-intensive and high-tech manufacturing\n- **Export promotion**: Boosting India's share in global manufacturing from ~3% to targeted higher levels\n\n## Key Achievements\n\n- **Investment attracted**: Over \u20b91.07 lakh crore in actual investment (as of 2024)\n- **Production/sales**: Over \u20b98.61 lakh crore reported under PLI beneficiaries\n- **Mobile manufacturing**: India became the **2nd largest mobile phone manufacturer** globally; Apple suppliers (Foxconn, Pegatron) expanded operations\n- **Employment**: Over **6.78 lakh jobs** generated directly\n- **Sectoral success**: Significant traction in large-scale electronics, pharma (bulk drugs), food processing, and white goods\n\n## Suggestions for Improvement\n\n1. **MSMEs inclusion**: Current design favours large firms; dedicated windows for smaller enterprises needed\n2. **Outcome-based monitoring**: Shift from investment-linked to value-addition and R&D-linked metrics\n3. **Ecosystem approach**: Complement PLI with infrastructure development (PM GatiShakti), skilling (NSDC), and logistics reforms\n4. **Sunset clause clarity**: Ensure firms don't relocate post-incentive period\n5. **Sectoral recalibration**: Redirect resources from underperforming sectors (specialty steel, textiles) to emerging areas like **semiconductors and green hydrogen**\n6. **Quality benchmarks**: Link incentives to global quality and sustainability standards\n\n## Conclusion\n\nPLI represents a paradigm shift from **entitlement-based** to **performance-based** industrial policy. With course corrections, it can make India a credible alternative in the **China+1 strategy** adopted globally.",
+      "word_count": 298,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    }
+  ],
+  "count": 20
+}

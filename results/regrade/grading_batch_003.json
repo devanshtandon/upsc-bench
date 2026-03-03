@@ -1,0 +1,127 @@
+[
+  {
+    "question_id": "mains_essay_2025_q3",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a philosophically sophisticated essay that treats thought as both 'lens and lever,' weaving together cognitive psychology, sociology, political history, technology, and individual agency. The essay moves fluently from Emerson's aphorism through theory-laden perception, caste as naturalised ideology, digital public infrastructure (UPI/Aadhaar), the Green Revolution's dual legacy, self-fulfilling prophecies, COVID-19 lessons, dystopian ideologies, and ISRO, before concluding with thought's ethical responsibilities.",
+        "analysis": "This is the strongest essay in the batch. Its primary distinction is analytical depth: rather than merely listing examples, it interrogates the mechanism by which thought finds and creates. The treatment of perception as 'theory-laden' (framing effects, behavioural economics) is genuinely insightful and goes beyond the standard UPSC essay approach. The essay also excels at showing limits and contradictions — the Green Revolution's ecological costs, COVID-19's exposure of thought without material capacity, and the warning that social structures constrain which thoughts are 'available' to individuals. The use of untouchability as something simultaneously 'found' and 'created' is a sophisticated application of the essay theme. Indian examples are well-integrated (not tokenistic): UPI, satyagraha, Constitution, ISRO, girls' education, caste. The essay does exceed the 1200-word limit at 1552 words, which is a presentation penalty. The self-fulfilling prophecy discussion (Merton) and the mental health framing are original touches not seen in other candidates. The main weakness is moderate repetition in the concluding paragraphs and slightly excessive length, but the quality of argumentation is consistently high throughout.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 27.0,
+            "justification": "Exceptional range covering cognitive psychology, behavioural economics, sociology (caste, gender), political history (swaraj, Constitution), technology (UPI, ISRO), economics (Green Revolution, self-fulfilling prophecy), public health (COVID-19, mental health), dystopias (Holocaust, echo chambers), and individual agency (girls' education) — all factually accurate and relevant, though the sheer breadth is partly enabled by exceeding word limits."
+          },
+          "structure_flow": {
+            "score": 18.5,
+            "justification": "Clear thesis statement ('lens and lever'), logical progression from finding (perception, society) to creating (technology, politics, economics) to limits and responsibilities, with a well-crafted conclusion — strong coherence, though some repetition in later paragraphs suggests the argument could be tighter."
+          },
+          "depth_examples": {
+            "score": 19.0,
+            "justification": "Examples are not merely cited but analysed: the framing effect (90/100 lives vs. 10 die), UPI transaction volumes, untouchability as a 'total social system,' Green Revolution's ecological costs in Punjab/Haryana, and Merton's self-fulfilling prophecy in mental health — each example advances the argument rather than decorating it."
+          },
+          "analytical_depth": {
+            "score": 19.0,
+            "justification": "Consistently interrogates mechanisms rather than surface descriptions: perception as theory-laden, naturalisation of ideology through belief and practice, thought's material constraints (COVID-19), structural limits on available thoughts for individuals — demonstrates genuine philosophical engagement, though some later paragraphs reiterate rather than deepen."
+          },
+          "presentation": {
+            "score": 6.5,
+            "justification": "Excellent prose quality with varied sentence structure and precise vocabulary; however, severely exceeds the 1200-word limit by 352 words (1552 total, ~30% over), which is a major violation that would attract significant penalty in actual UPSC evaluation where time and space constraints are integral to the test."
+          }
+        },
+        "total_score": 90.0,
+        "max_marks": 125,
+        "brief_feedback": "The strongest essay in this batch, distinguished by genuine analytical depth — it interrogates mechanisms rather than listing examples. The treatment of perception as theory-laden, the Green Revolution's dual legacy, and the insight that social structures constrain available thoughts are marks of sophisticated reasoning. However, exceeding the word limit by ~30% (1552 vs. 1200 words) is a serious presentational weakness that significantly impacts the score. In UPSC Mains, time and space discipline are integral to the test; a tighter edit preserving the best 1200 words would have scored higher."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B writes a competent, well-structured essay that traces thought's dual role through scientific discovery, political theory, social constructs, technology, and the feedback loop between finding and creating. The essay covers standard examples (Newton, Darwin, the Indian Constitution, democracy, DNA/CRISPR) and addresses the dark side of thought through ideologies of racial supremacy, patriarchy, and digital misinformation.",
+        "analysis": "This essay is adequate and demonstrates solid comprehension of the topic, but it operates largely at a descriptive level without achieving genuine analytical depth. The examples are well-chosen but conventionally treated — Newton observing an apple, Darwin observing finches, the Wright brothers, Steve Jobs — these are the stock examples that appear in many essays on this topic and are recounted rather than interrogated. The essay's structure is clear but somewhat predictable: finding (science) → creating (inventions, governance) → social constructs (language, religion) → feedback loop → dark side → digital era → conclusion. The treatment of religion and myth as 'thought constructs' (karma, Four Noble Truths) is a reasonable point but handled superficially. The India-specific content is limited primarily to the Constitution reference and a passing mention of the 'Indian Constitution' without substantial engagement with Indian thinkers, movements, or policies. The feedback loop paragraph (DNA → CRISPR, telescopes → celestial bodies) is a structural strength but the analysis remains at the level of sequential narration rather than causal interrogation. The essay stays within word limits and is well-written but reads more like a textbook survey than an argument. The opening paragraph is excessively long and somewhat overwrought in its definitional approach.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 23.0,
+            "justification": "Covers science (Newton, Darwin, DNA), technology (wheel, internet, personal computers, CRISPR), political philosophy (democracy, Locke, Rousseau), social constructs (language, religion, ideology), and contemporary issues (AI, misinformation) — reasonably broad but with limited India-specific content beyond the Constitution."
+          },
+          "structure_flow": {
+            "score": 16.0,
+            "justification": "Clear progression from finding to creating to feedback loop to dark side, but the structure is somewhat formulaic; the opening paragraph is overlong and definitional, and the conclusion, while adequate, does not offer a distinctive final insight."
+          },
+          "depth_examples": {
+            "score": 14.5,
+            "justification": "Examples are numerous but treated at surface level — Newton's apple, Darwin's finches, Wright brothers, Steve Jobs are mentioned but not analysed in depth; the DNA → CRISPR chain is stated rather than explored; the essay lacks the specific data, case studies, or contextual detail that would elevate it."
+          },
+          "analytical_depth": {
+            "score": 14.0,
+            "justification": "The essay describes the dual nature of thought but rarely interrogates why or how — the feedback loop concept is the closest it gets to analytical engagement, but even this is narrated rather than examined; the treatment of dark consequences (racial supremacy, patriarchy) is noted but not deeply explored."
+          },
+          "presentation": {
+            "score": 9.0,
+            "justification": "Well-written with generally good prose quality and within word limits (1312 words, only slightly over); language is fluent though occasionally verbose, particularly in the opening paragraph."
+          }
+        },
+        "total_score": 76.5,
+        "max_marks": 125,
+        "brief_feedback": "A competent, well-organised essay that demonstrates clear understanding of the topic and covers adequate ground. However, it remains largely descriptive and does not achieve the analytical depth that distinguishes a strong UPSC essay. Examples are standard fare (Newton, Darwin, Wright brothers) and are recounted rather than interrogated for deeper insight. Greater engagement with Indian context, specific data, and causal analysis would significantly strengthen this response."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C opens with Descartes' cogito and uses the mirror-and-lamp metaphor to frame thought's dual role, drawing on scientific discovery (Newton, Darwin, Aryabhata), political creation (Indian Constitution), art and philosophy (Tagore, Vedanta, Stoicism), the DNA-to-CRISPR feedback loop, and the dark side of prejudiced thought (Holocaust, apartheid, ecological crisis, deepfakes). The essay concludes with a call for wisdom (Prajna) and compassion (Karuna).",
+        "analysis": "This is a well-rounded essay that balances breadth and readability effectively. Its strongest feature is the integration of Indian intellectual tradition — Aryabhata, Tagore's Gitanjali, Advaita Vedanta, the Indian Constitution with its 'sovereign, socialist, secular, democratic republic' formulation, and the closing reference to Prajna and Karuna. The Harari reference ('Sapiens' and shared fictions) is a contemporary touch that works well for the 'creating' dimension. The mirror-and-lamp metaphor provides effective structural coherence. However, the essay has notable weaknesses. The analytical depth is moderate: it correctly identifies the finding-creating duality but does not push much beyond standard formulations. The treatment of the dark side (Holocaust, apartheid, ecological crisis) is listed rather than analysed — these are mentioned in a single paragraph without sustained engagement. The Descartes opening, while serviceable, is somewhat clichéd for a UPSC essay. The feedback loop paragraph (DNA → CRISPR, IPCC → renewable energy) is a structural strength but mirrors Candidate B's approach. The essay is within word limits at 1158 words. The Buddha quote at the end ('What we think, we become') is effective but the concluding paragraph tries to do too much. Overall, a solid performance that would score well in UPSC but lacks the distinctive analytical voice that separates top-tier essays.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 25.0,
+            "justification": "Good range spanning science (Newton, Darwin, Aryabhata, James Webb Telescope), philosophy (Descartes, Vedanta, Stoicism, Buddhism), political creation (Indian Constitution), art (Tagore, Shakespeare), technology (CRISPR, AI, deepfakes), environment (climate crisis, ISA), and social critique (Holocaust, apartheid, patriarchy) — with notably stronger Indian intellectual content than Candidate B."
+          },
+          "structure_flow": {
+            "score": 17.0,
+            "justification": "The mirror-and-lamp metaphor provides effective coherence; the progression from finding (science) to creating (institutions, art) to feedback loop to dark side to responsibility is logical and well-signposted, though the conclusion tries to cover too many ideas."
+          },
+          "depth_examples": {
+            "score": 16.0,
+            "justification": "Examples are well-chosen and more distinctive than Candidate B's (Aryabhata, Tagore's Gitanjali, Harari's shared fictions, International Solar Alliance), but they are still treated primarily through description rather than sustained analysis — the DNA-to-CRISPR chain and IPCC-to-renewables link are stated more than explored."
+          },
+          "analytical_depth": {
+            "score": 15.5,
+            "justification": "The essay correctly identifies the feedback loop between finding and creating and the ethical double-edgedness of thought, but does not interrogate mechanisms deeply — the Harari reference to 'shared fictions' is the closest it gets to a genuinely analytical move, and the dark-side treatment is more catalogued than dissected."
+          },
+          "presentation": {
+            "score": 10.0,
+            "justification": "Well within word limits at 1158 words; clean, fluent prose with effective use of quotations (Descartes, Buddha); the mirror-and-lamp framing device aids readability; language is confident without being overwrought."
+          }
+        },
+        "total_score": 83.5,
+        "max_marks": 125,
+        "brief_feedback": "A well-crafted essay with strong integration of Indian intellectual traditions (Aryabhata, Tagore, Vedanta, Prajna/Karuna) and good contemporary references (Harari, CRISPR, ISA). The mirror-and-lamp metaphor provides effective structural coherence. Falls short of the top tier because analytical depth remains moderate — the essay correctly identifies the duality and its consequences but does not interrogate mechanisms with the sustained rigour of Candidate A. Presentation is the strongest among all candidates, with clean prose and disciplined word count."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D writes an ambitious, India-centric essay that moves from Upanishadic philosophy through Aryabhata, Darwin, Ramanujan, the Indian Constitution and Ambedkar, Gandhi's satyagraha, Tagore's Shantiniketan, Aadhaar, the Green Revolution (Swaminathan/Borlaug), ISRO's Mangalyaan, nuclear weapons, AI, and NEP 2020. The essay explicitly structures itself around the finding-creating duality with substantial Indian historical and contemporary content.",
+        "analysis": "This essay's greatest strength is its rich engagement with Indian intellectual, political, and technological history. The range of Indian examples is the most extensive in the batch: Upanishadic philosophy (Tat Tvam Asi), Aryabhata, Ramanujan, Ambedkar and the Constituent Assembly, Gandhi's satyagraha (with its South African origins noted), Tagore's Shantiniketan as alternative education, M.S. Swaminathan, ISRO's Mangalyaan (with the cost comparison to the film 'Gravity'), Aadhaar's scale, and NEP 2020. This India-centricity is a significant advantage in UPSC evaluation. The essay also handles the interplay paragraph well — the ISRO/Mangalyaan example of finding orbital mechanics to create affordable space exploration is an effective illustration. However, the essay has weaknesses. It is somewhat list-heavy: paragraphs sometimes read as catalogues of achievements rather than sustained arguments. The 'finding' section (Upanishads, Aryabhata, Darwin, Ramanujan, DNA, LIGO, black holes) covers many examples quickly without deep engagement with any single one. The Markdown header at the top is inappropriate for an essay format. The essay does not engage as deeply with the limits of thought or the epistemological questions (how does thought shape perception?) as Candidate A does. The Vivekananda quote near the end is effective but the NEP 2020 reference feels somewhat tacked on. The cautionary section (nuclear weapons, climate change, AI) is brief relative to the essay's length. At 1295 words, it is moderately over the word limit. Overall, a strong essay with excellent Indian content but somewhat more descriptive than analytical.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 27.0,
+            "justification": "The broadest India-specific coverage in the batch: Upanishadic philosophy, Aryabhata, Ramanujan, Ambedkar, Gandhi (with South Africa context), Tagore's Shantiniketan, M.S. Swaminathan, ISRO Mangalyaan, Aadhaar, NEP 2020, plus international examples (Darwin, Newton, Galileo, DNA, nuclear physics, AI) — factually accurate throughout with specific details like PL-480 food aid and Mangalyaan cost comparison."
+          },
+          "structure_flow": {
+            "score": 17.5,
+            "justification": "Well-organised with clear finding and creating sections, a dedicated interplay paragraph, a cautionary dimension, and philosophical implications — the progression is logical and the conclusion effectively returns to the core thesis; slightly weakened by the Markdown header (inappropriate for essay format) and occasional list-like passages."
+          },
+          "depth_examples": {
+            "score": 18.5,
+            "justification": "Strong specific examples with contextual detail: Mangalyaan's cost vs. the film 'Gravity,' India's transformation from PL-480 dependence to food producer, Aadhaar covering 1.3 billion with direct benefit transfers, Gandhi's satyagraha originating in South Africa — these details elevate beyond mere mention, though some examples (Ramanujan, LIGO) are cited without sustained analysis."
+          },
+          "analytical_depth": {
+            "score": 16.5,
+            "justification": "The interplay section (finding orbital mechanics → creating affordable space exploration) and the Constitution as 'creative thought' in a fractured society are analytically strong; however, the essay is more descriptive than interrogative overall — it catalogues thought's achievements and dangers without probing mechanisms as deeply as Candidate A."
+          },
+          "presentation": {
+            "score": 9.0,
+            "justification": "Generally well-written with fluent prose and effective use of quotations (Tat Tvam Asi, Vivekananda); moderately over word limit at 1295 words; the Markdown header ('# Thought Finds a World...') is an inappropriate format choice for an essay that detracts from presentation."
+          }
+        },
+        "total_score": 88.5,
+        "max_marks": 125,
+        "brief_feedback": "A strong essay distinguished by the richest India-centric content in the batch — Upanishadic philosophy, Ramanujan, Ambedkar, Gandhi's satyagraha, Tagore's Shantiniketan, Swaminathan's Green Revolution, ISRO Mangalyaan, and Aadhaar are all deployed with specific contextual detail. This would resonate well with UPSC examiners who value rooted Indian examples. The main limitation is a tendency toward descriptive cataloguing rather than sustained analytical interrogation — the essay tells us what thought found and created but probes less deeply into how and why. The Markdown header is an inappropriate formatting choice for essay writing."
+      }
+    ]
+  }
+]

@@ -1,0 +1,352 @@
+{
+  "batch_id": "batch_004",
+  "rubric": {
+    "gs": {
+      "content_accuracy": {
+        "weight": 40,
+        "description": "Facts correct, relevant points covered, no factual errors"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Logical organization, intro/body/conclusion, coherent argument"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific examples, data, case studies, constitutional references"
+      },
+      "analytical_depth": {
+        "weight": 10,
+        "description": "Critical analysis, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, clarity, conciseness, language quality"
+      }
+    },
+    "essay": {
+      "content_breadth": {
+        "weight": 30,
+        "description": "Comprehensive coverage, factual accuracy, relevant examples"
+      },
+      "structure_flow": {
+        "weight": 20,
+        "description": "Clear thesis, logical progression, compelling intro/conclusion"
+      },
+      "depth_examples": {
+        "weight": 20,
+        "description": "Specific case studies, data, international comparisons"
+      },
+      "analytical_depth": {
+        "weight": 20,
+        "description": "Original thinking, multiple perspectives, nuanced argument"
+      },
+      "presentation": {
+        "weight": 10,
+        "description": "Word limit adherence, language quality, readability"
+      }
+    }
+  },
+  "answers": [
+    {
+      "question_id": "mains_gs3_2025_q13",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 13,
+      "question_text": "Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Depleting Groundwater in India: Factors and Government Response\n\n## Introduction\nIndia is the largest consumer of groundwater globally, extracting over **250 billion cubic meters** annually, accounting for about **25%** of global groundwater withdrawal. The Central Ground Water Board (CGWB) has identified **1,186 blocks** as over-exploited, signaling a critical crisis.\n\n## Factors Responsible for Groundwater Depletion\n\n**Agricultural Factors:**\n- **Green Revolution legacy** \u2014 intensive irrigation through tubewells, especially in Punjab, Haryana, and Rajasthan\n- Cultivation of water-intensive crops (paddy, sugarcane) in water-scarce regions\n- **Free/subsidized electricity** for agriculture encouraging indiscriminate pumping\n- Flood irrigation practices with poor water-use efficiency\n\n**Urbanization and Industrial Factors:**\n- Rapid urban expansion increasing domestic and industrial demand\n- Unregulated borewell drilling in peri-urban areas\n- Industrial extraction without adequate recharge mechanisms\n\n**Environmental and Climatic Factors:**\n- Declining rainfall recharge due to **concretization** reducing permeable surfaces\n- Erratic monsoons and climate change altering precipitation patterns\n- Deforestation reducing natural infiltration capacity\n\n**Governance Gaps:**\n- Absence of effective groundwater regulation; extraction treated as a **riparian right** linked to land ownership\n- Poor implementation of existing water laws\n\n## Government Mitigation Steps\n\n1. **Atal Bhujal Yojana (2019):** \u20b96,000 crore World Bank-aided scheme promoting community-led groundwater management in 7 states\n2. **Jal Shakti Abhiyan** \u2014 focused on water conservation, rainwater harvesting, and aquifer recharge\n3. **National Aquifer Mapping (NAQUIM)** by CGWB for scientific groundwater management\n4. **MGNREGA** convergence for water conservation structures\n5. **Model Groundwater Bill** circulated to states for regulatory framework\n6. **Micro-irrigation Fund (\u20b95,000 crore)** under NABARD promoting drip/sprinkler irrigation\n7. **Per Drop More Crop** component under PMKSY\n\n## Conclusion\nA paradigm shift from supply-side to **demand-side management**, community participation, and pricing reforms is essential for sustainable groundwater governance.",
+      "word_count": 282,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q14",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 14,
+      "question_text": "Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Food Processing Industries in India: Scope and Government Measures\n\n## Scope of Food Processing Industries\n\nIndia, being the world's second-largest food producer, possesses immense potential in food processing. The sector currently processes only about **10% of total food production**, indicating vast untapped potential compared to 65-70% in developed nations.\n\n**Key dimensions of scope:**\n\n- **Agricultural base:** India is the largest producer of milk, pulses, and spices, and second-largest in fruits, vegetables, and cereals\n- **Market size:** The food processing sector is valued at approximately **$535 billion** and is expected to reach $1 trillion by 2025-26\n- **Export potential:** India's food exports have been growing steadily, with processed food exports crossing \u20b940,000 crore annually\n- **Reducing post-harvest losses:** Currently estimated at \u20b990,000 crore annually, processing can significantly minimize wastage\n- **Value addition:** Converting raw agricultural produce into processed goods enhances farmer income by 2-3 times\n\n## Government Measures for Employment Generation\n\n**1. Pradhan Mantri Kisan SAMPADA Yojana (2016):** Umbrella scheme with \u20b96,000 crore allocation covering Mega Food Parks, Cold Chain infrastructure, and Agro-processing clusters \u2014 targeting creation of **5.5 lakh direct/indirect employment**\n\n**2. Mega Food Parks Scheme:** 42 Mega Food Parks sanctioned to create modern food processing infrastructure with farm-to-fork approach\n\n**3. Production Linked Incentive (PLI) Scheme:** \u20b910,900 crore allocated for food processing sector to boost manufacturing and employment\n\n**4. PM Formalisation of Micro Food Processing Enterprises (PM-FME):** \u20b910,000 crore scheme supporting 2 lakh micro enterprises with credit, training, and branding support\n\n**5. 100% FDI** permitted under automatic route, attracting global investment\n\n**6. Operation Greens:** Extended to all perishables (TOP to TOTAL) during COVID-19\n\nThese integrated measures aim to make India a global food processing hub while generating substantial rural and semi-urban employment.",
+      "word_count": 283,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q15",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 15,
+      "question_text": "How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Nanotechnology in Agriculture: Advancements and Socio-Economic Impact\n\n## Introduction\nNanotechnology, involving manipulation of matter at 1-100 nanometer scale, offers transformative potential in agriculture by enhancing productivity, resource efficiency, and sustainability, directly impacting farmer welfare.\n\n## Key Agricultural Advancements\n\n**1. Nano-fertilizers and Nutrient Management**\n- Nano-encapsulated fertilizers (nano-urea by IFFCO) ensure slow, targeted nutrient release, improving nutrient use efficiency by 20-30%\n- Reduces fertilizer wastage and environmental pollution\n- Nano-zinc, nano-copper formulations address micronutrient deficiencies\n\n**2. Nano-pesticides and Crop Protection**\n- Nano-encapsulated pesticides reduce dosage requirements by up to 50%\n- Targeted delivery minimizes environmental contamination\n- Nano-silver and nano-copper act as effective antimicrobial agents\n\n**3. Precision Agriculture and Nano-sensors**\n- Nano-biosensors detect soil moisture, pH, nutrient levels in real-time\n- Early detection of plant diseases and pest infestations\n- Smart dust technology for monitoring crop health remotely\n\n**4. Seed Technology and Water Management**\n- Nano-coating of seeds enhances germination rates and disease resistance\n- Nano-membranes for water purification and efficient irrigation\n- Carbon nanotubes improve water retention in arid soils\n\n**5. Post-Harvest Management**\n- Nano-packaging extends shelf life, reducing post-harvest losses (currently ~25-30% in India)\n- Nano-coatings on fruits and vegetables prevent microbial contamination\n\n## Socio-Economic Upliftment of Farmers\n- **Reduced input costs** through lower fertilizer and pesticide usage\n- **Higher yields** and improved crop quality fetch better market prices\n- **Reduced crop losses** from pests and post-harvest wastage\n- **Sustainable farming** ensures long-term soil health and income security\n- **IFFCO's Nano Urea** (launched 2021) costs \u20b9240/bottle, replacing a \u20b91,200 urea bag\n\n## Conclusion\nWith supportive policies under **National Nano Mission** and adequate farmer training, nanotechnology can revolutionize Indian agriculture, ensuring food security and farmer prosperity simultaneously.",
+      "word_count": 278,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q16",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 16,
+      "question_text": "India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Semiconductor Manufacturing in India: Challenges and India Semiconductor Mission\n\n## Introduction\n\nSemiconductors are the backbone of modern electronics, critical for national security, economic growth, and technological sovereignty. India currently imports nearly all its semiconductor requirements, making self-reliance in this sector a strategic imperative.\n\n## Challenges Faced by the Semiconductor Industry in India\n\n**Infrastructure and Capital Intensive:**\n- Setting up a semiconductor fab requires **$3-7 billion** investment with long gestation periods\n- Requires ultra-pure water, uninterrupted power supply, and specialized infrastructure\n\n**Technology and IP Barriers:**\n- Advanced fabrication technology (sub-7nm nodes) is controlled by few global players (TSMC, Samsung, Intel)\n- Limited indigenous R&D ecosystem and intellectual property\n\n**Talent Gap:**\n- Shortage of skilled workforce in chip design, fabrication, and packaging\n- Brain drain of trained professionals to global semiconductor hubs\n\n**Supply Chain Dependencies:**\n- Critical raw materials (silicon wafers, specialty chemicals, gases) are import-dependent\n- Lack of ancillary ecosystem of equipment manufacturers\n\n**Global Competition:**\n- Countries like USA (CHIPS Act), EU, Japan, and South Korea offer massive subsidies\n- Late-mover disadvantage for India\n\n## India Semiconductor Mission (ISM)\n\nLaunched in **December 2021** with an outlay of **\u20b976,000 crore ($10 billion)**, its salient features include:\n\n- **Fiscal support of up to 50%** of project cost for setting up semiconductor fabs\n- **50% fiscal support** for display fabs\n- **Design Linked Incentive (DLI) Scheme** supporting 100 domestic semiconductor design companies\n- **SPECS Scheme** for compound semiconductors, packaging, and ATMP facilities\n- Establishment of **India Semiconductor Research Centre (ISRC)**\n- Partnerships with global players \u2014 **Micron Technology's** ATMP unit in Gujarat, **Tata Electronics** fab in Dholera\n\n## Conclusion\n\nWith strategic policy support, talent development, and global partnerships, India can position itself as a key node in the global semiconductor value chain, enhancing its **Atmanirbhar Bharat** vision.",
+      "word_count": 294,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q17",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 17,
+      "question_text": "Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Mining as an Environmental Hazard and Remedial Measures\n\n## Introduction\nIndia is endowed with rich mineral resources \u2014 coal, iron ore, bauxite, limestone, etc. \u2014 which form the backbone of industrial development. However, mining operations cause significant environmental degradation, making it a serious environmental hazard.\n\n## Why Mining is an Environmental Hazard\n\n**Land Degradation & Deforestation:**\n- Mining requires clearing of forests and topsoil, leading to loss of biodiversity and habitat destruction. India has over **3.26 lakh hectares** of land degraded by mining activities.\n\n**Air Pollution:**\n- Drilling, blasting, and transportation release particulate matter, SO\u2082, NO\u2093, and coal dust, causing respiratory diseases among workers and nearby communities (e.g., silicosis in Rajasthan's sandstone mines).\n\n**Water Pollution:**\n- Acid mine drainage contaminates surface and groundwater with heavy metals and toxic chemicals. Mining in Meghalaya's Jaintia Hills has severely polluted rivers.\n\n**Soil Erosion & Land Subsidence:**\n- Removal of vegetation and overburden leads to soil erosion; underground mining causes land subsidence (e.g., Jharia coalfields, Jharkhand).\n\n**Displacement & Social Impact:**\n- Mining displaces communities, particularly tribal populations, affecting livelihoods and cultural heritage.\n\n**Waste Generation:**\n- Overburden dumps and tailings ponds pose risks of dam failures (e.g., fly ash pond breaches).\n\n## Remedial Measures\n\n1. **Reclamation & Rehabilitation:** Mandatory mine closure plans with land restoration, afforestation, and topsoil replacement.\n2. **Sustainable Mining Practices:** Adoption of clean technologies, controlled blasting, and dust suppression systems.\n3. **Regulatory Framework:** Strict enforcement of **Environment Protection Act, 1986**, **MMDR Act**, and mandatory **Environmental Impact Assessment (EIA)**.\n4. **Effluent Treatment:** Installation of water treatment plants to prevent acid mine drainage.\n5. **District Mineral Foundation (DMF):** Under MMDR Amendment Act, 2015, for welfare of mining-affected communities.\n6. **Green Mining Concept:** Use of backfilling, phytoremediation, and circular economy principles for waste utilization.\n7. **Continuous Monitoring:** Real-time air and water quality monitoring using IoT-based systems.\n\n## Conclusion\nBalancing mineral exploitation with environmental sustainability requires a paradigm shift towards **responsible mining**, integrating the **Sustainable Development Framework** recommended by NITI Aayog for India's mining sector.",
+      "word_count": 330,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q18",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 18,
+      "question_text": "Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022?",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# India's Climate Commitments: Paris Agreement to COP26 and Updated NDCs\n\n## India's Paris Agreement Commitments (2015)\n\nIndia submitted its **Intended Nationally Determined Contributions (INDCs)** with three key targets for 2030:\n\n1. **Emissions Intensity Reduction**: 33-35% reduction in GDP emissions intensity from 2005 levels\n2. **Non-Fossil Fuel Capacity**: 40% cumulative electric power installed capacity from non-fossil fuel sources\n3. **Carbon Sink**: Additional carbon sink of 2.5-3 billion tonnes of CO\u2082 equivalent through additional forest and tree cover\n\nIndia also outlined adaptation strategies covering agriculture, water resources, Himalayan ecosystems, and coastal regions, emphasizing **climate justice** and the principle of **Common but Differentiated Responsibilities (CBDR)**.\n\n## Strengthened Commitments at COP26 Glasgow (2021)\n\nPrime Minister Modi announced the **\"Panchamrit\" (five nectar elements)**:\n\n1. **500 GW** non-fossil fuel energy capacity by 2030\n2. **50%** energy from renewable sources by 2030\n3. Reduce total projected carbon emissions by **one billion tonnes** by 2030\n4. Reduce carbon intensity of the economy by **45%** by 2030\n5. Achieve **Net-Zero emissions by 2070**\n\nIndia also joined the **Global Methane Pledge** discussions and co-launched the **Green Grids Initiative \u2013 One Sun One World One Grid (OSOWOG)**.\n\n## Updated NDC (August 2022)\n\nIndia formally updated its NDC to the UNFCCC, incorporating two key enhanced targets:\n\n- **Emissions intensity reduction** raised from 33-35% to **45%** by 2030 (over 2005 levels)\n- **Non-fossil fuel installed capacity** target enhanced from 40% to **50%** by 2030\n\nThis update aligns with India's **LiFE (Lifestyle for Environment)** mission, promoting sustainable consumption patterns. Programs like **National Green Hydrogen Mission**, **PM-KUSUM**, and **Sovereign Green Bonds** support these enhanced commitments.",
+      "word_count": 261,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q19",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 19,
+      "question_text": "What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Internal Security Challenges and Peace Process in North-Eastern States\n\n## Major Challenges to Internal Security\n\n**Insurgency and Militancy:**\n- Multiple armed groups operate across the region \u2014 NSCN(IM), NSCN(K), ULFA(I), MNPF, PLA (Manipur), NLFT (Tripura)\n- Demands range from sovereignty, autonomy, to separate statehood\n- Inter-factional rivalries compound the security situation\n\n**Ethnic and Identity Conflicts:**\n- Inter-tribal clashes (e.g., Kuki-Meitei conflict in Manipur, 2023)\n- Naga-Kuki tensions over territorial claims\n- Indigenous vs. settler community friction\n\n**Porous International Borders:**\n- Myanmar, Bangladesh, Bhutan borders facilitate arms smuggling, drug trafficking, and cross-border insurgent sanctuaries\n- \"Golden Triangle\" proximity fuels narco-terrorism\n\n**Governance Deficits:**\n- Underdevelopment, poor connectivity, and unemployment fuel alienation\n- AFSPA remains contentious, creating trust deficit\n\n**Illegal Immigration:**\n- Demographic changes, particularly in Assam and Tripura, create social tensions\n\n## Peace Accords and Agreements (Past Decade)\n\n| Year | Accord | Details |\n|------|--------|---------|\n| 2015 | NSCN(IM) Framework Agreement | Historic accord with GoI for Naga peace |\n| 2019 | Bru-Reang Agreement | Permanent settlement of Bru refugees in Tripura |\n| 2020 | Bodo Accord | BTR agreement with NDFB factions; ended decades of Bodo insurgency |\n| 2021 | Karbi Anglong Agreement | Five insurgent groups surrendered; greater autonomy to KAAC |\n| 2022 | Assam-Meghalaya Border Agreement | Resolved 6 of 12 disputed areas |\n| 2023 | UNLF(Manipur) Tripartite Agreement | Signed Suspension of Operations |\n\n## Way Forward\n\nCombining **security measures** with **development initiatives** (Act East Policy, PM-DevINE), strengthening **border management**, and pursuing **inclusive dialogue** remain essential for lasting peace.",
+      "word_count": 258,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs3_2025_q20",
+      "year": 2025,
+      "paper": "mains_gs3",
+      "question_number": 20,
+      "question_text": "Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward.",
+      "word_limit": 250,
+      "max_marks": 15,
+      "question_type": "short_answer",
+      "section": null,
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Maritime Security: Vital for India's Sea Trade\n\n## Importance of Maritime Security\n\nIndia has a **7,516 km coastline** spanning 9 states and 4 Union Territories, with **1,382 islands** and an **Exclusive Economic Zone (EEZ) of 2.01 million sq km**. Approximately **95% of India's trade by volume** and **68% by value** is conducted through sea routes. Key Sea Lines of Communication (SLOCs) through the Strait of Malacca, Strait of Hormuz, and Bab-el-Mandeb are critical for energy imports and exports, making maritime security indispensable for economic prosperity.\n\n## Maritime and Coastal Security Challenges\n\n**Traditional Threats:**\n- **Terrorism:** The 26/11 Mumbai attacks exposed coastal vulnerabilities through sea-borne infiltration.\n- **Piracy:** Threats in the Gulf of Aden and Indian Ocean Region affect shipping costs and safety.\n- **Geopolitical rivalry:** China's String of Pearls strategy and increasing PLA Navy presence in the Indian Ocean.\n\n**Non-Traditional Threats:**\n- **Smuggling and drug trafficking** through maritime routes (e.g., heroin seizures off Gujarat coast).\n- **Illegal, Unreported, and Unregulated (IUU) fishing** depleting marine resources.\n- **Maritime boundary disputes** with neighbours.\n- **Gaps in surveillance** of vast coastline and island territories.\n\n## Way Forward\n\n- **Strengthening institutional framework:** Effective implementation of **Coastal Security Scheme** phases and empowering the **National Maritime Domain Awareness (NDMA) Centre**.\n- **Technology integration:** Deploying **Automatic Identification Systems (AIS)**, coastal radar chains, and satellite surveillance.\n- **Capacity building:** Enhancing Indian Navy, Coast Guard, and marine police capabilities.\n- **International cooperation:** Leveraging **IONS, IORA, Quad**, and **SAGAR (Security and Growth for All in the Region)** doctrine.\n- **Blue Economy focus:** Integrating maritime security with sustainable ocean resource management under **Deep Ocean Mission**.\n\nA comprehensive, multi-layered maritime security architecture is essential for India's aspirations as a **net security provider** in the Indian Ocean Region.",
+      "word_count": 286,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q1a",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 1,
+      "question_text": "In the present digital age, social media has revolutionised our way of communication and interaction. However, it has raised several ethical issues and challenges. Describe the key ethical dilemmas in this regard.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Ethical Dilemmas of Social Media in the Digital Age\n\n**Privacy and Data Exploitation:** Social media platforms collect vast personal data, often without informed consent, raising concerns about surveillance capitalism, data breaches, and commodification of user information.\n\n**Misinformation and Fake News:** Rapid dissemination of unverified content undermines democratic discourse, public health (as seen during COVID-19), and social harmony, creating a post-truth environment.\n\n**Freedom of Expression vs. Hate Speech:** Balancing free speech with preventing cyberbullying, trolling, and communal incitement presents a persistent ethical tension for platforms and regulators alike.\n\n**Digital Divide and Inequality:** Unequal access to technology deepens socio-economic disparities, marginalizing vulnerable sections from digital participation.\n\n**Algorithmic Bias and Echo Chambers:** Platform algorithms reinforce confirmation bias, polarize opinions, and manipulate user behaviour, threatening individual autonomy and rational deliberation.\n\n**Mental Health Concerns:** Addiction, anxiety, body-image issues, and social comparison, especially among youth, raise questions of corporate responsibility.\n\n**Accountability Deficit:** Anonymity enables irresponsible behaviour, while platforms evade liability, creating a governance vacuum demanding ethical frameworks balancing innovation with human dignity.",
+      "word_count": 167,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q1b",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 1,
+      "question_text": "\"Constitutional morality is not a natural sentiment but a product of civil education and adherence of the rule of law.\" Examine the significance of constitutional morality for public servants, highlighting the role in promoting good governance and ensuring accountability in public administration.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Constitutional Morality and Public Administration\n\n**Dr. B.R. Ambedkar** emphasized constitutional morality as adherence to constitutional values over personal beliefs, essential for democratic governance.\n\n## Significance for Public Servants\n\n**Upholding Rule of Law:** Constitutional morality requires public servants to act within legal frameworks, ensuring decisions are guided by constitutional principles\u2014equality, justice, liberty, and fraternity\u2014rather than personal prejudices or majoritarian pressures.\n\n**Promoting Good Governance:** It fosters transparency, impartiality, and inclusiveness. Officers internalize values like non-discrimination (Article 14-16), protecting vulnerable sections, and ensuring participatory governance, thereby strengthening institutional integrity.\n\n**Ensuring Accountability:** It mandates that power is exercised as a public trust. Constitutional morality checks arbitrary action, encourages adherence to procedures, and makes administrators answerable to citizens and institutions alike.\n\n**Role of Civil Education:** Since constitutional morality is not innate, training programmes, ethical codes, and institutional mechanisms (CAG, Lokpal) cultivate this sentiment among administrators.\n\n## Conclusion\n\nConstitutional morality transforms governance from mere rule-following to value-driven administration, making it the **conscience of public service** in a diverse democracy.",
+      "word_count": 164,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q2a",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 2,
+      "question_text": "Carl von Clausewitz once said, \"War is a diplomacy by other means.\" Critically analyse the above statement in the present context of contemporary geo-political conflict.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Critical Analysis of Clausewitz's Dictum in Contemporary Context\n\nClausewitz's statement that \"war is a continuation of politics/diplomacy by other means\" implies that military force serves as an instrument of political objectives when diplomatic channels fail.\n\n**Relevance Today:** The Russia-Ukraine conflict exemplifies this \u2014 Russia resorted to military action after perceived diplomatic failures regarding NATO expansion. Similarly, geopolitical tensions in the South China Sea reflect power projection as diplomatic leverage.\n\n**Critical Limitations in Present Context:**\n- **Nuclear deterrence** has made total war between major powers potentially civilisation-ending, rendering war an irrational diplomatic tool.\n- **Economic interdependence** means war imposes mutual destruction \u2014 sanctions, trade wars, and cyber warfare have emerged as \"other means\" replacing conventional warfare.\n- **Hybrid warfare** \u2014 disinformation, proxy conflicts, and economic coercion \u2014 has blurred the Clausewitzian distinction between war and diplomacy.\n- **International humanitarian law and institutions** (UN, ICC) impose ethical and legal constraints absent in Clausewitz's era.\n\n**Ethical Perspective:** War causes disproportionate suffering to civilians, violating principles of human dignity. Gandhian and cosmopolitan ethics advocate dialogue, multilateralism, and non-violence as morally superior alternatives.\n\n**Conclusion:** While Clausewitz's framework retains analytical value, contemporary ethics demands that diplomacy must never fail to the point where war becomes the chosen instrument.",
+      "word_count": 203,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q2b",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 2,
+      "question_text": "Keeping the national security in mind, examine the ethical dilemmas related to controversial orders of environmental clearance of developmental projects in ecologically sensitive border areas in the country.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Ethical Dilemmas in Environmental Clearance for Border Area Development\n\n## Core Tension\nDevelopment projects in ecologically sensitive border areas present a fundamental conflict between **national security imperatives** and **environmental preservation** \u2014 both constitutionally mandated duties.\n\n## Ethical Dilemmas\n\n**Security vs. Ecology:** Strategic roads, military infrastructure, and border connectivity are vital for territorial integrity, yet projects in areas like the Western Ghats, Northeast forests, or Himalayan ecosystems risk irreversible ecological damage.\n\n**Intergenerational Justice:** Compromising biodiversity for immediate security needs may undermine long-term sustainability for future generations.\n\n**Rights of Indigenous Communities:** Tribal populations in border regions face displacement, violating their cultural and livelihood rights.\n\n**Utilitarian vs. Deontological Conflict:** Greater good of national defense may justify environmental costs, but the intrinsic value of ecosystems demands absolute protection.\n\n## Way Forward\n- **Proportionality principle:** Minimum ecological footprint with maximum strategic gain\n- Robust Environmental Impact Assessments without dilution\n- Compensatory afforestation and biodiversity offsets\n- Transparent stakeholder consultation balancing **sovereignty, sustainability, and social justice**",
+      "word_count": 161,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q3a",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 3,
+      "question_text": "\"Those who in trouble untroubled are, will trouble trouble itself.\" \u2013 Thiruvalluvar. What does this quotation convey to you in the present context?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Thiruvalluvar's Wisdom on Resilience and Equanimity\n\n## Meaning of the Quotation\n\nThiruvalluvar, the celebrated Tamil poet-philosopher, conveys that those who remain composed and undisturbed in the face of adversity will eventually overcome the adversity itself. **Equanimity in crisis is the greatest strength.**\n\n## Present-Day Relevance\n\nIn today's context of multifaceted challenges \u2014 pandemics, climate change, geopolitical conflicts, economic uncertainties, and mental health crises \u2014 this wisdom holds profound significance:\n\n- **For Governance:** Leaders who respond to crises with calm deliberation rather than panic make sound policy decisions. India's measured response during COVID-19 exemplifies this.\n- **For Civil Servants:** Administrative officers face immense pressure; maintaining composure ensures rational, ethical decision-making rather than knee-jerk reactions.\n- **For Society:** Rising anxiety and intolerance demand cultivating inner resilience \u2014 what the Bhagavad Gita calls *Sthitaprajna* (steady wisdom).\n\n## Core Values Embedded\n\nThe quotation champions **fortitude, patience, emotional intelligence, and perseverance** \u2014 virtues essential for public service. It teaches that **problems are transient, but character is enduring**. A composed mind transforms challenges into opportunities, making trouble itself retreat before the resolute individual.",
+      "word_count": 178,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q3b",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 3,
+      "question_text": "\"The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.\" \u2013 William James. What does this quotation convey to you in the present context?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Relevance of William James' Quote in the Present Context\n\nWilliam James' profound observation highlights the **transformative power of attitude** in shaping human destiny. It underscores that external circumstances are less determinative than our **internal disposition** towards them.\n\n**In the present context, this holds immense significance:**\n\n**For Governance:** Civil servants facing resource constraints can achieve remarkable outcomes through a positive, solution-oriented attitude \u2014 exemplified by officers like Armstrong Pame who built roads through community mobilization rather than waiting for bureaucratic approvals.\n\n**For Society:** Attitudinal shifts drive social transformation \u2014 changing attitudes towards gender equality, caste discrimination, and environmental responsibility are more fundamental than mere legislative changes.\n\n**For Individuals:** In an era of mental health challenges, economic uncertainty, and rapid technological disruption, cultivating **resilience, adaptability, and growth mindset** becomes essential.\n\n**For Nation-building:** India's development challenges require attitudinal transformation \u2014 from fatalism to agency, from corruption to integrity, from indifference to active citizenship.\n\nThis quote essentially affirms that **internal reform precedes external change**, resonating with Gandhi's principle: \"Be the change you wish to see.\"",
+      "word_count": 172,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q3c",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 3,
+      "question_text": "\"The strength of a society is not in its laws, but in the morality of its people.\" \u2013 Swami Vivekananda. What does this quotation convey to you in the present context?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Morality as the Foundation of a Strong Society\n\n## Meaning of the Quotation\n\nSwami Vivekananda emphasizes that **laws alone cannot sustain social order**; it is the **inner moral compass** of citizens that truly determines a society's strength. Laws are external constraints, while morality is an internalized commitment to righteousness.\n\n## Present Context\n\nDespite India having comprehensive laws \u2014 anti-corruption legislation, environmental regulations, consumer protection acts \u2014 challenges like corruption, communal violence, and exploitation persist. This gap between **legal provisions and ground reality** underscores Vivekananda's insight.\n\n- **Tax evasion** continues despite stringent laws, reflecting weak civic morality.\n- **Environmental degradation** occurs not due to absent regulations but due to moral indifference.\n- During **COVID-19**, black-marketing of medicines revealed how legal deterrents fail without ethical grounding.\n\n## Way Forward\n\nMoral education, value-based upbringing, and **cultivating Dharma consciousness** \u2014 as Gandhi advocated through trusteeship \u2014 are essential. Laws must be complemented by **ethical citizenry** nurtured through family, education, and societal institutions. A morally awakened society self-regulates, making enforcement secondary to conscience.",
+      "word_count": 169,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q4a",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 4,
+      "question_text": "\"For any kind of social re-engineering by successfully implementing welfare schemes, a civil servant must use reason and critical thinking in an ethical framework.\" Justify this statement with suitable examples.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Reason and Critical Thinking in Ethical Framework for Social Re-engineering\n\nSocial re-engineering through welfare schemes demands that civil servants go beyond mechanical implementation and employ **reason, critical thinking, and ethical grounding** to achieve transformative outcomes.\n\n**Rational Analysis** helps identify genuine beneficiaries and root causes. For instance, implementing **PM Awas Yojana** requires assessing actual housing needs versus fraudulent claims through data-driven decision-making.\n\n**Critical Thinking** enables civil servants to evaluate unintended consequences. During **DBT implementation**, officers like Ashok Khemka critically examined middlemen exploitation, ensuring benefits reached intended recipients.\n\n**Ethical Framework** ensures decisions uphold justice, equity, and compassion. While implementing **reservation policies** or **MGNREGA**, officers must balance efficiency with social justice, preventing elite capture while ensuring dignity of marginalized communities.\n\nWithout this triad, schemes risk becoming tools of **corruption, exclusion, or populism**. Armstrong Pame building roads in Manipur exemplifies how ethical reasoning combined with critical assessment of community needs achieves genuine social transformation.\n\nThus, **rationality prevents arbitrariness**, **critical thinking prevents inefficiency**, and **ethics prevents injustice**\u2014together enabling meaningful social re-engineering.",
+      "word_count": 167,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q4b",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 4,
+      "question_text": "What are the major teachings of Mahavira? Explain their relevance in the contemporary world.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Major Teachings of Mahavira and Their Contemporary Relevance\n\n## Core Teachings:\n\n**Ahimsa (Non-violence):** The supreme moral virtue \u2014 non-injury to any living being in thought, word, and deed. This was Mahavira's foremost teaching.\n\n**Satya (Truthfulness), Asteya (Non-stealing), Aparigraha (Non-possessiveness), and Brahmacharya (Chastity):** These five vows form the ethical foundation of Jain philosophy.\n\n**Anekantavada (Many-sidedness of reality):** No single viewpoint captures the complete truth; multiple perspectives must be respected.\n\n**Syadvada (Conditional predication):** Knowledge is relative and contextual.\n\n**Triratna (Three Jewels):** Right Faith, Right Knowledge, and Right Conduct as the path to liberation.\n\n## Contemporary Relevance:\n\n- **Ahimsa** inspires environmental conservation, animal rights movements, and Gandhian non-violent resistance.\n- **Anekantavada** promotes **pluralism, tolerance, and dialogue** \u2014 essential for resolving communal and ideological conflicts.\n- **Aparigraha** addresses **consumerism, inequality, and ecological degradation** by advocating minimalism.\n- **Truthfulness and non-stealing** strengthen **public ethics, transparency, and good governance**.\n\nMahavira's teachings offer a timeless ethical framework for building a compassionate, tolerant, and sustainable society.",
+      "word_count": 159,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q5a",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 5,
+      "question_text": "\"One who is devoted to one's duty attains highest perfection in life.\" Analyse this statement with reference to sense of responsibility and personal fulfilment in a civil servant.",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Duty, Responsibility, and Personal Fulfilment in Civil Service\n\nThis statement, rooted in the Bhagavad Gita's concept of **Nishkama Karma**, holds profound relevance for civil servants.\n\n**Sense of Responsibility:** A duty-devoted civil servant internalizes accountability beyond mere rule-following. Officers like T.N. Seshan (electoral reforms) and Armstrong Pame (\"People's Officer\" building roads in Manipur) exemplify how unwavering commitment to duty transforms governance. Responsibility here encompasses answerability to the Constitution, citizens, and one's conscience.\n\n**Personal Fulfilment:** When duty becomes devotion, work transcends career ambition. Civil servants find **Eudaimonia**\u2014Aristotelian flourishing\u2014through meaningful public service. The satisfaction of ensuring last-mile delivery of welfare schemes or upholding justice in adverse circumstances provides deeper fulfilment than material rewards.\n\n**Synthesis:** Dedication to duty cultivates **integrity, selflessness, and resilience**\u2014values enshrined in the Civil Services Code of Conduct. It aligns personal growth with public good, creating a virtuous cycle where responsible action leads to professional excellence and inner satisfaction.\n\nThus, **Kartavya Bhavana** (sense of duty) becomes the pathway to both administrative perfection and self-actualization.",
+      "word_count": 164,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q5b",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 5,
+      "question_text": "To achieve holistic development goals, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What specific measures will you suggest to achieve this goal?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Civil Servant as Enabler and Facilitator of Growth\n\nA civil servant must transition from a **command-and-control approach** to a **facilitative governance model** for holistic development:\n\n**Institutional Measures:**\n- Simplify regulatory frameworks, reduce red tape, and adopt **single-window clearance** systems\n- Shift from **rule-based** to **outcome-based** governance with measurable development indicators\n\n**Participatory Approach:**\n- Engage stakeholders through **participatory planning**\u2014involving PRIs, SHGs, civil society, and private sector in policy formulation\n- Promote **public-private partnerships** for infrastructure and service delivery\n\n**Capacity Building:**\n- Empower local communities through **skill development** and knowledge dissemination\n- Leverage **technology** (e-governance, digital platforms) to enhance transparency and accessibility\n\n**Attitudinal Shift:**\n- Cultivate **empathy, innovation, and proactive problem-solving** rather than mere compliance enforcement\n- Adopt **convergence approach** across departments to avoid silos\n\n**Accountability Mechanisms:**\n- Implement **social audits**, citizen charters, and grievance redressal systems\n- Use **evidence-based decision-making** through data analytics\n\nAs Gandhiji envisioned, governance should empower the last person in the queue (**Antyodaya**), making the civil servant a catalyst for inclusive, sustainable development.",
+      "word_count": 166,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    },
+    {
+      "question_id": "mains_gs4_2025_q6a",
+      "year": 2025,
+      "paper": "mains_gs4",
+      "question_number": 6,
+      "question_text": "It is said that for a sound ethical work culture, there must be code of ethics in place in every organisation. To ensure value-based work culture, what suitable measures would you adopt in your work place?",
+      "word_limit": 150,
+      "max_marks": 10,
+      "question_type": "short_answer",
+      "section": "A",
+      "candidate_id": "candidate_6584",
+      "candidate_answer": "# Measures for Ensuring Value-Based Work Culture\n\nA sound ethical work culture requires both institutional mechanisms and sustained leadership commitment. I would adopt the following measures:\n\n**Institutional Framework:**\n- Formulate a comprehensive **Code of Ethics** clearly defining acceptable conduct, conflict of interest norms, and accountability standards.\n- Establish an **Ethics Committee** to oversee compliance and address grievances impartially.\n- Create robust **whistleblower protection mechanisms** to encourage reporting of unethical practices.\n\n**Capacity Building:**\n- Conduct regular **ethics training and sensitization workshops** with case-study-based learning.\n- Organize value-orientation programmes during induction of new employees.\n\n**Leadership and Culture:**\n- Practice **ethical leadership by example** \u2014 demonstrating integrity, transparency, and fairness in decision-making.\n- Foster an environment of **open communication** where dissent is respected.\n- Recognize and reward ethical behaviour through institutional incentives.\n\n**Monitoring and Accountability:**\n- Implement periodic **ethical audits** and performance appraisals incorporating ethical parameters.\n- Ensure transparent grievance redressal mechanisms.\n\nThese measures collectively institutionalize ethics, moving beyond mere compliance toward internalized value-based conduct, creating a self-sustaining ethical work environment.",
+      "word_count": 168,
+      "_model": "openrouter/anthropic/claude-opus-4.6"
+    }
+  ],
+  "count": 20
+}

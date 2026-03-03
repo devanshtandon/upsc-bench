@@ -1,0 +1,627 @@
+[
+  {
+    "question_id": "mains_gs3_2025_q6",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a well-structured two-part answer covering clean technology pathways and biotechnology's role. The response demonstrates strong factual knowledge with specific schemes and figures, though it reads somewhat like a list rather than an integrated analysis.",
+        "analysis": "The answer covers the major clean technology pillars (renewables, green hydrogen, nuclear, battery storage, EVs) with specific data points like the Rs 19,744 crore allocation and 500 GW target. The biotechnology section effectively covers biofuels (2G/3G ethanol, algal biofuels), bio-hydrogen, and microbial fuel cells. However, the answer lacks a strong analytical thread connecting the two parts beyond a brief concluding line. The mention of thorium-based reactors and the SATAT scheme shows strong subject knowledge. The word count (176) slightly exceeds the 150-word limit, which is a minor concern.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Factually accurate with specific schemes (National Solar Mission, Green Hydrogen Mission, SATAT, UJALA, PAT scheme) and relevant data points. Covers both dimensions of the question well. Minor gap: no explicit mention of India's current import dependency context."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear two-part structure with headers matching the question's two components. However, the format is heavily bullet-point based with minimal connecting prose, and the conclusion is only one line."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Good specific examples: Rs 19,744 crore for green hydrogen, 500 GW target, 20% ethanol blending target. Mentions thorium reserves (unique point). However, examples are listed rather than elaborated upon."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Limited analysis — mostly a catalogue of measures without discussing challenges, trade-offs, or how these technologies interrelate. The convergence point in the conclusion is underdeveloped."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Slightly over word limit (176 vs 150). Clear language and readable markdown formatting. Concise but could benefit from more analytical prose."
+          }
+        },
+        "total_score": 6.0,
+        "max_marks": 10,
+        "brief_feedback": "Solid factual coverage of both clean technology and biotechnology with specific schemes, but needs deeper analytical integration of how the two converge toward the 2047 goal."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B delivers a comprehensive and well-organized answer that balances both parts of the question with strong factual grounding and specific Indian policy references. The biotechnology section is particularly detailed with clear application areas.",
+        "analysis": "The answer opens with a strong contextual framing (85% crude oil import dependency) and systematically addresses both parts of the question. The clean technology section covers renewables, green hydrogen with the National Green Hydrogen Mission, and e-mobility with specific schemes (PLI, FAME, BESS). The biotechnology section is notably strong, covering 2G/3G biofuels, the Global Biofuels Alliance, SATAT scheme for CBG, bio-hydrogen, and microbial fuel cells. The mention of waste-to-energy addressing both energy security and stubble burning shows good analytical thinking. However, the answer significantly exceeds the word limit (201 vs 150), which is a notable drawback. The concluding line effectively ties the two parts together.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Excellent factual accuracy with specific policies (National Green Hydrogen Mission, Global Biofuels Alliance, E20, SATAT, FAME, PLI). The 85% crude oil import dependency figure contextualizes the challenge. Biotechnology coverage is thorough and accurate."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized with clear headers for both parts. Logical flow from context to clean tech to biotech. Opening and closing sentences frame the answer well. Slightly dense in places."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Strong specific examples: Global Biofuels Alliance, E20 target, SATAT scheme for CBG, hard-to-abate sectors like steel and fertilizers. The dual benefit of CBG (energy security + stubble burning) shows depth."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Shows some analytical depth in connecting biotechnology to specific sectoral challenges (hard-to-abate sectors, petrol import reduction). The synergy conclusion is well-placed but could be more developed."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Significantly exceeds word limit (201 vs 150). While language quality is high and formatting is clean, the word limit violation is a notable penalty in UPSC context."
+          }
+        },
+        "total_score": 6.4,
+        "max_marks": 10,
+        "brief_feedback": "Comprehensive and well-organized with excellent factual depth, particularly on biotechnology applications, but the significant word limit overshoot (201 vs 150) detracts from an otherwise strong answer."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a concise answer within the word limit that covers both clean technology and biotechnology dimensions. The answer is well-balanced but the biotechnology discussion includes some tangential points like bioremediation and bio-mining.",
+        "analysis": "The clean technology section is solid, covering solar/wind, Green Hydrogen Mission with the Rs 19,744 crore figure, and BESS with PLI schemes. The answer demonstrates good awareness of key initiatives. The biotechnology section covers biofuels and the SATAT initiative but then veers into bioremediation of fossil fuel spills and bio-mining, which are less directly relevant to achieving energy independence. The mention of algae-based biofuels for sustainable aviation fuel is a useful specific example. The answer stays within the word limit (146), which is commendable. However, it lacks a clear concluding statement and the analytical linkage between clean technology and biotechnology is weak.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Mostly accurate but includes somewhat tangential points (bioremediation of fossil fuel spills, bio-mining) that are less relevant to the energy independence question. Core clean technology content is sound with specific policies mentioned."
+          },
+          "structure_flow": {
+            "score": 1.1,
+            "justification": "Two clear paragraphs addressing each part of the question, but no introduction or conclusion. The transition between the two parts is abrupt, and the answer ends without a summative statement."
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Good examples in the clean tech section (500 GW target, Rs 19,744 crore, SATAT). The algae-based sustainable aviation fuel point is specific. However, some examples (bioremediation, bio-mining) are not well-connected to energy independence."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Limited analytical depth. The mention of 'circular bioeconomy' in the closing phrase hints at deeper thinking but is not developed. No discussion of challenges or integration of the two themes."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Within word limit (146), clear language, good use of bold for emphasis. The answer is readable and concise, though lacking a conclusion."
+          }
+        },
+        "total_score": 5.5,
+        "max_marks": 10,
+        "brief_feedback": "Concise and within word limit with solid clean technology coverage, but the biotechnology section includes tangential points (bioremediation, bio-mining) and the answer lacks analytical integration and a conclusion."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D delivers a dense, information-rich answer covering both clean technology and biotechnology comprehensively within the word limit. The answer demonstrates strong command of specific policies and integrates multiple dimensions effectively.",
+        "analysis": "This is the most policy-dense answer among the candidates, mentioning NDCs, green corridors, pumped hydro, time-of-day tariffs, PAT scheme, FAME, PLI for solar PV/batteries/electrolysers, SATAT, and biomass co-firing in the clean technology section alone. The biotechnology section efficiently covers 2G ethanol, CBG, algal biofuels, engineered microbes/enzymes, waste-to-energy, bioremediation, and bio-based materials reducing petrochemical demand. The answer shows strong analytical thinking by connecting domestic manufacturing (PLI) to import dependence reduction and linking bio-based materials to reduced petrochemical demand. The answer stays close to the word limit (156) and achieves remarkable coverage. The main weakness is that the extreme density makes it somewhat difficult to read as prose.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Outstanding factual coverage with the broadest range of specific policies (NDCs, green corridors, pumped hydro, time-of-day tariffs, PAT, FAME, PLI for multiple categories, SATAT, co-firing). Both parts of the question are addressed comprehensively and accurately."
+          },
+          "structure_flow": {
+            "score": 1.1,
+            "justification": "Two clear sections but extremely dense formatting. The numbered list approach is logical but the answer reads more like compressed notes than a flowing essay. No proper introduction or conclusion."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Impressive breadth of specific examples: PLI for solar PV, batteries, and electrolysers (not just generic PLI), time-of-day tariffs, biomass co-firing, bio-based materials reducing petrochemical demand. Each point is precise."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Shows analytical sophistication in connecting PLI to import dependence, linking bio-based materials to petrochemical demand reduction. The answer implicitly constructs a causal chain toward energy independence rather than just listing measures."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Close to word limit (156). However, the extreme information density makes readability challenging. Heavy use of abbreviations and compressed notation (em-dashes, semicolons) creates a note-like rather than essay-like quality."
+          }
+        },
+        "total_score": 6.4,
+        "max_marks": 10,
+        "brief_feedback": "Exceptionally comprehensive and policy-dense coverage of both clean technology and biotechnology with strong analytical connections, though the extreme density compromises readability and essay-like flow."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q7",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a thorough and well-structured explanation of CCUS with clear definitions, three-stage breakdown, and comprehensive coverage of its climate change mitigation potential. The answer is detailed but significantly exceeds the word limit.",
+        "analysis": "The answer excels in its systematic three-stage explanation of CCUS (capture, utilization, storage) with specific methods for each stage (post-combustion, pre-combustion, oxyfuel; EOR, synthetic fuels; saline aquifers, depleted reservoirs). The climate change role section is comprehensive, covering hard-to-abate sectors, blue hydrogen, negative emissions (BECCS, DAC), and energy security during transition. The IEA projection of 15% cumulative CO2 reduction is a strong supporting data point. However, the answer dramatically exceeds the word limit (297 vs 150), which would be heavily penalized in UPSC. The challenges paragraph at the end adds value but contributes to the excessive length. The answer lacks India-specific context.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Highly accurate and comprehensive. Clear explanation of all three CCUS stages with specific technologies. Strong coverage of climate roles including BECCS, DAC, blue hydrogen. IEA statistic (15% by 2070) adds credibility. However, lacks India-specific context."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Excellent logical structure: definition, three components, then role in climate change with sub-points, followed by challenges caveat. Flows naturally and reads like a well-organized essay answer."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Good specific examples: IEA 15% projection, specific capture methods (post-combustion, pre-combustion, oxyfuel), specific utilization pathways (EOR, synthetic fuels), specific storage sites (saline aquifers, depleted reservoirs). Missing India-specific examples."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Good analytical balance by acknowledging both potential and challenges (cost-effectiveness, public acceptance, regulatory needs). The BECCS/DAC discussion shows understanding of negative emissions concept. Could be more nuanced."
+          },
+          "presentation": {
+            "score": 0.2,
+            "justification": "Severely exceeds word limit (297 vs 150, nearly double). Despite excellent language quality and clear prose, this would attract significant penalty in an actual UPSC exam."
+          }
+        },
+        "total_score": 6.2,
+        "max_marks": 10,
+        "brief_feedback": "Thorough and well-structured CCUS explanation with strong technical detail, but the answer nearly doubles the word limit (297 vs 150), which is a critical flaw despite excellent content quality."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a well-organized answer with clear definition, three-component breakdown, and role in climate change, including India-specific policy references. The concluding caveat shows balanced thinking.",
+        "analysis": "The answer efficiently covers CCUS definition, its three components with specific methods, and its role in climate change. Strong points include the IEA 15% estimate, hard-to-abate sectors reference, blue hydrogen mention, DAC for negative emissions, and critically, India-specific context (National Hydrogen Mission, NITI Aayog's CCUS policy framework). The concluding sentence — 'CCUS is essential but must complement, not substitute, renewable energy expansion' — demonstrates mature analytical thinking. The word count (171) moderately exceeds the limit but is not egregious. The markdown formatting with headers and bullets makes the answer clear and structured.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Accurate coverage of CCUS definition and components. Strong on climate change role with hard-to-abate sectors, blue hydrogen, DAC, and transition bridging. India-specific references (NITI Aayog, National Hydrogen Mission) add value. IEA 15% figure included."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Clear three-section structure (Definition, Components, Role). Well-organized with headers and consistent formatting. The concluding caveat provides a strong finish. Logical progression throughout."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Good examples: IEA 15% estimate, specific capture methods, blue hydrogen, DAC. India-specific references (NITI Aayog CCUS framework, National Hydrogen Mission) are a strength. Could have included more specific data or case studies."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "The concluding statement about CCUS complementing rather than substituting renewables shows strong analytical judgment. The 'bridges transition' point demonstrates systemic thinking. Well-balanced perspective."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Moderately exceeds word limit (171 vs 150). Clean formatting, clear language, good use of markdown headers. Concise without being telegraphic."
+          }
+        },
+        "total_score": 6.2,
+        "max_marks": 10,
+        "brief_feedback": "Well-balanced answer with India-specific policy context and a mature concluding caveat about CCUS's complementary role, though slightly over word limit."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C delivers the strongest answer on this question, combining clear CCUS definition with detailed climate change applications, India-specific policy context (Panchamrit, Net-Zero 2070), and critical awareness of challenges. The answer is well-structured and analytical.",
+        "analysis": "The opening definition is concise and effective, distinguishing capture from large point sources and from the atmosphere. The climate change section is organized around four strong thematic pillars: hard-to-abate sectors (with specific industries), negative emissions (IPCC reference for 1.5°C), circular economy (with commercial products like green urea, carbon-cured concrete), and bridging the energy transition. The Indian context paragraph is a standout feature, referencing NITI Aayog's CCUS Policy Framework, Panchamrit goals, and Net-Zero 2070, while also noting the challenge of high capital costs and the need for R&D and climate finance. This shows both breadth and analytical maturity. The word count (201) is notably over the limit, which is a weakness. Overall, this answer would likely score highest among the candidates for this question.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Excellent accuracy with comprehensive coverage. Strong on both definition and applications. Specific commercial products (green urea, carbon-cured concrete) demonstrate depth. IPCC 1.5°C reference for negative emissions is authoritative. India-specific Panchamrit and Net-Zero 2070 references are highly relevant."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Outstanding organization: concise definition, four clearly titled sub-sections for climate role, and a dedicated Indian Context section. Flows logically from global to India-specific. Strong concluding note on challenges."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Rich specific examples: steel/cement/fertilizers as hard-to-abate sectors, synthetic fuels/green urea/carbon-cured concrete as utilization products, IPCC 1.5°C pathway, NITI Aayog CCUS framework, Panchamrit goals. Excellent depth."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Strong analytical thinking: circular economy framing, critical awareness of cost challenges, need for global climate finance, and the implicit tension between economic viability and climate necessity. Multi-dimensional perspective."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds word limit significantly (201 vs 150). However, language quality is excellent, formatting is professional, and the answer reads as a polished piece. The overshoot is the main concern."
+          }
+        },
+        "total_score": 6.9,
+        "max_marks": 10,
+        "brief_feedback": "The most comprehensive and analytically mature answer with excellent India-specific policy context and circular economy framing, but the word limit violation (201 vs 150) is a notable drawback."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a technically precise and well-integrated answer that covers CCUS definition with transport logistics, its climate change role, and India-specific relevance, all within the word limit. The answer includes unique technical details.",
+        "analysis": "The answer stands out for including the often-overlooked transport dimension (compress and transport via pipelines/ships) and monitoring, showing deeper technical understanding. The definition is comprehensive. The climate role section efficiently covers hard-to-abate sectors with specific industries, energy transition support with blue hydrogen, and net-zero pathways with an important quantitative context (tens of MtCO2/yr current capacity vs 37 GtCO2/yr emissions), highlighting the scale-up challenge. India relevance mentions NDCs, National Green Hydrogen Mission, and proposed carbon markets (CCTS/offsets). The concluding line on limits (cost, energy penalty, storage integrity, MRV) shows balanced analysis. The answer stays within the word limit (169), which is commendable given the density of content. The compressed formatting, while information-rich, can feel telegraphic.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Highly accurate with unique technical detail (transport logistics, MRV needs, energy penalty). The current capacity vs total emissions comparison (tens of MtCO2 vs 37 Gt) provides crucial context often missed. India-specific references include NDCs, NGHM, carbon markets."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clear structure with definition followed by role. The bullet-point format is organized but reads more like compressed notes. The concluding 'Limits' line provides good closure. Could benefit from more connecting prose."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Strong quantitative depth: current CCUS capacity vs global emissions figures, specific industries (cement, iron & steel, fertilisers). India-specific carbon markets reference is unique. Transport and MRV details show technical depth."
+          },
+          "analytical_depth": {
+            "score": 0.7,
+            "justification": "Excellent analytical calibration: the scale-up gap (tens of Mt vs 37 Gt) implicitly challenges CCUS as a silver bullet. The energy penalty mention and 'cannot substitute renewables/efficiency' show critical thinking. Well-balanced perspective."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Close to word limit (169 vs 150). Information-dense but readable. Good use of bold emphasis. Slightly telegraphic style with heavy use of semicolons and slashes, but efficient."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "Technically precise with unique details (transport logistics, scale-up gap, MRV) and strong analytical calibration, demonstrating genuine understanding of CCUS limitations and India-specific policy context."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q8",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a well-structured answer on seawater intrusion with clear causes and remedial measures, including the Ghyben-Herzberg relationship reference. The inclusion of affected areas adds geographical specificity.",
+        "analysis": "The answer demonstrates strong subject knowledge with the Ghyben-Herzberg relationship mention — a technical reference that shows genuine understanding of the freshwater-saltwater dynamics. The causes section is comprehensive, covering over-extraction, urbanization, reduced recharge, sea-level rise, ecosystem destruction, and tidal effects. The affected areas section (Gujarat/Saurashtra, Chennai, Kerala, Sundarbans, Lakshadweep) is a valuable addition that grounds the answer geographically. The remedial measures cover technical solutions (artificial recharge, subsurface barriers, MAR, desalination), regulatory measures (extraction regulation), and monitoring (CGWB networks, ICZMP). The answer is within word limit (159) and well-formatted with clear headers. However, the answer is somewhat list-heavy without much analytical discussion of root causes or the interplay between measures.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Accurate and comprehensive. The Ghyben-Herzberg relationship is a sophisticated reference. Six causes and eight remedial measures cover the topic well. Affected areas section adds geographical specificity. No factual errors detected."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear three-section structure (Causes, Affected Areas, Remedial Measures) with consistent bullet-point formatting. Headers aid navigation. However, no introduction or conclusion, and the three sections feel disconnected."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Strong specific examples: Ghyben-Herzberg relationship, affected areas (Saurashtra, Chennai, Lakshadweep), specific institutions (CGWB), and policy references (ICZMP, MAR). Could include more specific scheme names."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Limited analytical depth — primarily descriptive listing of causes and measures without discussing why certain measures are more effective, trade-offs, or how causes interact with each other."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Within word limit (159). Clean formatting with headers and bullets. Concise and readable. Could benefit from some connecting prose between sections."
+          }
+        },
+        "total_score": 6.1,
+        "max_marks": 10,
+        "brief_feedback": "Well-organized with the notable Ghyben-Herzberg reference and good geographical specificity, but needs more analytical discussion connecting causes to specific remedial strategies."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B delivers a detailed and analytically rich answer with four well-developed causes and six remedial measures, each supported by specific policy references and real-world examples. However, it significantly exceeds the word limit.",
+        "analysis": "The answer excels in providing elaborated causes rather than mere bullet points — each cause (over-extraction, sea level rise, reduced recharge, coastal erosion) is explained with its mechanism and geographical context (Gujarat, Tamil Nadu, Andhra Pradesh). The remedial measures are particularly strong, each linked to a specific government scheme or policy (Jal Shakti Abhiyan, Groundwater Management Bill, CRZ Notification). The mention of Chennai's desalination plants as a real-world example adds credibility. The technological solutions section (remote sensing, GIS mapping) shows awareness of modern approaches. However, the answer dramatically exceeds the word limit (262 vs 150), which is a significant penalty. The prose style is more essay-like than other candidates, which is a positive for UPSC.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Excellent factual accuracy with well-explained mechanisms for each cause. Strong policy references: Jal Shakti Abhiyan, Groundwater Management and Regulation Bill, CRZ Notification. Real-world example of Chennai desalination plants. States mentioned (Gujarat, TN, AP) are accurate."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Excellent essay-like structure with an opening context sentence, numbered causes with explanations, and numbered remedial measures with policy linkages. Flows naturally and reads well. The best-structured answer among candidates."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Rich specific examples: Jal Shakti Abhiyan, Groundwater Management Bill, CRZ Notification, Chennai desalination, remote sensing/GIS. Each measure is linked to a policy or institution. States and regions mentioned add specificity."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Good but could be stronger. The explanation of hydraulic gradient mechanism shows understanding. However, lacks discussion of trade-offs between measures or why certain approaches may be more effective in specific contexts."
+          },
+          "presentation": {
+            "score": 0.2,
+            "justification": "Severely exceeds word limit (262 vs 150, nearly 75% over). Despite excellent prose quality and professional formatting, this would attract heavy penalty in UPSC. The answer needs significant trimming."
+          }
+        },
+        "total_score": 6.3,
+        "max_marks": 10,
+        "brief_feedback": "The most elaborate and policy-rich answer with excellent structure and specific examples, but the severe word limit violation (262 vs 150) is a critical flaw that would significantly impact the score in an actual exam."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a concise, well-organized answer within the word limit that covers causes and remedial measures with strong policy references including several unique mentions like Atal Bhujal Yojana and PMKSY.",
+        "analysis": "This answer demonstrates efficient use of the word limit, covering five causes and four remedial categories with specific policy references. The causes section is noteworthy for including river regulation and sand mining — often-overlooked factors. The specific examples (Cauvery, Krishna-Godavari deltas) add geographical precision. The remedial measures are well-categorized into demand management, recharge enhancement, hydraulic barriers, and monitoring/zoning. Unique policy references include Atal Bhujal Yojana, PMKSY, Groundwater S&MR Act/Model Bill, and CGWA NOCs. The CGWB reference about over-exploited/critical coastal blocks shows awareness of institutional data. The integration with ICZM/CRZ planning shows systems thinking. The answer stays within the word limit (156) while maintaining density.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Highly accurate with unique points: river regulation and reduced baseflow in deltas (Cauvery, Krishna-Godavari), excessive sand mining, CGWB data on over-exploited blocks. Policy references are specific and relevant: Atal Bhujal Yojana, PMKSY, Groundwater S&MR Act, CGWA."
+          },
+          "structure_flow": {
+            "score": 1.2,
+            "justification": "Clear two-part structure with a brief opening definition. Causes and remedial measures are well-categorized. However, the compressed formatting (semicolons, slashes) reduces readability somewhat. No formal conclusion."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Strong specific examples: CGWB data, Cauvery and Krishna-Godavari deltas, Atal Bhujal Yojana, PMKSY, Groundwater S&MR Act/Model Bill, CGWA NOCs. River regulation and sand mining are unique points not covered by other candidates."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Good analytical framing in categorizing remedies (demand management, recharge, barriers, monitoring). The integration with ICZM/CRZ and watershed management shows systems thinking. River regulation as a cause shows deeper causal understanding."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Within word limit (156). Information-dense but readable. Good use of bold and italics. Slightly telegraphic with heavy abbreviation use, but efficient given the constraint."
+          }
+        },
+        "total_score": 6.3,
+        "max_marks": 10,
+        "brief_feedback": "Efficiently packed with unique causal factors (river regulation, sand mining) and strong policy references (Atal Bhujal Yojana, PMKSY) within the word limit, demonstrating both breadth and analytical categorization."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a well-contextualized answer with strong Indian examples (Minjur aquifer, Chennai) and modern technological solutions (IoT-based piezometers, MISHTI scheme), effectively balancing causes and remedial measures.",
+        "analysis": "The answer opens with strong Indian context (7,516 km coastline, Gujarat and Tamil Nadu as affected states). The causes section is concise but effective, with the Minjur aquifer example in Chennai being a standout specific reference. The remedial measures are notably strong, organized into four categories: technological interventions (subsurface barriers, tidal regulators, IoT-based piezometers under National Hydrology Project), artificial recharge (MAR, Jal Shakti Abhiyan), nature-based solutions (mangrove restoration via MISHTI scheme), and regulatory measures (CGWA guidelines for over-exploited blocks). The MISHTI scheme reference for mangrove restoration is unique and contemporary. The concluding sentence on ICZM provides good closure. The word count (185) is moderately over the limit. The answer demonstrates the best integration of traditional and modern approaches.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Excellent accuracy with specific Indian examples: 7,516 km coastline, Minjur aquifer in Chennai, MISHTI scheme for mangroves, National Hydrology Project, CGWA guidelines. Four causes and four remedial categories are all factually sound."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-structured with contextual opening, clearly labeled causes and measures, and a strong concluding sentence on ICZM. Four remedial categories are logically organized. Good flow from context to causes to solutions."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Outstanding specific examples: Minjur aquifer (Chennai), MISHTI scheme (unique among candidates), IoT-based piezometers, National Hydrology Project, Jal Shakti Abhiyan, CGWA guidelines. The most specific and contemporary examples among all candidates."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Good categorization of remedies into technological, recharge, nature-based, and regulatory approaches. The concluding ICZM point shows systems thinking. However, lacks deeper analysis of trade-offs or effectiveness of different approaches."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Moderately exceeds word limit (185 vs 150). Clean formatting with bold headers and italic scheme names. Good readability with balanced prose and bullet points. The overshoot is notable but not severe."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "The strongest answer for this question with the most specific and contemporary Indian examples (Minjur aquifer, MISHTI scheme, IoT piezometers), effectively integrating technological and nature-based solutions with a good concluding framework."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q9",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a well-categorized overview of terrorism manifestations in India across five types with contemporary examples, followed by a structured listing of counter-measures. The answer is concise and within the word limit.",
+        "analysis": "The answer effectively categorizes Indian terrorism into five distinct types: cross-border, LWE, ethno-nationalist insurgency, lone-wolf/radicalization, and urban terrorism. Each category includes relevant contemporary examples (Pulwama 2019, Pahalgam 2025, Dantewada encounters, ULFA/NSCN, 26/11). The Pahalgam 2025 reference is particularly contemporary. Counter-measures are well-organized across six categories: legislative, institutional, operational, technological, international cooperation, and developmental. The mention of SAMADHAN doctrine for LWE and Aspirational Districts Programme shows understanding of non-kinetic approaches. The answer stays within the word limit (153). The main weakness is that both sections are primarily lists without much analytical discussion of how terrorism has evolved or why certain counter-measures are more effective.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Accurate coverage of five terrorism types with relevant examples. Counter-measures span legislative (UAPA, NIA Act, AFSPA), institutional (NIA, NATGRID, MAC, NSG), operational (surgical strikes, Balakot), technological (CCTNS), and developmental (SAMADHAN, Aspirational Districts). Pahalgam 2025 is a contemporary reference."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clear two-section structure (Manifestations and Counter-Measures) with sub-headers. Each terrorism type is labeled and exemplified. Counter-measures are categorized. Clean concluding sentence. Good overall organization."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Good contemporary examples: Pulwama 2019, Pahalgam 2025, Dantewada, ULFA/NSCN, 26/11, ISIS-Kerala/Karnataka modules. Counter-measures include specific institutions and operations. Could include more detail on each example."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Limited analytical depth — the answer catalogues types and measures without analyzing trends, effectiveness, or the evolving nature of terrorism. The 'whole-of-government approach' conclusion is generic."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Within word limit (153). Clean formatting with headers and bold labels. Concise and readable. Good use of abbreviations without sacrificing clarity."
+          }
+        },
+        "total_score": 6.1,
+        "max_marks": 10,
+        "brief_feedback": "Well-categorized with five distinct terrorism types and six counter-measure categories including the contemporary Pahalgam 2025 reference, but needs more analytical discussion of trends and effectiveness."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B delivers a dense, information-rich answer covering multiple terrorism manifestations and comprehensive counter-measures with unique technical details like drone-enabled narco-terror logistics and CIBMS. However, it falls slightly below the word limit and reads as compressed notes.",
+        "analysis": "The answer demonstrates exceptional breadth, covering cross-border terrorism, urban/lone-actor attacks, LWE, and ethno-nationalist violence, with the unique addition of UAV/drone-enabled narco-terror logistics and encrypted communications as newer trends. This is a standout observation not made by other candidates. Counter-measures are impressively comprehensive: NIA, UAPA 2019, NATGRID, MAC, FATF-compliant counter-terror financing, CIBMS, anti-drone systems, NSG, CoBRA, Balakot, SAMADHAN, Aspirational Districts Programme, and surrender/rehabilitation. The mention of CIBMS (Comprehensive Integrated Border Management System) and CoBRA units shows specialized knowledge. However, the answer is extremely compressed (127 words, actually under the limit), making it difficult to read as prose. The em-dashes, parenthetical abbreviations, and semicolons create a dense wall of information that lacks essay flow.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Excellent breadth and accuracy. Unique points: drone-enabled narco-terror logistics, encrypted communications, CIBMS, anti-drone systems, CoBRA, FATF-compliant counter-terror financing, ED/NIA coordination. All factual claims are accurate and demonstrate deep domain knowledge."
+          },
+          "structure_flow": {
+            "score": 0.9,
+            "justification": "Weak structural flow — the answer reads as compressed notes rather than an organized essay. No headers, minimal paragraphing, and extremely dense formatting with parenthetical interruptions. Two loose paragraphs but the boundaries between topics are blurred."
+          },
+          "depth_examples": {
+            "score": 1.4,
+            "justification": "Rich specific examples: Pulwama 2019, Uri 2016, Dantewada-Bijapur, ISIS-linked NIA busts, CIBMS, CoBRA, Balakot 2019, SAMADHAN, Aspirational Districts. Drone-enabled narco-terror is a unique and contemporary point."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Shows understanding of newer trends (drones, encryption) and the multi-pronged nature of response. The combination of security, legal, and developmental tools is analytically sound. However, the compressed format doesn't allow for developed analysis."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Under word limit (127), but readability is poor due to extreme compression. Heavy use of em-dashes, bold, parentheses, and abbreviations creates a difficult reading experience. Lacks essay-like quality expected in UPSC Mains."
+          }
+        },
+        "total_score": 5.7,
+        "max_marks": 10,
+        "brief_feedback": "Exceptionally information-dense with unique points (drone narco-terror, CIBMS), but the heavily compressed format severely undermines readability and essay quality, which would cost marks in UPSC Mains."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C delivers the most well-developed and analytically rich answer, with elaborated examples, clear categorization of both manifestations and counter-measures, and India-specific policy details. The answer reads as a proper essay response.",
+        "analysis": "This is the strongest answer for this question. The opening sentence provides an analytical framework (cross-border sponsorship, ideological extremism, digital radicalization) rather than just listing types. Each manifestation is developed with context and specific examples: Pulwama 2019 and targeted killings (2023-2024) for cross-border, Dantewada 2023 IED blast for LWE, and Pune/Ballari ISIS modules for cyber terrorism. The counter-measures section is particularly strong with four well-developed categories. The UAPA 2019 amendment (designating individuals as terrorists) and NIA's extraterritorial jurisdiction are specific legal details. The CCIT reference (UN Comprehensive Convention on International Terrorism) shows international law awareness. The inclusion of 'Udaan' scheme in J&K for youth engagement is a unique and relevant example. The word count (210) exceeds the limit significantly, which is a weakness.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Excellent accuracy with well-developed examples. Specific references: UAPA 2019 amendment (individual designation), NIA extraterritorial jurisdiction, CIBMS components (drones, sensors, thermal imagers), FATF, CCIT, SAMADHAN, Udaan scheme. All factual claims are accurate."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Best structure among all candidates. Opening analytical framework, three numbered manifestations with examples, four numbered counter-measures — each developed as a mini-paragraph. Reads as a proper essay with coherent flow."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Rich and specific: Pulwama 2019, targeted killings 2023-24, Dantewada 2023 IED, Pune/Ballari ISIS modules 2023, Balakot airstrikes, CIBMS components, CCIT, Udaan scheme in J&K. Each example is contextualized, not just named."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Strong analytical framing in the opening sentence. The cyber terrorism/digital radicalization category shows awareness of evolving threats. The inclusion of economic empowerment (Udaan) as counter-radicalization shows nuanced understanding. CCIT reference demonstrates international perspective."
+          },
+          "presentation": {
+            "score": 0.3,
+            "justification": "Significantly exceeds word limit (210 vs 150). Despite excellent prose quality and professional formatting, the 40% overshoot is a substantial penalty. The essay-like quality is a strength but the length is not."
+          }
+        },
+        "total_score": 6.5,
+        "max_marks": 10,
+        "brief_feedback": "The most analytically developed answer with an excellent framework, contextualized examples (Dantewada 2023, Pune/Ballari modules), and unique policy references (CCIT, Udaan), though significantly over word limit."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a solid answer covering major terrorism manifestations and comprehensive counter-measures with good policy references. The answer is well-balanced and close to the word limit but lacks the analytical depth of the best responses.",
+        "analysis": "The answer covers the key terrorism manifestations: cross-border (Pulwama, JeM), LWE/Naxalism (Chhattisgarh, Jharkhand), and urban terrorism (2008 Mumbai). Counter-measures are organized into five clear categories: legal (UAPA), technological (CCTV, drones, cyber intelligence), security forces (NSG, ATS), international cooperation (US, Israel), and economic measures (FIU-IND, FATF). The FIU-IND reference and Israel cooperation are unique points. The inclusion of community engagement and de-radicalization programs shows awareness of soft approaches. However, the 2008 Mumbai attacks reference, while relevant, is dated for a question asking about 'contemporary examples.' The answer misses indigenous radicalization/ISIS modules and drone-enabled threats. The answer is within word limit (162) and reads well as prose.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Generally accurate but misses some contemporary forms of terrorism (ISIS-inspired modules, drone threats). The 2008 Mumbai reference, while historically important, is dated. Good counter-measures coverage with unique FIU-IND and Israel cooperation references."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Good two-paragraph structure with clear progression from manifestations to counter-measures. Bold labels for each counter-measure category aid readability. Prose style flows well. No formal conclusion but reads complete."
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Reasonable examples but fewer and less contemporary than other candidates. Pulwama 2019 and Mumbai 2008 are the main specific instances. FIU-IND is a unique reference. Lacks recent examples (2023-25 incidents)."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Adequate but not deep. The mention of community engagement and de-radicalization shows awareness of soft approaches. However, no analysis of trends, evolving nature of threats, or effectiveness of different measures."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Within word limit (162). Good prose quality that reads naturally. Professional formatting with bold labels. Clear and concise language throughout."
+          }
+        },
+        "total_score": 5.7,
+        "max_marks": 10,
+        "brief_feedback": "Solid and well-structured with unique references (FIU-IND, Israel cooperation) and good prose quality, but relies on dated examples (2008 Mumbai) and misses contemporary terrorism forms like ISIS-inspired modules and cyber threats."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q10",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a concise, well-organized answer that efficiently defines LWE, describes its impact on people, and lists comprehensive measures, all within the word limit. The statistical reduction (126 to ~38 districts) provides a strong evidence-based conclusion.",
+        "analysis": "The answer is remarkably efficient at 141 words. The definition is clear, identifying CPI-Maoist ideology and the Red Corridor with specific states. The 'People affected' section effectively covers coercion, extortion, youth recruitment, disrupted services, displacement, and paralyzed governance. The measures section is well-categorized into security (SAMADHAN, CoBRA, Greyhounds), development (Road Connectivity Project, telecom, PMGSY, aspirational districts), and governance/rights (PESA, FRA, surrender-cum-rehabilitation). The closing statistic (126 to ~38 districts) is a powerful evidence point. Unique mentions include Greyhounds (Andhra Pradesh commando force) and PESA/FRA — rights-based approaches often overlooked. The main weakness is the compressed, list-heavy format that reads more like notes than an essay.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.6,
+            "justification": "Excellent accuracy: CPI-Maoist identified, Red Corridor states listed, SAMADHAN strategy, CoBRA, Greyhounds (unique), Road Connectivity Project, PMGSY, PESA/FRA (rights-based, unique), surrender-cum-rehabilitation. The 126→38 districts reduction statistic is accurate and impactful."
+          },
+          "structure_flow": {
+            "score": 1.1,
+            "justification": "Three clear sections addressing all parts of the question (definition, impact, measures). However, the format is heavily bullet-pointed and reads as compressed notes. No introduction or flowing prose. The sections are clearly labeled but lack transitions."
+          },
+          "depth_examples": {
+            "score": 1.3,
+            "justification": "Strong specific references: CPI-Maoist, Greyhounds, CoBRA, SAMADHAN, PESA, FRA, Road Connectivity Project, PMGSY, aspirational districts. The 126→38 statistics provide quantitative depth. Rights-based approach (PESA/FRA) is a unique strength."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Good categorization of measures into security, development, and governance/rights shows analytical framework. The inclusion of PESA/FRA as rights-based approach demonstrates understanding of root causes. However, limited discussion of why LWE persists or effectiveness of measures."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Well within word limit (141). Concise and efficient. However, the note-like formatting with heavy abbreviation reduces readability. Could benefit from more prose to appear more essay-like."
+          }
+        },
+        "total_score": 6.2,
+        "max_marks": 10,
+        "brief_feedback": "Efficient and well-categorized with unique references (Greyhounds, PESA/FRA) and a strong closing statistic, but the compressed note-like format lacks the essay quality expected in UPSC Mains."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B delivers the most comprehensive and well-structured answer on LWE, with a clear definition, three-part impact analysis with an HDI reference, and detailed measures organized into security, development, and rights categories. The concluding assessment of the 2026 target adds analytical value.",
+        "analysis": "This is the strongest answer for this question. The definition effectively captures both the ideological basis (Maoist, overthrow democratic state) and the socio-economic exploitation dimension (land and resource alienation). The impact section is particularly strong with three developed categories: developmental deficit (infrastructure destruction, HDI reference), human cost (extortion, crossfire, forced recruitment), and displacement (psychological trauma). The measures section is well-organized with specific schemes under each category: SAMADHAN doctrine, UAVs/drones/GIS, SCA scheme, RRP, Mobile Tower Project, FRA 2006, Eklavya Model Residential Schools. The 126 to 38 districts statistic provides quantitative evidence. The concluding sentence assessing the 2026 target as 'highly achievable' directly addresses the question's premise. The word count (193) is over the limit but the quality compensates.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.8,
+            "justification": "Excellent accuracy with the broadest coverage: SAMADHAN doctrine, UAVs/drones/GIS, SCA scheme, RRP, Mobile Tower Project, FRA 2006, Eklavya Model Residential Schools (unique). HDI reference for impact assessment. 126→38 districts statistic. Land and resource alienation as root cause."
+          },
+          "structure_flow": {
+            "score": 1.5,
+            "justification": "Outstanding structure: clear definition paragraph, three-part impact section with bold labels, three-part measures section with bold labels, and an evaluative conclusion. Each section is well-developed. Flows naturally as an essay."
+          },
+          "depth_examples": {
+            "score": 1.5,
+            "justification": "Rich and specific: SAMADHAN doctrine, UAVs/GIS, SCA scheme, RRP, Mobile Tower Project, FRA 2006, Eklavya Model Residential Schools (unique among candidates), 126→38 districts, HDI reference. Each measure is linked to a specific scheme."
+          },
+          "analytical_depth": {
+            "score": 0.6,
+            "justification": "Strong analytical elements: root cause identification (land/resource alienation), HDI as impact metric, categorization of measures, and direct assessment of the 2026 target. The 'holistic integration' framing shows systemic thinking."
+          },
+          "presentation": {
+            "score": 0.4,
+            "justification": "Exceeds word limit (193 vs 150). However, language quality is high, formatting is professional, and the answer reads as a polished UPSC response. The overshoot is a concern but less severe than some others."
+          }
+        },
+        "total_score": 6.8,
+        "max_marks": 10,
+        "brief_feedback": "The most comprehensive and well-structured LWE answer with unique references (Eklavya schools, HDI impact), strong categorization, and a direct assessment of the 2026 target, despite exceeding the word limit."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a thorough answer with a clear Maoist ideology definition, four-part impact section, and five categories of government measures with a strong concluding statistic on incident reduction. The answer is detailed but significantly exceeds the word limit.",
+        "analysis": "The definition is solid, covering Maoist ideology, 'people's war' concept, and socio-economic root causes (land, forest rights, lack of development). The impact section is well-developed with four categories: violence/displacement, underdevelopment, fear/instability, and human rights violations. The inclusion of human rights violations 'by security forces during operations' is a nuanced and brave point that shows balanced thinking. The measures section covers five categories: security (CoBRA, intelligence, inter-state coordination), development (Aspirational Districts Programme, Road Requirement Plan I & II), governance, rehabilitation, and public awareness. The 77% decline in incidents from 2010-2022 is a powerful statistic. However, the answer dramatically exceeds the word limit (231 vs 150), which is a major concern. Some points like 'public awareness' are vague.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.4,
+            "justification": "Accurate coverage: Maoist ideology, people's war, Red Corridor states, CoBRA, Aspirational Districts Programme, Road Requirement Plan I & II. The 77% decline statistic is specific and impactful. Human rights violations point shows balanced understanding. Some categories (public awareness) are vague."
+          },
+          "structure_flow": {
+            "score": 1.4,
+            "justification": "Well-organized with clear definition, labeled impact categories, and numbered measures. The concluding sentence ties back to the 2026 target. Good essay flow overall. The five-category measures structure is logical."
+          },
+          "depth_examples": {
+            "score": 1.2,
+            "justification": "Good examples: CoBRA, Aspirational Districts Programme, Road Requirement Plan I & II, 77% incident decline 2010-2022. However, fewer specific scheme names compared to Candidates A and B. Human rights violations point is unique but not exemplified."
+          },
+          "analytical_depth": {
+            "score": 0.5,
+            "justification": "Good analytical balance with the human rights violations point (rare among candidates). The 77% decline provides evidence for effectiveness assessment. The 'root causes' framing in the definition shows understanding. However, analysis could be deeper."
+          },
+          "presentation": {
+            "score": 0.2,
+            "justification": "Severely exceeds word limit (231 vs 150, over 50% above). Despite good language quality and clear formatting, this would attract significant penalty. The answer needs substantial trimming."
+          }
+        },
+        "total_score": 5.7,
+        "max_marks": 10,
+        "brief_feedback": "Thorough coverage with the unique human rights violations point and strong 77% decline statistic, but the severe word limit violation (231 vs 150) significantly undermines an otherwise solid answer."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a clear and well-organized answer with explicit sections for understanding LWE, impact on people, and government measures, including the key district reduction statistic. The answer is within the word limit and reads well.",
+        "analysis": "The answer has a clean three-section structure directly mapping to the question's three parts. The definition covers Marxist-Leninist-Maoist philosophy, CPI(Maoist), and the Red Corridor with five specific states. The impact section covers loss of lives, infrastructure destruction, displacement/forced recruitment, hindrance to development, and the underdevelopment connection. The measures section includes Operation SAMADHAN, CRPF/CoBRA, Aspirational Districts Programme, PMGSY, LWE Mobile Tower Project, Forest Rights Act, MGNREGA, and surrender policies. The 126 to 38 districts statistic provides quantitative evidence. The concluding sentence on the 'integrated approach' and 2026 target directly addresses the question's premise. The answer is within the word limit (168) and maintains good readability. However, the analysis is primarily descriptive without much depth.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 2.2,
+            "justification": "Accurate coverage: CPI(Maoist), Marxist-Leninist-Maoist philosophy, Red Corridor with five states, Operation SAMADHAN, CRPF/CoBRA, PMGSY, LWE Mobile Tower Project, FRA, MGNREGA. The 126→38 statistic is included. Generally accurate but fewer unique points than top candidates."
+          },
+          "structure_flow": {
+            "score": 1.3,
+            "justification": "Clean three-section structure with headers directly addressing the question's parts. Consistent bullet-point formatting within sections. Good concluding sentence. However, sections are primarily lists without much connecting prose."
+          },
+          "depth_examples": {
+            "score": 1.1,
+            "justification": "Reasonable examples: Operation SAMADHAN, CRPF/CoBRA, PMGSY, LWE Mobile Tower Project, FRA, MGNREGA, 126→38 districts. However, lacks the more specific examples found in other answers (Eklavya schools, RRP, SCA scheme, Greyhounds)."
+          },
+          "analytical_depth": {
+            "score": 0.4,
+            "justification": "Limited analysis — primarily descriptive. The 'integrated approach combining security operations with development' conclusion is a good framing but not developed. No discussion of why LWE persists in certain areas or effectiveness of specific measures."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Within word limit (168). Clean formatting with headers and bullets. Readable and well-organized. Good language quality throughout."
+          }
+        },
+        "total_score": 5.7,
+        "max_marks": 10,
+        "brief_feedback": "Well-organized with clear section mapping to the question's parts and good specific references, but primarily descriptive without the analytical depth or unique details found in the strongest responses."
+      }
+    ]
+  }
+]

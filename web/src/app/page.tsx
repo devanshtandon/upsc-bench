@@ -13,7 +13,7 @@ import type { ExamType, Paper, MainsPaper } from "@/types";
 export default function Home() {
   const data = getLeaderboardData();
   const year = 2025;
-  const [examType, setExamType] = useState<ExamType>("prelims");
+  const [examType, setExamType] = useState<ExamType>("mains");
   const [paper, setPaper] = useState<Paper>("overall");
   const [mainsPaper, setMainsPaper] = useState<MainsPaper>("mains_total");
 
@@ -141,9 +141,10 @@ export default function Home() {
                 ) : (
                   <>
                     Each model writes full answers to all 87 Mains questions (8 essays + 79 GS).
-                    Answers are graded by an LLM judge using a 5-dimension rubric (content, structure,
-                    depth, analysis, presentation). Essay scoring picks the best answer from each
-                    section. All models exceed estimated human topper scores.
+                    Answers are graded by a calibrated LLM judge (Claude Opus) using a 5-dimension
+                    rubric with UPSC-realistic score anchors. All 4 candidates for each question
+                    are graded comparatively to ensure differentiation. Essay scoring picks the
+                    best answer from each section (A &amp; B).
                   </>
                 )}
               </p>

@@ -1,0 +1,127 @@
+[
+  {
+    "question_id": "mains_essay_2025_q5",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A opens with a vivid physics-to-metaphor transition, arguing that the proverb's wisdom lies in discerning when restraint is the most effective intervention versus when purposeful action is unavoidable. The essay traverses nature (johads, wetlands), psychology (rumination research, Gita, Buddhism), public discourse, economic policy (RBI, 2008 crisis), conflict resolution (Good Friday Agreement, Northeast India), and then pivots to counter-arguments covering misinformation, domestic violence, #MeToo, river pollution (Yamuna/Ganga/Thames), and disaster response (2004 tsunami, COVID-19).",
+        "analysis": "This is the strongest essay in the batch. Its opening paragraph is masterful — it establishes the metaphor, immediately qualifies it, and sets up a clear thesis about discernment rather than passivity. The range of examples is exceptional: johads and wetlands for ecology, rumination research for psychology, RBI forward guidance for economics, the Good Friday Agreement for geopolitics, and the Vishakha Guidelines for social justice. Crucially, the counter-arguments are not tokenistic; they occupy nearly a third of the essay and are specific (chemical effluents vs. transient silt, #MeToo vs. patience). The penultimate paragraph's framing — 'diagnostic rather than doctrinal' — is original and analytically sharp. The only weaknesses are slight over-length (1385 words against 1200 limit), occasional density that sacrifices readability for comprehensiveness, and the absence of a memorable closing image. The essay reads like a well-prepared candidate who has deeply internalized multiple perspectives.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 28.5,
+            "justification": "Covers ecology (johads, wetlands, river cleanup), psychology (rumination, mindfulness, Gita, Buddhism), public discourse (media), economics (RBI, 2008 crisis), conflict resolution (Good Friday Agreement, NE India), social justice (#MeToo, Vishakha), disaster response (tsunami, COVID), and environmental pollution (Yamuna/Ganga/Thames) — breadth is outstanding with factual accuracy throughout."
+          },
+          "structure_flow": {
+            "score": 19.5,
+            "justification": "Excellent thesis in opening paragraph, logical progression from nature to mind to public life to economics to geopolitics, clean pivot to counter-arguments, and a synthesizing conclusion; the flow is organic rather than mechanical, though the essay slightly exceeds the word limit."
+          },
+          "depth_examples": {
+            "score": 19.0,
+            "justification": "Specific examples are rich — johads in Rajasthan, RBI forward guidance, Good Friday Agreement, Vishakha Guidelines, Thames cleanup — each used purposefully rather than decoratively; could have included more data points or statistics to deepen evidence."
+          },
+          "analytical_depth": {
+            "score": 20.0,
+            "justification": "The 'diagnostic rather than doctrinal' framing is genuinely original; the distinction between transient suspension and ongoing contamination is analytically sophisticated; the essay avoids the common trap of treating the counter-argument as an afterthought, instead weaving it into the fabric of the argument."
+          },
+          "presentation": {
+            "score": 9.0,
+            "justification": "Language is precise and elegant, paragraphs are well-proportioned, transitions are smooth; docked slightly for exceeding the 1200-word limit by ~185 words and for occasional density that may challenge readability."
+          }
+        },
+        "total_score": 96.0,
+        "max_marks": 125,
+        "brief_feedback": "An exceptional essay that demonstrates genuine analytical depth. The 'diagnostic vs. doctrinal' framing elevates the argument beyond the standard patience-vs-action binary. The breadth of examples — from Rajasthani johads to the Good Friday Agreement to the Vishakha Guidelines — is impressive and each is deployed with purpose. The counter-argument section is among the strongest seen, treating exceptions not as qualifications but as integral to the thesis. Minor deductions for exceeding the word limit and occasional over-density. This would place comfortably in the top tier of UPSC essay answers."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B opens with the Lao Tzu quotation and frames the essay around the tension between strategic restraint and the danger of confusing patience with apathy. The essay covers individual psychology (mindfulness, decision fatigue), governance and economics (License Raj, 1991 liberalization), international relations (Iraq, Libya, NAM), ecology (Chernobyl, COVID lockdowns, Ganga/Yamuna), social justice (Ambedkar's Mahad Satyagraha, #MeToo, MLK's Birmingham letter), and crisis management (2008 financial crisis, COVID).",
+        "analysis": "This is a well-structured and rhetorically polished essay. The Lao Tzu opening is effective and the essay maintains a confident, authoritative tone throughout. The India-specific examples are strong: License Raj/1991 liberalization for economics and the Mahad Satyagraha for social justice are well-chosen and accurately deployed. The Chernobyl and COVID lockdown examples for ecology are vivid and compelling. The counter-argument section is substantive, with the MLK Birmingham Jail letter reference being particularly apt. However, the essay has notable weaknesses: the 'muddy vs. toxic water' distinction, while useful, is somewhat formulaic and lacks the analytical subtlety of Candidate A's 'diagnostic vs. doctrinal' framing. Some passages, particularly on governance and economics, feel like textbook summaries rather than original analysis. The use of 'phronesis' in the conclusion, while learned, feels slightly performative. Overall, this is a very competent essay that would score well in UPSC but lacks the spark of originality that distinguishes truly outstanding answers.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 27.0,
+            "justification": "Covers psychology, economics (License Raj), geopolitics (Iraq, Libya, NAM), ecology (Chernobyl, COVID), social justice (Ambedkar, MLK, #MeToo), and crisis management — comprehensive coverage with mostly accurate facts, though the geopolitics section relies on well-worn examples."
+          },
+          "structure_flow": {
+            "score": 18.5,
+            "justification": "Clear introduction with Lao Tzu, logical thematic progression, well-placed pivot to counter-arguments, and a synthesizing conclusion using the 'phronesis' concept; structure is somewhat predictable (for/against/synthesis) but executed cleanly."
+          },
+          "depth_examples": {
+            "score": 17.5,
+            "justification": "Chernobyl rewilding and Mahad Satyagraha are excellent specific examples; the License Raj narrative is well-deployed; however, some examples (Iraq/Libya interventions, COVID lockdowns clearing rivers) are commonly cited and lack fresh specificity or data."
+          },
+          "analytical_depth": {
+            "score": 17.0,
+            "justification": "The 'muddy vs. toxic water' framing is adequate but formulaic; the essay competently balances both sides but does not offer a genuinely novel lens — the argument follows the expected patience-vs-action binary without transcending it."
+          },
+          "presentation": {
+            "score": 10.0,
+            "justification": "Excellent language quality, well-controlled paragraphs, appropriate word count (1325), smooth transitions, and a rhetorically effective conclusion; presentation is the essay's strongest dimension."
+          }
+        },
+        "total_score": 90.0,
+        "max_marks": 125,
+        "brief_feedback": "A polished, well-organized essay that demonstrates strong command of content and rhetoric. The Lao Tzu opening, Chernobyl rewilding example, and MLK Birmingham letter reference are highlights. The License Raj/1991 liberalization case is effectively deployed. However, the essay relies on a somewhat formulaic 'patience vs. action' binary without reaching the analytical depth that would distinguish it as exceptional. Some examples (Iraq, Libya, COVID river clearing) are over-familiar. The 'phronesis' reference in the conclusion is a nice flourish but feels ornamental. A strong upper-tier essay that would score well but is marginally less distinguished than Candidate A."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C adopts an academic, measured tone and explores the proverb through ecology (rewilding, Knepp Estate, Western Ghats), political history (post-colonial nation-building, Arab Spring), governance (due process, demonetization), social justice (Rwanda genocide as a limit case), and personal psychology (mindfulness, CBT). The essay emphasizes discernment between situations requiring patience and those demanding action.",
+        "analysis": "This is a competent but unremarkable essay. Its greatest strength is caution and balance — every claim is carefully qualified, and the essay never overreaches. The Knepp Estate rewilding example is a relatively fresh reference, and the Arab Spring discussion is more nuanced than the typical Iraq/Libya treatment. The demonetization example is relevant to Indian governance. However, the essay suffers from several weaknesses. First, it is verbose and repetitive — the same point about 'discernment' is restated multiple times without deepening the analysis. Second, the opening paragraph is labored and abstract, lacking the immediate grip of Candidates A or B. Third, the counter-arguments are thin: Rwanda is mentioned briefly and the social justice section is underdeveloped compared to other candidates. Fourth, the essay lacks memorable specific examples — it speaks of 'post-colonial nation-building efforts in many African and Asian countries' without naming any, and its India-specific examples (demonetization, communal tensions) are generic. The psychology section at the end feels like an afterthought. The writing is correct but flat, lacking the rhetorical energy that UPSC examiners reward.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 23.0,
+            "justification": "Covers ecology, post-colonial politics, Arab Spring, Indian governance (demonetization, judiciary), Rwanda, and psychology — reasonable range but several areas are treated superficially, and the social reform counter-argument is underdeveloped compared to peers."
+          },
+          "structure_flow": {
+            "score": 15.0,
+            "justification": "Has a clear introduction-body-counterargument-conclusion structure, but the opening is overly abstract, the pivot to counter-arguments is abrupt, and the psychology section feels tacked on at the end rather than integrated into the flow."
+          },
+          "depth_examples": {
+            "score": 14.0,
+            "justification": "Knepp Estate rewilding is a relatively fresh example, but many claims are unsupported by specific instances — 'post-colonial nation-building efforts in many African and Asian countries' is vague, and the demonetization treatment is surface-level without data or specific impacts."
+          },
+          "analytical_depth": {
+            "score": 14.5,
+            "justification": "The essay correctly identifies the core tension but restates the 'discernment' point multiple times without deepening it; the Arab Spring analysis shows some nuance but doesn't develop a distinctive analytical framework; the essay is balanced but not incisive."
+          },
+          "presentation": {
+            "score": 8.5,
+            "justification": "Language is correct and academic but flat and occasionally verbose; paragraphs are overly long; the word count (1218) is appropriate; the essay lacks the rhetorical energy and memorable phrasing that distinguish top-scoring answers."
+          }
+        },
+        "total_score": 75.0,
+        "max_marks": 125,
+        "brief_feedback": "A safe, competent essay that demonstrates adequate understanding of the topic but fails to distinguish itself. The Knepp Estate reference and the Arab Spring analysis are relative strengths, but the essay is undermined by verbosity, repetition of the 'discernment' theme without deepening it, vague references ('many African and Asian countries'), and an underdeveloped counter-argument section. The writing is correct but lacks energy. This would score in the median range — a candidate who has prepared well but has not yet developed the analytical sharpness or rhetorical command that UPSC rewards at the highest levels."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D opens with the Lao Tzu quotation and frames the essay around the tension between restraint and the moral imperative to act when fundamental rights are at stake. The essay covers governance (License Raj, 1991 reforms), international relations (Iraq, Libya, Panchsheel), psychology (mindfulness, CBT), Indian constitutional history (Ayodhya verdict), social reform (Sati abolition, Ambedkar, RTE Act), climate crisis (Paris Agreement, NAPCC), economic policy (smart regulation, RBI, Nordic model), and concludes with Thirukkural.",
+        "analysis": "This is the second-strongest essay, distinguished by its breadth of Indian references and its structural discipline. The Ayodhya verdict example is excellent — original, specific, and perfectly apt for the topic of institutional patience allowing clarity to emerge. The social reform section (Sati, Ambedkar, RTE Act) is effectively deployed as a counterpoint. The essay's framing through the Bhagavad Gita's nishkama karma and Gandhi's strategic restraint (Chauri Chaura withdrawal) adds philosophical depth rooted in Indian tradition. The Thirukkural closing is a sophisticated touch. However, there are weaknesses. The License Raj/1991 example and the Iraq/Libya geopolitics section closely mirror Candidate B's treatment, and neither is more deeply developed here. The climate section, while necessary, is somewhat perfunctory. The essay's main structural weakness is that the opening paragraph, while clear, is overly programmatic — it reads like a table of contents rather than a compelling entry point. The heading format (with a title using '#') is unusual for UPSC essays and slightly undermines the formal register. Despite these issues, the essay demonstrates strong command of diverse Indian references and a mature analytical framework.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 27.5,
+            "justification": "Impressive range: License Raj, Iraq/Libya, mindfulness/CBT, Ayodhya verdict, Sati abolition, Ambedkar, RTE Act, Paris Agreement, NAPCC, nishkama karma, Gandhi/Chauri Chaura, smart regulation, RBI, Nordic model, Thirukkural — among the broadest coverage in the batch with strong India-specific grounding."
+          },
+          "structure_flow": {
+            "score": 17.5,
+            "justification": "Clear thesis, well-organized thematic sections, effective pivot from patience to intervention, and a philosophically grounded conclusion via Thirukkural; docked for the overly programmatic opening paragraph and the unusual heading format which slightly disrupts the essay register."
+          },
+          "depth_examples": {
+            "score": 18.5,
+            "justification": "The Ayodhya verdict example is outstanding — specific, original, and perfectly tailored to the topic; Gandhi's withdrawal after Chauri Chaura is another strong, specific instance; the License Raj treatment, while accurate, lacks fresh specificity."
+          },
+          "analytical_depth": {
+            "score": 18.5,
+            "justification": "The nishkama karma framing adds genuine philosophical depth; Gandhi as embodying the synthesis of patience and action is a sophisticated argument; the distinction between temporary turbulence and structural pollutants is clearly drawn; the essay comes close to Candidate A's depth but doesn't quite match the 'diagnostic vs. doctrinal' originality."
+          },
+          "presentation": {
+            "score": 9.5,
+            "justification": "Strong, authoritative prose with well-controlled paragraphs and effective transitions; the Thirukkural closing is elegant; minor deductions for the heading format and the slightly mechanical opening paragraph; word count (1272) is appropriate."
+          }
+        },
+        "total_score": 91.5,
+        "max_marks": 125,
+        "brief_feedback": "A strong, well-rounded essay that stands out for its rich Indian references — the Ayodhya verdict example is the best single illustration in the entire batch, and the nishkama karma/Chauri Chaura framework adds genuine philosophical depth. The Thirukkural closing demonstrates cultural sophistication. The essay marginally trails Candidate A due to a less original overarching analytical frame and a somewhat mechanical opening, but it would score very well in UPSC. The breadth of coverage — from Panchsheel to the Paris Agreement to the RTE Act — reflects a candidate with comprehensive preparation and the ability to integrate diverse knowledge into a coherent argument."
+      }
+    ]
+  }
+]

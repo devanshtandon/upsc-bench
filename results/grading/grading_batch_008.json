@@ -1,0 +1,286 @@
+{
+  "batch_id": "batch_008",
+  "scores": [
+    {
+      "question_id": "mains_gs3_2025_q6",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 9.0,
+        "structure_flow": 8.0,
+        "depth_examples": 8.5,
+        "analytical_depth": 7.5,
+        "presentation": 8.0
+      },
+      "total_score": 8.5,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive coverage of energy independence pathways with specific schemes (500 GW NDC, FAME, PAT, Green Hydrogen Mission). Biotechnology role is well-articulated but could deepen on competitive advantage. Word limit slightly exceeded (156 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q7",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 9.0,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 8.4,
+      "max_marks": 10,
+      "brief_feedback": "Excellent definition and nuanced role of CCUS in hard-to-abate sectors. Quantitative data (37 GtCO2/yr vs current capacity) strengthens answer. Good acknowledgment of limitations. Exceeded word limit (169 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q8",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 9.0,
+        "structure_flow": 9.0,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 8.5,
+      "max_marks": 10,
+      "brief_feedback": "Well-structured with clear cause-effect linkages. References CGWB data and relevant acts (Groundwater Act, ICZM). Could strengthen with specific coastal examples. Slightly exceeded word limit (156 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q9",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.0,
+        "depth_examples": 8.5,
+        "analytical_depth": 7.5,
+        "presentation": 8.0
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Strong contemporary examples (Pulwama, Uri, ISIS cases) and institutional responses (NIA, UAPA, NATGRID). Balakot reference relevant. Could deepen analysis of radicalization mechanisms and emerging threats like drone-enabled attacks."
+    },
+    {
+      "question_id": "mains_gs3_2025_q10",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.0,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 8.2,
+      "max_marks": 10,
+      "brief_feedback": "Clear definition of LWE and well-mapped impacts on Adivasi populations. SAMADHAN strategy and specific statistics (126→38 affected districts) provide concrete evidence. Well-balanced coverage of security and developmental measures."
+    },
+    {
+      "question_id": "mains_gs3_2025_q11",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 9.0,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.5,
+        "presentation": 8.0
+      },
+      "total_score": 12.6,
+      "max_marks": 15,
+      "brief_feedback": "Excellent multi-dimensional FHI framework with clear linkages to fiscal sustainability and incentive structures. References FRBM norms and PFMS/IFMIS. Analytical depth on benchmarking and cooperative federalism is strong. Within word limit (255 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q12",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 9.0,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 12.6,
+      "max_marks": 15,
+      "brief_feedback": "Strong articulation of PLI rationale (China+1, manufacturing share, FDI). Quantified data (mobile exports ~$15bn, Rs 1.97 lakh crore) and sector examples (electronics, pharma) robust. Improvement suggestions are practical (domestic value addition, timely disbursal). Slightly exceeded word limit (261 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q13",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 9.0,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 12.6,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive cause-effect analysis with CGWB data (18% over-exploited units). Well-mapped government initiatives (Atal Bhujal Yojana, Jal Shakti, PMKSY). Acknowledges systemic nature of problem. Exceeded word limit (280 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q14",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 12.5,
+      "max_marks": 15,
+      "brief_feedback": "Good coverage of FPI scope (top milk/spice producer) with quantified loss data (Rs 90,000 crore post-harvest). Schemes well-listed (PMKSY, PMFME, PLI) but analysis could deepen on sectoral competitiveness and market dynamics. Within word limit (259 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q15",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 12.6,
+      "max_marks": 15,
+      "brief_feedback": "Excellent technical depth on nano-enabled delivery systems, nanosensors, and post-harvest applications. Clear socio-economic uplift pathways. Policy alignment (Nano Mission, DST, Digital Agriculture) appropriate. Exceeded word limit (281 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q16",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.0,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 12.5,
+      "max_marks": 15,
+      "brief_feedback": "Well-articulated challenges (capital intensity, technology access, infrastructure, supply chain). ISM programme features clear (50% fiscal support, design-linked incentives). Could detail specific fab projects or timeline targets. Exceeded word limit (277 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q17",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 12.7,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive enumeration of mining hazards (land, water, air, waste, biodiversity) with concrete examples. Remedial measures span regulation, planning, pollution control, and reclamation. Exceeded word limit (300 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q18",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 9.0,
+        "structure_flow": 8.5,
+        "depth_examples": 8.0,
+        "analytical_depth": 8.5,
+        "presentation": 8.0
+      },
+      "total_score": 12.4,
+      "max_marks": 15,
+      "brief_feedback": "Strong review of Paris commitments and COP26 evolution with quantified targets (33-35% to 45% emissions intensity, 500 GW). NDC 2022 update clearly articulated. Could deepen on Panchamrit synergies or sectoral delivery mechanisms. Within word limit (227 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q19",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 12.6,
+      "max_marks": 15,
+      "brief_feedback": "Nuanced mapping of challenges (ethnic tensions, insurgency, porous borders, narco-terror) and recent accords (Bodo 2020, Karbi Anglong 2021, UNLF 2023). Security trend data encouraging. Could detail progress/gaps in implementation."
+    },
+    {
+      "question_id": "mains_gs3_2025_q20",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 12.6,
+      "max_marks": 15,
+      "brief_feedback": "Strong articulation of maritime security imperative (95% trade, 85% crude imports). Challenges well-enumerated (terrorism, piracy, IUU, cyber, hybrid threats). Way forward balances MDA, coastal hardening, and cooperative frameworks (SAGAR, IPOI). Exceeded word limit (271 vs 250)."
+    },
+    {
+      "question_id": "mains_gs4_2025_q1a",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.0,
+        "analytical_depth": 8.0,
+        "presentation": 8.0
+      },
+      "total_score": 8.2,
+      "max_marks": 10,
+      "brief_feedback": "Six ethical dilemmas clearly articulated (privacy, speech-harm, autonomy-manipulation, equality, accountability, truth-virality). Balanced treatment of tensions. Could strengthen with specific platform case studies or regulatory examples."
+    },
+    {
+      "question_id": "mains_gs4_2025_q1b",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.0,
+        "analytical_depth": 8.5,
+        "presentation": 8.0
+      },
+      "total_score": 8.3,
+      "max_marks": 10,
+      "brief_feedback": "Good definition linking constitutional morality to civil education and rule of law. Strong on public servant implications (impartiality, protection of rights, oversight). Could deepen with specific institutional mechanisms or case illustrations of ethical tension."
+    },
+    {
+      "question_id": "mains_gs4_2025_q2a",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.5,
+        "analytical_depth": 8.5,
+        "presentation": 8.0
+      },
+      "total_score": 8.4,
+      "max_marks": 10,
+      "brief_feedback": "Sophisticated critical analysis of Clausewitz using contemporary examples (Russia-Ukraine, West Asia). Introduces hybrid warfare concept and nuclear deterrence constraints effectively. Balances support and critique of the statement well."
+    },
+    {
+      "question_id": "mains_gs4_2025_q2b",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.0,
+        "analytical_depth": 8.5,
+        "presentation": 8.0
+      },
+      "total_score": 8.3,
+      "max_marks": 10,
+      "brief_feedback": "Identifies key ethical dilemmas (procedural justice, transparency, livelihoods) and stakeholder tensions well. Proposes balanced solution (security-sensitive but science-led). Could strengthen with specific border project examples (Ladakh/NE infrastructure)."
+    },
+    {
+      "question_id": "mains_gs4_2025_q3a",
+      "candidate_id": "candidate_9647",
+      "rubric_scores": {
+        "content_accuracy": 8.5,
+        "structure_flow": 8.5,
+        "depth_examples": 8.0,
+        "analytical_depth": 8.5,
+        "presentation": 8.0
+      },
+      "total_score": 8.3,
+      "max_marks": 10,
+      "brief_feedback": "Thoughtful interpretation of Thiruvalluvar quote linking equanimity to ethical decision-making. Applications to public servants and disaster management are apt. Could deepen with specific examples of composure under pressure or internal strength."
+    }
+  ],
+  "count": 20
+}

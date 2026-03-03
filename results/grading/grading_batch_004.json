@@ -1,0 +1,285 @@
+{
+  "batch_id": "batch_004",
+  "scores": [
+    {
+      "question_id": "mains_gs3_2025_q13",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 2.8,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.0,
+        "presentation": 0.8
+      },
+      "total_score": 12.8,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive answer with solid factual content, specific data points (250 BCM withdrawal, 1,186 over-exploited blocks), and concrete government schemes. However, exceeds word limit (282 vs 250), analysis lacks critical depth on policy effectiveness, and conclusion feels slightly generic."
+    },
+    {
+      "question_id": "mains_gs3_2025_q14",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.6,
+        "structure_flow": 3.0,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.0,
+        "presentation": 0.8
+      },
+      "total_score": 13.2,
+      "max_marks": 15,
+      "brief_feedback": "Well-structured answer with accurate scope assessment (10% processing vs 65-70% globally) and multiple government schemes (SAMPADA, Mega Food Parks, PLI, PM-FME). Strong on schemes but somewhat light on critical evaluation of employment impact and ground-level implementation challenges."
+    },
+    {
+      "question_id": "mains_gs3_2025_q15",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.2,
+        "structure_flow": 2.8,
+        "depth_examples": 2.6,
+        "analytical_depth": 0.9,
+        "presentation": 0.8
+      },
+      "total_score": 12.3,
+      "max_marks": 15,
+      "brief_feedback": "Good coverage of nanotechnology applications (nano-urea, sensors, post-harvest) with IFFCO example. However, some claims (e.g., 20-30% efficiency gains, 25-30% post-harvest loss) lack substantiation. Exceeds word limit (278 vs 250). Limited discussion of scalability challenges or farmer adoption barriers."
+    },
+    {
+      "question_id": "mains_gs3_2025_q16",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.6,
+        "structure_flow": 3.0,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.1,
+        "presentation": 0.8
+      },
+      "total_score": 13.3,
+      "max_marks": 15,
+      "brief_feedback": "Excellent factual accuracy on challenges ($3-7B capex, sub-7nm nodes controlled by few players) and ISM features (50% fiscal support, DLI scheme, SPECS, ISRC). Balanced discussion of tech transfer and partnerships. Minor word-limit overshoot (294 vs 250), but strong on analytical clarity."
+    },
+    {
+      "question_id": "mains_gs3_2025_q17",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.8,
+        "structure_flow": 3.2,
+        "depth_examples": 2.8,
+        "analytical_depth": 1.2,
+        "presentation": 0.9
+      },
+      "total_score": 13.9,
+      "max_marks": 15,
+      "brief_feedback": "Strong answer with comprehensive environmental hazards (air, water, soil, social displacement). Excellent specific examples (Rajasthan silicosis, Jharia subsidence, Meghalaya pollution). Remedial measures well-articulated with DMF and District Mineral Foundation examples. Exceeds word limit (330 vs 250) but provides high-quality substantive content."
+    },
+    {
+      "question_id": "mains_gs3_2025_q18",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 2.8,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.0,
+        "presentation": 0.8
+      },
+      "total_score": 12.4,
+      "max_marks": 15,
+      "brief_feedback": "Accurate on Paris NDCs (33-35% emissions intensity, 40% non-fossil capacity, carbon sink targets) and Panchamrit elements (500 GW renewable, 45% intensity reduction, Net-Zero 2070). However, answer lacks critical analysis of implementation progress and credibility gaps. Word count at limit (261 words)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q19",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.5,
+        "structure_flow": 2.9,
+        "depth_examples": 2.6,
+        "analytical_depth": 0.9,
+        "presentation": 0.8
+      },
+      "total_score": 12.7,
+      "max_marks": 15,
+      "brief_feedback": "Good identification of NE challenges (insurgency, ethnic conflicts, porous borders, governance deficits). Comprehensive peace accords table (Bodo, NSCN, Bru-Reang, Karbi, Assam-Meghalaya). However, limited depth on root causes, success rates of accords, or sustainability. Could strengthen analytical perspective."
+    },
+    {
+      "question_id": "mains_gs3_2025_q20",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.6,
+        "structure_flow": 3.0,
+        "depth_examples": 2.7,
+        "analytical_depth": 1.1,
+        "presentation": 0.9
+      },
+      "total_score": 13.3,
+      "max_marks": 15,
+      "brief_feedback": "Strong answer on maritime security importance (95% trade volume, 7,516 km coastline, 2.01M sq km EEZ). Well-structured challenges section with 26/11 example and geopolitical tensions. NDMA, SAGAR doctrine, IONS/IORA frameworks mentioned. Balanced approach to hybrid threats; good integration of Blue Economy."
+    },
+    {
+      "question_id": "mains_gs4_2025_q1a",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 2.0,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.6,
+        "presentation": 0.6
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive enumeration of social media ethical dilemmas (privacy, misinformation, freedom vs. hate speech, digital divide, algorithmic bias, mental health). Well-organized bullet points cover breadth. However, examples are illustrative rather than deeply analytical; lacks nuanced discussion of policy tensions or trade-offs."
+    },
+    {
+      "question_id": "mains_gs4_2025_q1b",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.7,
+        "presentation": 0.7
+      },
+      "total_score": 8.6,
+      "max_marks": 10,
+      "brief_feedback": "Strong grounding in Ambedkar's constitutional morality concept with relevant constitutional articles (14-16). Clear linkage to good governance and accountability. Discusses CAG and Lokpal as mechanisms. However, could benefit from specific case studies of officers or policies demonstrating constitutional morality in practice."
+    },
+    {
+      "question_id": "mains_gs4_2025_q2a",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.3,
+        "structure_flow": 2.0,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.8,
+        "presentation": 0.7
+      },
+      "total_score": 8.5,
+      "max_marks": 10,
+      "brief_feedback": "Good critical analysis of Clausewitz with contemporary examples (Ukraine-Russia, South China Sea). Identifies limitations well (nuclear deterrence, economic interdependence, hybrid warfare, IHL constraints). However, word limit exceeded (203 vs 150) and analysis could be more nuanced on when conventional war remains rational."
+    },
+    {
+      "question_id": "mains_gs4_2025_q2b",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.1,
+        "structure_flow": 1.9,
+        "depth_examples": 1.5,
+        "analytical_depth": 0.7,
+        "presentation": 0.6
+      },
+      "total_score": 7.8,
+      "max_marks": 10,
+      "brief_feedback": "Identifies core ethical tension between security and ecology well. Mentions intergenerational justice, indigenous rights, utilitarian vs. deontological conflict. Lacks specific border area examples (Western Ghats, Northeast, Himalayas mentioned but not detailed). Word limit exceeded (161 vs 150); solutions somewhat generic."
+    },
+    {
+      "question_id": "mains_gs4_2025_q3a",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 2.1,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.7
+      },
+      "total_score": 8.4,
+      "max_marks": 10,
+      "brief_feedback": "Good interpretation of Thiruvalluvar's equanimity wisdom with contemporary relevance. COVID-19 governance example relevant. Connects to Bhagavad Gita's Sthitaprajna concept. However, could provide more specific examples of resilience in crisis management or administrative challenges where equanimity proved decisive."
+    },
+    {
+      "question_id": "mains_gs4_2025_q3b",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.3,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.7,
+        "presentation": 0.7
+      },
+      "total_score": 8.5,
+      "max_marks": 10,
+      "brief_feedback": "Clear explanation of William James' attitudinal transformation principle with governance examples (Armstrong Pame on roads). Addresses social transformation and mental health relevance. Connects to Gandhi's \"Be the change\" principle. Word limit exceeded (172 vs 150); examples somewhat familiar but well-applied."
+    },
+    {
+      "question_id": "mains_gs4_2025_q3c",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 2.0,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.7,
+        "presentation": 0.7
+      },
+      "total_score": 8.2,
+      "max_marks": 10,
+      "brief_feedback": "Good interpretation of Vivekananda's quote on morality vs. law. COVID-era black marketing example relevant. However, lacks specific case studies of moral failures (corruption, environmental violations) that illustrate the law-morality gap. Word limit exceeded (169 vs 150); conclusions somewhat predictable."
+    },
+    {
+      "question_id": "mains_gs4_2025_q4a",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.3,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.8,
+        "presentation": 0.7
+      },
+      "total_score": 8.6,
+      "max_marks": 10,
+      "brief_feedback": "Solid justification of reason, critical thinking, and ethics triad for welfare schemes. PM Awas, DBT, MGNREGA, reservations mentioned. Ashok Khemka example on middlemen exploitation strong. Could expand with more scheme implementation cases showing unintended consequences or elite capture risks."
+    },
+    {
+      "question_id": "mains_gs4_2025_q4b",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 2.1,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.8,
+        "presentation": 0.7
+      },
+      "total_score": 8.8,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive coverage of Mahavira's five vows (Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha) with philosophical concepts (Anekantavada, Syadvada, Triratna). Contemporary relevance to pluralism and environmental conservation well-articulated. Could provide more specific modern examples of Jain ethics in practice."
+    },
+    {
+      "question_id": "mains_gs4_2025_q5a",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.3,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.8,
+        "presentation": 0.7
+      },
+      "total_score": 8.6,
+      "max_marks": 10,
+      "brief_feedback": "Good analysis of Nishkama Karma concept with T.N. Seshan and Armstrong Pame examples. Links Gita philosophy to civil service with Eudaimonia concept. Kartavya Bhavana framing strong. However, word limit exceeded (164 vs 150); could deepen discussion of how duty conflicts with ethical dilemmas in practice."
+    },
+    {
+      "question_id": "mains_gs4_2025_q5b",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 2.1,
+        "depth_examples": 1.9,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 9.0,
+      "max_marks": 10,
+      "brief_feedback": "Well-organized response with institutional, participatory, capacity, and accountability measures. Single-window clearance, PPPs, technology integration mentioned. Gandhian Antyodaya principle grounds answer philosophically. Word limit exceeded (166 vs 150); specific implementation examples in local governance would strengthen."
+    },
+    {
+      "question_id": "mains_gs4_2025_q6a",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.3,
+        "structure_flow": 2.0,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.7
+      },
+      "total_score": 8.4,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive measures for value-based work culture (Code of Ethics, Ethics Committee, whistleblower protection, training, leadership by example, audits). Institutional framework sound but somewhat textbook. Word limit exceeded (168 vs 150); could include examples of organizations that successfully institutionalized ethics or case studies of ethical lapses."
+    }
+  ]
+}

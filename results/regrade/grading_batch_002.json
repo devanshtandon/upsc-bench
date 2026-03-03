@@ -1,0 +1,127 @@
+[
+  {
+    "question_id": "mains_essay_2025_q2",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "The essay provides a competent overview of subduing enemies without fighting, covering diplomacy, economic sanctions, information warfare, and counterinsurgency, with references to Sun Tzu, Kautilya, the Cold War, and South Africa. It acknowledges limitations through non-state actors and WWII appeasement, and extends the concept to corporate strategy.",
+        "analysis": "Candidate A demonstrates solid understanding of the topic and covers the expected thematic pillars—diplomacy, economics, information warfare—but does so in a somewhat formulaic and predictable manner. The Kautilya reference is well-placed, and the South Africa sanctions example is a good choice, but the essay lacks the specific data points and distinctive examples that would elevate it. The corporate strategy section (mergers, IP disputes) feels like padding and adds little analytical weight. Notably missing are Gandhi/Satyagraha, Ashoka, soft power theory, and any cyber warfare specifics like Stuxnet. The limitations section is adequate but does not go beyond standard observations about non-state actors and appeasement.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 20.6,
+            "justification": "Covers the core pillars (diplomacy, economics, info warfare, COIN) with relevant historical examples but misses several important dimensions like Gandhi, Ashoka, soft power, and cyber warfare specifics."
+          },
+          "structure_flow": {
+            "score": 13.75,
+            "justification": "Clear linear progression from philosophy to diplomacy to economics to information warfare to limitations, with adequate introduction and conclusion, but the structure is predictable and lacks rhetorical dynamism."
+          },
+          "depth_examples": {
+            "score": 11.25,
+            "justification": "Examples are relevant (Cold War, South Africa, Kargil, Northeast insurgency) but lack specific data, statistics, or granular detail; the corporate strategy examples are superficial."
+          },
+          "analytical_depth": {
+            "score": 11.25,
+            "justification": "Analysis remains at a competent descriptive level without offering original insights or genuinely multi-perspectival thinking; the ethical questioning in the penultimate paragraph is underdeveloped."
+          },
+          "presentation": {
+            "score": 6.88,
+            "justification": "Within word limit at 1293 words, readable prose, but somewhat verbose and repetitive in phrasing across paragraphs."
+          }
+        },
+        "total_score": 63.73,
+        "max_marks": 125,
+        "brief_feedback": "A competent but formulaic essay that covers expected ground without distinction. Strengthening with specific data, adding the Gandhian dimension, and developing more original analytical insights would significantly improve the score."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "A well-structured and richly illustrated essay that covers deterrence (Cold War, Quad), economic statecraft (sanctions, BRI/Hambantota), technology/cyber warfare (Stuxnet, 2016 election interference), and soft power (Yoga, Bollywood, Vaccine Maitri), grounded in both Sun Tzu and Kautilya with a Mahabharata reference. The essay balances advocacy with a strong limitations section citing Ukraine, Kargil, and Galwan.",
+        "analysis": "Candidate B delivers the strongest overall breadth among the first two essays, with the Stuxnet cyber sabotage example being particularly specific and effective, and the BRI/Hambantota case well-deployed. The inclusion of the Quad as a modern deterrence mechanism is timely and relevant. The soft power section is well-rounded with concrete Indian examples. The closing line—'the supreme art of war is indistinguishable from the supreme art of peace'—is a genuinely memorable rhetorical flourish. However, the essay does not engage with Gandhi/Satyagraha or Ashoka, which are significant omissions for an essay on non-violent subduing of enemies in a UPSC context. The analytical depth, while good, tends toward description of mechanisms rather than critical interrogation of the concept's ethical or philosophical tensions.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 25.5,
+            "justification": "Excellent breadth spanning military deterrence, economic statecraft, cyber warfare, information operations, and soft power with specific examples across each domain, though missing the Gandhian and Ashokan dimensions."
+          },
+          "structure_flow": {
+            "score": 16.25,
+            "justification": "Strong thematic progression from philosophical foundations through deterrence, economics, technology, soft power, to limitations, with a compelling concluding synthesis."
+          },
+          "depth_examples": {
+            "score": 16.25,
+            "justification": "Stuxnet, Hambantota port lease, SWIFT expulsion, 2016 election interference, and Vaccine Maitri are specific, well-chosen examples that demonstrate genuine knowledge beyond textbook generalities."
+          },
+          "analytical_depth": {
+            "score": 14.5,
+            "justification": "Good balance between advocacy and limitations, with the 'Si vis pacem para bellum' counterpoint well-integrated, but the essay could probe deeper into ethical tensions and does not offer a truly distinctive analytical lens."
+          },
+          "presentation": {
+            "score": 7.5,
+            "justification": "Slightly over word limit at 1305 words but within acceptable tolerance; confident, polished prose with effective paragraph transitions and a memorable closing line."
+          }
+        },
+        "total_score": 80.0,
+        "max_marks": 125,
+        "brief_feedback": "A strong, well-researched essay with excellent examples and solid structure. The Stuxnet and BRI examples are standout inclusions. Adding a Gandhian/moral force dimension and deeper philosophical interrogation would push this into the top tier."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "The most distinctive essay in the batch, featuring a dedicated section on Gandhi's Satyagraha as a paradigm of non-violent subduing, alongside Ashoka's Dhamma Vijaya, Kautilya, Cold War soft power, BRI/Hambantota, Iran JCPOA, and modern Indian strategic examples (ISA, Vaccine Maitri, surgical strikes). It connects the topic to global movements including MLK, Mandela, and the Velvet Revolution.",
+        "analysis": "Candidate C demonstrates the most thoughtful engagement with the topic by introducing the Gandhian paradigm as a distinct analytical lens—this is arguably the most relevant dimension for this essay topic in a UPSC context, and no other candidate devotes comparable attention to it. The Ashoka/Dhamma Vijaya reference is unique and excellent, grounding the argument in Indian civilizational history. The essay's structure with explicit section headers is the clearest and most navigable, though this is unconventional for UPSC essays. The breadth of examples is impressive, spanning from ancient India to the Velvet Revolution. The conclusion, with its Mahabharata quote, is eloquent and memorable. The main weakness is the relative absence of cyber warfare and grey zone warfare specifics—the essay is stronger on historical and moral dimensions than on contemporary technological ones. The limitations section is well-balanced, citing Munich appeasement, 1962 war, and Balakot.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 27.0,
+            "justification": "The most diverse coverage: Ashoka, Gandhi, Kautilya, Cold War, NAM, ISA, Vaccine Maitri, BRI, JCPOA, MLK, Mandela, Velvet Revolution, surgical strikes—spanning ancient philosophy to contemporary geopolitics with both Indian and global examples."
+          },
+          "structure_flow": {
+            "score": 18.0,
+            "justification": "The clearest structure with well-defined thematic sections, a paradox-framing introduction, and an eloquent conclusion with the Mahabharata quote; the progression from philosophy to diplomacy to economics to moral force to limitations is compelling."
+          },
+          "depth_examples": {
+            "score": 16.25,
+            "justification": "Gandhi's Salt March, Ashoka's Kalinga transformation, Hambantota 99-year lease, and Balakot air strikes are specific and well-deployed, though the essay could benefit from more data-driven examples in the economics section."
+          },
+          "analytical_depth": {
+            "score": 15.5,
+            "justification": "The Gandhian paradigm as a separate analytical lens is genuinely insightful and elevates the essay; the multi-civilizational perspective (Chinese, Indian, Western) adds depth, though the technological dimension is underexplored."
+          },
+          "presentation": {
+            "score": 8.75,
+            "justification": "Within word limit at 1281 words, excellent readability, eloquent prose with effective use of section headers that aid navigation; language quality is the highest in the batch."
+          }
+        },
+        "total_score": 85.5,
+        "max_marks": 125,
+        "brief_feedback": "The strongest essay in the batch, distinguished by the Gandhian paradigm and Ashokan reference that are uniquely appropriate for this topic. The multi-civilizational analytical framework and eloquent presentation are top-tier. Adding cyber/grey zone warfare specifics would round out an already excellent piece."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "The most analytically sophisticated essay, featuring a Clausewitz-Sun Tzu dialectic, detailed treatment of the Cuban Missile Crisis, the EU as a peace project, grey zone warfare (SCS salami-slicing, Crimea's 'little green men'), Doklam standoff, and the India-Bangladesh Land Boundary Agreement. It uniquely interrogates the ethics of non-kinetic coercion and raises questions about just war theory.",
+        "analysis": "Candidate D offers the deepest analytical engagement with the topic, going beyond description to critically interrogate the concept itself. The Clausewitz inversion ('Sun Tzu reverses the emphasis') is a sophisticated framing. The grey zone warfare analysis—China's salami-slicing in the SCS and Russia's little green men in Crimea—is outstanding and absent from all other candidates. The EU as a peace project (Franco-German coal and steel cooperation) is a unique and excellent example. The Doklam standoff and India-Bangladesh LBA are specific, less commonly cited examples that demonstrate genuine strategic knowledge. The ethical questioning of non-kinetic coercion ('non-violent tools are not automatically humane') is the most original analytical contribution in the batch. However, the essay is severely over the word limit at 1568 words (31% over the 1200 limit), which would attract significant penalty in actual UPSC grading as it indicates poor time management and lack of discipline. The essay also does not reference Ashoka, and the Kautilya reference, while implied, is not as explicitly developed as in other candidates.",
+        "rubric_scores": {
+          "content_breadth": {
+            "score": 28.1,
+            "justification": "The broadest substantive coverage: Clausewitz, Cuban Missile Crisis, EU peace project, Iran JCPOA, Russia sanctions, India-Pakistan nuclear dynamics, Doklam, India-Bangladesh LBA, Gandhi, grey zone warfare, SCS, Crimea, and just war theory—the most comprehensive thematic map."
+          },
+          "structure_flow": {
+            "score": 15.0,
+            "justification": "Strong thematic flow with clear progression from political purpose to deterrence to diplomacy to economics to narratives to grey zone to preparedness to limits, but the excessive length dilutes structural discipline and the essay lacks the tight focus that word limits enforce."
+          },
+          "depth_examples": {
+            "score": 17.5,
+            "justification": "The most granular examples in the batch: Cuban Missile Crisis (Turkey missiles quid pro quo), Franco-German coal/steel cooperation, Doklam standoff specifics, India-Bangladesh LBA enclaves, SCS island-building, and Crimea's 'little green men'—consistently specific and well-contextualized."
+          },
+          "analytical_depth": {
+            "score": 18.0,
+            "justification": "The most analytically sophisticated essay: the Clausewitz-Sun Tzu dialectic, the ethical critique of non-kinetic coercion, the grey zone warfare analysis, and the 'unjust peace as interlude' concept demonstrate genuinely original critical thinking."
+          },
+          "presentation": {
+            "score": 4.38,
+            "justification": "Severely over word limit at 1568 words (31% above 1200), which is a significant penalty in UPSC; while the prose quality is excellent—measured, precise, and mature—the lack of discipline in word economy is a serious deficiency."
+          }
+        },
+        "total_score": 82.98,
+        "max_marks": 125,
+        "brief_feedback": "The most intellectually impressive essay with outstanding analytical depth and unique examples (grey zone warfare, EU peace project, Doklam). However, the severe word limit violation (1568 vs 1200) significantly undermines the score—in actual UPSC conditions, this would reflect poor time management. Disciplined editing to 1200 words would make this the top essay."
+      }
+    ]
+  }
+]

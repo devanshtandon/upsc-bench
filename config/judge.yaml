@@ -1,0 +1,48 @@
+# Mains grading rubric configuration
+# Used by scripts/grade_mains.py and in-session subagent grading
+
+rubric:
+  # GS Papers (10/15 mark questions)
+  gs:
+    content_accuracy:
+      weight: 40
+      description: "Facts correct, relevant points covered, no factual errors"
+    structure_flow:
+      weight: 20
+      description: "Logical organization, intro/body/conclusion, coherent argument"
+    depth_examples:
+      weight: 20
+      description: "Specific examples, data, case studies, constitutional references"
+    analytical_depth:
+      weight: 10
+      description: "Critical analysis, multiple perspectives, nuanced argument"
+    presentation:
+      weight: 10
+      description: "Word limit adherence, clarity, conciseness, language quality"
+
+  # Essay Paper (125 mark essays)
+  essay:
+    content_breadth:
+      weight: 30
+      description: "Comprehensive coverage, factual accuracy, relevant examples"
+    structure_flow:
+      weight: 20
+      description: "Clear thesis, logical progression, compelling intro/conclusion"
+    depth_examples:
+      weight: 20
+      description: "Specific case studies, data, international comparisons"
+    analytical_depth:
+      weight: 20
+      description: "Original thinking, multiple perspectives, nuanced argument"
+    presentation:
+      weight: 10
+      description: "Word limit adherence, language quality, readability"
+
+# Judge model (for API-based grading, not used for in-session subagent grading)
+judge:
+  model: "anthropic/claude-opus-4.6"
+  temperature: 0.0
+  max_tokens: 1024
+
+# Grading output schema version
+schema_version: 1

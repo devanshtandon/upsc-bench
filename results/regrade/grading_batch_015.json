@@ -1,0 +1,627 @@
+[
+  {
+    "question_id": "mains_gs2_2025_q11",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a well-structured, legally dense answer that defines constitutional morality with accurate attribution to Ambedkar and cites multiple landmark judgments. The answer effectively bifurcates the discussion into independence and accountability, includes international comparisons, and references reform bodies.",
+        "analysis": "Strengths include precise citation of cases (Manoj Narula, NCT Delhi, Navtej Johar, NJAC), constitutional articles (Arts. 124-147, 50, 235), and institutional mechanisms (Restatement of Values, in-house procedure, e-Courts/NJDG, live-streaming). The international comparison with UK and Canada adds analytical depth. The answer covers both structural safeguards for independence and multiple layers of accountability (constitutional, ethical/institutional, reform-oriented). Weaknesses are minor: slightly exceeds word limit and the density of content may sacrifice clarity in places. The reform pointers section (2nd ARC, Law Commission, Judicial Standards Bill) shows excellent awareness of ongoing debates.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.8,
+            "justification": "Factually impeccable. All case citations, article references, and institutional mechanisms are accurate. Covers both independence and accountability comprehensively with no errors."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Well-organized with clear headers separating concept, independence, accountability, international comparison, and conclusion. Logical flow from definition to application to reform. Could benefit from a more distinct introduction."
+          },
+          "depth_examples": {
+            "score": 2.5,
+            "justification": "Excellent specificity: 6+ case citations, constitutional articles, institutional mechanisms (e-Courts, NJDG, live-streaming), reform bills, and international comparisons (UK JCIO, Canadian Judicial Council). Among the most example-rich answers."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "Demonstrates strong analytical capacity by connecting constitutional morality to both independence and accountability, and by identifying the tension between the two. The international comparison adds a critical perspective."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Clear language with effective use of formatting. Slightly over word limit (274 vs 250) but within acceptable range. Dense but readable."
+          }
+        },
+        "total_score": 12.0,
+        "max_marks": 15,
+        "brief_feedback": "An outstanding answer with exceptional legal precision, comprehensive coverage of both independence and accountability mechanisms, and valuable international comparisons."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B delivers a well-structured answer that clearly defines constitutional morality, traces its jurisprudential development through key cases, and systematically addresses both judicial independence and accountability. The answer includes a balanced concluding section and references the Judicial Standards and Accountability Bill.",
+        "analysis": "The answer is clearly organized with distinct sections for concept, independence, accountability, and balancing both. Case citations (Manoj Narula, Navtej Johar, collegium cases) and constitutional provisions (Articles 124-147) are accurate. The distinction between constitutional morality and social morality is a valuable conceptual point. However, the answer lacks some specificity compared to the strongest responses — it could have included the in-house procedure, e-Courts, or international comparisons. The 'Balancing Both' section is somewhat brief and could have been more analytically developed. The reference to NJAC and its striking down is relevant but could have been integrated more deeply into the accountability discussion.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Factually sound with correct case citations and constitutional references. Covers main aspects of both independence and accountability. Slightly less comprehensive than the top answer in institutional mechanisms."
+          },
+          "structure_flow": {
+            "score": 2.5,
+            "justification": "Excellent organization with clear markdown headers, logical progression from concept to application to conclusion. One of the best-structured answers in terms of readability."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good case citations (Manoj Narula, Navtej Johar, Second/Third Judges Cases). References collegium system, in-house procedure, and NJAC. Could have included more institutional examples and international comparisons."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "The distinction between constitutional and social morality is analytically strong. The 'Balancing Both' section identifies the mediating function of constitutional morality. Could be deeper in exploring tensions."
+          },
+          "presentation": {
+            "score": 1.2,
+            "justification": "Very clean formatting with clear headers and bullet points. Slightly over word limit (289 vs 250) but well within acceptable range. Language is clear and professional."
+          }
+        },
+        "total_score": 10.9,
+        "max_marks": 15,
+        "brief_feedback": "A well-organized and accurate answer with a strong conceptual foundation, though it could benefit from more specific institutional examples and deeper analytical engagement."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a thorough answer covering constitutional morality's definition and its application to judicial independence and accountability through multiple constitutional provisions. The answer is comprehensive but significantly exceeds the word limit at 388 words.",
+        "analysis": "The answer demonstrates strong conceptual understanding by identifying constitutional morality as preventing majoritarianism and upholding transformative constitutionalism. The coverage of independence (Articles 124, 125, judicial review under Articles 13, 32, 226) and accountability (due process, ethical conduct, self-correction, public trust) is extensive. The reference to the Restatement of Values of Judicial Life adds institutional depth. However, the answer lacks specific case citations beyond general references — notably missing landmark judgments like Manoj Narula, Navtej Johar, or the NJAC case. The significant word limit violation (388 vs 250) is a notable weakness in an exam context. The answer also lacks international comparisons and reform-oriented discussion.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.8,
+            "justification": "Content is generally accurate with good constitutional references (Articles 124, 125, 13, 32, 226). However, lacks specific case law citations which are critical for a legal-constitutional question. Some points are somewhat generic."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Well-organized with clear sections for concept, independence, accountability, and conclusion. The parallel structure of bullet points within each section aids readability. Logical flow is maintained throughout."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Good constitutional article references but conspicuously lacks specific case citations (no mention of Manoj Narula, Navtej Johar, NJAC). The Restatement of Values is a good reference. No international comparisons."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Identifies the balancing role of constitutional morality but analysis remains somewhat descriptive. The public trust argument is analytically valid but not deeply developed."
+          },
+          "presentation": {
+            "score": 0.8,
+            "justification": "Clear language but significantly exceeds word limit (388 vs 250, ~55% over). In UPSC exam conditions, this would be penalized. Formatting is adequate."
+          }
+        },
+        "total_score": 9.5,
+        "max_marks": 15,
+        "brief_feedback": "A comprehensive but overlong answer that would benefit significantly from specific case citations and better word limit adherence."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D presents a well-structured answer with a clear introduction citing the NCT Delhi case, a concise definition of constitutional morality, and three well-developed application points covering transparency, self-regulation, and appointments. The answer includes both domestic and international references.",
+        "analysis": "This answer stands out for its structured approach with numbered points that each illustrate a specific mechanism through which constitutional morality balances independence and accountability. The RTI application to the CJI's office (Subhash Chandra Agarwal case) is a distinctive and relevant example not found in other answers. The reference to Bangalore Principles of Judicial Conduct adds an international dimension. The treatment of NJAC is balanced, noting both its striking down and the accountability demand within the collegium. The 2nd ARC recommendation for a National Judicial Oversight Committee is a strong concluding reform pointer. The answer is slightly over word limit but not excessively so. A minor weakness is that the conceptual definition section could have been slightly more developed.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Factually strong with accurate citations of NCT Delhi case, RTI case (CJI v. Subhash Chandra Agarwal), NJAC, Restatement of Values, and Bangalore Principles. All constitutional references are correct."
+          },
+          "structure_flow": {
+            "score": 2.5,
+            "justification": "Excellent structure with clear introduction, concept, application (three numbered points), and conclusion. Each section flows logically. The three-point framework for application is particularly effective."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Distinctive examples: RTI application to CJI office, live-streaming of constitutional benches, Bangalore Principles, 2nd ARC recommendation. These show breadth beyond standard answers."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "Strong analytical framing: independence is 'not a personal privilege but a tool to uphold justice.' The tension between collegium independence and accountability demands is well articulated."
+          },
+          "presentation": {
+            "score": 1.2,
+            "justification": "Clean formatting with bold headers and numbered points. Word count (323) is over limit but the content density justifies it. Language is precise and professional."
+          }
+        },
+        "total_score": 11.8,
+        "max_marks": 15,
+        "brief_feedback": "A polished answer with distinctive examples (RTI/CJI, Bangalore Principles) and a strong analytical framework that effectively balances independence and accountability."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q12",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a clear and well-organized answer covering both procedural and substantive limitations on Parliament's amending power. The answer correctly identifies the key procedural hurdles under Article 368 and the Basic Structure Doctrine as the primary substantive limitation.",
+        "analysis": "The answer accurately covers procedural limitations (special majority, state ratification, mandatory presidential assent) and substantive limitations (Basic Structure Doctrine via Kesavananda Bharati, Minerva Mills). The note about the President being unable to withhold assent or return the bill is a valuable specific detail. However, the answer misses the important procedural point about no joint sitting being available for amendment bills, which several other candidates include. The concluding paragraph effectively synthesizes the dual purpose of these limitations. The answer lacks international comparisons and committee recommendations that could have added depth. Overall, it is accurate and well-written but somewhat standard in its coverage.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Factually accurate throughout. Correctly identifies special majority requirements, state ratification, presidential assent, Kesavananda Bharati, and Minerva Mills. Misses the 'no joint sitting' procedural point."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Clean two-part structure (procedural and substantive) with clear headers. Good concluding synthesis. Logical progression throughout."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Key cases cited (Kesavananda Bharati, Minerva Mills) and basic structure elements listed. Lacks comparative examples, committee references, or specific amendment examples (e.g., 42nd Amendment)."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "The concluding analysis about preventing subversion of foundations is adequate. Could have explored the tension between flexibility and rigidity more deeply."
+          },
+          "presentation": {
+            "score": 1.2,
+            "justification": "Clear, professional language. Word count (285) is slightly over but acceptable. Well-formatted with bold headers."
+          }
+        },
+        "total_score": 10.3,
+        "max_marks": 15,
+        "brief_feedback": "A solid, accurate answer that covers the essentials well but lacks the distinctive examples and comparative depth found in stronger responses."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a comprehensive answer that covers all major procedural limitations including the often-missed 'no joint sitting' point, and pairs the Basic Structure Doctrine with a strong comparative perspective referencing the US and South Africa.",
+        "analysis": "This is a highly effective answer. The procedural section is the most complete among all candidates, covering special majority, federal ratification (with specific examples of what triggers it), no joint sitting, and presidential assent. The substantive section correctly frames the Basic Structure Doctrine and cites both Kesavananda Bharati and Minerva Mills, noting the 42nd Amendment's attempted immunization. The comparative perspective (US Art. V, South Africa's tiered supermajorities) and the NCRWC 2002 recommendation add significant analytical depth. The answer stays within word limit (244 words), which is commendable. One minor issue: the phrasing '74th/44th practice' regarding presidential assent could be clearer.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.8,
+            "justification": "Exceptionally comprehensive coverage of all procedural hurdles including no joint sitting, plus substantive limitations. Specific examples of what triggers state ratification (Seventh Schedule, Art. 368 itself). 42nd Amendment reference adds specificity."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Clear headers with numbered points under each section. Logical flow from procedural to substantive to comparative. Conclusion integrates the analysis well."
+          },
+          "depth_examples": {
+            "score": 2.5,
+            "justification": "Excellent specificity: 42nd Amendment, NCRWC 2002, US Art. V, South African entrenched clauses. The comparative dimension is particularly strong and adds real analytical value."
+          },
+          "analytical_depth": {
+            "score": 1.3,
+            "justification": "The distinction between 'limited, not constituent' amending power is analytically precise. The comparative analysis contextualizes India's approach effectively. Strong critical perspective."
+          },
+          "presentation": {
+            "score": 1.3,
+            "justification": "Concise and within word limit (244 words). Excellent formatting. Minor ambiguity in '74th/44th practice' phrasing but otherwise crisp and professional."
+          }
+        },
+        "total_score": 12.3,
+        "max_marks": 15,
+        "brief_feedback": "A comprehensive, precisely written answer with the best procedural coverage and strong comparative perspective — the most complete treatment of this question."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a thorough answer that opens with K.C. Wheare's characterization of the Indian Constitution, covers all procedural and substantive limitations systematically, includes international comparisons, and ends with a well-crafted conclusion.",
+        "analysis": "This answer is strong across multiple dimensions. The opening reference to K.C. Wheare sets an academic tone. The procedural section covers all four key hurdles (special majority, state ratification with specific examples including GST Council/Art. 279A, no joint sitting with Rajya Sabha veto analysis, and exclusivity of Parliament). The substantive section correctly covers both Kesavananda Bharati and Minerva Mills with the key quote about 'limited amending power.' The international comparison (UK unwritten constitution, US three-fourths ratification) contextualizes India's 'middle path.' The conclusion effectively synthesizes broad consensus vs. transient majoritarian will. Word count (332) moderately exceeds the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.6,
+            "justification": "Highly accurate and comprehensive. All four procedural limitations covered correctly. GST Council/Art. 279A is a distinctive example for state ratification. K.C. Wheare reference and Minerva Mills quote are precise."
+          },
+          "structure_flow": {
+            "score": 2.5,
+            "justification": "Excellent organization: constitutional basis, procedural (4 numbered points), substantive (2 points), international comparison, conclusion. Each section builds on the previous one logically."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Strong examples: K.C. Wheare, GST Council, Rajya Sabha absolute veto analysis, Kesavananda, Minerva Mills, UK/US comparison. The GST Council as a modern example of state ratification is distinctive."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Good analysis of Rajya Sabha's absolute veto role and the 'middle path' characterization. The living document concept in the conclusion is analytically sound though somewhat conventional."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Clear language and good formatting. Word count (332) exceeds limit by about 33%, which would be noted in exam conditions. Professional academic tone throughout."
+          }
+        },
+        "total_score": 11.5,
+        "max_marks": 15,
+        "brief_feedback": "A thorough and academically grounded answer with distinctive examples like the GST Council reference, though better word limit discipline would improve the score."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a clearly structured answer with comprehensive coverage of procedural limitations and the Basic Structure Doctrine, including the I.R. Coelho (2007) case that other candidates miss. The answer is well-organized with distinct sections.",
+        "analysis": "The answer is methodical with five clearly enumerated procedural limitations and two substantive limitations. The inclusion of the 24th Amendment (1971) regarding mandatory presidential assent is a specific historical detail that adds depth. The reference to I.R. Coelho (2007) alongside Kesavananda Bharati and Minerva Mills shows broader jurisprudential awareness. The procedural coverage is solid but the 'initiation only in Parliament' point, while accurate, is less significant than other points. The conclusion about a 'living document within inviolable limits' is effective. However, the answer lacks comparative international perspective and committee recommendations that could have elevated it further. The overall approach is reliable but somewhat textbook-like.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Accurate throughout with strong case coverage (Kesavananda, Minerva Mills, I.R. Coelho). The 24th Amendment detail on presidential assent is a valuable specific reference. All procedural points are correct."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Clean structure with introduction, procedural (5 points), substantive (2 points), and conclusion. Numbered format is easy to follow. Good use of bold headers."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "I.R. Coelho (2007) is a distinctive citation not found in other answers. 24th Amendment reference adds historical specificity. However, lacks comparative examples and committee references."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "The 'living document within inviolable limits' framing is effective but brief. Lacks deeper critical analysis of tensions or reform perspectives."
+          },
+          "presentation": {
+            "score": 1.2,
+            "justification": "Clean formatting with clear hierarchy. Word count (286) is slightly over limit but acceptable. Professional language throughout."
+          }
+        },
+        "total_score": 10.7,
+        "max_marks": 15,
+        "brief_feedback": "A reliable, well-organized answer with the distinctive I.R. Coelho citation, but would benefit from comparative perspectives and deeper analytical engagement."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q13",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides the most detailed tracing of the collegium system's evolution through all three Judges Cases, followed by a comprehensive comparative analysis of India and USA judicial appointment systems. The answer includes a concluding reform perspective mentioning NJAC.",
+        "analysis": "The evolution section is the most detailed among all candidates, with accurate descriptions of each Judges Case including the shift from executive primacy to judicial primacy to expanded collegium. The comparative analysis is thorough, covering transparency, accountability, independence, diversity, and politicization for both systems. The mention of NJAC and its striking down is contextually relevant. However, the answer significantly exceeds the word limit (446 vs 250), which is a major weakness. The reform suggestion of 'a more transparent collegium with defined criteria and a role for the executive' is analytically sound. The answer could have been more concise while retaining its analytical quality.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Highly accurate tracing of all three Judges Cases with correct legal principles. US system accurately described including Article II, Section 2. NJAC context is correct. No factual errors."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Clear sections for evolution, India advantages/disadvantages, USA advantages/disadvantages, and critical examination. Logical flow but the length undermines structural discipline."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "All three Judges Cases with specific legal details, NJAC and 99th Amendment, Article II Section 2. Good specificity in both Indian and US contexts."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Good comparative analysis identifying the core trade-off (independence vs. transparency). The reform suggestion is balanced. Could have been more critically incisive."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Significantly over word limit (446 vs 250, ~78% over). In a UPSC exam, this would be a substantial penalty. Language is clear but verbosity is a major concern."
+          }
+        },
+        "total_score": 10.7,
+        "max_marks": 15,
+        "brief_feedback": "Comprehensive and accurate but severely over word limit — condensing the analysis while retaining key points would significantly improve this answer."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a tightly written answer that traces the collegium evolution concisely through the three Judges Cases and NJAC, then delivers a structured comparative analysis of Indian and US systems with relevant reform recommendations.",
+        "analysis": "This is the most concise yet comprehensive answer. The evolution section efficiently covers all four key developments (three Judges Cases + NJAC) with constitutional article references. The comparative section is well-balanced, covering pros and cons for both systems with specific examples. The NJAC paragraph correctly notes the basic structure rationale and the suggested MoP improvement. The international comparison mentioning Australia and Canada as additional benchmarks adds analytical breadth. The answer stays within word limit (256 words), which is commendable. The closing assessment about 'cooperative-but-asymmetrical' framing in the fiscal federalism question shows analytical sophistication. Minor weakness: the US section could have mentioned specific examples of politicization.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "All three Judges Cases accurately summarized with correct legal principles. NJAC episode correctly placed. US system under Art. II accurately described. Constitutional articles (124(2), 217(1)) correctly referenced."
+          },
+          "structure_flow": {
+            "score": 2.5,
+            "justification": "Excellent organization with clear headers, numbered evolution, and parallel pros/cons structure for both systems. Conclusion integrates findings effectively. Very readable."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "All three Judges Cases with case names, NJAC and basic structure, MoP reference, constitutional articles. Comparative references to Australia and Canada add breadth."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "Strong comparative assessment identifying 'insulation vs. opacity' and 'openness vs. political capture' as core trade-offs. 2nd ARC reform reference adds critical dimension."
+          },
+          "presentation": {
+            "score": 1.3,
+            "justification": "Within word limit (256 words). Concise yet comprehensive. Excellent formatting with clear headers and bullet points. Professional language throughout."
+          }
+        },
+        "total_score": 11.8,
+        "max_marks": 15,
+        "brief_feedback": "The most efficiently written answer — concise, comprehensive, and analytically sharp with effective comparative perspective."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a well-structured answer with a distinctive tabular comparison of Indian and US systems. The evolution section accurately covers all key developments including NJAC, and the conclusion proposes a reform path.",
+        "analysis": "The use of a comparison table is a distinctive formatting choice that makes the India-US comparison immediately accessible — a strong exam technique. The evolution section covers all four key developments with correct case references. The table covers five dimensions (transparency, accountability, independence, diversity, politicization) with concise entries for each. The reference to the Law Commission's 214th Report in the conclusion adds specificity. However, the answer could have provided more depth in analyzing the trade-offs rather than relying on the table format, which inherently limits nuance. The mention of Brett Kavanaugh hearings as a specific US example is good. Word count (301) is moderately over limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.3,
+            "justification": "All Judges Cases correctly cited with accurate legal principles. NJAC and 99th Amendment correctly referenced. US system accurately described. Tabular entries are factually sound."
+          },
+          "structure_flow": {
+            "score": 2.5,
+            "justification": "Excellent structure with clear sections and the innovative use of a comparison table. Very exam-friendly format. Conclusion flows naturally from the analysis."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "All three Judges Cases, NJAC, 99th Amendment, Brett Kavanaugh hearings, Law Commission 214th Report. Good breadth of specific references."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "The table format, while effective for presentation, limits analytical depth. The 'middle path' reform suggestion is sound but could be more developed."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "The table format is a strong presentational choice. Word count (301) is moderately over limit. Language is clear and professional."
+          }
+        },
+        "total_score": 11.1,
+        "max_marks": 15,
+        "brief_feedback": "A well-presented answer with an effective tabular comparison, though deeper analytical engagement would strengthen the response."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a comprehensive answer tracing the collegium evolution through all four landmark developments (calling the NJAC striking down the 'Fourth Judges Case'), followed by a balanced comparative analysis of India and USA systems with specific reform suggestions.",
+        "analysis": "The answer is well-structured with clear sections for evolution, India's system, US system, and conclusion. Referring to the NJAC judgment as the 'Fourth Judges Case' is a commonly used framing that shows awareness of the jurisprudential lineage. The advantages and disadvantages for both systems are accurately identified. The reference to the UK's Judicial Appointments Commission as a model for reform is a distinctive and practical suggestion not found in other answers. The MoP (Memorandum of Procedure) reference is relevant to ongoing reform discussions. The characterization of India's system suffering from 'over-judicialization' is analytically sharp. Word count (332) exceeds the limit but not excessively.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.4,
+            "justification": "Accurate tracing of all four developments. Correct distinction between executive and judicial primacy across the Judges Cases. US system accurately described. UK JAC reference is factually correct."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Clear four-part structure (evolution, India, USA, conclusion). Bullet points and bold formatting aid readability. Logical progression throughout."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "All Judges Cases with key legal principles, NJAC/99th Amendment, Basic Structure Doctrine, UK Judicial Appointments Commission, MoP. Good range of specific references."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "The 'over-judicialization and opacity' vs 'over-politicization' framing is analytically sharp. The UK JAC reform suggestion shows practical analytical thinking."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Good formatting with clear sections. Word count (332) is over limit by about 33%. Language is professional and precise."
+          }
+        },
+        "total_score": 11.2,
+        "max_marks": 15,
+        "brief_feedback": "A well-rounded answer with a sharp analytical framework and a practical reform suggestion referencing the UK model."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q14",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides the most comprehensive answer with a clear historical evolution from the Planning Commission era to recent reforms, covering multiple dimensions of fiscal federalism including devolution, GST, cesses/surcharges, CSS, and borrowing constraints with specific constitutional and committee references.",
+        "analysis": "This is an exceptionally detailed answer. The historical section covers the Planning Commission era with specific references (Article 282, Gadgil-Mukherjee formula, NITI Aayog transition). The reforms section is the most comprehensive, covering five distinct dimensions: enhanced vertical devolution (14th/15th FC with exact percentages), GST and compensation disputes, cesses/surcharges problem (Article 271, 30% effective share), CSS burden shifting (B.K. Chaturvedi Committee, 75:25 to 60:40), and borrowing constraints (Article 293(3) with pandemic-era reform linkages). The conclusion references the Punchhi Commission and the Australian Loan Council as a reform model. The main weakness is the significant word count excess (380 vs 250). The analytical quality is high throughout with genuine critical assessment rather than mere description.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 5.0,
+            "justification": "Factually exceptional. Every constitutional article, committee reference, percentage figure, and policy detail is accurate. Covers the most dimensions of any answer with no errors. The 30% effective share figure and 60:40 CSS ratio are precise data points."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Well-organized with introduction, historical evolution, reforms impact (five points), and conclusion. The five-point reform framework is effective. Slightly undermined by excessive length."
+          },
+          "depth_examples": {
+            "score": 2.8,
+            "justification": "Outstanding specificity: Gadgil-Mukherjee formula, Articles 268-293/280/282/271/279A/293(3), 14th/15th FC percentages, B.K. Chaturvedi Committee, CSS ratio changes, Punchhi Commission, Australian Loan Council. The richest answer in examples."
+          },
+          "analytical_depth": {
+            "score": 1.3,
+            "justification": "Strong critical analysis: identifies cesses as undermining devolution, CSS burden shifting, conditional borrowing as infringement. The 'mixed impact' framing is analytically honest rather than one-sided."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Well-formatted with bold headers and bullet points. However, word count (380) significantly exceeds limit (~52% over). In exam conditions, this would be penalized."
+          }
+        },
+        "total_score": 12.1,
+        "max_marks": 15,
+        "brief_feedback": "The most comprehensive and analytically rich answer on fiscal federalism, with exceptional depth of examples, but significantly undermined by word limit excess."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B delivers a well-balanced answer that traces the evolution from centralized plan transfers to rules-based fiscal federalism, covering both the achievements and constraints of recent reforms with a critical 'conditional' federalism assessment.",
+        "analysis": "The answer effectively frames the evolution as moving from 'centralised, plan-driven transfers' to 'rules-based, yet increasingly conditional fiscal federalism' — an analytically sharp thesis. The Planning Commission era section accurately identifies discretionary grants (Art. 282), tied funding, and the Sarkaria/Punchhi Commission critiques. The reforms section covers 14th/15th FC devolution, NITI Aayog, GST (with specific articles 246A, 269A, 279A), cesses/surcharges (Art. 270), FRBM/borrowing constraints (Art. 293), and CSS. The international comparison (Australia/Canada) contextualizes India's reforms. The conclusion about 'cooperative but asymmetrical federalism' is analytically distinctive. The answer stays within word limit (261 words), which is commendable for this dense topic.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.6,
+            "justification": "Comprehensive and accurate. Covers Planning Commission era, FC devolution, GST with specific articles, cesses problem, FRBM, CSS. Sarkaria and Punchhi Commission references are correct."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Clear two-part structure with numbered/bullet points. The framing thesis ('rules-based, yet conditional') provides analytical coherence. Good conclusion."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Strong constitutional article references (Arts. 246A, 269A, 270, 279A, 280, 282, 293), commission references (Sarkaria, Punchhi), international comparison (Australia, Canada). Dense with specifics."
+          },
+          "analytical_depth": {
+            "score": 1.3,
+            "justification": "The 'cooperative but asymmetrical' framing is analytically distinctive. Critical assessment of cesses, conditional borrowing, and GST compensation disputes shows genuine analytical depth."
+          },
+          "presentation": {
+            "score": 1.3,
+            "justification": "Within word limit (261 words) while covering extensive ground. Efficient writing. Good formatting with bold headers and bullet points."
+          }
+        },
+        "total_score": 11.9,
+        "max_marks": 15,
+        "brief_feedback": "An analytically sharp, concise answer with a distinctive thesis and comprehensive constitutional references — excellent word economy for a dense topic."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a well-organized answer with a clear constitutional framework section, historical evolution through centralization phase, and systematic coverage of recent reforms including Finance Commission changes, Planning Commission abolition, and GST.",
+        "analysis": "The answer is well-structured with distinct sections for constitutional framework, historical evolution, and impact of recent reforms. The identification of vertical fiscal imbalance (35% revenue vs 55% expenditure) is a specific data point that adds depth. The coverage of 14th and 15th FC (with J&K adjustment explanation), Planning Commission abolition, and GST is solid. The 'persisting concerns' section (cesses, CSS conditionalities, off-budget borrowings) shows critical awareness. However, the answer lacks some of the depth found in the strongest responses — missing specific committee references (Sarkaria, Punchhi, B.K. Chaturvedi), the Gadgil-Mukherjee formula, and specific article references for cesses. The conclusion is brief but effective.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Accurate coverage of main topics: FC devolution percentages, Planning Commission abolition, GST, constitutional framework. The vertical imbalance figures add specificity. Lacks some commission references."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Excellent structure with clear headers and logical progression from framework to history to reforms to concerns to conclusion. Very exam-friendly format."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good examples: FC percentages, vertical imbalance data, GST compensation cess, off-budget borrowings. Lacks Gadgil-Mukherjee formula, Sarkaria/Punchhi Commission, and some specific articles."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "The 'persisting concerns' section shows critical awareness. The dual-channel to single-channel transition is well analyzed. Could have been more analytically developed."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Good formatting with clear sections. Word count (269) is only slightly over limit. Professional language throughout."
+          }
+        },
+        "total_score": 10.5,
+        "max_marks": 15,
+        "brief_feedback": "A well-structured and accurate answer with good data points, though deeper engagement with specific committees and constitutional provisions would enhance it."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a readable narrative answer covering the evolution from Planning Commission dominance to recent reforms. The answer identifies key changes (NITI Aayog, 14th/15th FC, GST) and their impacts but adopts a more descriptive than analytical approach.",
+        "analysis": "The answer reads well as a narrative but is more descriptive than analytically critical compared to the strongest responses. The Planning Commission critique and NITI Aayog transition are accurately described. The 14th FC devolution increase (32% to 42%) and 15th FC maintenance are correctly covered. The GST section mentions the GST Council and Article 279A but doesn't deeply analyze the compensation disputes or cess problem. The three-point synthesis at the end (fiscal autonomy, reduced discretionary control, cooperative federalism) is a useful summary. However, the answer lacks specific constitutional articles beyond Art. 280 and 279A, misses committee references (Sarkaria, Punchhi, B.K. Chaturvedi), and doesn't address the cesses/surcharges problem that undermines effective devolution. Word count (392) significantly exceeds the limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.6,
+            "justification": "Core content is accurate but coverage is less comprehensive than top answers. Misses the cesses/surcharges problem, FRBM constraints, and specific committee references. Doesn't address vertical imbalance data."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Readable narrative with clear paragraphs for each topic. The three-point synthesis at the end is effective. Could benefit from more structured headers."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "References Art. 280, 279A, FC devolution percentages, GST. Lacks specific committee citations, constitutional articles for cesses, Gadgil-Mukherjee formula, and international comparisons."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "More descriptive than analytical. The 'challenges remain' paragraph identifies issues but doesn't critically analyze them. Misses the key analytical point about cesses undermining effective devolution."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Readable prose but word count (392) significantly exceeds limit (~57% over). Formatting could be more structured with headers and bullet points."
+          }
+        },
+        "total_score": 8.9,
+        "max_marks": 15,
+        "brief_feedback": "A readable but overly descriptive answer that misses critical analytical points about cesses and effective devolution, and significantly exceeds the word limit."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs2_2025_q15",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a clear, well-organized answer defining environmental pressure groups and discussing their role in awareness, policy influence, and advocacy with specific Indian examples. The answer covers major organizations and movements with relevant examples.",
+        "analysis": "The answer systematically addresses all three dimensions asked in the question: raising awareness (CSE, Chipko Movement), influencing policies (NGT petitions, Kalpavriksh), and advocating for protection (Greenpeace India, BNHS). The methods paragraph at the end (protests, PILs, research, media, community mobilization) adds practical depth. Specific examples like CSE's Down To Earth magazine and Sunderlal Bahuguna's leadership of Chipko are accurate. However, the answer lacks constitutional references (Articles 48A, 51A(g)) which are relevant for a GS2 answer. It also misses key legal frameworks like the Environment Protection Act and specific PILs (M.C. Mehta cases). The analysis remains largely descriptive rather than critically examining the effectiveness or limitations of these groups.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.8,
+            "justification": "Factually accurate with correct identification of organizations and movements. Missing constitutional provisions (Articles 48A, 51A(g)) and specific legal frameworks that are important for a GS2 answer."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Well-organized with three numbered sections matching the question's three dimensions. Clear definition paragraph followed by systematic discussion. Logical flow throughout."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good range of organizations (CSE, Kalpavriksh, Greenpeace India, BNHS) and movements (Chipko). Specific details like Down To Earth magazine. Lacks legal case references and constitutional provisions."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Largely descriptive. Mentions challenges (funding constraints, government resistance) briefly but doesn't critically examine effectiveness, limitations, or controversies around environmental groups."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Clear language with good formatting. Word count (283) is slightly over limit but acceptable. Professional and readable."
+          }
+        },
+        "total_score": 10.0,
+        "max_marks": 15,
+        "brief_feedback": "A solid descriptive answer with good examples but needs constitutional grounding and critical analysis to reach higher scores."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a comprehensive answer that connects environmental pressure groups to constitutional provisions, covers four distinct roles (awareness, policy, courts, governance reform), and links environmental advocacy to social justice dimensions.",
+        "analysis": "This answer stands out for its constitutional grounding (Articles 21, 48A, 51A(g)), legal framework references (EIA Notification, CRZ, Environment Protection Act 1986), and institutional engagement (PILs, NGT). The linking of environment with social justice is an analytically mature point. The four-role framework (awareness, policy, courts, governance reform) is more comprehensive than the three asked for, with the committee/governance reform dimension adding extra depth. The reference to the precautionary principle, polluter pays, and public trust doctrine shows strong legal awareness. The T.S.R. Subramanian Committee reference adds specificity. The international comparison (Greenpeace/Sierra Club) contextualizes the discussion. The answer stays within word limit (286 words). Minor weakness: could have mentioned specific movements (Chipko, NBA) with more detail.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Comprehensive coverage with constitutional provisions (Arts. 21, 48A, 51A(g)), legal frameworks (EIA, CRZ, EP Act 1986), judicial principles (precautionary, polluter pays, public trust). All references are accurate."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Clear four-part role framework with numbered sections. Good definition and international comparison. Logical progression from awareness to policy to courts to governance."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Strong legal references: PILs, NGT, EIA Notification, CRZ, EP Act. Constitutional articles. T.S.R. Subramanian Committee. Judicial principles. Movements mentioned (Chipko, Silent Valley, NBA, Narmada)."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "The environment-social justice linkage is analytically mature. The distinction between different modes of influence (mobilization, policy, courts, governance) shows systematic analytical thinking."
+          },
+          "presentation": {
+            "score": 1.2,
+            "justification": "Within word limit (286 words). Clear formatting with numbered sections and bold headers. Professional language."
+          }
+        },
+        "total_score": 11.5,
+        "max_marks": 15,
+        "brief_feedback": "A constitutionally grounded, analytically mature answer with strong legal awareness and effective multi-dimensional analysis of pressure groups' roles."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides the most detailed and constitutionally anchored answer, connecting pressure groups to Articles 48A and 51A(g), covering all three roles with specific examples including M.C. Mehta's PIL activism, and addressing the controversy around foreign-funded NGOs.",
+        "analysis": "This is the strongest answer on this question. The constitutional grounding is immediate and precise (Articles 48A, 51A(g)). Each of the three roles is illustrated with multiple specific examples: awareness (Chipko, NBA, CSE's State of India's Environment report, Greenpeace, WWF), policy influence (Forest Rights Act 2006, Wildlife Protection Act 1972, EIA consultations, Gadgil Committee with local environmental collectives input), and advocacy (M.C. Mehta's PILs, Article 21 expansion, Taj Trapezium case, vehicular pollution norms, NGT). The inclusion of the 2014 IB report controversy about foreign-funded NGOs and the T.S.R. Subramanian Committee counterpoint shows exceptional analytical maturity. The reference to Panchamrit climate goals adds contemporary relevance. Word count (311) is moderately over limit.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.8,
+            "justification": "Exceptionally comprehensive and accurate. Constitutional provisions, specific legislation (FRA 2006, WPA 1972), committee references (Gadgil, T.S.R. Subramanian), landmark PILs (M.C. Mehta, Taj Trapezium), IB report controversy. No factual errors."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Well-organized with definition, three role sections matching the question, and a balanced conclusion. Each section is substantive. Logical flow throughout."
+          },
+          "depth_examples": {
+            "score": 2.7,
+            "justification": "The richest in examples: M.C. Mehta PILs, Taj Trapezium case, Forest Rights Act, Wildlife Protection Act, Gadgil Committee, IB report, T.S.R. Subramanian Committee, Panchamrit goals. Exceptional specificity."
+          },
+          "analytical_depth": {
+            "score": 1.3,
+            "justification": "The IB report controversy and T.S.R. Subramanian Committee counterpoint show sophisticated critical analysis. The Article 21 expansion through environmental PILs is analytically well-connected."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Good formatting with bold headers and bullet points. Word count (311) moderately over limit. Language is professional and precise."
+          }
+        },
+        "total_score": 12.2,
+        "max_marks": 15,
+        "brief_feedback": "The most comprehensive and analytically sophisticated answer, with exceptional examples and the critical depth shown through the IB report/T.S.R. Subramanian Committee balance."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a well-organized answer with a clear typology of environmental pressure groups, systematic coverage of all three roles, and specific Indian examples. The answer includes a distinct section on types of groups not found in other answers.",
+        "analysis": "The typology section (national NGOs, grassroots movements, international organizations, community-based organizations) is a distinctive structural choice that demonstrates systematic thinking. Each of the three roles is covered with relevant examples: awareness (CSE/Down to Earth, Chipko/Bahuguna, air pollution campaigns, social media), policy influence (NBA rehabilitation policies, CSE/CNG in Delhi/BS-VI norms, PIL-based litigation, Forest Rights Act/NGT Act), and advocacy (Wildlife Protection Society, Joint Forest Management, Paris Agreement). The constitutional anchor (Articles 21, 48A, 51A(g)) is present in the conclusion. However, the answer lacks specific case citations (M.C. Mehta, Taj Trapezium) and doesn't address controversies or limitations of environmental groups. The coverage is comprehensive but largely descriptive.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Accurate coverage of organizations, movements, and policies. Typology is useful. Constitutional provisions mentioned in conclusion. Missing specific case law references."
+          },
+          "structure_flow": {
+            "score": 2.5,
+            "justification": "Excellent organization: definition, typology, three role sections, conclusion. The typology section is a distinctive and effective structural choice. Very exam-friendly format."
+          },
+          "depth_examples": {
+            "score": 2.1,
+            "justification": "Good range: CSE/Down to Earth, Chipko/Bahuguna, NBA, CNG in Delhi, BS-VI, Forest Rights Act, Wildlife Protection Act, Joint Forest Management, Paris Agreement. Lacks specific case citations."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "The typology shows classification skills but the analysis of each role remains largely descriptive. Lacks critical examination of limitations, controversies, or effectiveness."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Clean formatting with clear headers and bullet points. Word count (306) is moderately over limit. Language is professional."
+          }
+        },
+        "total_score": 10.6,
+        "max_marks": 15,
+        "brief_feedback": "A well-organized answer with a useful typology of pressure groups, but would benefit from specific case citations and critical analysis of limitations."
+      }
+    ]
+  }
+]

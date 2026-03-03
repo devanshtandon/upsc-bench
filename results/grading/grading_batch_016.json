@@ -1,0 +1,285 @@
+{
+  "batch_id": "batch_016",
+  "scores": [
+    {
+      "question_id": "mains_gs2_2025_q12",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 2.7,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.05,
+        "presentation": 1.05
+      },
+      "total_score": 12.6,
+      "max_marks": 15,
+      "brief_feedback": "Excellent command of Article 368, procedural/substantive limitations, and landmark cases (Kesavananda, Minerva Mills). Clear structure with compelling international comparison. Exceeds word limit (332 vs 250) but maintains quality."
+    },
+    {
+      "question_id": "mains_gs2_2025_q13",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 2.4,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.2,
+        "presentation": 1.05
+      },
+      "total_score": 12.45,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive evolution of Collegium through all four Judges Cases (1981-2015) with accurate legal details. Balanced comparative analysis of India vs USA systems. Word limit exceeded (332 vs 250); minor deduction for presentation."
+    },
+    {
+      "question_id": "mains_gs2_2025_q14",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 2.7,
+        "depth_examples": 2.7,
+        "analytical_depth": 1.2,
+        "presentation": 1.05
+      },
+      "total_score": 13.05,
+      "max_marks": 15,
+      "brief_feedback": "Outstanding depth on Centre-State fiscal relations: covers Planning Commission→NITI Aayog transition, Finance Commission devolution, GST, CSS reforms, and borrowing constraints. Excellent specifics (32%→42%, Gadgil-Mukherjee, Punchhi Commission). Word limit significantly exceeded (380 vs 250)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q15",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 4.8,
+        "structure_flow": 2.4,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.05,
+        "presentation": 1.2
+      },
+      "total_score": 11.85,
+      "max_marks": 15,
+      "brief_feedback": "Well-defined environmental pressure groups with Constitutional anchors (Articles 48A, 51A(g)). Strong examples (Chipko, NBA, CSE). Effectively uses PIL cases (M.C. Mehta) and NGT. Balanced perspective on foreign-funded NGO concerns. Word limit exceeded (311 vs 250)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q16",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 4.8,
+        "structure_flow": 2.4,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.05,
+        "presentation": 1.2
+      },
+      "total_score": 11.85,
+      "max_marks": 15,
+      "brief_feedback": "Clear explanation of 'paradox of poverty' with concrete data (Oxfam: 40% wealth to 1%, 86% small farmers). Good policy coverage (FRA, SVAMITVA, Jan Dhan). International comparisons (Nordic, Latin America) strengthen argument. Word limit exceeded (322 vs 250)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q17",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 4.8,
+        "structure_flow": 2.7,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.2,
+        "presentation": 1.2
+      },
+      "total_score": 12.3,
+      "max_marks": 15,
+      "brief_feedback": "Excellent critical evaluation: explains Subsidiarity principle, identifies information asymmetry and accountability deficits, then critically re-examines with pragmatic limitations (elite capture, capacity constraints). Synthesizes solutions (Activity Mapping, Aspirational Districts). Word limit exceeded (323 vs 250)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q18",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 4.8,
+        "structure_flow": 2.4,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.05,
+        "presentation": 1.2
+      },
+      "total_score": 11.85,
+      "max_marks": 15,
+      "brief_feedback": "Strong grounding in NCPCR Act 2005, POCSO, IT Act, and recent DPDP Act 2023. Proposes concrete measures (UK Design Code, COPPA model, MANODARPAN counseling). Connects to Constitutional mandate (Article 39(f), 21A). Word limit exceeded (300 vs 250)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q19",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 4.8,
+        "structure_flow": 2.4,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.05,
+        "presentation": 1.2
+      },
+      "total_score": 11.85,
+      "max_marks": 15,
+      "brief_feedback": "Strategic analysis balancing hydrocarbon security (85% import dependency) with green diplomacy (ISA, GBA, OSOWOG, IMEC). Specific initiatives (KABIL-Argentina lithium, cross-border grids). Connects to Kelkar Committee and Atmanirbhar Bharat. Word limit exceeded (327 vs 250)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q20",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 4.8,
+        "structure_flow": 2.7,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.2,
+        "presentation": 1.2
+      },
+      "total_score": 12.3,
+      "max_marks": 15,
+      "brief_feedback": "Nuanced analysis of UN reform deadlock: identifies P5 gatekeeping, ideological polarization, veto paralysis. Critically extends beyond East-West narrative to regional rivalries (Coffee Club, G4), North-South divide, procedural inertia. Positions India as bridge. Word limit exceeded (340 vs 250)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q1",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.6,
+        "structure_flow": 1.6,
+        "depth_examples": 1.4,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Accurate HDI/IHDI distinction with India-specific data (0.644 HDI rank 134 vs 0.444 IHDI, 31.1% inequality loss from UNDP 2023-24). Clearly explains why IHDI better captures lived reality. Word limit exceeded (209 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q2",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Good identification of protectionism challenges (tariffs, supply chains, FDI diversion, WTO paralysis) with concrete examples (EU CBAM, US IRA). Strategic responses (PLI, China Plus One, green transition) well-articulated. Word limit exceeded (216 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q3",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive coverage of factors influencing HVC adoption: economic returns, infrastructure (cold chains, e-NAM), technology, policy incentives (MIDH, Operation Greens), agro-climatic conditions. Acknowledges risk constraints for small farmers. Word limit exceeded (194 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q4",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.6,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Well-structured scope (input→procurement→processing→distribution) with strong specifics: post-harvest losses (15-20%, Dalwai Committee), PM-Kisan SAMPADA, Kisan Rail, IoT traceability, Blockchain. Connects to food security. Word limit exceeded (196 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q5",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.6,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.3,
+      "max_marks": 10,
+      "brief_feedback": "Accurate ITER contributions (9% cost, 3,800-tonne cryostat by L&T, RF heating, 150M°C plasma). Links SST-1 domestic progress to ITER expertise. Articulates fusion's strategic role in energy security. Word limit exceeded (194 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q6",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Strategic clean tech roadmap: 500 GW renewables, green hydrogen (5 MMT target), EV transition, battery storage. Biotech mechanisms well-explained (2G/3G biofuels, SATAT/CBG, bio-hydrogen, CCUS). Aligns with 2047 vision. Word limit exceeded (201 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q7",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Clear CCUS definition with point/direct air capture distinction. Explains climate role: hard-to-abate sectors (steel, cement), negative emissions (DAC, BECCS), circular economy pathway. References IPCC 1.5°C, NITI framework. Word limit exceeded (201 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q8",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Solid SWI analysis: over-exploitation, sea-level rise, urbanization causes; MAR, MISHTI mangrove restoration, Jal Shakti remedies; CGWA enforcement. Case example (Minjur/Chennai) grounded. Balances technological and regulatory solutions. Word limit exceeded (185 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q9",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.0,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive terrorism taxonomy: cross-border (2019 Pulwama), LWE (2023 Dantewada), cyber/radicalization examples. Counter-measures span legislative (UAPA, NIA), tech (CIBMS, NATGRID), diplomatic (Balakot, FATF), socio-economic (SAMADHAN, Udaan). Word limit exceeded (210 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q10",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.1,
+      "max_marks": 10,
+      "brief_feedback": "Clear LWE definition (Maoist ideology, resource alienation) with impact assessment (infrastructure destruction, forced recruitment, displacement). Documents progress (126→38 districts 2013-2024). Integrates security (SAMADHAN, CAPFs) with development (SCA, RRP, FRA). Word limit exceeded (193 vs 150)."
+    },
+    {
+      "question_id": "mains_gs3_2025_q11",
+      "candidate_id": "candidate_8505",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 2.7,
+        "depth_examples": 2.7,
+        "analytical_depth": 1.2,
+        "presentation": 1.2
+      },
+      "total_score": 13.2,
+      "max_marks": 15,
+      "brief_feedback": "Sophisticated FHI analysis: explains composite metric across debt sustainability, revenue mobilization, expenditure quality, debt servicing. Mechanisms lucidly described (competitive federalism, market discipline, NBC adjustment, curbing populism). Article 293(3) reference precise. Word limit exceeded (331 vs 250)."
+    }
+  ]
+}

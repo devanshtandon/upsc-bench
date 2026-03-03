@@ -1,0 +1,627 @@
+[
+  {
+    "question_id": "mains_gs3_2025_q16",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A delivers a well-structured answer covering both challenges and the India Semiconductor Mission with good factual detail. The response includes specific data points on investment costs, ISM outlay, and names concrete projects like Micron and Tata Electronics.",
+        "analysis": "The answer covers all major dimensions of the question: infrastructure barriers, technology gaps, talent shortage, supply chain issues, and global competition. The ISM section is strong, naming DLI, SPECS, ISRC and specific companies. However, the answer is somewhat generic in places — the technology barriers section could go deeper into EUV lithography constraints and export control regimes. The conclusion linking to Atmanirbhar Bharat is appropriate but brief. Word count (294) modestly exceeds the 250-word limit, which is acceptable but noted.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Factually accurate throughout. Covers challenges comprehensively (capital intensity, IP barriers, talent, supply chain, global competition). ISM details correct — outlay, fiscal support percentages, DLI, SPECS, ISRC, and specific projects. Could mention export controls and EUV more specifically."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Well-organized with clear intro, two distinct sections (Challenges and ISM), and conclusion. Uses headings and bullet points effectively. Logical flow from problem to solution."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Provides specific data ($3-7 billion investment), names key global players (TSMC, Samsung, Intel), cites Micron's Gujarat ATMP unit and Tata Dholera fab. Could have mentioned CHIPS Act dollar figures or more Indian-specific ecosystem details."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Identifies late-mover disadvantage and strategic imperative framing. However, analysis remains somewhat descriptive rather than critically examining trade-offs or the feasibility of catching up in advanced nodes."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Clear, concise language with good use of formatting. Slightly over word limit (294 vs 250) but not excessively so. Professional tone throughout."
+          }
+        },
+        "total_score": 10.2,
+        "max_marks": 15,
+        "brief_feedback": "A solid, well-organized answer with good factual coverage and specific examples, though analytical depth on strategic trade-offs could be stronger."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a dense, expert-level answer that demonstrates deep domain knowledge of the semiconductor ecosystem, including nuanced points on EUV/DUV equipment, EDA tools, and the shift to advanced packaging. The ISM section is accurate and well-connected to policy instruments.",
+        "analysis": "This answer stands out for its technical precision — mentioning EUV/DUV, EDA tools, photoresists, and the value shift to advanced packaging shows genuine understanding beyond surface-level knowledge. The challenges are more nuanced than other candidates (e.g., 'policy and regulatory frictions' covering Centre-State coordination, 'scale of domestic demand' noting import-heavy semiconductor demand). The ISM section correctly identifies MeitY's role, the Semicon India Programme figure, OSAT/ATMP, and compound semiconductors. The answer is slightly under word limit at 277, which is good. The main weakness is the absence of a formal conclusion and the somewhat dense formatting that could be more reader-friendly.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.4,
+            "justification": "Exceptionally accurate and nuanced. Covers more challenge dimensions than other candidates (regulatory frictions, advanced packaging shift, domestic demand paradox). ISM details comprehensive — MeitY, Semicon India Programme, OSAT/ATMP, compound semiconductors. Cost figure ($10-20+ billion for leading-edge) is for cutting-edge fabs specifically and is accurate."
+          },
+          "structure_flow": {
+            "score": 1.8,
+            "justification": "Organized into challenges and ISM features with clear formatting. However, lacks an introduction and conclusion, and the dense bullet style, while informative, reduces readability. No clear flow from problem to solution narrative."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Technical specificity is strong — EUV/DUV, EDA tools, photoresists, silicon photonics. Mentions State incentives and plug-and-play clusters. The $10-20+ billion figure and 'millions of litres/day' water requirement add concrete detail."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Shows analytical thinking in identifying the advanced packaging value shift, domestic demand paradox, and the distinction between installed capacity and actual semiconductor demand. More critically analytical than most."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Within word limit (277). Dense but clear. Formatting could be improved — parenthetical notes within bullets make it slightly harder to parse. No conclusion somewhat affects completeness."
+          }
+        },
+        "total_score": 10.6,
+        "max_marks": 15,
+        "brief_feedback": "An expert-level answer with excellent technical depth and nuanced analysis, though the dense formatting and absent conclusion slightly reduce overall presentation quality."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides an extensive and well-structured answer that thoroughly covers both challenges and the ISM, with specific data and well-organized sections. However, the answer significantly exceeds the word limit at 398 words.",
+        "analysis": "The content coverage is comprehensive, covering capital investment, ecosystem gaps, technology access, workforce shortages, water/power infrastructure, and geopolitical risks. The ISM section is well-detailed with fiscal support percentages, DLI, ATMP/OSAT, talent development, and strategic partnerships. The answer reads like a textbook treatment — thorough but somewhat lacking in analytical edge. The major weakness is the word count (398 vs 250 limit), which would be penalized in an actual UPSC exam. The concluding paragraph adds value by connecting challenges to ISM success factors.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Factually accurate and comprehensive. Covers six distinct challenge areas and five ISM features. Cost figures ($5-10 billion for 28nm fab) are reasonable. Geopolitical/supply chain risk dimension is a good addition. All ISM features correctly stated."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Very well structured with clear introduction, numbered challenge points, numbered ISM features, and a connecting conclusion. Logical flow throughout. Uses formatting effectively."
+          },
+          "depth_examples": {
+            "score": 1.8,
+            "justification": "Provides cost figures, names key players (TSMC, Samsung, Intel), mentions COVID-19 supply chain disruptions. However, lacks India-specific project examples (no mention of Tata, Micron, Dholera). Examples are somewhat generic."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "The analysis is more descriptive than critical. The concluding sentence about 'success hinges on overcoming challenges' is generic. Does not examine trade-offs, priority sequencing, or feasibility constraints."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Clear language but significantly exceeds word limit (398 vs 250 — nearly 60% over). In UPSC, this would be penalized. Otherwise, professional and well-organized."
+          }
+        },
+        "total_score": 9.5,
+        "max_marks": 15,
+        "brief_feedback": "Thorough and well-organized with good factual coverage, but the excessive word count and lack of India-specific recent examples weaken the overall quality."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a focused, well-balanced answer that efficiently covers challenges and ISM features with specific data points and recent examples. The framing around India's $110 billion projected demand and the transition from chip designer to manufacturer is effective.",
+        "analysis": "The opening contextualization ($110 billion projection, designer-to-manufacturer transition) immediately demonstrates understanding of the strategic rationale. Challenges are concisely stated with relevant data (20% global chip design workforce, $3-10 billion investment). The ISM section introduces good details including pari-passu basis, DIC administration, and coverage across all technology nodes. The closing mention of the Tata-PSMC Dholera fab grounds the answer in current developments. The answer is well within word limits (307) and maintains a good balance between breadth and depth. Minor weakness: could have mentioned export control regimes and EUV access constraints more explicitly.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Accurate throughout. Good contextualization with $110 billion demand projection. Challenges cover capital expenditure, infrastructure, supply chain, talent gap (with 20% design workforce statistic), and global competition (names CHIPS Act, EU). ISM features well-detailed including DIC administration and pari-passu basis."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Well-organized with contextual opening, clearly delineated challenges section, ISM features section, and a forward-looking closing. Logical flow from rationale to challenges to solutions to recent progress."
+          },
+          "depth_examples": {
+            "score": 2.1,
+            "justification": "Strong specific examples: $110 billion projection, 20% design workforce, CHIPS Act and European Chips Act references, Rs 76,000 crore outlay, Tata-PSMC Dholera fab. Good mix of data and current developments."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "The framing of India's transition from designer to manufacturer shows strategic thinking. Identifies competitive dynamics and the pari-passu model. However, doesn't deeply examine feasibility challenges or node-level strategy."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Clear, professional language. Word count (307) modestly exceeds limit but is reasonable. Good use of formatting with bold headers and numbered points."
+          }
+        },
+        "total_score": 10.6,
+        "max_marks": 15,
+        "brief_feedback": "A well-balanced, data-rich answer with strong strategic framing and current examples, demonstrating both breadth of knowledge and practical awareness."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q17",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides an exhaustive treatment of both environmental hazards and remedial measures, with strong use of specific examples, legislation, and data. The answer demonstrates deep domain knowledge but significantly exceeds the word limit.",
+        "analysis": "The content is comprehensive and richly detailed — citing specific examples (Hasdeo Arand, Goa's Mandovi River, silicosis), quantitative data (1.5 million hectares diverted, 2.5% GDP), and relevant legislation (EIA, EPA 1986, MMDR Act, CAMPA). The remedial measures section is particularly strong, covering technological solutions (dry beneficiation, in-situ leaching, GIS monitoring), water management (passive vs. active AMD treatment), and regulatory enforcement. However, at 411 words, it is 64% over the 250-word limit, which is a serious presentation issue. The answer also includes social displacement, which while relevant, stretches beyond the environmental focus of the question. Analytical depth is present in the treatment of remediation technologies.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Highly accurate and comprehensive. Covers six hazard categories and six remedial measure areas. Specific factual data (1.5 million hectares, 2.5% GDP contribution) strengthens credibility. Legislation correctly cited. Technical remediation methods (dry beneficiation, passive vs. active AMD treatment) show deep knowledge."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Well-organized with clear hazards and remedial measures sections. Uses numbered points and sub-bullets effectively. However, the sheer length undermines the structure — a more concise treatment would be more effective in exam conditions."
+          },
+          "depth_examples": {
+            "score": 2.5,
+            "justification": "Excellent specific examples: Hasdeo Arand, Goa/Mandovi River, silicosis. Cites concrete data (1.5 million hectares, 2.5% GDP). Technical depth on remediation (constructed wetlands, lime neutralization, GIS/remote sensing) is outstanding."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "Shows analytical thinking in comparing passive vs. active AMD treatment methods and in the lifecycle framing. The concluding integration of economic and environmental goals demonstrates balanced reasoning."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Clear language but severely exceeds word limit (411 vs 250 — 64% over). In UPSC, this would be significantly penalized. This is a major drawback despite the quality of content."
+          }
+        },
+        "total_score": 10.5,
+        "max_marks": 15,
+        "brief_feedback": "Outstanding content accuracy and depth of examples, but the severely excessive word count would be heavily penalized in an actual UPSC exam."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a well-rounded answer with strong Indian examples, relevant legislation, and a balanced treatment of hazards and remedies. The inclusion of DMF under MMDR Amendment Act 2015 and IoT-based monitoring adds contemporary relevance.",
+        "analysis": "The answer effectively covers major environmental hazards (land degradation, air pollution, water pollution, soil erosion, displacement, waste) with specific Indian examples (silicosis in Rajasthan, Meghalaya's Jaintia Hills, Jharia coalfields). The remedial measures section is practical and well-grounded, citing relevant acts (EPA 1986, MMDR Act) and innovative solutions (DMF, IoT monitoring, phytoremediation, circular economy). The NITI Aayog Sustainable Development Framework reference in the conclusion adds policy depth. At 330 words, it exceeds the limit moderately. The structure with intro/body/conclusion is good UPSC practice. Minor weakness: the 3.26 lakh hectares figure could not be verified precisely, though the order of magnitude is plausible.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Accurate coverage of environmental hazards with region-specific examples. Correctly cites relevant legislation and policies. DMF under MMDR 2015 is a strong contemporary point. The 3.26 lakh hectares figure is plausible but unverifiable. All remedial measures are relevant and correctly described."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Excellent structure with clear introduction, two well-demarcated sections, and a conclusion. Uses headings and numbered points effectively. Good narrative flow from problem identification to solutions."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Strong India-specific examples: silicosis in Rajasthan's sandstone mines, Meghalaya's Jaintia Hills pollution, Jharia coalfields subsidence. References to phytoremediation, IoT monitoring, and circular economy show breadth."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "The conclusion linking to NITI Aayog's Sustainable Development Framework shows policy-level thinking. However, the main body is more descriptive than analytical — doesn't examine trade-offs between mining revenue and environmental costs."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Clear, professional language. Moderately exceeds word limit (330 vs 250). Good use of formatting. Appropriate intro and conclusion for UPSC style."
+          }
+        },
+        "total_score": 10.3,
+        "max_marks": 15,
+        "brief_feedback": "A well-structured answer with strong Indian examples and relevant policy references, demonstrating good command of both the environmental and governance dimensions of mining."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C delivers a sophisticated answer that integrates technical environmental science with policy frameworks, citing specific legislation (National Mineral Policy 2019, DMF/PMKKKY) and using precise terminology (Acid Mine Drainage, Zero Liquid Discharge, bio-leaching). The SDG linkage in the conclusion elevates the response.",
+        "analysis": "This is a strong answer that balances environmental hazards with remedial measures effectively. The hazards section uses precise environmental science terminology (AMD, PM2.5/PM10, hydrological profiles) grounded in Indian examples (Jharia coalfields, Western Ghats iron ore mining, Damodar River pollution). The remedial measures section is particularly impressive — 'Green Mining' technologies (bio-leaching, in-situ gasification, dry coal beneficiation, ZLD) demonstrate technical awareness, while DMF/PMKKKY and National Mineral Policy 2019 show policy knowledge. The SDG 12 and 15 linkage in the conclusion adds a global governance dimension. At 344 words, it moderately exceeds the limit. The answer could have benefited from more quantitative data.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.3,
+            "justification": "Highly accurate with precise environmental science and policy content. Correctly identifies AMD, hydrological disruption, PM2.5/PM10 emissions, and habitat fragmentation. Policy references (National Mineral Policy 2019, DMF/PMKKKY, Mine Closure Plans) are accurate. Green Mining technologies correctly described."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Well-structured with intro, two clearly delineated sections, and a strong conclusion. Uses bullet points with bold sub-headings effectively. The flow from environmental impact to remediation to policy conclusion is logical."
+          },
+          "depth_examples": {
+            "score": 2.1,
+            "justification": "Good Indian examples (Jharia, Western Ghats, Damodar River). Technical examples (bio-leaching, in-situ gasification, ZLD) are specific and relevant. However, could have included more quantitative data (hectares affected, pollution levels)."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Strong analytical framing — links mining to GDP contribution, examines ecological vs. economic imperatives, connects to SDGs and Aatmanirbhar Bharat. The multi-dimensional approach (science + policy + international commitments) shows mature thinking."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Clear, professional language with appropriate technical terminology. Moderately exceeds word limit (344 vs 250). Good formatting and flow. Conclusion is well-crafted."
+          }
+        },
+        "total_score": 10.6,
+        "max_marks": 15,
+        "brief_feedback": "A sophisticated answer combining technical environmental science with policy depth and global governance linkages, demonstrating strong analytical capacity."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a concise, efficient answer that covers environmental hazards and remedial measures with good technical precision and policy awareness. The answer stays closest to the word limit among all candidates.",
+        "analysis": "This answer is efficient and well-focused. The hazards section uses precise technical language (acid mine drainage, heavy metals Fe/Mn/As, PM10/PM2.5, methane as GHG) and adds the important point about sand mining altering river channels, which other candidates miss. The remedial measures section is well-organized into six categories covering regulation, mine planning, pollution control, waste safety, reclamation, and community engagement. References to IBM/MCDR guidelines, DMF funds, and 'fisherfolk as eyes and ears' (though this is maritime — here community monitoring is implied) show policy awareness. At 300 words, it modestly exceeds the limit. The main weakness is the absence of a formal introduction and conclusion, and relatively fewer India-specific geographic examples.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.1,
+            "justification": "Accurate and technically precise. Good inclusion of methane from coal mining as GHG, sand mining impacts, and specific heavy metals (Fe, Mn, As). Remedial measures correctly reference EIA, Forest Conservation Act 1980, IBM/MCDR guidelines, and DMF. Covers both traditional mining and sand mining."
+          },
+          "structure_flow": {
+            "score": 1.8,
+            "justification": "Organized into clear sections but lacks formal introduction and conclusion. The two-part structure (hazards then remedies) works but feels somewhat list-like. Good use of bullet points within sections."
+          },
+          "depth_examples": {
+            "score": 1.9,
+            "justification": "Good technical specificity (Fe/Mn/As heavy metals, methane, PM10/PM2.5). Mentions sand mining impacts and tailings dam failures. However, lacks specific Indian geographic examples (no Jharia, no Western Ghats, no specific rivers mentioned)."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "Shows analytical thinking in the opening framing (irreversible ecological externalities) and in identifying less common points (sand mining, methane, cumulative impact assessment). The mention of 'satellite/drone monitoring' and 'community as eyes and ears' shows practical thinking."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Concise and efficient. At 300 words, closest to the word limit among candidates. Clear technical language. Lacks intro/conclusion but makes up for it in content density."
+          }
+        },
+        "total_score": 9.9,
+        "max_marks": 15,
+        "brief_feedback": "A concise, technically precise answer with good policy awareness, but could benefit from more India-specific geographic examples and a formal introduction/conclusion."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q18",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides an exceptionally well-structured and comprehensive answer covering all three parts of the question — Paris Agreement commitments, COP26 Panchamrit pledges, and the 2022 NDC update — with accurate data and relevant policy linkages.",
+        "analysis": "This is a strong answer that addresses all three dimensions of the question with clarity and precision. The Paris commitments (33-35% intensity reduction, 40% non-fossil capacity, 2.5-3 billion tonnes carbon sink) are correctly stated. The COP26 Panchamrit is comprehensively covered with all five elements. The 2022 NDC update correctly identifies the two enhanced targets (45% intensity, 50% non-fossil) and adds the LiFE movement integration. The conclusion linking to National Green Hydrogen Mission, ISA, and PLI schemes shows policy awareness. At 320 words, it moderately exceeds the limit. Minor inaccuracy: India did not formally join the Global Methane Pledge (that was Candidate C's point — Candidate A doesn't make this error). Overall, this is one of the most complete treatments of the topic.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Highly accurate across all three sections. Paris targets correctly stated with specific numbers. Panchamrit five elements all correctly listed. NDC 2022 update accurately captures the two enhanced targets and LiFE integration. Supporting policies (Green Hydrogen Mission, ISA, PLI) correctly referenced."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Excellent three-part structure directly mirroring the question's three requirements. Clear introduction, well-demarcated sections with headings, and a connecting conclusion. This is textbook UPSC answer structure."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Provides specific numerical targets throughout. References to Green Hydrogen Mission, ISA, and PLI schemes ground the answer in current policy. However, could have included progress metrics (e.g., current renewable capacity achieved) or Third BUR data."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Frames commitments as 'progressively evolved' and the conclusion as a 'robust, forward-looking framework.' However, doesn't critically examine implementation challenges, financing gaps, or the adequacy of 2070 net-zero target. More descriptive than analytical."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Clear, professional language. Moderately exceeds word limit (320 vs 250). Well-formatted with bold highlights and numbered points. Good UPSC exam style."
+          }
+        },
+        "total_score": 10.8,
+        "max_marks": 15,
+        "brief_feedback": "An exemplary answer in structure and factual accuracy, covering all three question dimensions comprehensively with relevant policy linkages."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a dense, information-rich answer that demonstrates expert-level knowledge of India's climate commitments, including progress tracking (Third BUR data showing 24% reduction) and supporting policy instruments (PAT, FAME, Energy Conservation Amendment 2022).",
+        "analysis": "This answer is remarkably information-dense while staying within the word limit (227 words). It correctly covers all three parts of the question with additional value-adds: the Third BUR reference showing 24% emissions intensity reduction by 2016, the note that India has already crossed 40% non-fossil installed capacity, and mention of supporting policies (PAT, FAME, carbon market architecture under Energy Conservation Amendment 2022). The inclusion of CBDR-RC framing shows understanding of international climate negotiation principles. The adaptation dimension mention is a good touch. However, the dense style sacrifices readability — the extensive use of bold, asterisks, and parenthetical data makes it harder to parse in an exam context. The answer also lacks a formal conclusion.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.6,
+            "justification": "Exceptionally accurate with value-added information. Third BUR progress data (24% reduction by 2016) and current achievement of 40%+ non-fossil capacity show depth beyond what the question requires. All Panchamrit elements correct. NDC update correctly described with retained forest sink goal. PAT, FAME, and Energy Conservation Amendment 2022 are excellent policy specifics."
+          },
+          "structure_flow": {
+            "score": 1.7,
+            "justification": "Follows the three-part question structure but the dense formatting sacrifices readability. No formal introduction or conclusion. The continuous dense text with heavy parenthetical data can be hard to follow in exam conditions."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Outstanding depth: Third BUR data, current renewable capacity achievement, adaptation dimensions, CBDR-RC framing, PAT/FAME/carbon market architecture references. More specific policy instruments cited than any other candidate."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Shows analytical thinking by including progress tracking against targets (not just stating targets), noting India has already exceeded the 40% target, and identifying the policy delivery architecture. The equity/CBDR-RC framing shows diplomatic awareness."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Within word limit (227) which is commendable. However, extremely dense formatting with heavy use of bold, asterisks, and parenthetical notes reduces readability. Lacks intro/conclusion."
+          }
+        },
+        "total_score": 10.8,
+        "max_marks": 15,
+        "brief_feedback": "An exceptionally information-dense answer with expert-level policy knowledge and progress tracking, though the dense formatting somewhat compromises readability."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C delivers a clean, well-organized answer that covers all three question dimensions with appropriate depth. The inclusion of supporting schemes (Green Hydrogen Mission, PM-KUSUM, Sovereign Green Bonds) and the Green Grids Initiative adds breadth.",
+        "analysis": "This answer is well-balanced and reader-friendly. The Paris Agreement section correctly covers the three INDCs with the CBDR principle. The COP26 section accurately lists all five Panchamrit elements and adds the Green Grids Initiative/OSOWOG co-launch, which is a relevant detail other candidates miss. However, the mention of India joining the 'Global Methane Pledge discussions' is slightly misleading — India did not formally join the Global Methane Pledge. The NDC update section correctly identifies the two enhanced targets and links to LiFE, Green Hydrogen Mission, PM-KUSUM, and Sovereign Green Bonds. At 261 words, it is close to the word limit. The structure is excellent with clear headings mirroring the question.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.1,
+            "justification": "Mostly accurate. Paris targets, Panchamrit elements, and NDC updates correctly stated. The Green Grids Initiative/OSOWOG mention is a good addition. Minor issue: stating India 'joined the Global Methane Pledge discussions' is somewhat misleading — India did not join the pledge itself. Supporting schemes correctly named."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Excellent structure with three clear sections matching the question's three parts. Uses headings effectively. Clean, reader-friendly layout that would work well in an exam setting."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good range of examples: OSOWOG/Green Grids Initiative, Green Hydrogen Mission, PM-KUSUM, Sovereign Green Bonds. However, lacks progress data (no BUR references, no current capacity figures) that would strengthen the 'review' aspect."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Mostly descriptive — lists commitments and schemes without critically examining implementation progress, gaps, or challenges. The answer fulfills the 'review' and 'mention' parts of the question but lacks critical assessment."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Clean, professional presentation. Close to word limit (261). Good formatting with bold text and bullet points. Reader-friendly layout."
+          }
+        },
+        "total_score": 10.3,
+        "max_marks": 15,
+        "brief_feedback": "A clean, well-structured answer covering all question dimensions with good policy examples, though it could benefit from progress data and critical analysis."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a thorough, well-organized answer that systematically covers all three parts of the question. The explanation of how Panchamrit targets represent enhancements over Paris targets is particularly effective.",
+        "analysis": "The answer excels in drawing explicit connections between Paris targets and their COP26 enhancements — for instance, noting that 500 GW is 'a substantial increase from the earlier 40% installed capacity target.' This comparative framing helps the reader understand the evolution of India's commitments. All three Paris targets are correctly stated, all five Panchamrit elements accurately listed, and the NDC update correctly identifies the two formally incorporated pledges. The answer also correctly notes that the 1 billion tonne target is a 'concrete absolute emissions reduction target,' showing understanding of the shift from intensity-based to some absolute metrics. At 324 words, it moderately exceeds the limit. The main weakness is the limited policy implementation examples — no mention of specific schemes like Green Hydrogen Mission or ISA that are driving these targets.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.2,
+            "justification": "Accurate throughout. Paris targets, Panchamrit elements, and NDC updates all correctly stated. Good interpretive notes (e.g., 'decoupling economic growth from emissions,' 'concrete absolute emissions reduction target'). Correctly identifies that only two Panchamrit pledges were formally incorporated into the updated NDC."
+          },
+          "structure_flow": {
+            "score": 2.3,
+            "justification": "Very well structured with three clear sections and a connecting conclusion. The comparative framing between Paris and COP26 targets is excellent for flow and comprehension. Numbered points are clear and well-organized."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Provides specific numerical targets throughout but lacks supporting policy examples (no Green Hydrogen Mission, ISA, PLI, or other implementation mechanisms). No progress data or current achievement figures. The comparative analysis between targets is good but examples of delivery are missing."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "Good interpretive analysis — explains the significance of each commitment evolution (intensity to absolute, 33-35% to 45%, 40% to 50%). The final paragraph shows awareness of the broader trajectory. However, doesn't examine challenges or gaps."
+          },
+          "presentation": {
+            "score": 1.0,
+            "justification": "Clear, professional language. Moderately exceeds word limit (324 vs 250). Well-formatted with bold and numbered points. The comparative framing enhances readability."
+          }
+        },
+        "total_score": 10.2,
+        "max_marks": 15,
+        "brief_feedback": "A well-organized answer with effective comparative framing between Paris and COP26 commitments, though it would benefit from specific implementation examples and progress data."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q19",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides a concise, well-organized answer within the word limit that maps peace accords effectively by state and year. The inclusion of specific recent agreements (UNLF Pambei faction, ULFA pro-talks) demonstrates current awareness.",
+        "analysis": "This answer stands out for its efficiency — covering both challenges and peace accords comprehensively within 246 words. The challenges section identifies five key areas with specific examples (Meitei-Kuki-Zo tensions, Golden Triangle spillover, Naga separate flag/constitution demands, AFSPA trust deficit). The peace accords mapping is excellent — organized by state/year with correct details: 2015 Framework Agreement, 2017 NNPGs Agreed Position, 2020 Bodo Accord/BTR, 2021 Karbi Anglong Accord, 2023 ULFA pro-talks pact, 2020 Bru-Reang settlement, and 2023 UNLF Pambei faction. The mention of ~80% decline in insurgency incidents adds a quantitative trend. Minor issue: the 2017 NNPGs 'Agreed Position' is not widely recognized as a formal accord. The SRE, SIS, and AFSPA rationalization references are appropriate concluding points.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.3,
+            "justification": "Highly accurate. Correctly identifies ethnic violence, fragmented insurgency, porous borders, governance deficits, and peace process constraints. Peace accords correctly mapped with dates, parties, and outcomes. 80% decline statistic aligns with MHA reporting. UNLF Pambei faction and ULFA pro-talks accurately identified."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Well-organized with challenges and accords sections clearly separated. The state/year mapping format for accords is effective. However, lacks a formal introduction and conclusion. The bullet-point style is efficient but somewhat list-like."
+          },
+          "depth_examples": {
+            "score": 2.2,
+            "justification": "Strong specific examples: Meitei-Kuki-Zo tensions, Golden Triangle spillover, separate flag/constitution demands, BTR creation. Peace accords mapped with correct detail (year, parties, specific outcomes). The 80% decline statistic adds quantitative depth."
+          },
+          "analytical_depth": {
+            "score": 1.1,
+            "justification": "Shows analytical thinking in identifying the tension between peace process and territorial reorganization fears across states. The distinction between 'over-ground workers' and active insurgents, and the extortion economy mention, show nuanced understanding."
+          },
+          "presentation": {
+            "score": 1.2,
+            "justification": "Within word limit (246) — exactly aligned. Clear, efficient language. Good formatting. Well-suited for exam conditions."
+          }
+        },
+        "total_score": 10.8,
+        "max_marks": 15,
+        "brief_feedback": "An efficient, well-mapped answer that covers both challenges and peace accords with impressive breadth and accuracy within the word limit."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides the most comprehensive treatment of the topic, covering challenges and peace accords with extensive detail, specific statistics, and forward-looking analysis. However, the answer significantly exceeds the word limit.",
+        "analysis": "This is a very thorough answer that demonstrates deep knowledge of the NE security landscape. The challenges section covers ethnic conflicts, porous borders, territorial claims (Greater Nagalim), and extortion economy with the 'parallel taxation' label. The peace accords section is the most detailed among all candidates — covering Framework Agreement, Bodo Accord, Bru-Reang Agreement, Karbi Anglong and Adivasi Accords, Inter-State Border Pacts (Assam-Meghalaya, Assam-Arunachal Pradesh), and UNLF/ULFA accords. Specific numbers (34,000 Bru tribals, 73% reduction in incidents, 1,600 cadres) strengthen the answer. The introduction noting 99% international boundaries and the conclusion connecting to Act East Policy are strong framing elements. However, at 352 words, it significantly exceeds the limit. The mention of the Indo-Myanmar border fence in the conclusion is a timely addition.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Highly accurate and comprehensive. All peace accords correctly identified with dates, parties, and outcomes. Statistics (73% reduction, 34,000 Bru tribals, 99% international boundaries) add factual weight. Greater Nagalim territorial issue correctly framed. Inter-state border agreements (Assam-Meghalaya, Assam-Arunachal Pradesh) are good additions."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Well-structured with introduction, two clear sections, and a forward-looking conclusion. Chronological ordering of peace accords is effective. However, the length means the structure needs to work harder — some points could be consolidated."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Excellent depth: specific cadre numbers (1,600, 34,000), territorial dispute areas (Greater Nagalim across states), multiple peace accords with outcomes, Indo-Myanmar border fence reference. The inter-state border agreements are a unique addition that shows comprehensive coverage."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "Good analytical framing — links insurgency to extortion economy and 'parallel taxation,' identifies root causes of ethnic divides, and connects security to development (Act East Policy). The conclusion about border fencing shows forward-looking analysis."
+          },
+          "presentation": {
+            "score": 0.7,
+            "justification": "Clear language but significantly exceeds word limit (352 vs 250 — 40% over). In UPSC, this would be penalized. Otherwise, professional formatting with good use of bold text and headers."
+          }
+        },
+        "total_score": 10.8,
+        "max_marks": 15,
+        "brief_feedback": "The most comprehensive treatment with excellent specific detail and peace accord mapping, but the excessive word count is a significant drawback."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C provides a well-organized answer with a useful tabular format for peace accords mapping. The coverage of challenges is adequate, and the inclusion of specific insurgent group names adds authenticity.",
+        "analysis": "The answer's distinctive feature is the table format for peace accords, which directly addresses the 'map' instruction in the question. The challenges section covers insurgency (with specific group names), ethnic conflicts (Kuki-Meitei), porous borders, governance deficits, and illegal immigration. However, some group names appear incorrect or less well-known (MNPF is not a major NE insurgent group). The peace accords table covers six agreements but some dates have issues — the Bru-Reang agreement was signed in January 2020, not 2019. The 'Way Forward' section is brief but relevant. At 258 words, it is close to the limit. The answer could benefit from more specific outcome details (cadre numbers, development packages) in the accords section.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.7,
+            "justification": "Generally accurate but with some issues. The Bru-Reang agreement date listed as 2019 when it was January 2020. MNPF is not a well-known major NE insurgent group. The UNLF entry describes it as 'Signed Suspension of Operations' which is imprecise — it was a tripartite peace agreement. Other accords correctly identified."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Well-organized with clear sections. The tabular format for peace accords is an effective and creative approach to the 'map' instruction. Includes challenges, accords, and way forward in a logical flow."
+          },
+          "depth_examples": {
+            "score": 1.7,
+            "justification": "Lists specific insurgent groups and peace accords but lacks detail on outcomes — no cadre numbers, development packages, or territorial specifics. The table format, while clear, sacrifices depth. Few quantitative data points."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Identifies relevant challenges but treatment is somewhat surface-level. The Way Forward section mentions key themes (Act East, PM-DevINE, border management) but doesn't develop them. Limited critical examination of why peace processes succeed or fail."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Clean formatting with good use of table, headers, and bullets. Close to word limit (258). The table format is creative and exam-appropriate. Clear language throughout."
+          }
+        },
+        "total_score": 9.5,
+        "max_marks": 15,
+        "brief_feedback": "A creatively formatted answer with an effective table for peace accords mapping, but some factual imprecisions and insufficient depth on accord outcomes weaken the response."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a detailed answer with extensive coverage of both challenges and peace accords, including specific statistics and unique details like the DNLA accord. However, the answer significantly exceeds the word limit.",
+        "analysis": "The answer covers challenges comprehensively — including the unusual mention of LWE spillover in Assam/Arunachal Pradesh, which while marginal, shows breadth of awareness. The peace accords section is strong with five distinct agreements and specific details (1,600 cadres for Bodo, 37,000 Bru tribals, Rs 1,000 crore Karbi package, 36.79 sq km Assam-Meghalaya resolution, 168 DNLA cadres). The DNLA accord is a unique inclusion that other candidates miss. However, at 420 words, this is 68% over the word limit — the most excessive among all candidates. The mention of 200 ethnic groups is a strong contextual point. The conclusion with 80% decline statistic, NEIDS 2017, and Act East Policy provides good closure, but the LWE point is questionable for NE India specifically.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.1,
+            "justification": "Mostly accurate with good detail. Peace accords correctly identified with specific outcomes. However, the LWE spillover point for NE India is questionable — this is not a major challenge in the region. The 200 ethnic groups figure is commonly cited. NEIDS 2017 correctly referenced. DNLA accord is a valuable unique inclusion."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Well-organized with numbered challenges and bullet-pointed accords. Includes a connecting conclusion. However, the excessive length means the structure doesn't serve its purpose of being concise and focused."
+          },
+          "depth_examples": {
+            "score": 2.3,
+            "justification": "Strong quantitative detail: 1,600 cadres, 37,000 Bru tribals, Rs 1,000 crore, 36.79 sq km, 168 DNLA cadres, 80% decline. The DNLA accord is a unique addition. Double the national average youth unemployment adds context. Very good specific data coverage."
+          },
+          "analytical_depth": {
+            "score": 0.9,
+            "justification": "Identifies root causes (economic disparity, identity politics, external support) and connects to broader policy (Act East, NEIDS). However, the analysis is more descriptive than critical — doesn't examine why certain accords succeed while the Naga issue remains unresolved."
+          },
+          "presentation": {
+            "score": 0.5,
+            "justification": "Severely exceeds word limit (420 vs 250 — 68% over). This would be heavily penalized in UPSC. Clear language but the excessive length undermines the answer's effectiveness."
+          }
+        },
+        "total_score": 9.8,
+        "max_marks": 15,
+        "brief_feedback": "Rich in specific data and peace accord details including the unique DNLA inclusion, but the severely excessive word count significantly undermines the answer."
+      }
+    ]
+  },
+  {
+    "question_id": "mains_gs3_2025_q20",
+    "candidates": [
+      {
+        "candidate_id": "candidate_A",
+        "summary": "Candidate A provides an extensive answer covering maritime security's importance, challenges, and way forward with comprehensive detail across all dimensions. However, the answer at 400 words significantly exceeds the word limit.",
+        "analysis": "The answer is thorough, covering the importance of maritime security with key statistics ($1.2 trillion trade value, 90% by volume, 70% by value), seven distinct challenges, and seven way forward points. The challenges section covers piracy, terrorism (26/11), IUU fishing, smuggling, natural disasters, inter-state disputes, and emerging cyber threats — the last being a good modern addition. The way forward section references specific systems (IRNSS, AIS, ISPS Code) and frameworks (IORA, QUAD). However, at 400 words, it's 60% over the limit. The answer is more of a comprehensive essay than a focused exam answer. Notably, it doesn't mention China's naval expansion in the IOR, which is a major strategic challenge. The $1.2 trillion trade figure adds economic gravitas.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.0,
+            "justification": "Accurate across all dimensions. Trade statistics, 26/11 reference, IUU fishing, cyber threats, and way forward measures all correct. IRNSS, AIS, ISPS Code, IORA, QUAD correctly referenced. Missing China/PLA Navy presence as a strategic challenge is a notable gap for GS3 internal security."
+          },
+          "structure_flow": {
+            "score": 2.0,
+            "justification": "Three clear sections (importance, challenges, way forward) with numbered points. Has an opening paragraph and closing statement. However, the excessive length and seven points per section make it feel like an encyclopedia entry rather than a focused exam answer."
+          },
+          "depth_examples": {
+            "score": 2.0,
+            "justification": "Good specific references: $1.2 trillion trade value, IRNSS, AIS, Coastal Surveillance Radar Chain Project, ISPS Code, Sagarmala. Covers both traditional and non-traditional threats. However, lacks specific recent incidents or operations beyond 26/11."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Lists challenges and solutions comprehensively but doesn't analyze the strategic implications of maritime security for India's great power aspirations, or the tension between being a net security provider and capacity constraints."
+          },
+          "presentation": {
+            "score": 0.6,
+            "justification": "Significantly exceeds word limit (400 vs 250 — 60% over). Clear language but the excessive length would be heavily penalized. Well-formatted but needs significant trimming."
+          }
+        },
+        "total_score": 9.4,
+        "max_marks": 15,
+        "brief_feedback": "Comprehensive coverage of maritime security dimensions but severely undermined by the excessive word count and lack of strategic analysis on China's IOR presence."
+      },
+      {
+        "candidate_id": "candidate_B",
+        "summary": "Candidate B provides a dense, expert-level answer that demonstrates strong domain knowledge of India's maritime security architecture, including specific systems (NC3I/IMAC, IFC-IOR, RISAT), and addresses the full spectrum from traditional to grey-zone threats.",
+        "analysis": "This answer stands out for its technical specificity and strategic awareness. The opening establishes economic stakes with precise data (95% by volume, 70% by value, 85% crude oil imports) and names critical chokepoints (Hormuz, Bab-el-Mandeb, Malacca). The challenges section uniquely identifies grey-zone threats and PLA Navy presence, which is crucial for a GS3 answer. The mention of 'dark ships and falsified AIS,' OT systems vulnerability, and Sagarmala assets at climate risk shows cutting-edge awareness. The way forward section references specific institutional mechanisms (NC3I/IMAC, IFC-IOR, Coastal Security Scheme Phase-III, SAGAR, IPOI) and includes the creative 'fisherfolk as eyes and ears' community policing concept. At 271 words, it modestly exceeds the limit. The Hindi text ('samudri marg') is unusual but shows bilingual fluency. The main weakness is dense formatting that sacrifices readability.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.5,
+            "justification": "Exceptionally accurate with strong domain expertise. Correctly cites trade statistics, chokepoints, 26/11 gaps, grey-zone/PLA Navy threats, dark ships/falsified AIS, and specific systems (NC3I, IMAC, IFC-IOR, RISAT, P-8I). SAGAR and IPOI correctly referenced. The Coastal Security Scheme Phase-III and ISPS compliance are precise."
+          },
+          "structure_flow": {
+            "score": 1.8,
+            "justification": "Organized into importance, challenges, and way forward. However, no formal introduction or conclusion. The dense formatting with heavy bold text, parenthetical notes, and technical abbreviations reduces readability."
+          },
+          "depth_examples": {
+            "score": 2.4,
+            "justification": "Outstanding technical specificity: NC3I/IMAC, IFC-IOR, RISAT/Oceansat, P-8I, white-shipping agreements, ISPS compliance, fisherfolk transponders. Names specific chokepoints. Grey-zone/PLA Navy mention is unique and important. Dark ships and OT/IT cybersecurity shows cutting-edge awareness."
+          },
+          "analytical_depth": {
+            "score": 1.2,
+            "justification": "Shows strong analytical thinking — identifies grey-zone strategic competition as distinct from traditional threats, links Sagarmala assets to climate vulnerability, and frames cooperative security through SAGAR/IPOI. The distinction between traditional and emerging threats shows strategic layering."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Modestly over word limit (271). Dense but content-rich. The Hindi insertion is unusual. Heavy use of abbreviations and technical terms may affect accessibility. Lacks formal intro/conclusion."
+          }
+        },
+        "total_score": 10.8,
+        "max_marks": 15,
+        "brief_feedback": "An expert-level answer with outstanding domain knowledge and strategic depth, particularly strong on grey-zone threats and India's maritime security architecture."
+      },
+      {
+        "candidate_id": "candidate_C",
+        "summary": "Candidate C delivers the best-structured answer with a clear distinction between maritime (deep sea) and coastal (near-shore) challenges, supported by specific institutional references and a forward-looking way forward anchored in the SAGAR doctrine.",
+        "analysis": "This answer's distinctive feature is the innovative sub-categorization of challenges into 'Maritime (Deep Sea/Regional)' and 'Coastal (Near-Shore)' categories, which demonstrates conceptual clarity. The maritime section covers geopolitical (String of Pearls, PLA Navy), non-traditional (piracy, terrorism, smuggling), and IUU fishing dimensions. The coastal section addresses porous geography (Sir Creek), governance gaps (Navy/Coast Guard/Marine Police coordination), and vessel tracking blind spots. The way forward section is strong with specific institutional references (IMAC, NMSC, IFC-IOR) and multilateral frameworks (QUAD, IPOI, Malabar exercises). The SAGAR vision framing in the conclusion is appropriate. At 361 words, it moderately exceeds the limit. The EEZ figure (2.01 million sq km) and the mention of Autonomous Underwater Vehicles (AUVs) add depth.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 4.3,
+            "justification": "Accurate throughout. Trade statistics correct (95% volume, 68% value), SLOC chokepoints and energy security correctly framed. String of Pearls, PLA Navy, 26/11, Sir Creek, IUU fishing all correctly referenced. IMAC, NMSC, IFC-IOR, QUAD, IPOI, SAGAR accurately cited. The AUV mention is a good technical addition."
+          },
+          "structure_flow": {
+            "score": 2.4,
+            "justification": "Excellent structure with clear introduction, innovative maritime/coastal sub-categorization, and a strong SAGAR-anchored conclusion. The three-part flow (importance, challenges, way forward) mirrors the question perfectly. Best-structured answer among all candidates."
+          },
+          "depth_examples": {
+            "score": 2.1,
+            "justification": "Good range of examples: Bombay High offshore assets, Sir Creek, heroin seizures, Deep Ocean Mission, Malabar exercises. Specific institutional references (NMSC, IMAC, IFC-IOR) show policy awareness. Could have included more recent operational examples."
+          },
+          "analytical_depth": {
+            "score": 1.0,
+            "justification": "The maritime/coastal sub-categorization shows analytical thinking. Links maritime security to $5 trillion economy goal and net security provider aspirations. The governance gaps analysis (inter-agency coordination) is insightful. However, doesn't deeply examine resource allocation trade-offs."
+          },
+          "presentation": {
+            "score": 0.9,
+            "justification": "Well-formatted with clear headers and sub-categories. Moderately exceeds word limit (361 vs 250). Professional language. The SAGAR conclusion is a strong closing."
+          }
+        },
+        "total_score": 10.7,
+        "max_marks": 15,
+        "brief_feedback": "The best-structured answer with innovative maritime/coastal sub-categorization and strong institutional references, anchored effectively in the SAGAR strategic vision."
+      },
+      {
+        "candidate_id": "candidate_D",
+        "summary": "Candidate D provides a well-organized answer with good geographic context (7,516 km coastline, 1,382 islands, 2.01 million sq km EEZ) and covers traditional and non-traditional threats with a balanced way forward section.",
+        "analysis": "The answer opens with strong geographic contextualization (coastline, islands, EEZ) that establishes the scale of India's maritime domain. Challenges are usefully divided into 'Traditional' and 'Non-Traditional' categories, which shows conceptual organization. The 26/11, piracy, String of Pearls/PLA Navy references are standard but correct. The way forward section covers institutional framework, technology integration, capacity building, international cooperation (IONS, IORA, QUAD, SAGAR), and Blue Economy/Deep Ocean Mission. At 286 words, it modestly exceeds the limit. The answer is solid and covers the essentials well but lacks the depth and specificity of the top answers — no mention of specific surveillance systems (IMAC, NC3I), chokepoints, or community policing approaches. The 'net security provider' framing in the conclusion is appropriate.",
+        "rubric_scores": {
+          "content_accuracy": {
+            "score": 3.8,
+            "justification": "Accurate but somewhat generic. Trade statistics correct (95% volume, 68% value). 26/11, String of Pearls, IUU fishing, piracy correctly referenced. Way forward mentions IONS, IORA, QUAD, SAGAR, Deep Ocean Mission correctly. However, lacks specific surveillance systems and operational details."
+          },
+          "structure_flow": {
+            "score": 2.2,
+            "justification": "Well-organized with clear sections for importance, challenges (subdivided into traditional/non-traditional), and way forward. Has an implicit conclusion. The traditional/non-traditional division is a good organizing principle."
+          },
+          "depth_examples": {
+            "score": 1.6,
+            "justification": "Provides geographic data (7,516 km, 1,382 islands, 2.01 million sq km) and references heroin seizures off Gujarat coast. However, lacks specific institutional mechanisms (IMAC, NC3I, IFC-IOR), chokepoint details, or recent operational examples. Way forward points are somewhat generic."
+          },
+          "analytical_depth": {
+            "score": 0.8,
+            "justification": "Traditional/non-traditional threat categorization shows some analytical thinking. The 'net security provider' framing is appropriate. However, analysis remains surface-level — doesn't examine strategic implications of China's maritime expansion or India's capacity gaps."
+          },
+          "presentation": {
+            "score": 1.1,
+            "justification": "Close to word limit (286). Clear formatting with headers, bold text, and bullet points. Professional language. Good use of the traditional/non-traditional framework."
+          }
+        },
+        "total_score": 9.5,
+        "max_marks": 15,
+        "brief_feedback": "A solid, well-organized answer with good geographic context, but lacks the institutional specificity and strategic depth of stronger responses."
+      }
+    ]
+  }
+]

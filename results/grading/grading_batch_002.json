@@ -1,0 +1,285 @@
+{
+  "batch_id": "batch_002",
+  "scores": [
+    {
+      "question_id": "mains_gs1_2025_q13",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 3.0,
+        "depth_examples": 3.0,
+        "analytical_depth": 1.2,
+        "presentation": 1.2
+      },
+      "total_score": 13.8,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive coverage of French Revolution's relevance with solid examples (Declaration, Napoleonic Code, UDHR). Strong structure with clear sections, but somewhat generic analysis lacking critical assessment of contemporary challenges. Slightly exceeds word limit at 276 words."
+    },
+    {
+      "question_id": "mains_gs1_2025_q14",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.7,
+        "structure_flow": 2.8,
+        "depth_examples": 3.6,
+        "analytical_depth": 1.2,
+        "presentation": 0.9
+      },
+      "total_score": 14.2,
+      "max_marks": 15,
+      "brief_feedback": "Excellent geographical knowledge with specific field names (Safaniya, Brent, Campos basins) and detailed comparison table. Well-structured with headers and examples. Slightly verbose (299 words) and lacks deeper analysis of climate/geopolitical implications. Factually accurate throughout."
+    },
+    {
+      "question_id": "mains_gs1_2025_q15",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.6,
+        "structure_flow": 3.0,
+        "depth_examples": 3.4,
+        "analytical_depth": 1.4,
+        "presentation": 1.1
+      },
+      "total_score": 14.5,
+      "max_marks": 15,
+      "brief_feedback": "Strong integration of AI, drones, GIS, and RS with concrete Indian examples (SVAMITVA, Aspirational Districts). Clear distinction between locational and areal planning. Structure is logical but analytical depth is limited; challenges section is brief. Word count acceptable at 282."
+    },
+    {
+      "question_id": "mains_gs1_2025_q16",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.7,
+        "structure_flow": 3.2,
+        "depth_examples": 3.4,
+        "analytical_depth": 1.5,
+        "presentation": 1.2
+      },
+      "total_score": 15.0,
+      "max_marks": 15,
+      "brief_feedback": "Solid understanding of plate tectonics theory with good examples (Mid-Atlantic Ridge, East African Rift, Himalayas, Wilson Cycle). Well-organized with clear mechanism explanations and historical evidence. Minimal analytical critique; good presentation within word limit (268 words)."
+    },
+    {
+      "question_id": "mains_gs1_2025_q17",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.5,
+        "structure_flow": 3.0,
+        "depth_examples": 3.2,
+        "analytical_depth": 1.3,
+        "presentation": 1.2
+      },
+      "total_score": 14.2,
+      "max_marks": 15,
+      "brief_feedback": "Good regional analysis with data (8.6 lakh sq km, 43% population, 520 persons/sq km). Differentiates Upper/Middle/Lower basin zones effectively. Mentions specific issues (Kosi floods, groundwater depletion). Structure clear but somewhat mechanical; analytical depth lacking on sustainability implications. Slightly over word limit at 293."
+    },
+    {
+      "question_id": "mains_gs1_2025_q18",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.4,
+        "structure_flow": 3.0,
+        "depth_examples": 3.2,
+        "analytical_depth": 1.4,
+        "presentation": 1.0
+      },
+      "total_score": 14.0,
+      "max_marks": 15,
+      "brief_feedback": "Addresses the paradox well with Indian context (50 billion market, 18-20% CAGR). Good factors (urbanization, youth demographics, affordability, marketing). Weak on analytical depth regarding consumer behavior trade-offs. Solutions provided (FSSAI, education) but somewhat superficial. Word count high at 286."
+    },
+    {
+      "question_id": "mains_gs1_2025_q19",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.6,
+        "structure_flow": 3.2,
+        "depth_examples": 3.2,
+        "analytical_depth": 1.6,
+        "presentation": 1.2
+      },
+      "total_score": 14.8,
+      "max_marks": 15,
+      "brief_feedback": "Nuanced treatment of sustainability-poverty tension with specific examples (Kanha/Sariska displacement, Ujjwala Yojana, coal mining effects). Structured well with clear conflict areas and reconciliation strategies. Good analytical tone with emphasis on pro-poor environmentalism. Word count acceptable at 299."
+    },
+    {
+      "question_id": "mains_gs1_2025_q20",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.6,
+        "structure_flow": 3.0,
+        "depth_examples": 3.2,
+        "analytical_depth": 1.5,
+        "presentation": 1.2
+      },
+      "total_score": 14.5,
+      "max_marks": 15,
+      "brief_feedback": "Balanced response arguing displacement-rehabilitation remains dominant axis while recognizing alternative mechanisms (Scheduled areas, PESA, schools). Cites statistics (50-60M displaced, 40-50% tribals) and specific examples (Sardar Sarovar, Niyamgiri). Could benefit from deeper analysis of rights-based approaches. Slightly long at 269 words."
+    },
+    {
+      "question_id": "mains_gs2_2025_q1",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 2.0,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.6,
+      "max_marks": 10,
+      "brief_feedback": "Correct enumeration of corrupt practices under Section 123 (8 types). Good distinction that disproportionate assets don't directly constitute undue influence under RPA but are actionable under PCA. However, answer is choppy in structure and lacks depth on case law (only Amrinder Singh cited). Within word limit but could be more analytical."
+    },
+    {
+      "question_id": "mains_gs2_2025_q2",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.5,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.8,
+        "presentation": 0.8
+      },
+      "total_score": 8.9,
+      "max_marks": 10,
+      "brief_feedback": "Solid understanding of tribunal advantage over courts (speed, expertise, flexibility). Good reference to Swaran Singh Committee and 2021 Reforms Act. Balanced assessment noting Supreme Court concerns (Madras Bar Association). However, lacks detailed case analysis and could elaborate more on the impact of reforms. Within word limit at 165."
+    },
+    {
+      "question_id": "mains_gs2_2025_q3",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.6,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.9,
+        "presentation": 0.9
+      },
+      "total_score": 9.2,
+      "max_marks": 10,
+      "brief_feedback": "Clear comparison of India (Article 72, ministerial advice required) vs USA (Article II, discretionary, no impeachment). Explains limits correctly (judicial review in India, impeachment exclusion in both). Good definition of preemptive pardons (Ford-Nixon example). Structure is organized; could include more comparative analysis on international implications."
+    },
+    {
+      "question_id": "mains_gs2_2025_q4",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.6,
+        "structure_flow": 2.0,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.9,
+        "presentation": 0.8
+      },
+      "total_score": 8.9,
+      "max_marks": 10,
+      "brief_feedback": "Accurate on post-2019 J&K UT status (114 seats, unicameral, no Legislative Council). Correctly identifies limitations (LG concurrence on law/order/police/land, Parliament supremacy). However, lacks comparison to pre-2019 state status or analysis of implications for federalism. Within word limit at 168 but somewhat descriptive."
+    },
+    {
+      "question_id": "mains_gs2_2025_q5",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.7,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 1.0,
+        "presentation": 0.9
+      },
+      "total_score": 9.4,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive coverage of AG's role under Article 76. Clear delineation of responsibilities, rights (right of audience, parliamentary privileges), and limitations (no executive authority, tenure at pleasure). Well-structured. Notes conflict-of-interest concern and suggests reform need. Slightly exceeds word limit at 230 but substantive."
+    },
+    {
+      "question_id": "mains_gs2_2025_q6",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.8,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.8,
+        "presentation": 0.7
+      },
+      "total_score": 8.3,
+      "max_marks": 10,
+      "brief_feedback": "Good definition of social capital and examples (SHGs, NRLM, SEWA, Kudumbashree). Mentions political participation via 73rd/74th amendments. However, answer is somewhat fragmented; lacks integration of how these mechanisms operationalize empowerment. Limited analytical depth on barriers (caste exclusion, digital divide noted but not elaborated)."
+    },
+    {
+      "question_id": "mains_gs2_2025_q7",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.5,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 1.0,
+        "presentation": 0.8
+      },
+      "total_score": 9.1,
+      "max_marks": 10,
+      "brief_feedback": "Strong examination of tech-bias in Indian e-governance (NeGP, MCA21, Aadhaar). Good examples (UMANG, DigiLocker, Estonia X-Road). Acknowledges digital divide and language barriers. Balanced view noting improvements. However, lacks deeper critique of how to shift paradigm at scale. Well within word limit at 172."
+    },
+    {
+      "question_id": "mains_gs2_2025_q8",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.5,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 1.0,
+        "presentation": 0.8
+      },
+      "total_score": 9.1,
+      "max_marks": 10,
+      "brief_feedback": "Clear thesis: CSOs are non-State, not anti-State actors. Good examples (PRATHAM, Goonj, RTI movement, Narmada Bachao). Addresses why anti-State perception exists (FCRA amendments, foreign funding concerns). Balanced conclusion referencing Second ARC. Slight logical jumps between paragraphs; within word limit at 162."
+    },
+    {
+      "question_id": "mains_gs2_2025_q9",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.8,
+        "depth_examples": 1.8,
+        "analytical_depth": 0.9,
+        "presentation": 0.8
+      },
+      "total_score": 8.7,
+      "max_marks": 10,
+      "brief_feedback": "Covers three pillars: mutual respect (Pan-African e-Network, 10 Principles), co-development (UPI, Aadhaar-inspired systems, ITEC), and institutional partnerships (IAFS, AU collaboration). However, examples lack specificity on actual impact metrics or outcomes. Structure is thematic but somewhat generic. Within word limit at 155."
+    },
+    {
+      "question_id": "mains_gs2_2025_q10",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 3.6,
+        "structure_flow": 2.0,
+        "depth_examples": 1.8,
+        "analytical_depth": 1.1,
+        "presentation": 0.9
+      },
+      "total_score": 9.4,
+      "max_marks": 10,
+      "brief_feedback": "Good elaboration of manifestations (trade wars, Brexit, nationalist leaders, weakened multilateralism). Identifies driving factors (economic anxiety, migration, pandemic). Offers counter-perspective on selective multilateralism (QUAD, AUKUS) showing nuance. Concludes with glocalization concept. Exceeds word limit at 187 but substantive."
+    },
+    {
+      "question_id": "mains_gs2_2025_q11",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.7,
+        "structure_flow": 3.0,
+        "depth_examples": 3.2,
+        "analytical_depth": 1.4,
+        "presentation": 1.2
+      },
+      "total_score": 14.5,
+      "max_marks": 15,
+      "brief_feedback": "Excellent unpacking of constitutional morality with foundation in Ambedkar's philosophy and key cases (Manoj Narula, Navtej Singh Johar). Balanced application to judicial independence (collegium, tenure security) and accountability (impeachment, in-house procedure, asset declarations). Strong synthesis but somewhat case-heavy. Within word limit at 289."
+    },
+    {
+      "question_id": "mains_gs2_2025_q12",
+      "candidate_id": "candidate_6584",
+      "rubric_scores": {
+        "content_accuracy": 5.7,
+        "structure_flow": 3.0,
+        "depth_examples": 3.0,
+        "analytical_depth": 1.5,
+        "presentation": 1.2
+      },
+      "total_score": 14.4,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive coverage of both procedural (special majority, state ratification, no joint sitting, presidential assent) and substantive (basic structure doctrine, judicial review) limitations. Good case citations (Kesavananda, Minerva Mills, I.R. Coelho). Well-balanced treatment of flexibility vs rigidity. Slightly exceeds word limit at 286."
+    }
+  ]
+}

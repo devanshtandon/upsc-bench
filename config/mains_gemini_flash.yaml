@@ -1,0 +1,12 @@
+input_filepath: "data/mains_questions/mains_2025.json"
+output_filepath: "results/raw/mains_answers_gemini_flash.json"
+dbfilepath: "db/mains_benchmark.db"
+
+filter_years: null
+filter_papers: null
+
+model:
+  name: "openrouter/google/gemini-2.5-flash"
+  temperature: 0.0
+  max_tokens: 8192
+  supports_vision: false

@@ -1,0 +1,19 @@
+{
+  "batch_id": "batch_001",
+  "scores": [
+    {
+      "question_id": "mains_essay_2025_q1",
+      "candidate_id": "candidate_7823",
+      "rubric_scores": {
+        "content_breadth": 34.5,
+        "structure_flow": 24.0,
+        "depth_examples": 21.25,
+        "analytical_depth": 22.0,
+        "presentation": 11.0
+      },
+      "total_score": 112.75,
+      "max_marks": 125,
+      "brief_feedback": "Excellent philosophical and structural analysis of truth's universality versus contextual expression, with strong historical examples (colonialism, TRC models, digital age). Minor deductions for essay length slightly exceeding limits and occasional lack of granular detail in examples."
+    }
+  ]
+}

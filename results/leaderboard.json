@@ -190,7 +190,59 @@
           }
         }
       },
-      "rank": 2
+      "rank": 2,
+      "mains": {
+        "2025": {
+          "total_score": 828.44,
+          "max_marks": 1250,
+          "score_pct": 66.28,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 257.01,
+          "estimated_rank": {
+            "rank": 1,
+            "percentile": 99.99,
+            "label": "Exceeds estimated topper",
+            "total_candidates": 14500
+          },
+          "papers": {
+            "essay": {
+              "score": 182.5,
+              "max_marks": 250,
+              "score_pct": 73.0,
+              "questions_evaluated": 2,
+              "selected_essays": [
+                "mains_essay_2025_q3",
+                "mains_essay_2025_q8"
+              ]
+            },
+            "gs1": {
+              "score": 160.85,
+              "max_marks": 250,
+              "score_pct": 64.34,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 155.08,
+              "max_marks": 250,
+              "score_pct": 62.03,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 159.76,
+              "max_marks": 250,
+              "score_pct": 63.9,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 170.25,
+              "max_marks": 250,
+              "score_pct": 68.1,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
     },
     {
       "model": "openrouter/google/gemini-3.1-pro-preview",
@@ -236,7 +288,59 @@
           }
         }
       },
-      "rank": 3
+      "rank": 3,
+      "mains": {
+        "2025": {
+          "total_score": 865.12,
+          "max_marks": 1250,
+          "score_pct": 69.21,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 293.69,
+          "estimated_rank": {
+            "rank": 1,
+            "percentile": 99.99,
+            "label": "Exceeds estimated topper",
+            "total_candidates": 14500
+          },
+          "papers": {
+            "essay": {
+              "score": 177.5,
+              "max_marks": 250,
+              "score_pct": 71.0,
+              "questions_evaluated": 2,
+              "selected_essays": [
+                "mains_essay_2025_q4",
+                "mains_essay_2025_q6"
+              ]
+            },
+            "gs1": {
+              "score": 174.75,
+              "max_marks": 250,
+              "score_pct": 69.9,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 174.72,
+              "max_marks": 250,
+              "score_pct": 69.89,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 170.95,
+              "max_marks": 250,
+              "score_pct": 68.38,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 167.2,
+              "max_marks": 250,
+              "score_pct": 66.88,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
     },
     {
       "model": "openrouter/openai/gpt-5.2",
@@ -282,7 +386,59 @@
           }
         }
       },
-      "rank": 4
+      "rank": 4,
+      "mains": {
+        "2025": {
+          "total_score": 897.25,
+          "max_marks": 1250,
+          "score_pct": 71.78,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 325.82,
+          "estimated_rank": {
+            "rank": 1,
+            "percentile": 99.99,
+            "label": "Exceeds estimated topper",
+            "total_candidates": 14500
+          },
+          "papers": {
+            "essay": {
+              "score": 186.0,
+              "max_marks": 250,
+              "score_pct": 74.4,
+              "questions_evaluated": 2,
+              "selected_essays": [
+                "mains_essay_2025_q3",
+                "mains_essay_2025_q5"
+              ]
+            },
+            "gs1": {
+              "score": 180.05,
+              "max_marks": 250,
+              "score_pct": 72.02,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 179.08,
+              "max_marks": 250,
+              "score_pct": 71.63,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 170.07,
+              "max_marks": 250,
+              "score_pct": 68.03,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 182.05,
+              "max_marks": 250,
+              "score_pct": 72.82,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
     },
     {
       "model": "openrouter/google/gemini-2.5-flash",
@@ -328,7 +484,125 @@
           }
         }
       },
-      "rank": 5
+      "rank": 5,
+      "mains": {
+        "2025": {
+          "total_score": 735.8,
+          "max_marks": 1250,
+          "score_pct": 58.86,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 164.37,
+          "estimated_rank": {
+            "rank": 1,
+            "percentile": 99.99,
+            "label": "Exceeds estimated topper",
+            "total_candidates": 14500
+          },
+          "papers": {
+            "essay": {
+              "score": 153.0,
+              "max_marks": 250,
+              "score_pct": 61.2,
+              "questions_evaluated": 2,
+              "selected_essays": [
+                "mains_essay_2025_q3",
+                "mains_essay_2025_q8"
+              ]
+            },
+            "gs1": {
+              "score": 147.1,
+              "max_marks": 250,
+              "score_pct": 58.84,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 135.4,
+              "max_marks": 250,
+              "score_pct": 54.16,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 148.35,
+              "max_marks": 250,
+              "score_pct": 59.34,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 151.95,
+              "max_marks": 250,
+              "score_pct": 60.78,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/shakti_dubey_2024",
+      "is_human": true,
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 602.14,
+          "max_marks": 1250,
+          "score_pct": 48.17,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 30.71,
+          "estimated_rank": {
+            "rank": 1,
+            "percentile": 99.99,
+            "label": "AIR 1",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 120.4,
+              "max_marks": 250,
+              "score_pct": 48.2,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 120.4,
+              "max_marks": 250,
+              "score_pct": 48.2,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 120.4,
+              "max_marks": 250,
+              "score_pct": 48.2,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 120.4,
+              "max_marks": 250,
+              "score_pct": 48.2,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 120.4,
+              "max_marks": 250,
+              "score_pct": 48.2,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
     }
   ],
   "metadata": {
@@ -381,6 +655,23 @@
         "unanswered": 0.0,
         "total_questions": 80,
         "max_marks": 200
+      }
+    },
+    "mains_years": [
+      2025
+    ],
+    "mains_papers": [
+      "mains_total",
+      "essay",
+      "mains_gs1",
+      "mains_gs2",
+      "mains_gs3",
+      "mains_gs4"
+    ],
+    "mains_cutoffs": {
+      "2025": {
+        "proportional_cutoff": 571.43,
+        "max_marks": 1250
       }
     }
   }

@@ -31,12 +31,42 @@ export interface ModelOverall {
   csat_all_years_pass: boolean;
 }
 
+// Mains types
+export interface MainsPaperScore {
+  score: number;
+  max_marks: number;
+  score_pct: number;
+  questions_evaluated: number;
+  selected_essays?: string[];
+}
+
+export interface MainsEstimatedRank {
+  rank: number;
+  percentile: number;
+  label: string;
+  total_candidates: number;
+  note?: string;
+}
+
+export interface MainsYearData {
+  total_score: number;
+  max_marks: number;
+  score_pct: number;
+  passed: boolean;
+  cutoff: number;
+  margin: number;
+  estimated_rank: MainsEstimatedRank;
+  papers: Record<string, MainsPaperScore>;
+}
+
 export interface ModelEntry {
   rank: number;
   model: string;
+  is_human?: boolean;
   overall: ModelOverall;
   paper_totals: Record<string, PaperTotals>;
   yearly: Record<number, Record<string, PaperScore>>;
+  mains?: Record<number, MainsYearData>;
 }
 
 export interface MarkingScheme {
@@ -55,10 +85,15 @@ export interface LeaderboardData {
     papers: string[];
     cutoffs: Record<number, Record<string, number>>;
     marking_scheme: Record<string, MarkingScheme>;
+    mains_years?: number[];
+    mains_papers?: string[];
+    mains_cutoffs?: Record<number, { proportional_cutoff: number; max_marks: number }>;
   };
 }
 
+export type ExamType = "prelims" | "mains";
 export type Paper = "gs1" | "csat" | "overall";
+export type MainsPaper = "mains_total" | "essay" | "mains_gs1" | "mains_gs2" | "mains_gs3" | "mains_gs4";
 export type Year = number | "all";
 
 // Raw question from upsc_bench.json

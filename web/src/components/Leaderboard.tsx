@@ -3,11 +3,11 @@
 import React from "react";
 import { MODEL_DISPLAY_NAMES, MODEL_COLORS } from "@/lib/constants";
 import { getModelScore } from "@/lib/data";
-import type { ModelEntry, Paper, Year } from "@/types";
+import type { ModelEntry, Paper } from "@/types";
 
 interface LeaderboardProps {
   models: ModelEntry[];
-  year: Year;
+  year: number;
   paper: Paper;
   cutoffs?: Record<number, Record<string, number>>;
 }
@@ -24,12 +24,12 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
     ? Math.max(...models.map((m) => getModelScore(m, year, paper).marks))
     : 200;
 
-  const showRank = year !== "all" && (paper === "gs1" || paper === "overall");
+  const showRank = paper === "gs1" || paper === "overall";
 
   // Determine cutoff for current view
   let cutoffMarks: number | null = null;
-  if (year !== "all" && cutoffs) {
-    const yearCutoffs = cutoffs[year as number];
+  if (cutoffs) {
+    const yearCutoffs = cutoffs[year];
     if (yearCutoffs) {
       if (paper === "gs1" || paper === "overall") {
         cutoffMarks = yearCutoffs.gs1 ?? null;
@@ -55,8 +55,8 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
   // Resolve cutoff values for the footnote
   let gs1Cutoff: number | null = null;
   let csatCutoff: number | null = null;
-  if (year !== "all" && cutoffs) {
-    const yearCutoffs = cutoffs[year as number];
+  if (cutoffs) {
+    const yearCutoffs = cutoffs[year];
     if (yearCutoffs) {
       gs1Cutoff = yearCutoffs.gs1 ?? null;
       csatCutoff = yearCutoffs.csat_qualifying ?? null;
@@ -96,10 +96,11 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
             const color = MODEL_COLORS[model.model] ?? "#1a1145";
             const barWidth = maxMarks > 0 ? (score.marks / score.maxMarks) * 100 : 0;
             const isTop = model.rank === 1;
+            const isHuman = model.is_human === true;
 
             // Get estimated rank
             let estimatedRank: { rank: number | null; label: string; percentile: number | null; total_appeared?: number } | null = null;
-            if (showRank && typeof year === "number") {
+            if (showRank) {
               // eslint-disable-next-line @typescript-eslint/no-explicit-any
               const gs1Data = model.yearly[year]?.gs1 as any;
               if (gs1Data?.estimated_rank) {
@@ -110,20 +111,9 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
             // Get CSAT status for Prelims Rank view
             let csatInfo: { passed: boolean; marks: number } | null = null;
             if (paper === "overall") {
-              if (year !== "all" && typeof year === "number") {
-                const csatData = model.yearly[year]?.csat;
-                if (csatData) {
-                  csatInfo = { passed: csatData.passed, marks: csatData.marks };
-                }
-              } else {
-                const csatTotals = model.paper_totals.csat;
-                if (csatTotals) {
-                  const csatYears = csatTotals.years_total || 1;
-                  csatInfo = {
-                    passed: model.overall.csat_all_years_pass,
-                    marks: Math.round((csatTotals.total_marks / csatYears) * 10) / 10,
-                  };
-                }
+              const csatData = model.yearly[year]?.csat;
+              if (csatData) {
+                csatInfo = { passed: csatData.passed, marks: csatData.marks };
               }
             }
 
@@ -133,14 +123,26 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
                   <CutoffRow cutoffMarks={cutoffMarks} maxMarks={200} colCount={colCount} paper={paper} showRank={showRank} />
                 )}
                 <tr
-                  className={`leaderboard-row animate-fade-in-up ${isTop ? "top-rank" : ""}`}
-                  style={{ borderBottom: "1px solid rgba(26, 17, 69, 0.06)" }}
+                  className={`leaderboard-row animate-fade-in-up ${isTop && !isHuman ? "top-rank" : ""}`}
+                  style={{
+                    borderBottom: "1px solid rgba(26, 17, 69, 0.06)",
+                    ...(isHuman ? { backgroundColor: "rgba(139, 92, 246, 0.04)" } : {}),
+                  }}
                 >
                   {/* Rank */}
                   <td className="px-3 py-2.5">
-                    <span className={`rank-badge ${getRankClass(model.rank)}`}>
-                      {model.rank}
-                    </span>
+                    {isHuman ? (
+                      <span className="inline-flex items-center justify-center w-7 h-7 rounded-full text-sm" style={{ backgroundColor: "rgba(139,92,246,0.1)", color: "#8B5CF6" }}>
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                          <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
+                          <circle cx="12" cy="7" r="4" />
+                        </svg>
+                      </span>
+                    ) : (
+                      <span className={`rank-badge ${getRankClass(model.rank)}`}>
+                        {model.rank}
+                      </span>
+                    )}
                   </td>
 
                   {/* Model name */}
@@ -150,9 +152,16 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
                         className="w-1.5 h-6 rounded-full flex-shrink-0"
                         style={{ backgroundColor: color }}
                       />
-                      <span className="font-semibold text-[15px] truncate" style={{ color: "var(--navy)" }}>
-                        {displayName}
-                      </span>
+                      <div>
+                        <span className={`font-semibold text-[15px] truncate block ${isHuman ? "" : ""}`} style={{ color: isHuman ? "#8B5CF6" : "var(--navy)" }}>
+                          {displayName}
+                        </span>
+                        {isHuman && (
+                          <span className="text-[10px] font-medium" style={{ color: "rgba(139,92,246,0.6)" }}>
+                            CSE 2024 AIR 1 (est.)
+                          </span>
+                        )}
+                      </div>
                     </div>
                   </td>
 
@@ -172,9 +181,9 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
                         </div>
                       </div>
                       <div>
-                        <span className="font-bold text-sm whitespace-nowrap block" style={{ color: "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
+                        <span className="font-bold text-sm whitespace-nowrap block" style={{ color: isHuman ? "#8B5CF6" : "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
                           {score.marks.toFixed(1)}
-                          <span style={{ color: "rgba(26,17,69,0.3)" }}>/{score.maxMarks}</span>
+                          <span style={{ color: isHuman ? "rgba(139,92,246,0.3)" : "rgba(26,17,69,0.3)" }}>/{score.maxMarks}</span>
                         </span>
                         {csatInfo && (
                           <span
@@ -216,12 +225,15 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
                       {estimatedRank?.rank ? (
                         <div
                           className="inline-flex flex-col items-center rounded-lg px-2.5 py-1"
-                          style={{ backgroundColor: "rgba(255, 153, 51, 0.08)", border: "1px solid rgba(255, 153, 51, 0.15)" }}
+                          style={{
+                            backgroundColor: isHuman ? "rgba(139,92,246,0.08)" : "rgba(255, 153, 51, 0.08)",
+                            border: isHuman ? "1px solid rgba(139,92,246,0.15)" : "1px solid rgba(255, 153, 51, 0.15)",
+                          }}
                         >
-                          <span className="font-bold text-sm" style={{ color: "var(--saffron)" }}>
+                          <span className="font-bold text-sm" style={{ color: isHuman ? "#8B5CF6" : "var(--saffron)" }}>
                             ~{estimatedRank.rank.toLocaleString()}
                           </span>
-                          <span className="text-[9px] font-medium" style={{ color: "rgba(255,153,51,0.6)" }}>
+                          <span className="text-[9px] font-medium" style={{ color: isHuman ? "rgba(139,92,246,0.5)" : "rgba(255,153,51,0.6)" }}>
                             of {estimatedRank.total_appeared
                               ? `${(estimatedRank.total_appeared / 100000).toFixed(estimatedRank.total_appeared % 100000 === 0 ? 0 : 1)}L`
                               : "6L"}
@@ -255,7 +267,7 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
             Est. AIR = Estimated All-India Rank among ~6 lakh Prelims candidates. Based on coaching institute data.
           </p>
         )}
-        {year !== "all" && gs1Cutoff !== null && (
+        {gs1Cutoff !== null && (
           <p className="text-[10px]" style={{ color: "rgba(26,17,69,0.4)" }}>
             <span style={{ color: "var(--saffron)" }}>To pass ({year}):</span>{" "}
             GS Paper I score must exceed {gs1Cutoff}/200 (General category cutoff).
@@ -264,13 +276,10 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
             )}
           </p>
         )}
-        {year === "all" && (
-          <p className="text-[10px]" style={{ color: "rgba(26,17,69,0.4)" }}>
-            <span style={{ color: "var(--saffron)" }}>Passing criteria:</span>{" "}
-            GS Paper I score must exceed the year-specific General category cutoff. CSAT Paper II is qualifying only — minimum 33% (66/200) required.
-            Cutoff lines not shown when viewing all years (cutoffs vary by year).
-          </p>
-        )}
+        <p className="text-[10px]" style={{ color: "rgba(139,92,246,0.5)" }}>
+          <span style={{ color: "#8B5CF6" }}>Human reference:</span>{" "}
+          Shakti Dubey (CSE 2024 AIR 1). Prelims scores are estimated — UPSC does not publish individual Prelims marks.
+        </p>
       </div>
     </div>
   );

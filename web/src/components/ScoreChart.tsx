@@ -13,11 +13,11 @@ import {
 } from "recharts";
 import { MODEL_DISPLAY_NAMES, MODEL_COLORS } from "@/lib/constants";
 import { getModelScore } from "@/lib/data";
-import type { ModelEntry, Paper, Year, LeaderboardData } from "@/types";
+import type { ModelEntry, Paper, LeaderboardData } from "@/types";
 
 interface ScoreChartProps {
   models: ModelEntry[];
-  year: Year;
+  year: number;
   paper: Paper;
   data: LeaderboardData;
 }
@@ -35,10 +35,10 @@ export default function ScoreChart({ models, year, paper, data }: ScoreChartProp
   });
 
   let cutoff: number | null = null;
-  if (year !== "all" && paper === "gs1") {
-    cutoff = data.metadata.cutoffs[year as number]?.gs1 ?? null;
-  } else if (year !== "all" && paper === "csat") {
-    cutoff = data.metadata.cutoffs[year as number]?.csat_qualifying ?? null;
+  if (paper === "gs1") {
+    cutoff = data.metadata.cutoffs[year]?.gs1 ?? null;
+  } else if (paper === "csat") {
+    cutoff = data.metadata.cutoffs[year]?.csat_qualifying ?? null;
   }
 
   const maxScore = chartData[0]?.maxMarks ?? 200;

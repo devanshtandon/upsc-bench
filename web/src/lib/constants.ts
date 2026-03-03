@@ -18,6 +18,7 @@ export const MODEL_DISPLAY_NAMES: Record<string, string> = {
   "openrouter/x-ai/grok-4": "Grok 4",
   "openrouter/google/gemini-2.5-flash": "Gemini 2.5 Flash",
   "openrouter/google/gemini-3-flash-preview": "Gemini 3 Flash",
+  "human/shakti_dubey_2024": "Shakti Dubey",
 };
 
 export const MODEL_COLORS: Record<string, string> = {
@@ -27,10 +28,20 @@ export const MODEL_COLORS: Record<string, string> = {
   "openrouter/x-ai/grok-4": "#EF4444",
   "openrouter/google/gemini-2.5-flash": "#60A5FA",
   "openrouter/google/gemini-3-flash-preview": "#34D399",
+  "human/shakti_dubey_2024": "#8B5CF6",
 };
 
 export const PAPER_LABELS: Record<string, string> = {
   gs1: "GS Paper I",
   csat: "CSAT Paper II",
   overall: "Prelims Score",
+};
+
+export const MAINS_PAPER_LABELS: Record<string, string> = {
+  mains_total: "Mains Total",
+  essay: "Essay",
+  mains_gs1: "GS-I",
+  mains_gs2: "GS-II",
+  mains_gs3: "GS-III",
+  mains_gs4: "GS-IV (Ethics)",
 };

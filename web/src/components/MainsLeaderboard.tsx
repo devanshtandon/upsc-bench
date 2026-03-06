@@ -10,26 +10,18 @@ interface MainsLeaderboardProps {
   humanModels: ModelEntry[];
   year: number;
   paper: MainsPaper;
-  humanColor?: string;
 }
 
 const paperKeys = ["essay", "gs1", "gs2", "gs3", "gs4"];
 
-function hexToRgba(hex: string, alpha: number): string {
-  const r = parseInt(hex.slice(1, 3), 16);
-  const g = parseInt(hex.slice(3, 5), 16);
-  const b = parseInt(hex.slice(5, 7), 16);
-  return `rgba(${r},${g},${b},${alpha})`;
-}
-
-function getMainsMeta(model: ModelEntry, year: number, paper: MainsPaper, humanColorOverride?: string) {
+function getMainsMeta(model: ModelEntry, year: number, paper: MainsPaper) {
   const scoreData = getMainsModelScore(model, year, paper);
   const mainsData = model.mains?.[year];
   const displayName = MODEL_DISPLAY_NAMES[model.model] ?? model.model;
-  const isHuman = model.is_human === true;
-  const color = isHuman && humanColorOverride ? humanColorOverride : (MODEL_COLORS[model.model] ?? "#1a1145");
+  const color = MODEL_COLORS[model.model] ?? "#1a1145";
   const barWidth = scoreData.maxMarks > 0 ? (scoreData.score / scoreData.maxMarks) * 100 : 0;
   const isTop = model.rank === 1;
+  const isHuman = model.is_human === true;
   const estimatedRank = mainsData?.estimated_rank;
   const humanMeta = model.human_metadata;
   return { scoreData, mainsData, displayName, color, barWidth, isTop, isHuman, estimatedRank, humanMeta };
@@ -42,19 +34,23 @@ function humanSubtitle(model: ModelEntry, year: number): string {
   return `CSE ${hm.exam_year} AIR ${hm.air} · Est. ${mains.total_score.toFixed(0)}/1250 (from ${hm.written_marks}/${hm.written_max})`;
 }
 
+// Human section accent — Soft Slate-Blue
+const HC = "#7C8DB0";
+const hcBg = (a: number) => `rgba(124,141,176,${a})`;
+
 /* ─── Mobile card for a single model row ─── */
-function MobileRow({ model, year, paper, showPaperBreakdown, humanColor }: { model: ModelEntry; year: number; paper: MainsPaper; showPaperBreakdown: boolean; humanColor?: string }) {
-  const { scoreData, mainsData, displayName, color, barWidth, isHuman, estimatedRank } = getMainsMeta(model, year, paper, humanColor);
+function MobileRow({ model, year, paper, showPaperBreakdown }: { model: ModelEntry; year: number; paper: MainsPaper; showPaperBreakdown: boolean }) {
+  const { scoreData, mainsData, displayName, color, barWidth, isHuman, estimatedRank } = getMainsMeta(model, year, paper);
 
   return (
     <div
       className={`px-4 py-3 animate-fade-in-up ${model.rank === 1 && !isHuman ? "top-rank" : ""}`}
-      style={isHuman ? { backgroundColor: "rgba(139, 92, 246, 0.04)" } : undefined}
+      style={isHuman ? { backgroundColor: hcBg(0.04) } : undefined}
     >
       {/* Row 1: Rank + Name + Score */}
       <div className="flex items-center gap-3">
         {isHuman ? (
-          <span className="inline-flex items-center justify-center w-7 h-7 rounded-full flex-shrink-0" style={{ backgroundColor: "rgba(139,92,246,0.1)", color: "#8B5CF6" }}>
+          <span className="inline-flex items-center justify-center w-7 h-7 rounded-full flex-shrink-0" style={{ backgroundColor: hcBg(0.1), color: HC }}>
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
               <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
               <circle cx="12" cy="7" r="4" />
@@ -67,16 +63,16 @@ function MobileRow({ model, year, paper, showPaperBreakdown, humanColor }: { mod
         )}
         <div className="flex-1 min-w-0">
           <div className="flex items-baseline justify-between gap-2">
-            <span className="font-semibold text-[14px] truncate" style={{ color: isHuman ? "#8B5CF6" : "var(--navy)" }}>
+            <span className="font-semibold text-[14px] truncate" style={{ color: isHuman ? HC : "var(--navy)" }}>
               {displayName}
             </span>
-            <span className="font-bold text-[15px] whitespace-nowrap flex-shrink-0" style={{ color: isHuman ? "#8B5CF6" : "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
+            <span className="font-bold text-[15px] whitespace-nowrap flex-shrink-0" style={{ color: isHuman ? HC : "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
               {scoreData.score.toFixed(1)}
-              <span className="text-[12px]" style={{ color: isHuman ? "rgba(139,92,246,0.3)" : "rgba(26,17,69,0.3)" }}>/{scoreData.maxMarks}</span>
+              <span className="text-[12px]" style={{ color: isHuman ? hcBg(0.3) : "rgba(26,17,69,0.3)" }}>/{scoreData.maxMarks}</span>
             </span>
           </div>
           {isHuman && (
-            <span className="text-[10px] font-medium block" style={{ color: "rgba(139,92,246,0.6)" }}>
+            <span className="text-[10px] font-medium block" style={{ color: hcBg(0.6) }}>
               {humanSubtitle(model, year)}
             </span>
           )}
@@ -104,8 +100,8 @@ function MobileRow({ model, year, paper, showPaperBreakdown, humanColor }: { mod
             <span
               className="text-[11px] font-semibold ml-auto px-2 py-0.5 rounded-md"
               style={{
-                backgroundColor: isHuman ? "rgba(139,92,246,0.08)" : "rgba(255,153,51,0.08)",
-                color: isHuman ? "#8B5CF6" : "var(--saffron)",
+                backgroundColor: isHuman ? hcBg(0.08) : "rgba(255,153,51,0.08)",
+                color: isHuman ? HC : "var(--saffron)",
               }}
             >
               AIR ~{estimatedRank.rank.toLocaleString()}
@@ -145,20 +141,20 @@ function MobileRow({ model, year, paper, showPaperBreakdown, humanColor }: { mod
 }
 
 /* ─── Desktop table row for a single model ─── */
-function DesktopRow({ model, year, paper, showPaperBreakdown, humanColor }: { model: ModelEntry; year: number; paper: MainsPaper; showPaperBreakdown: boolean; humanColor?: string }) {
-  const { scoreData, mainsData, displayName, color, barWidth, isHuman, estimatedRank } = getMainsMeta(model, year, paper, humanColor);
+function DesktopRow({ model, year, paper, showPaperBreakdown }: { model: ModelEntry; year: number; paper: MainsPaper; showPaperBreakdown: boolean }) {
+  const { scoreData, mainsData, displayName, color, barWidth, isHuman, estimatedRank } = getMainsMeta(model, year, paper);
 
   return (
     <tr
       className={`leaderboard-row animate-fade-in-up ${model.rank === 1 && !isHuman ? "top-rank" : ""}`}
       style={{
         borderBottom: "1px solid rgba(26, 17, 69, 0.06)",
-        ...(isHuman ? { backgroundColor: "rgba(139, 92, 246, 0.04)" } : {}),
+        ...(isHuman ? { backgroundColor: hcBg(0.04) } : {}),
       }}
     >
       <td className="px-3 py-2.5">
         {isHuman ? (
-          <span className="inline-flex items-center justify-center w-7 h-7 rounded-full text-sm" style={{ backgroundColor: "rgba(139,92,246,0.1)", color: "#8B5CF6" }}>
+          <span className="inline-flex items-center justify-center w-7 h-7 rounded-full text-sm" style={{ backgroundColor: hcBg(0.1), color: HC }}>
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
               <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
               <circle cx="12" cy="7" r="4" />
@@ -174,11 +170,11 @@ function DesktopRow({ model, year, paper, showPaperBreakdown, humanColor }: { mo
         <div className="flex items-center gap-2.5">
           <div className="w-1.5 h-6 rounded-full flex-shrink-0" style={{ backgroundColor: color }} />
           <div>
-            <span className="font-semibold text-[15px] truncate block" style={{ color: isHuman ? "#8B5CF6" : "var(--navy)" }}>
+            <span className="font-semibold text-[15px] truncate block" style={{ color: isHuman ? HC : "var(--navy)" }}>
               {displayName}
             </span>
             {isHuman && (
-              <span className="text-[10px] font-medium" style={{ color: "rgba(139,92,246,0.6)" }}>
+              <span className="text-[10px] font-medium" style={{ color: hcBg(0.6) }}>
                 {humanSubtitle(model, year)}
               </span>
             )}
@@ -200,9 +196,9 @@ function DesktopRow({ model, year, paper, showPaperBreakdown, humanColor }: { mo
             </div>
           </div>
           <div>
-            <span className="font-bold text-sm whitespace-nowrap block" style={{ color: isHuman ? "#8B5CF6" : "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
+            <span className="font-bold text-sm whitespace-nowrap block" style={{ color: isHuman ? HC : "var(--navy)", fontVariantNumeric: "tabular-nums" }}>
               {scoreData.score.toFixed(1)}
-              <span style={{ color: isHuman ? "rgba(139,92,246,0.3)" : "rgba(26,17,69,0.3)" }}>/{scoreData.maxMarks}</span>
+              <span style={{ color: isHuman ? hcBg(0.3) : "rgba(26,17,69,0.3)" }}>/{scoreData.maxMarks}</span>
             </span>
             <span className="text-[11px] font-medium whitespace-nowrap" style={{ color: scoreData.passed ? "#16a34a" : "#dc2626" }}>
               {scoreData.scorePct.toFixed(0)}%{" "}
@@ -230,7 +226,7 @@ function DesktopRow({ model, year, paper, showPaperBreakdown, humanColor }: { mo
                       style={{ width: `${pct}%`, backgroundColor: color, opacity: 0.7 }}
                     />
                   </div>
-                  <span className="text-[9px] font-medium" style={{ color: isHuman ? "rgba(139,92,246,0.4)" : "rgba(26,17,69,0.4)", fontVariantNumeric: "tabular-nums" }}>
+                  <span className="text-[9px] font-medium" style={{ color: isHuman ? hcBg(0.4) : "rgba(26,17,69,0.4)", fontVariantNumeric: "tabular-nums" }}>
                     {pd.score.toFixed(0)}
                   </span>
                 </div>
@@ -251,14 +247,14 @@ function DesktopRow({ model, year, paper, showPaperBreakdown, humanColor }: { mo
           <div
             className="inline-flex flex-col items-center rounded-lg px-2.5 py-1"
             style={{
-              backgroundColor: isHuman ? "rgba(139,92,246,0.08)" : "rgba(255, 153, 51, 0.08)",
-              border: isHuman ? "1px solid rgba(139,92,246,0.15)" : "1px solid rgba(255, 153, 51, 0.15)",
+              backgroundColor: isHuman ? hcBg(0.08) : "rgba(255, 153, 51, 0.08)",
+              border: isHuman ? `1px solid ${hcBg(0.15)}` : "1px solid rgba(255, 153, 51, 0.15)",
             }}
           >
-            <span className="font-bold text-sm" style={{ color: isHuman ? "#8B5CF6" : "var(--saffron)" }}>
+            <span className="font-bold text-sm" style={{ color: isHuman ? HC : "var(--saffron)" }}>
               ~{estimatedRank.rank.toLocaleString()}
             </span>
-            <span className="text-[9px] font-medium" style={{ color: isHuman ? "rgba(139,92,246,0.5)" : "rgba(255,153,51,0.6)" }}>
+            <span className="text-[9px] font-medium" style={{ color: isHuman ? hcBg(0.5) : "rgba(255,153,51,0.6)" }}>
               of {(estimatedRank.total_candidates / 1000).toFixed(1)}K
             </span>
           </div>
@@ -270,10 +266,9 @@ function DesktopRow({ model, year, paper, showPaperBreakdown, humanColor }: { mo
   );
 }
 
-export default function MainsLeaderboard({ models, humanModels, year, paper, humanColor = "#8B5CF6" }: MainsLeaderboardProps) {
+export default function MainsLeaderboard({ models, humanModels, year, paper }: MainsLeaderboardProps) {
   const showPaperBreakdown = paper === "mains_total";
   const [showAllHumans, setShowAllHumans] = useState(false);
-  const hc = humanColor;
 
   const topHuman = humanModels.length > 0 ? humanModels[0] : null;
   const restHumans = humanModels.slice(1);
@@ -292,12 +287,12 @@ export default function MainsLeaderboard({ models, humanModels, year, paper, hum
         {/* Human Reference Section — Mobile */}
         {topHuman && (
           <div className="mt-3">
-            <div className="px-4 py-2 flex items-center gap-2" style={{ borderTop: "2px solid rgba(139,92,246,0.15)" }}>
-              <span className="text-[11px] font-semibold uppercase tracking-wider" style={{ color: "#8B5CF6" }}>
+            <div className="px-4 py-2 flex items-center gap-2" style={{ borderTop: `2px solid ${hcBg(0.15)}` }}>
+              <span className="text-[11px] font-semibold uppercase tracking-wider" style={{ color: HC }}>
                 Human Reference — CSE 2024 Top 10
               </span>
             </div>
-            <div className="divide-y" style={{ borderColor: "rgba(139,92,246,0.08)" }}>
+            <div className="divide-y" style={{ borderColor: hcBg(0.08) }}>
               <MobileRow model={topHuman} year={year} paper={paper} showPaperBreakdown={showPaperBreakdown} />
               {showAllHumans && restHumans.map((model) => (
                 <MobileRow key={model.model} model={model} year={year} paper={paper} showPaperBreakdown={showPaperBreakdown} />
@@ -307,7 +302,7 @@ export default function MainsLeaderboard({ models, humanModels, year, paper, hum
               <button
                 onClick={() => setShowAllHumans(!showAllHumans)}
                 className="w-full px-4 py-2 text-[12px] font-medium transition-colors cursor-pointer"
-                style={{ color: "#8B5CF6", backgroundColor: "rgba(139,92,246,0.04)" }}
+                style={{ color: HC, backgroundColor: hcBg(0.04) }}
               >
                 {showAllHumans ? "Hide AIR 2–10 ▴" : "Show AIR 2–10 ▾"}
               </button>
@@ -347,14 +342,14 @@ export default function MainsLeaderboard({ models, humanModels, year, paper, hum
         {/* Human Reference Section — Desktop */}
         {topHuman && (
           <div className="mt-1">
-            <div className="px-3 py-2 flex items-center gap-2" style={{ borderTop: "2px solid rgba(139,92,246,0.15)" }}>
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8B5CF6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <div className="px-3 py-2 flex items-center gap-2" style={{ borderTop: `2px solid ${hcBg(0.15)}` }}>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke={HC} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" />
                 <circle cx="9" cy="7" r="4" />
                 <path d="M23 21v-2a4 4 0 0 0-3-3.87" />
                 <path d="M16 3.13a4 4 0 0 1 0 7.75" />
               </svg>
-              <span className="text-[11px] font-semibold uppercase tracking-wider" style={{ color: "#8B5CF6" }}>
+              <span className="text-[11px] font-semibold uppercase tracking-wider" style={{ color: HC }}>
                 Human Reference — CSE 2024 Top 10
               </span>
             </div>
@@ -377,7 +372,7 @@ export default function MainsLeaderboard({ models, humanModels, year, paper, hum
               <button
                 onClick={() => setShowAllHumans(!showAllHumans)}
                 className="w-full px-3 py-1.5 text-[12px] font-medium transition-colors cursor-pointer"
-                style={{ color: "#8B5CF6", backgroundColor: "rgba(139,92,246,0.04)", borderTop: "1px solid rgba(139,92,246,0.08)" }}
+                style={{ color: HC, backgroundColor: hcBg(0.04), borderTop: `1px solid ${hcBg(0.08)}` }}
               >
                 {showAllHumans ? "Hide AIR 2–10 ▴" : "Show AIR 2–10 ▾"}
               </button>
@@ -400,8 +395,8 @@ export default function MainsLeaderboard({ models, humanModels, year, paper, hum
           <span style={{ color: "var(--saffron)" }}>To pass (2025):</span>{" "}
           Mains written score must exceed proportional cutoff of ~571/1250 (scaled from 800/1750 full exam cutoff).
         </p>
-        <p className="text-[10px]" style={{ color: "rgba(139,92,246,0.5)" }}>
-          <span style={{ color: "#8B5CF6" }}>Human reference:</span>{" "}
+        <p className="text-[10px]" style={{ color: hcBg(0.5) }}>
+          <span style={{ color: HC }}>Human reference:</span>{" "}
           CSE 2024 top 10 rankers. Written marks from UPSC, proportionally estimated for 1250-mark benchmark subset. UPSC does not publish paper-wise marks.
         </p>
       </div>

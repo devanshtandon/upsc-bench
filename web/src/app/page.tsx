@@ -16,15 +16,6 @@ export default function Home() {
   const [examType, setExamType] = useState<ExamType>("mains");
   const [paper, setPaper] = useState<Paper>("overall");
   const [mainsPaper, setMainsPaper] = useState<MainsPaper>("mains_total");
-  const [humanColor, setHumanColor] = useState("#8B5CF6");
-
-  const colorOptions = [
-    { hex: "#8B5CF6", name: "Current Purple" },
-    { hex: "#78716C", name: "Warm Gray" },
-    { hex: "#6B8F71", name: "Muted Sage" },
-    { hex: "#7C8DB0", name: "Slate Blue" },
-    { hex: "#9A8CB8", name: "Faded Lavender" },
-  ];
 
   const filteredModels = getFilteredModels(data, year, paper);
   const mainsModels = getMainsFilteredModels(data, year, mainsPaper);
@@ -127,26 +118,7 @@ export default function Home() {
             </div>
           ) : (
             <div className="glass-card overflow-hidden">
-              {/* Temporary color picker for human section */}
-              <div className="px-4 py-3 flex items-center gap-3 flex-wrap" style={{ borderBottom: "1px solid rgba(26,17,69,0.06)", backgroundColor: "rgba(26,17,69,0.02)" }}>
-                <span className="text-[11px] font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>Human color:</span>
-                {colorOptions.map((opt) => (
-                  <button
-                    key={opt.hex}
-                    onClick={() => setHumanColor(opt.hex)}
-                    className="flex items-center gap-1.5 px-2.5 py-1 rounded-md text-[12px] font-medium transition-all cursor-pointer"
-                    style={{
-                      backgroundColor: humanColor === opt.hex ? opt.hex : "transparent",
-                      color: humanColor === opt.hex ? "#fff" : opt.hex,
-                      border: `1.5px solid ${opt.hex}`,
-                    }}
-                  >
-                    <span className="w-3 h-3 rounded-full flex-shrink-0" style={{ backgroundColor: opt.hex, opacity: humanColor === opt.hex ? 0 : 1 }} />
-                    {opt.name}
-                  </button>
-                ))}
-              </div>
-              <MainsLeaderboard models={mainsModels} humanModels={humanModels} year={year} paper={mainsPaper} humanColor={humanColor} />
+              <MainsLeaderboard models={mainsModels} humanModels={humanModels} year={year} paper={mainsPaper} />
             </div>
           )}
 

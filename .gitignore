@@ -9,6 +9,7 @@ venv/
 
 # Environment
 .env
+CLAUDE.md
 
 # Data (raw PDFs are large)
 data/pdfs/

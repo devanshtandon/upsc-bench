@@ -16,6 +16,10 @@ data/pdfs/2020/
 data/pdfs/2021/
 data/poc_images/
 data/tmp_pages/
+data/parsed/
+
+# Design mockups
+design-options/
 
 # Database
 db/*.db

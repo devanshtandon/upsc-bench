@@ -45,12 +45,20 @@ def normalize_answer(raw_output: str) -> str | None:
 
     text = raw_output.strip()
 
-    # Try each pattern
+    # Try patterns on original text first (preserves existing behavior)
     for pattern in ANSWER_PATTERNS:
-        # Search the full text first
         match = re.search(pattern, text, re.IGNORECASE | re.MULTILINE)
         if match:
             return match.group(1).lower()
+
+    # Retry with markdown bold/italic markers stripped —
+    # e.g. Claude outputs "Answer: **(D)**" which the patterns can't parse
+    stripped = re.sub(r"\*{1,2}", "", text)
+    if stripped != text:
+        for pattern in ANSWER_PATTERNS:
+            match = re.search(pattern, stripped, re.IGNORECASE | re.MULTILINE)
+            if match:
+                return match.group(1).lower()
 
     # Last resort: find the last occurrence of a standalone a/b/c/d
     # This handles cases where the model discusses options then states answer

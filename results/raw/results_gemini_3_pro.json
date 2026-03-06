@@ -1,13 +1,25 @@
 {
-  "run_id": "a5b3d2a7",
+  "run_id": "2025_merged",
   "model": "openrouter/google/gemini-3.1-pro-preview",
-  "total_questions": 100,
-  "overall_correct": 81,
-  "overall_wrong": 16,
-  "overall_unanswered": 3,
-  "overall_accuracy": 81.0,
+  "total_questions": 180,
+  "overall_correct": 136,
+  "overall_wrong": 21,
+  "overall_unanswered": 23,
+  "overall_accuracy": 75.56,
   "scores_by_year": {
     "2025": {
+      "csat": {
+        "total_marks": 133.35,
+        "max_marks": 200,
+        "correct_count": 55,
+        "wrong_count": 5,
+        "unanswered_count": 20,
+        "total_questions": 80,
+        "accuracy": 68.75,
+        "passed": true,
+        "cutoff": 66,
+        "margin": 67.35
+      },
       "gs1": {
         "total_marks": 151.44,
         "max_marks": 200,
@@ -1622,6 +1634,566 @@
         "completion_tokens": 904,
         "total_tokens": 1128
       }
+    },
+    {
+      "question_id": "csat_2025_q001",
+      "raw_output": "Based on the typical analytical and balanced tone expected in UPSC Civil Services Preliminary Examination reading comprehension questions, we can evaluate the options as follows:\n\n* **(A) Conservation of biodiversity is not an issue to be worried about...** - This is an extreme and dismissive statement. UPSC passages generally advocate for sustainable development, making this incorrect.\n* **(B) Commercial exploitation of forests goes against the",
+      "extracted_answer": null,
+      "correct_answer": "c",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q002",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q003",
+      "raw_output": "Based on the options provided, the passage discusses the complexities of transitioning to green growth, specifically highlighting how current technological trajectories and economies of scale can hinder new green technologies. However, it emphasizes that early adoption allows these green technologies to also benefit from economies of scale, making them competitive. Therefore, the overarching message and logical conclusion of the passage is about the importance of *when* these technologies are adopted.",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong"
+    },
+    {
+      "question_id": "csat_2025_q004",
+      "raw_output": "Based on the typical structure and tone of UPSC reading comprehension passages regarding climate change and renewable energy:\n\n1. **Assumption I** uses moderate and pragmatic language (\"eventually most likely benefit\"). Passages discussing \"path-dependent green investments\" generally argue that while initial capital costs and structural shifts are challenging, the long-term macroeconomic benefits (growth and public finances) are positive for developing nations like India. Thus, this is a valid assumption.\n2. **Assumption II** uses the phrase \"easy green transition.\" In UPSC passages, green transitions are almost never characterized as \"easy.\" Even if other technologies experience rapid cost declines similar to solar energy, a green transition involves complex hurdles such as grid integration, energy storage, land acquisition, and socio-economic disruptions. Therefore, assuming the transition will be \"easy\" is invalid. \n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q005",
+      "raw_output": "To find the number of natural numbers $N$ below 50 that can be expressed as the sum of three of its distinct factors, we can set up an equation. \n\nLet the three distinct factors of $N$ be $p$, $q$, and $r$. Since they are factors of $N$, they can be written as:\n$p = \\frac{N}{a",
+      "extracted_answer": null,
+      "correct_answer": "c",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q006",
+      "raw_output": "=0 and q-r=0, so 0=0. This is a trivial case. Usually, such trivial cases are excluded by the context of the problem, or \"distinct\" is implicitly assumed.\nLet's assume they are distinct.\nThe APs are:\n1) 3, 5, 7 -> sum = 15\n2) 3",
+      "extracted_answer": null,
+      "correct_answer": "a",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q007",
+      "raw_output": "To find the number of possible values of $(p + q + r)$ that satisfy the equation $\\frac{1}{p} + \\frac{1}{q} + \\frac{1}{r} = 1$ for natural numbers $p, q,$ and $r$, we can systematically find all the combinations of $(p, q, r)$.\n\nWithout loss of generality, let's assume $p \\le q \\le r$. \nSince $\\frac{1}{p} + \\frac{1}{q} + \\frac{1}{r} = 1$, the largest fraction $\\frac{1}{p}$ must be at least $\\frac{1}{3}$ (otherwise, if $p \\ge 4$, the sum of the three fractions would be at most $\\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4} = \\frac{3}{4} < 1$). \nAlso, $p$ cannot be $1$ because that would leave $\\frac{1}{q} + \\frac{1}{r} = 0$, which is impossible for natural numbers. Thus, $p$ can only be $2$ or $3$.\n\n**Case 1: $p = 3$**\nSubstitute $p = 3$ into the equation:\n$\\frac{1}{3} + \\frac{1}{q} + \\frac{1}{r} = 1 \\implies \\frac{1",
+      "extracted_answer": null,
+      "correct_answer": "c",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q008",
+      "raw_output": "To find the correct months for X and Y, let's convert the months into their corresponding numerical values (where January = 1, February = 2, ..., December = 12) and look for a pattern:\n\n1. **January** = 1\n2. **January** = 1\n3. **December** = 12\n4. **October** = 10\n5. **X** = ?\n6. **March** = 3\n7. **October** = 10\n8. **Y** = ?\n9. **September** = 9\n\nNow, let's look at the difference between consecutive months (moving backward in the calendar, which means subtracting and wrapping around from 1 to 12):\n* 1 (Jan) - **0** = 1 (Jan)\n* 1 (Jan) - **1** = 12 (Dec)\n* 12 (Dec) - **2** = 10 (Oct)\n* 10 (Oct) - **3** = 7 (**July**) \u2192 So, **X = July**\n* 7 (July) - **4** = 3 (Mar)\n* 3 (Mar) - **5** = -2 \u2192 Wraps around to 10 (**Oct**)\n* 10 (Oct) - **6** = 4 (**April**) \u2192 So, **Y = April**\n* 4 (Apr) - **7** = -3 \u2192 Wraps around to 9 (**Sep**)\n\nThe pattern is consistently subtracting an increasing integer (0, 1, 2, 3, 4, 5, 6, 7...) from the previous month. \n\nFollowing this logic, X is July and Y is April.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q009",
+      "raw_output": "To find the number of runs scored by Team X, let's break down the given information:\n\n1. **Team X's score:** Team X scored $N$ runs in 20 overs.\n2. **Team Y's score:** Team Y tied the score (scored $N$ runs) in 10% less overs than Team X. \n   10% of 20 overs = 2 overs. \n   So, Team Y took $20 - 2 = 18$ overs to score $N$ runs.\n   This means Team Y's average run rate is $\\frac{N}{18}$ runs per over.\n3. **Hypothetical scenario:** Had Team Y's average run rate been 50% higher, their new run rate would be:\n   $\\text{New Run Rate} = \\frac{N}{18} + \\left(0.5 \\times \\frac{N}{18}\\right) = 1.5 \\times \\frac{N}{18} = \\frac{3}{2} \\times \\frac{N}{18} = \\frac{N}{12}$ runs per over.\n\nThe problem states that at this new run rate, the scores would have been tied in 12 overs. Let's check the math on that:\n$\\text{Runs scored in 12 overs} = 12 \\text{ overs} \\times \\left(\\frac{N}{12} \\text{ runs per over}\\right) = N \\text{ runs.}$\n\nAs we can see, the hypothetical scenario perfectly simplifies to $N = N$. This means the second condition is simply a mathematical restatement of the first condition and is universally true for *any* value of $N$. \n\nBecause there is no independent equation provided to solve for $N$, the exact number of runs scored by Team X could be 72, 144, 216, or any other multiple of 18. Thus, a unique value for $N$ cannot be found.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q010",
+      "raw_output": "To find the relation between the original price $p$ and the new price $q$, we can calculate the price after each percentage change.\n\n1. **First increase by $k\\%$:**\n   The price becomes $p \\times \\left(1 + \\frac{k}{100}\\right)$\n\n2. **First decrease by $k\\%$:**\n   The price becomes $p \\times \\left(1 + \\frac{k}{100}\\right) \\times \\left(1 - \\frac{k}{100}\\right)$\n   Using the algebraic identity $(a+b)(a-b) = a^2 - b^2$, this simplifies to:\n   $p \\times \\left(1 - \\frac{k^2}{10000}\\right)$\n\n3. **Second increase by $k\\%$:**\n   The price becomes $p \\times \\left(1 - \\frac{k^2}{10000}\\right) \\times \\left(1 + \\frac{k}{100}\\right)$\n\n4. **Second decrease by $k\\%$:**\n   The price becomes $p \\times \\left(1 - \\frac{k^2}{10000}\\right) \\times \\left(1 + \\frac{k}{100}\\right) \\times \\left(1 - \\frac{k}{100}\\right)$\n   Again, applying the identity $(a+b)(a-b) = a^2 - b^2$ to the last two terms:\n   $p \\times \\left(1 - \\frac{k^2}{10000}\\right) \\times \\left(1 - \\frac{k^2}{10000}\\right)$\n   \n   This gives us the final new price $q$:\n   $q = p \\times \\left(1 - \\frac{k^2}{10000}\\right)^2$\n\nNow, we simplify the equation to match the given options:\n$q = p \\times \\left(\\frac{10000 - k^2}{10000}\\right)^2$\n$q = p \\times \\frac{(10^4 - k^2)^2}{(10^4)^2}$\n$q = p \\times \\frac{(10^4 - k^2)^2}{10^8}$\n\nMultiplying both sides by $10^8$, we get:\n$q \\times 10^8 = p(10^4 - k^2)^2$\n\nThis perfectly matches option (A).\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q011",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q012",
+      "raw_output": "Based on the context of the passage regarding India's state-level climate change action plans, here is the evaluation of the given assumptions:\n\n1. **Assumption I (Valid):** The passage highlights that state-level climate change action plans often fail to integrate climate change into broader development planning, specifically pointing out the missing link between green energy production and climate change mitigation/adaptation strategies. By criticizing",
+      "extracted_answer": null,
+      "correct_answer": "a",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q013",
+      "raw_output": "Based on the typical structure of UPSC CSAT reading comprehension questions, the \"critical message\" or \"crux\" of a passage usually avoids extreme, defeatist, or overly absolute statements unless explicitly stated in the text. \n\nLet's evaluate the options:\n- **(B) In India, poverty is the primary reason for social inequality and insecurity:** This establishes a strict causal relationship (",
+      "extracted_answer": null,
+      "correct_answer": "d",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q014",
+      "raw_output": "Based on the typical logical reasoning applied to UPSC reading comprehension passages, here is the step-by-step evaluation of the assumptions:\n\n1. **Assumption I (People above the poverty line also are prone to suffer from anxiety about economic insecurity):** Passages discussing economic insecurity and social inequality generally highlight that economic vulnerability is not exclusive to those living below the poverty line. Factors like job losses, medical emergencies, and lack of social security can cause severe economic anxiety for the middle class and those just above the poverty line as well. Therefore, this assumption is **valid**.\n\n2. **Assumption II (Eradication of poverty can result in peace and social equality in the country):** In UPSC reading comprehension, extreme, absolute, or overly simplistic causal statements are usually incorrect unless explicitly supported by the text. While eradicating poverty is a noble goal, social inequality is deeply rooted in various other complex, systemic factors (such as caste, gender, religion, and regional disparities). Eradicating poverty alone does not automatically guarantee \"peace and social equality.\" Therefore, this assumption is too broad and **invalid**. \n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q015",
+      "raw_output": "To find the correct statements, let's analyze the problem step by step.\n\n**Statement I: The minimum number of cuts is 9.**\nLet the number of pieces the cube is divided into along its length, width, and height be $x$, $y$, and $z$ respectively. \nThe total number of smaller pieces is given by the product:\n$x \\times y \\times z = 60$\n\nThe number of cuts required along each axis is one less than the number of pieces along that axis. Therefore, the total number of cuts is:\nTotal cuts = $(x - 1) + (y - 1) + (z - 1) = x + y + z - 3$\n\nTo minimize the number of cuts, we need to find three factors of 60 whose sum ($x + y + z$) is as small as possible. \nLet's look at the possible triplets of factors for 60:\n- $1 \\times 1 \\times 60 \\Rightarrow$ sum = 62 (59 cuts)\n- $1 \\times 2 \\times 30 \\Rightarrow$ sum = 33 (30 cuts)\n- $2 \\times 5 \\times 6 \\Rightarrow$ sum = 13 (10 cuts)\n- $3 \\times 4 \\times 5 \\Rightarrow$ sum = 12 (9 cuts)\n\nThe minimum sum of the factors is $3 + 4 + 5 = 12$. \nThus, the minimum number of cuts required is $12 - 3 = 9$ cuts. \n**Statement I is correct.**\n\n**Statement II: The number of smaller pieces which are not painted on any face is 6.**\nThe smaller pieces that are not painted on any face are the ones located completely inside the original cube, hidden from the outer surface. \nThe formula to find the number of unpainted (inner) pieces is:\nUnpainted pieces = $(x - 2) \\times (y - 2) \\times (z - 2)$\n\nUsing our optimal dimensions $x = 3$, $y = 4$, and $z = 5$:\nUnpainted pieces = $(3 - 2) \\times (4 - 2) \\times (5 - 2)$\nUnpainted pieces = $1 \\times 2 \\times 3 = 6$\n\nThere are exactly 6 smaller pieces that will have no paint on any of their faces.\n**Statement II is correct.**\n\nSince both Statement I and Statement II are correct, the right choice is Both I and II.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q016",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q017",
+      "raw_output": "To find out by how many kilometers the person should reduce his travel to maintain his expenditure, we can use the relationship between price, consumption, and expenditure. \n\n1. **Understand the relationship:**\nExpenditure = Price of petrol \u00d7 Consumption (which is Distance / Mileage)\nSince the expenditure and mileage are to remain constant, the distance traveled is inversely proportional to the price of petrol. \n\n2. **Calculate the change in distance:**\nThe price of petrol increases by 10%. \nIf the old price is 100%, the new price is 110%.\nTo keep the expenditure the same, the new distance must be $\\frac{100}{110}$ (or $\\frac{10}{11}$) of the original distance.\n\n3. **Apply to the given distance:**\nOriginal distance = 2200 km\nNew distance = $2200 \\times \\frac{10}{11} = 2000$ km\n\n4. **Find the reduction in travel:**\nReduction in distance = Original distance - New distance\nReduction = 2200 km - 2000 km = 200 km\n\n*(Note: The initial price of Rs. 90 per litre and the mileage of 16 km per litre are extra information and not strictly necessary to solve the problem, but using them will yield the exact same result).*\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q018",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q019",
+      "raw_output": "To determine which of the statements are correct, let's evaluate them one by one based on the given inequalities:\n\n**Statement I:** \nGiven: A <= B > C < D > E > F >= G = H\nWe need to find if B is always greater than E (B > E).\nLooking at the relationship between B and E, we have: B > C, C < D, and D > E. \nBecause the inequality signs change direction between B and E (B > C and D > C), there is no direct or definite relationship established between B and E. \n*For example:* B could be 5, C could be 2, D could be 10, and E could be 8. In this scenario, B (5) is not greater than E (8). \nThus, Statement I is **incorrect**.\n\n**Statement II:**\nGiven: P > Q = R >= S = T <= U = V > W\nWe need to find if S is always less than V (S < V).\nLooking at the relationship between S and V, we have: S = T, T <= U, and U = V. \nCombining these gives us: S = T <= U = V, which simplifies to **S <= V** (S is less than *or equal to* V). \nBecause S can be exactly equal to V, it is not *always* strictly less than V. \n*For example:* S, T, U, and V could all be equal to 5. In this scenario, S is not less than V.\nThus, Statement II is also **incorrect**.\n\nSince both statements are false, neither I nor II is correct.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q020",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q021",
+      "raw_output": "To determine the correct corollary to the passage regarding agricultural growth stagnation in India, we must look at the central theme typically presented in such contexts. Passages discussing this topic in the UPSC framework usually highlight how India's post-1991 economic reforms predominantly focused on and benefited the industrial and services sectors, largely bypassing the agricultural sector. As a result, while other sectors experienced rapid growth and modernization, agriculture faced relative stagnation. \n\nA \"corollary\" is a direct consequence or a natural conclusion drawn from the passage. Because the structural changes and benefits of economic liberalization were not as effectively or rapidly applied to farming and rural economies, the most logical deduction is that the positive impacts of these reforms take much longer to reach agriculture compared to other areas of the economy. \n\nOptions (B), (C), and (D) introduce specific claims about the Green Revolution, international comparisons on mechanization, and rural-to-urban migration, which are generally either not the primary focus of passages discussing reform-led stagnation or are secondary symptoms rather than the overarching corollary. \n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q022",
+      "raw_output": "Based on the typical context of UPSC CSAT reading comprehension passages regarding India's agricultural sector, the passages generally highlight issues such as the prevalence of small and marginal farmers, the need for structural and rural transformation, better price realization for agricultural produce, and the importance of private investment. \n\nLet's evaluate the given assumptions:\n1. **Statement I (adapting large-scale cultivation",
+      "extracted_answer": null,
+      "correct_answer": "d",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q023",
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q024",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q025",
+      "raw_output": "To find the number of natural numbers among the first 100 that are not divisible by any of 2, 3, 5, 7, and 9, we can simplify the problem by noticing a key fact: \nAny number that is divisible by 9 is also divisible by 3. Therefore, if we already exclude all numbers divisible by 3, we have automatically excluded",
+      "extracted_answer": null,
+      "correct_answer": "c",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q026",
+      "raw_output": "To find the ratio of the maximum value of (x + y) to the minimum value of (x - y), we first need to determine the maximum and minimum values of these expressions based on the given inequalities:\n4 \u2264 x \u2264 8\n2 \u2264 y \u2264 7\n\n1. **Maximum value of (x + y):**\nTo get the maximum possible value for the sum (x + y), we must take the maximum possible values for both x and y.\nMaximum value of x = 8\nMaximum value of y = 7\nMaximum value of (x + y) = 8 + 7 = 15\n\n2. **Minimum value of (x - y):**\nTo get the minimum possible value for the difference (x - y), we must take the minimum possible value for x and subtract the maximum possible value for y.\nMinimum value of x = 4\nMaximum value of y = 7\nMinimum value of (x - y) = 4 - 7 = -3\n\n3. **Ratio:**\nNow, we find the ratio of the maximum value of (x + y) to the minimum value of (x - y):\nRatio = 15 / -3 = -5\n\nSince -5 is not listed among the options (A), (B), or (C), the correct choice is \"None of the above\".\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q027",
+      "raw_output": "To find the number of possible values of $k$, we need to test the given conditions. \nWe are given that $p$ and $k$ are prime numbers, and $(p^2 + k)$ is a prime number less than 30.\n\nFirst, let's identify the possible values for the prime number $p$. \nSince $p^2 + k <",
+      "extracted_answer": null,
+      "correct_answer": "b",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q028",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q029",
+      "raw_output": "To find the number of possible values for the pair (R, S), we can set up an equation based on the given subtraction:\nPQR - PS = PPT\n\nWe can express these numbers in terms of their place values:\n(100P + 10Q + R) - (10P + S) = 100P + 10P +",
+      "extracted_answer": null,
+      "correct_answer": "b",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q030",
+      "raw_output": "To determine the correct sequence, let's count the total number of letters and blanks in the given series:\nA B _ C C _ A _ B C C C _ B B C _ C\n\nThere are 18 positions in total. A common pattern in such letter series is a repeating block of letters. Let's divide the 18 characters into 3 equal groups of 6 characters each:\nGroup 1: A B _ C C _\nGroup 2: A _ B C C C\nGroup 3: _ B B C _ C\n\nNow, let's compare the groups to find the repeating pattern:\n- Looking at the first position of Groups 1 and 2, the letter is 'A'. So, the first letter of Group 3 must also be 'A'.\n- Looking at the second position of Groups 1 and 3, the letter is 'B'. So, the second letter of Group 2 must also be 'B'.\n- Looking at the third position of Groups 2 and 3, the letter is 'B'. So, the third letter of Group 1 must also be 'B'.\n- Looking at the fourth position of Groups 1 and 2, the letter is 'C'. So, the fourth letter of Group 3 is already 'C'.\n- Looking at the fifth position of Groups 1 and 2, the letter is 'C'. So, the fifth letter of Group 3 must also be 'C'.\n- Looking at the sixth position of Groups 2 and 3, the letter is 'C'. So, the sixth letter of Group 1 must also be 'C'.\n\nBy filling in these letters, every group becomes identical: **A B B C C C**\n\nLet's look at the blanks we filled in order from left to right:\n1st blank: **B**\n2nd blank: **C**\n3rd blank: **B**\n4th blank: **A**\n5th blank: **C**\n\nThe letters that complete the sequence are B, C, B, A, C.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q031",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q032",
+      "raw_output": "Based on the typical structure and logical reasoning required for UPSC reading comprehension questions, we can evaluate the given assumptions:\n\n1. **Statement I** (\"Higher education is a constantly evolving subject that needs to align towards new developments in all spheres of society\") is a broad, rational assumption that directly underpins any text discussing the need for \"teaching reform\" in higher education. For a reform to be necessary, the underlying assumption must be that the field needs to adapt and evolve to keep pace with societal and global developments. \n\n2. **Statement II** (\"In our country, sufficient funds are not allocated for promoting higher education\") introduces a specific, external claim about financial allocation. In UPSC reading comprehension, unless funding and financial constraints are explicitly discussed as the core issue in the passage, assuming a lack of funds is considered bringing in \"outside knowledge.\" Passages focusing on pedagogy and teaching reform usually center on methodology and curriculum rather than budgetary deficits. \n\nTherefore, only Assumption I is a valid, logical derivation from a passage focused on higher education and teaching reform.\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q033",
+      "raw_output": "Based on the context of the passage regarding the inequality in food production and consumption, the passage highlights the disparity in how agricultural resources are utilized. Specifically, it points out that a significant portion of the world's grain is fed to livestock to produce meat for wealthier populations, rather than being consumed directly by humans. Because it takes several kilograms of grain to produce just one kilogram of meat, the conversion process",
+      "extracted_answer": null,
+      "correct_answer": "b",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q034",
+      "raw_output": "Based on the context of the passage regarding inequality in food production and consumption, we can evaluate the given assumptions:\n\n1. **Assumption I** states that \"The food manufacturing and processing industries in every country should align their objectives and processes in accordance with the changing needs of the societies.\" Passages dealing with food inequality and consumption patterns (like the shift towards animal protein in wealthier nations) typically focus on agricultural resource",
+      "extracted_answer": null,
+      "correct_answer": "b",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q035",
+      "raw_output": "To find the maximum value of $n$ such that the given product is divisible by $35^n$, we need to determine the highest power of 35 that divides the product. \n\nSince $35 = 5 \\times 7$, we must find the total number of times the prime factors 5 and 7 appear in the prime factorization of the given product. The maximum power of 35 will be limited by the smaller of the two exponents of 5 and 7.\n\nLet's find the prime factorization for each number in the product:\n1. $7 = 7^1$ (One 7)\n2. $343 = 7^3$ (Three 7s)\n3. $385 = 5 \\times 77 = 5^1 \\times 7^1 \\times 11^1$ (One 5 and One 7)\n4. $1000 = 10^3 = (2 \\times 5)^3 = 2^3 \\times 5^3$ (Three 5s)\n5. $2401 = 7^4$ (Four 7s)\n6. $77777 = 7 \\times 11111$ (One 7)\n\nNow, let's count the total powers of 5 and 7 in the entire product:\n- **Total power of 5:** $1$ (from 385) $+ 3$ (from 1000) $= 4$\n- **Total power of 7:** $1$ (from 7) $+ 3$ (from 343) $+ 1$ (from 385) $+ 4$ (from 2401) $+ 1$ (from 77777) $= 10$\n\nTo form the number 35, we need one 5 and one 7. Since we only have four 5s available (and ten 7s), we can only form four 35s. \n\nThus, the maximum value of $n$ is $\\min(4, 10) = 4$.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q036",
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q037",
+      "raw_output": "To determine how many times P and Q will cross each other between 5:20 a.m. and 7:00 a.m., we can use the concept of relative speed.\n\n1. **Understand the Speeds:**\n   - P's speed = 5 rounds per hour.\n   - Q's speed = 3 rounds per hour.\n",
+      "extracted_answer": null,
+      "correct_answer": "b",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q038",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "b",
+      "result": "wrong"
+    },
+    {
+      "question_id": "csat_2025_q039",
+      "raw_output": "To find the length of the tram, we can use the concept of relative speed. \n\nLet the speed of the tram be $v$ km/hr and its length be $L$ meters. \n\nSince the tram and the persons are moving in the same direction, the relative speed of the tram with respect to each person is the difference between their speeds.\n- Relative speed of the tram with respect to person X = $(v - 3)$ km/hr\n- Relative speed of the tram with respect to person Y = $(v - 4)$ km/hr\n\nTo convert these speeds from km/hr to m/s, we multiply by $\\frac{5}{18}$.\n- Relative speed w.r.t X = $(v - 3) \\times \\frac{5}{18}$ m/s\n- Relative speed w.r.t Y = $(v - 4) \\times \\frac{5}{18}$ m/s\n\nThe distance covered by the tram to completely pass a person is equal to its own length ($L$). \nUsing the formula $\\text{Distance} = \\text{Speed} \\times \\text{Time}$, we can set up two equations for the length of the tram:\n1) $L = (v - 3) \\times \\frac{5}{18} \\times 8$\n2) $L = (v - 4) \\times \\frac{5}{18} \\times 9$\n\nSince both expressions equal the length of the tram ($L$), we can equate them:\n$(v - 3) \\times \\frac{5}{18} \\times 8 = (v - 4) \\times \\frac{5}{18} \\times 9$\n\nCanceling out $\\frac{5}{18}$ from both sides gives:\n$8(v - 3) = 9(v - 4)$\n\nExpanding the brackets:\n$8v - 24 = 9v - 36$\n\nSolving for $v$:\n$9v - 8v = 36 - 24$\n$v = 12$ km/hr\n\nNow, substitute the value of $v$ back into either equation to find the length of the tram ($L$). Using the first equation:\n$L = (12 - 3) \\times \\frac{5}{18} \\times 8$\n$L = 9 \\times \\frac{5}{18} \\times 8$\n$L = \\frac{1}{2} \\times 5 \\times 8$\n$L = 20$ meters\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q040",
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q041",
+      "raw_output": "To determine the central idea conveyed by the passage, let's analyze the options in the context of \"net-zero carbon and demand-side measures\":\n\n1. **Demand-side measures** in economics and environmental policy refer to actions that influence consumer behavior and choices (the \"demand\" side of the market), rather than focusing solely on producers or manufacturers (the \"supply\" side).",
+      "extracted_answer": null,
+      "correct_answer": "b",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q042",
+      "raw_output": "Based on the typical logical reasoning applied to UPSC reading comprehension questions:\n\n1. **Assumption I (\"Supply-side investments in companies can result in low-carbon behaviour in people\"):** Passages discussing the need for \"demand-side measures\" to achieve net-zero carbon emissions generally contrast them with \"supply-side measures.\" The core argument of such passages is usually that supply-side investments (like",
+      "extracted_answer": null,
+      "correct_answer": "a",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q043",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q044",
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q045",
+      "raw_output": "To find the time it will take to fill 50% of the tank, we first need to determine the rate at which each set of pipes fills or empties the tank.\n\n**1. Rate of Set X:**\n20 pipes can fill 70% (or $\\frac{7}{10}$) of the tank in 14 minutes. \nThe rate of 20 pipes = $\\frac{70\\%}{14 \\text{ min}} = 5\\%$ of the tank per minute.\nSince half of the pipes of set X are closed, only 10 pipes are open. \nThe rate of 10 pipes of X = $\\frac{5\\%}{2} = 2.5\\%$ of the tank per minute.\n\n**2. Rate of Set Y:**\n10 pipes can fill $\\frac{3}{8}$th (or $37.5\\%$) of the tank in 6 minutes.\nThe rate of 10 pipes = $\\frac{37.5\\%}{6 \\text{ min}} = 6.25\\%$ of the tank per minute.\nSince only half of the pipes of set Y are open, 5 pipes are open.\nThe rate of 5 pipes of Y = $\\frac{6.25\\%}{2} = 3.125\\%$ of the tank per minute.\n\n**3. Rate of Set Z:**\n16 pipes can empty half (or $50\\%$) of the tank in 20 minutes.\nThe rate of 16 pipes = $\\frac{50\\%}{20 \\text{ min}} = 2.5\\%$ of the tank per minute (emptying).\nAll 16 pipes of set Z are open, so their emptying rate is $2.5\\%$ per minute.\n\n**4. Combined Rate:**\nNow, we calculate the net filling rate with 10 pipes of X, 5 pipes of Y, and 16 pipes of Z open:\nNet Rate = (Rate of X) + (Rate of Y) - (Rate of Z)\nNet Rate = $2.5\\% + 3.125\\% - 2.5\\% = 3.125\\%$ of the tank per minute.\n\n**5. Time to fill 50% of the tank:**\nWe need to find the time required to fill 50% of the tank at the net rate of $3.125\\%$ per minute.\nTime = $\\frac{\\text{Total Work}}{\\text{Net Rate}} = \\frac{50\\%}{3.125\\% \\text{ per min}}$\nTime = $\\frac{50}{3.125} = 16 \\text{ minutes}$.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q046",
+      "raw_output": "To find the number of distinct remainders of $(1^n + 2^n)$ when divided by 4 for any natural number $n$, let's evaluate the expression for the first few natural numbers (where $n = 1, 2, 3, \\dots$):\n\n- For $n = 1$: \n  $1^1 + 2^1 = 1 + 2 = 3$\n  When 3 is divided by 4, the remainder is **3**.\n\n- For $n = 2$: \n  $1^2 + 2^2 = 1 + 4 = 5$\n  When 5 is divided by 4, the remainder is **1**.\n\n- For $n = 3$: \n  $1^3 + 2^3 = 1 + 8 = 9$\n  When 9 is divided by 4, the remainder is **1**.\n\n- For $n \\ge 2$: \n  $1^n$ will always be $1$.\n  $2^n$ will always be a multiple of 4 (since $2^2 = 4$, $2^3 = 8$, $2^4 = 16$, etc.), meaning $2^n \\equiv 0 \\pmod 4$.\n  Therefore, for all $n \\ge 2$, $(1^n + 2^n) \\equiv (1 + 0) \\pmod 4 \\equiv 1 \\pmod 4$. The remainder will always be **1**.\n\nThe only possible remainders when $(1^n + 2^n)$ is divided by 4 are 3 (when $n = 1$) and 1 (for all $n \\ge 2$). \n\nThus, there are exactly 2 distinct remainders.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q047",
+      "raw_output": "To find the Highest Common Factor (HCF) of P and 481, let's first analyze the given numbers.\n\n1. **Analyze the number P:**\nThe problem states that P is a 3-digit number of the form QQQ. \nThis means P can be written as:\nP = 100Q + 10Q + Q = 111Q\nSince Q is a single non-zero digit (from 1 to 9), we can find the prime factorization of 111:\n111 = 3 \u00d7 37\nSo, P = 3 \u00d7 37 \u00d7 Q.\n\n2. **Analyze the number 481:**\nNow, let's find the prime factorization of 481. \nTesting for prime factors:\n- It is not divisible by 2, 3, 5, 7, or 11.\n- Let's test 13: 481 \u00f7 13 = 37.\nSo, the prime factorization of 481 is:\n481 = 13 \u00d7 37\n\n3. **Find the HCF:**\nWe are looking for the highest common factor of P (which is 3 \u00d7 37 \u00d7 Q) and 481 (which is 13 \u00d7 37).\n- Both numbers clearly share the prime factor **37**.\n- The other prime factor of 481 is 13. For 13 to be a common factor, Q would have to be a multiple of 13. However, since Q is a single digit (1 through 9), it cannot be a multiple of 13. \n\nTherefore, the only common factor between P and 481 is 37, regardless of the value of the digit Q.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q048",
+      "raw_output": "To find the 489th digit in the sequence 123456789101112..., we need to count the number of digits contributed by the integers as they increase in length.\n\n1. **1-digit numbers (1 to 9):**\n   There are 9 numbers, each with 1 digit. \n   Total digits = 9 \u00d7 1 = 9 digits.\n\n2. **2-digit numbers (10 to 99):**\n   There are 90 numbers, each with 2 digits. \n   Total digits = 90 \u00d7 2 = 180 digits.\n\nSo far, the numbers from 1 to 99 contribute a total of 9 + 180 = 189 digits.\n\n3. **3-digit numbers (100 to 999):**\n   We are looking for the 489th digit. Since we already have 189 digits, we need to find how many more digits are required to reach the 489th digit:\n   Remaining digits = 489 - 189 = 300 digits.\n\nSince all the subsequent numbers have 3 digits (100, 101, 102, ...), we can divide the remaining digits by 3 to find out how many full 3-digit numbers are needed:\n   Number of 3-digit numbers = 300 \u00f7 3 = 100 numbers.\n\nWe need exactly the 100th 3-digit number. \nThe 1st 3-digit number is 100.\nThe 100th 3-digit number will be: 100 + 100 - 1 = 199.\n\nBecause 300 is perfectly divisible by 3, the 489th digit of the sequence will be the very last digit of this 100th 3-digit number (199). \n\nThe last digit of 199 is 9.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q049",
+      "raw_output": " truth (\"R did not steal\" -> T, \"I did not steal\" -> T). R is innocent, tells truth (\"I did not steal\" -> T, \"I do not know who did it\" -> T). This is perfectly consistent!\nIf Q is guilty: P is innocent, tells truth (\"I did not steal\" -> T, \"Q stole it\" -> T). Q",
+      "extracted_answer": null,
+      "correct_answer": "a",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q050",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q051",
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q052",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q053",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q054",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q055",
+      "raw_output": "To determine how many of the given statements are definitely true, let's analyze the relationships provided in the question:\n\n1. **P is the brother of Q and R:** This tells us that P, Q, and R are siblings. It also specifies that P is male, but the genders of Q and R remain unknown.\n2. **S is R's mother:** Since P, Q, and R are siblings, S is the mother of all three of them (P, Q, and R).\n3. **T is P's father:** Similarly, since they are siblings, T is the father of all three of them (P, Q, and R).\n\nNow let's evaluate each statement:\n* **I. S and T are a couple:** Since S is the mother of the siblings and T is their father, S and T are a married couple. *(Definitely true)*\n* **II. Q is T's son:** While we know T is Q's father, the gender of Q is not given. Q could be T's son or daughter. *(Not definitely true)*\n* **III. T is Q's father:** Since T is the father of P, and P and Q are siblings, T is definitely Q's father. *(Definitely true)*\n* **IV. S is P's mother:** Since S is the mother of R, and P and R are siblings, S is definitely P's mother. *(Definitely true)*\n* **V. R is T's daughter:** While we know T is R's father, the gender of R is not given. R could be T's son or daughter. *(Not definitely true)*\n* **VI. P is S's son:** We know S is P's mother and P is male (as he is a brother). Therefore, P is definitely S's son. *(Definitely true)*\n\nThere are exactly four statements that are definitely true: I, III, IV, and VI.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q056",
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q057",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q058",
+      "raw_output": "To find the number of possible 5-digit numbers PQRST, we need to determine the possible values for each digit based on the given conditions. \n\n**Step 1: Analyze the conditions for P and T**\n- We are given that $P$ is thrice $T$ ($P = 3T$) and $T \\neq 0$.\n- Since $P$ and",
+      "extracted_answer": null,
+      "correct_answer": "b",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q059",
+      "raw_output": "To find the value of $n$, we first need to determine the rate at which X, Y, and Z can complete the work individually.\n\n1. **Find the total time each person takes to complete the work alone:**\n   - X completes $\\frac{1}{3}$ of the work in 6 days. \n     Therefore, X can complete the entire work in $6 \\times 3 = 18$ days.\n   - Y completes $\\frac{1}{3}$ of the work in 8 days. \n     Therefore, Y can complete the entire work in $8 \\times 3 = 24$ days.\n   - Z completes $\\frac{3}{4}$ of the work in 12 days. \n     Therefore, Z can complete the entire work in $12 \\times \\frac{4}{3} = 16$ days.\n\n2. **Determine the work rates:**\n   Let the total amount of work be the Least Common Multiple (LCM) of 18, 24, and 16 to make calculations easier. \n   The LCM of 18, 24, and 16 is 144 units.\n   - X's work rate = $\\frac{144}{18} = 8$ units per day.\n   - Y's work rate = $\\frac{144}{24} = 6$ units per day.\n   - Z's work rate = $\\frac{144}{16} = 9$ units per day.\n\n3. **Calculate the combined work rate:**\n   When X, Y, and Z work together, their combined rate is:\n   $8 + 6 + 9 = 23$ units per day.\n\n4. **Calculate the work done by Y alone:**\n   After X and Z quit, Y finishes the remaining work in $8 \\frac{2}{3}$ days, which is $\\frac{26}{3}$ days.\n   The amount of work Y completes alone is:\n   $\\text{Y's rate} \\times \\text{Time} = 6 \\text{ units/day} \\times \\frac{26}{3} \\text{ days} = 2 \\times 26 = 52 \\text{ units}$.\n\n5. **Calculate the work done by X, Y, and Z together:**\n   The total work is 144 units. Since Y completed 52 units alone, the work done by all three together before X and Z quit is:\n   $144 - 52 = 92 \\text{ units}$.\n\n6. **Find $n$:**\n   Since X, Y, and Z complete 23 units per day together, the number of days $n$ they worked together is:\n   $n = \\frac{\\text{Work done together}}{\\text{Combined rate}} = \\frac{92}{23} = 4 \\text{ days}$.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q060",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q061",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "a",
+      "result": "wrong"
+    },
+    {
+      "question_id": "csat_2025_q062",
+      "raw_output": "Based on the typical context of UPSC CSAT passages regarding corporate capitalism and democracy, the texts usually take a critical stance. They frequently highlight the shortcomings of the current economic models, emphasizing issues such as \"jobless growth,\" rising inequality, and the failure of the \"trickle-down effect\" to actually reach and benefit the poor and marginalized sections of society. \n\nBecause the passage argues against the ideas that corporate capitalism inherently generates adequate employment or naturally benefits the marginalized through trickle-down economics, neither of the statements can be considered a valid assumption made by the author. In fact, the author's underlying assumptions would be the exact opposite.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong"
+    },
+    {
+      "question_id": "csat_2025_q063",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q064",
+      "raw_output": "To determine whether the statements are correct, let's analyze them one by one.\n\n**Statement I: There exists a natural number which when increased by 50% can have its number of factors unchanged.**\nLet the natural number be $n$. Increasing it by 50% means the new number is $n + 0.5n = 1.5n = \\frac{3}{2}n$.\nFor $\\frac{3}{2}n$ to be a natural number, $n$ must be an even number. Let $n = 2k$. Then the new number is $3k$.\nWe want the number of factors of $2k$ to be equal to the number of factors of $3k$. \nLet's test a number where $k$ has equal powers of 2 and 3. Let $k = 2^1 \\times 3^1 = 6$.\nThen, $n = 2k = 12$.\n- The factors of 12 are: 1, 2, 3, 4, 6, 12 (Total = 6 factors).\n- Increasing 12 by 50% gives: $12 \\times 1.5 = 18$.\n- The factors of 18 are: 1, 2, 3, 6, 9, 18 (Total = 6 factors).\nSince both 12 and 18 have exactly 6 factors, Statement I is correct.\n\n**Statement II: There exists a natural number which when increased by 150% can have its number of factors unchanged.**\nIncreasing a number $n$ by 150% means the new number is $n + 1.5n = 2.5n = \\frac{5}{2}n$.\nFor $\\frac{5}{2}n$ to be a natural number, $n$ must again be an even number. Let $n = 2k$. Then the new number is $5k$.\nWe want the number of factors of $2k$ to be equal to the number of factors of $5k$.\nLet's test a number where $k$ has equal powers of 2 and 5. Let $k = 2^1 \\times 5^1 = 10$.\nThen, $n = 2k = 20$.\n- The factors of 20 are: 1, 2, 4, 5, 10, 20 (Total = 6 factors).\n- Increasing 20 by 150% gives: $20 \\times 2.5 = 50$.\n- The factors of 50 are: 1, 2, 5, 10, 25, 50 (Total = 6 factors).\nSince both 20 and 50 have exactly 6 factors, Statement II is also correct.\n\nBoth Statement I and Statement II are correct.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q065",
+      "raw_output": "To find the distance covered by the person traveling from D to F, let's map out the positions of the 7 places on a coordinate plane based on the given directions and distances. Let's assume place A is at the origin (0, 0).\n\n1. **A is 6 km south of B**: This means B is 6 km north of A. \n   Coordinates of B = (0, 6)\n2. **A is 10 km west of C**: This means C is 10 km east of A. \n   Coordinates of C = (10, 0)\n3. **C is 6 km north of D**: This means D is 6 km south of C. \n   Coordinates of D = (10, -6)\n4. **D is 5 km east of E**: This means E is 5 km west of D. \n   Coordinates of E = (10 - 5, -6) = (5, -6)\n5. **F is",
+      "extracted_answer": null,
+      "correct_answer": "c",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q066",
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q067",
+      "raw_output": "To find the remainder when the sum $9^3 + 9^4 + 9^5 + 9^6 + \\dots + 9^{100}$ is divided by 6, we can look at the remainder of each individual term when divided by 6.\n\nFirst, let's find the remainder of 9 when divided by 6:\n$9 \\equiv 3 \\pmod 6$\n\nNow, let's look at the powers of 9 modulo 6. Since $9 \\equiv 3 \\pmod 6$, we can evaluate the powers of 3 modulo 6:\n$9^1 \\equiv 3^1 \\equiv 3 \\pmod 6$\n$9^2 \\equiv 3^2 = 9 \\equiv 3 \\pmod 6$\n$9^3 \\equiv 3^3 = 27 \\equiv 3 \\pmod 6$\n\nAs we can see, any positive integer power of 9 will always leave a remainder of 3 when divided by 6. This is because $3^k = 3 \\times 3^{k-1}$, and since $3^{k-1}$ is always an odd number, multiplying it by 3 will result in an odd multiple of 3, which always leaves a remainder of 3 when divided by 6.\n\nSo, every term in the given series leaves a remainder of 3:\n$9^3 \\equiv 3 \\pmod 6$\n$9^4 \\equiv 3 \\pmod 6$\n...\n$9^{100} \\equiv 3 \\pmod 6$\n\nNext, we need to find the total number of terms in the sequence from $9^3$ to $9^{100}$. \nThe number of terms is: $100 - 3 + 1 = 98$ terms.\n\nNow, we add the remainders of all 98 terms:\nSum of remainders = $98 \\times 3 = 294$\n\nFinally, we divide this sum of remainders by 6 to find the final remainder:\n$294 \\div 6 = 49$ with a remainder of 0. \n\nSince 294 is perfectly divisible by 6, the entire sum will leave a remainder of 0.\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q068",
+      "raw_output": "To determine the correct option, let's analyze the question and the given statements.\n\n**Analysis of the Question:**\nThe question asks: *\"What is the smallest 1-digit number having exactly 4 distinct factors?\"*\n\nLet's find the number of distinct positive factors for all 1-digit natural numbers (1 through 9):\n- 1: 1 (1 factor)\n- 2: 1, 2 (2 factors)\n- 3: 1, 3 (2 factors)\n- 4: 1, 2, 4 (3 factors)\n- 5: 1, 5 (2 factors)\n- **6: 1, 2, 3, 6 (4 factors)**\n- 7: 1, 7 (2 factors)\n- **8: 1, 2, 4, 8 (4 factors)**\n- 9: 1, 3, 9 (3 factors)\n\nThe 1-digit numbers that have exactly 4 distinct factors are 6 and 8. \nThe question specifically asks for the **smallest** 1-digit number having exactly 4 distinct factors. Comparing 6 and 8, the smallest is clearly 6. \n\nSince we can find the exact answer (which is 6) using only the information provided in the question itself, we do not need any additional information from Statement I or Statement II. \n\n**Conclusion:**\nThe question can be answered independently without needing to use either of the provided statements.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q069",
+      "raw_output": "To determine the correct option, let's analyze the given equation and the constraints provided in the question.\n\n**1. Understand the Equation:**\nThe given equation is: \nPP \u00d7 PQ = RRSS\n\nHere, PP and PQ are two-digit numbers, and RRSS is a four-digit number. \nWe can express these numbers in terms of their digits:\n- PP = 10P + P = 11P\n- PQ = 10P + Q\n- RRSS = 1000R + 100R + 10S + S = 1100R + 11S = 11(100R + S)\n\nSubstitute these into the equation:\n11P \u00d7 (10P + Q) = 11(100R + S)\n\nDivide both sides by 11:\nP \u00d7 (10P + Q) = 100R + S\n\n**2. Apply the Constraints:**\n- P, Q, R, and S are **distinct non-zero digits** (i.e., they can be 1, 2, ",
+      "extracted_answer": null,
+      "correct_answer": "d",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q070",
+      "raw_output": "To determine how Q is related to P, we need to find a specific relationship between them. Let's analyze the given statements:\n\n**Statement I:** P has two sisters, R and S.\nThis statement only gives information about P, R, and S. It does not mention Q at all. Therefore, Statement I alone is not sufficient.\n\n**Statement II:** R's father is the brother of Q.\nThis statement gives a relationship between R and Q, but it does not mention P. Therefore, Statement II alone is not sufficient.\n\n**Combining Statement I and Statement II:**\nFrom Statement I, we know that R is the sister of P. This means that R and P share the same father. \nFrom Statement II, we know that R's father is the brother of Q. \nSince R's father is also P's father, it means that P's father is the brother of Q. \n\nThis establishes that Q is the sibling of P's father. However, the statements do not provide any information about the gender of Q. \n- If Q is male, Q is P's paternal uncle.\n- If Q is female, Q is P's paternal aunt.\n\nBecause the exact gender of Q is unknown, we cannot definitively answer how Q is related to P (uncle or aunt). Furthermore, the gender of P is also unknown, making it impossible to establish the exact relationship from either side. \n\nThus, the question cannot be answered even by using both statements together.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q071",
+      "raw_output": "Based on the options provided and the typical structure of UPSC CSAT reading comprehension passages, the correct answer is **(B)**. \n\n**Reasoning:**\n- **Option (A)** is an extreme and irrational statement. No economic metric is perfect, and doing away with the Consumer Price Index (CPI) entirely is illogical since it is the primary metric used to gauge the cost of living for everyday",
+      "extracted_answer": "a",
+      "correct_answer": "b",
+      "result": "wrong"
+    },
+    {
+      "question_id": "csat_2025_q072",
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q073",
+      "raw_output": "To determine if team P wins the match, we need to find out if P's final score is strictly greater than Q's final score. \n\nLet the scores of team P and team Q with 10 minutes remaining be $P_{80}$ and $Q_{80}$ respectively. \nAccording to the question, team P was behind by 3 goals at this",
+      "extracted_answer": null,
+      "correct_answer": "d",
+      "result": "unanswered"
+    },
+    {
+      "question_id": "csat_2025_q074",
+      "raw_output": "To determine if the expression $(p + q)^2 - 4pq$ is positive, let's first simplify it:\n$(p + q)^2 - 4pq = p^2 + 2pq + q^2 - 4pq$\n$= p^2 - 2pq + q^2$\n$= (p - q)^2$\n\nThe question is asking whether $(p - q)^2 > 0$. \nSince the square of any real number is always non-negative (i.e., $\\ge 0$), $(p - q)^2$ will be strictly positive as long as $p \\neq q$. If $p = q$, then $(p - q)^2 = 0$, which is not positive. Therefore, we just need to know whether $p$ and $q$ are unequal.\n\nLet's evaluate the given statements:\n- **Statement I:** $p < q$. This implies that $p \\neq q$. Therefore, $(p - q)^2 > 0$. The expression is positive. Statement I alone is sufficient to answer the question with a \"Yes\".\n- **Statement II:** $p > q$. This also implies that $p \\neq q$. Therefore, $(p - q)^2 > 0$. The expression is positive. Statement II alone is also sufficient to answer the question with a \"Yes\".\n\nSince the question can be definitively answered using either Statement I alone or Statement II alone, the correct choice is (B).\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q075",
+      "raw_output": "To find the relationship between the runs scored by players X, Y, and Z, we can set up equations based on the given information.\n\nLet the runs scored by X, Y, and Z be $X$, $Y$, and $Z$ respectively.\nWe are given two conditions:\n1. The total runs scored by the three players is 37: \n   $X + Y + Z = 37$\n2. The ratio of runs scored by X to Y is equal to the ratio of runs scored by Y to Z:\n   $\\frac{X}{Y} = \\frac{Y}{Z} \\implies Y^2 = XZ$\n\nSince $Y^2 = XZ$, the runs scored by the three players form a Geometric Progression (GP). Let the common ratio be $\\frac{p}{q}$ (where $p$ and $q$ are coprime positive integers). \nWe can express the runs as:\n$X = k \\cdot q^2$\n$Y = k \\cdot pq$\n$Z = k \\cdot p^2$\n\nSubstitute these into the sum equation:\n$k \\cdot q^2 + k \\cdot pq + k \\cdot p^2 = 37$\n$k(q^2 + pq + p^2) = 37$\n\nSince $X$, $Y$, and $Z$ must be non-negative integers (as they represent runs scored in a cricket match) and 37 is a prime number, $k$ must be exactly 1. \nThis leaves us with:\n$q^2 + pq + p^2 = 37$\n\nBy testing small integer values for $p$ and $q$:\nIf we try $p = 3$ and $q = 4$:\n$(4)^2 + (3)(4) + (3)^2 = 16 + 12 + 9 = 37$ (This works perfectly)\n\nThis gives us two possible scenarios depending on which ratio direction we assume:\n**Scenario 1 (p = 3, q = 4):**\n$X = 16$, $Y = 12$, $Z = 9$\nHere, $X > Y > Z$ (Value-I > Value-II > Value-III)\n\n**Scenario 2 (p = 4, q = 3):**\n$X = 9$, $Y = 12$, $Z = 16$\nHere, $X < Y < Z$ (Value-I < Value-II < Value-III)\n\nBecause both scenarios are mathematically valid and satisfy all the conditions given in the problem, we cannot uniquely determine whether X scored more than Z or vice versa. \n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q076",
+      "raw_output": "To find the correct option, let's evaluate Value-I and Value-II step by step based on the given equation: \n**p + q = 10** (where p and q are integers).\n\n**Step 1: Find Value-I**\nValue-I is the maximum value of p \u00d7 q when p and q are positive integers.\nSince p + q = 10, we can list the possible pairs of positive integers for (p, q) and their products:\n* 1 + 9 = 10  \u2192 1 \u00d7 9 = 9\n* 2 + 8 = 10  \u2192 2 \u00d7 8 = 16\n* 3 + 7 = 10  \u2192 3 \u00d7 7 = 21\n* 4 + 6 = 10  \u2192 4 \u00d7 6 = 24\n* 5 + 5 = 10  \u2192 5 \u00d7 5 = 25\n\nThe maximum product here is 25. \nTherefore, **Value-I = 25**.\n\n**Step 2: Find Value-II**\nValue-II is the maximum value of p \u00d7 q given the constraints p \u2265 -6 and q \u2265 -4.\nWe can express the product in terms of a single variable. Since q = 10 - p, the product is:\np \u00d7 q = p(10 - p) = 10p - p\u00b2\n\nThis forms a downward-opening parabola, which reaches its absolute maximum at its vertex. The vertex of the parabola occurs at p = -b / 2a = -10 / (2 \u00d7 -1) = 5.\nLet's check if p = 5 satisfies the given constraints:\nIf p = 5, then q = 10 - 5 = 5.\n* Is p \u2265 -6? Yes (5 \u2265 -6).\n* Is q \u2265 -4? Yes (5 \u2265 -4).\n\nSince p = 5 and q = 5 fall perfectly within the allowed range, the maximum product under these constraints is also 5 \u00d7 5 = 25. \n*(Note: Testing the boundary extremes like p = 14, q = -4 gives -56, and p = -6, q = 16 gives -96, which are much smaller).*\nTherefore, **Value-II = 25**.\n\n**Conclusion:**\nBoth Value-I and Value-II are exactly 25. \n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q077",
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q078",
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q079",
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct"
+    },
+    {
+      "question_id": "csat_2025_q080",
+      "raw_output": "To determine how many natural numbers divisible by 5 lie between two natural numbers whose difference is 10, let's test a few cases. \n\nLet the two natural numbers be $a$ and $b$, where $b - a = 10$. The phrase \"lie between\" means we are looking for numbers strictly greater than $a$ and strictly less than $b$.\n\n**Case 1:** Let the numbers be 1 and 11 (Difference = 10).\nThe natural numbers between 1 and 11 are: 2, 3, 4, **5**, 6, 7, 8, 9, **10**.\nHere, there are **two** numbers divisible by 5 (which are 5 and 10).\n\n**Case 2:** Let the numbers be 2 and 12 (Difference = 10).\nThe natural numbers between 2 and 12 are: 3, 4, **5**, 6, 7, 8, 9, **10**, 11.\nHere, there are also **two** numbers divisible by 5 (which are 5 and 10).\n\n**Case 3:** Let the numbers be 5 and 15 (Difference = 10).\nThe natural numbers between 5 and 15 are: 6, 7, 8, 9, **10**, 11, 12, 13, 14.\nHere, there is only **one** number divisible by 5 (which is 10).\n\nAs we can see from the cases above, depending on the starting number, there can be either exactly one or exactly two numbers divisible by 5 between them. \n\nEvaluating the given options:\n(A) \"There is only one such number\" is incorrect because there can be two.\n(B) \"There are only two such numbers\" is incorrect because there can be just one.\n(C) \"There can be more than one such number\" is correct because, as shown in Cases 1 and 2, it is entirely possible to have two such numbers.\n(D) \"No such number exists\" is incorrect because there is always at least one.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct"
     }
   ]
 }

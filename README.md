@@ -14,10 +14,11 @@ What makes it hard: Prelims has negative marking (-0.66 per wrong answer), CSAT 
 
 | Model | GS1 Marks | Status |
 |-------|-----------|--------|
-| Gemini 3 Flash | 146.80 | Pass |
-| Claude Opus 4.6 | 155.44 | Pass |
+| Claude Opus 4.6 | 157.44 | Pass |
 | Gemini 3.1 Pro | 151.44 | Pass |
 | GPT-5.2 | 149.46 | Pass |
+| Gemini 3 Flash | 146.80 | Pass |
+| GPT-5.4 | 144.14 | Pass |
 | Gemini 2.5 Flash | 140.14 | Pass |
 
 **Mains (2025)** — Cutoff: 571/1250
@@ -31,15 +32,16 @@ What makes it hard: Prelims has negative marking (-0.66 per wrong answer), CSAT 
 | Gemini 2.5 Flash | 735.80 | 58.9% | Pass |
 | *Shakti Dubey (AIR 1, 2024)* | *602.14* | *48.2%* | *Pass* |
 
-All five AI models pass both stages. On Mains, all models outscore the estimated human reference (CSE 2024 AIR 1, proportionally scaled to 1250 marks).
+All six AI models pass both stages. On Mains, all models outscore the estimated human reference (CSE 2024 AIR 1, proportionally scaled to 1250 marks).
 
 ## Models Evaluated
 
 | Model | Provider | Prelims GS1 (2025) | Mains Total (2025) |
 |-------|----------|-------------------|-------------------|
 | GPT-5.2 | OpenAI | 149.46/200 | 897.25/1250 |
+| GPT-5.4 | OpenAI | 144.14/200 | 942.70/1250 |
 | Gemini 3 Flash | Google | 146.80/200 | 780.90/1250 |
-| Claude Opus 4.6 | Anthropic | 155.44/200 | 828.44/1250 |
+| Claude Opus 4.6 | Anthropic | 157.44/200 | 828.44/1250 |
 | Gemini 3.1 Pro | Google | 151.44/200 | 865.12/1250 |
 | Gemini 2.5 Flash | Google | 140.14/200 | 735.80/1250 |
 

@@ -20,6 +20,15 @@ export const MODEL_DISPLAY_NAMES: Record<string, string> = {
   "openrouter/google/gemini-2.5-flash": "Gemini 2.5 Flash",
   "openrouter/google/gemini-3-flash-preview": "Gemini 3 Flash",
   "human/shakti_dubey_2024": "Shakti Dubey",
+  "human/harshita_goyal_2024": "Harshita Goyal",
+  "human/dongre_archit_parag_2024": "Dongre Archit Parag",
+  "human/shah_margi_chirag_2024": "Shah Margi Chirag",
+  "human/aakash_garg_2024": "Aakash Garg",
+  "human/komal_punia_2024": "Komal Punia",
+  "human/aayushi_bansal_2024": "Aayushi Bansal",
+  "human/raj_krishna_jha_2024": "Raj Krishna Jha",
+  "human/aditya_vikram_agarwal_2024": "Aditya V. Agarwal",
+  "human/mayank_tripathi_2024": "Mayank Tripathi",
 };
 
 export const MODEL_COLORS: Record<string, string> = {
@@ -31,6 +40,15 @@ export const MODEL_COLORS: Record<string, string> = {
   "openrouter/google/gemini-2.5-flash": "#60A5FA",
   "openrouter/google/gemini-3-flash-preview": "#34D399",
   "human/shakti_dubey_2024": "#8B5CF6",
+  "human/harshita_goyal_2024": "#8B5CF6",
+  "human/dongre_archit_parag_2024": "#8B5CF6",
+  "human/shah_margi_chirag_2024": "#8B5CF6",
+  "human/aakash_garg_2024": "#8B5CF6",
+  "human/komal_punia_2024": "#8B5CF6",
+  "human/aayushi_bansal_2024": "#8B5CF6",
+  "human/raj_krishna_jha_2024": "#8B5CF6",
+  "human/aditya_vikram_agarwal_2024": "#8B5CF6",
+  "human/mayank_tripathi_2024": "#8B5CF6",
 };
 
 export const PAPER_LABELS: Record<string, string> = {

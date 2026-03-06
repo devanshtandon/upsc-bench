@@ -69,6 +69,8 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 
 ## Git History
 ```
+344de91 feat: add GPT-5.4 to benchmark (Prelims rank #3, Mains rank #1)
+efae48a Update CLAUDE.md: checkpoint after judge calibration and deployment
 87ad72d docs: add judge validation findings to methodology page
 a350912 feat: add judge calibration pipeline and validation results
 98302c5 Use upsc-bench.com as live link in README
@@ -276,6 +278,8 @@ upsc-bench/
 - Created config files: `config/gpt5_4.yaml`, `config/mains_gpt5_4.yaml`
 - Updated `web/src/lib/constants.ts` with GPT-5.4 display name and emerald color (#059669)
 - Regenerated leaderboard, `npm run build` passes
+- Selectively staged GPT-5.4 changes only (isolated from concurrent arena/human-reference sessions)
+- Pushed to GitHub, deployed to Vercel (upsc-bench.com)
 
 ### Session 10 (2026-03-03) — Judge calibration & deployment
 - Built judge calibration pipeline: scraped 78 model answers from InsightsIAS (GS1-4) using 4 parallel subagents

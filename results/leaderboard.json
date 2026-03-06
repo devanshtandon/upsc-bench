@@ -297,154 +297,6 @@
       }
     },
     {
-      "model": "openrouter/openai/gpt-5.4",
-      "overall": {
-        "total_questions": 357,
-        "correct": 263,
-        "wrong": 94,
-        "unanswered": 0,
-        "accuracy": 73.67,
-        "gs1_avg_marks": 155.77,
-        "gs1_all_years_pass": true,
-        "csat_all_years_pass": true
-      },
-      "paper_totals": {
-        "csat": {
-          "total_marks": 190.20999999999998,
-          "max_marks": 400,
-          "correct": 97,
-          "wrong": 63,
-          "unanswered": 0,
-          "years_passed": 2,
-          "years_total": 2
-        },
-        "gs1": {
-          "total_marks": 311.53999999999996,
-          "max_marks": 400,
-          "correct": 166,
-          "wrong": 31,
-          "unanswered": 0,
-          "years_passed": 2,
-          "years_total": 2
-        }
-      },
-      "yearly": {
-        "2024": {
-          "csat": {
-            "marks": 93.44,
-            "max_marks": 200,
-            "correct": 48,
-            "wrong": 32,
-            "unanswered": 0,
-            "accuracy": 60.0,
-            "passed": true,
-            "cutoff": 66,
-            "margin": 27.44
-          },
-          "gs1": {
-            "marks": 167.4,
-            "max_marks": 200,
-            "correct": 87,
-            "wrong": 10,
-            "unanswered": 0,
-            "accuracy": 89.69,
-            "passed": true,
-            "cutoff": 87.98,
-            "margin": 79.42,
-            "estimated_rank": {
-              "rank": 1,
-              "percentile": 99.9998,
-              "label": "Exceeds estimated topper",
-              "total_appeared": 600000
-            }
-          }
-        },
-        "2025": {
-          "csat": {
-            "marks": 96.77,
-            "max_marks": 200,
-            "correct": 49,
-            "wrong": 31,
-            "unanswered": 0,
-            "accuracy": 61.25,
-            "passed": true,
-            "cutoff": 66,
-            "margin": 30.77
-          },
-          "gs1": {
-            "marks": 144.14,
-            "max_marks": 200,
-            "correct": 79,
-            "wrong": 21,
-            "unanswered": 0,
-            "accuracy": 79.0,
-            "passed": true,
-            "cutoff": 90.0,
-            "margin": 54.14,
-            "estimated_rank": {
-              "rank": 419,
-              "percentile": 99.94,
-              "label": "Top 500",
-              "total_appeared": 650000
-            }
-          }
-        }
-      },
-      "rank": 3,
-      "mains": {
-        "2025": {
-          "total_score": 942.7,
-          "max_marks": 1250,
-          "score_pct": 75.42,
-          "passed": true,
-          "cutoff": 571.43,
-          "margin": 371.27,
-          "estimated_rank": {
-            "rank": 1,
-            "percentile": 99.99,
-            "label": "Exceeds estimated topper",
-            "total_candidates": 14500
-          },
-          "papers": {
-            "essay": {
-              "score": 178.0,
-              "max_marks": 250,
-              "score_pct": 71.2,
-              "questions_evaluated": 2,
-              "selected_essays": [
-                "mains_essay_2025_q2",
-                "mains_essay_2025_q5"
-              ]
-            },
-            "gs1": {
-              "score": 196.2,
-              "max_marks": 250,
-              "score_pct": 78.48,
-              "questions_evaluated": 20
-            },
-            "gs2": {
-              "score": 184.1,
-              "max_marks": 250,
-              "score_pct": 73.64,
-              "questions_evaluated": 20
-            },
-            "gs3": {
-              "score": 195.9,
-              "max_marks": 250,
-              "score_pct": 78.36,
-              "questions_evaluated": 20
-            },
-            "gs4": {
-              "score": 188.5,
-              "max_marks": 250,
-              "score_pct": 75.4,
-              "questions_evaluated": 19
-            }
-          }
-        }
-      }
-    },
-    {
       "model": "openrouter/google/gemini-3.1-pro-preview",
       "overall": {
         "total_questions": 100,
@@ -739,9 +591,166 @@
       }
     },
     {
+      "model": "openrouter/openai/gpt-5.4",
+      "overall": {
+        "total_questions": 357,
+        "correct": 263,
+        "wrong": 94,
+        "unanswered": 0,
+        "accuracy": 73.67,
+        "gs1_avg_marks": 155.77,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {
+        "csat": {
+          "total_marks": 190.20999999999998,
+          "max_marks": 400,
+          "correct": 97,
+          "wrong": 63,
+          "unanswered": 0,
+          "years_passed": 2,
+          "years_total": 2
+        },
+        "gs1": {
+          "total_marks": 311.53999999999996,
+          "max_marks": 400,
+          "correct": 166,
+          "wrong": 31,
+          "unanswered": 0,
+          "years_passed": 2,
+          "years_total": 2
+        }
+      },
+      "yearly": {
+        "2024": {
+          "csat": {
+            "marks": 93.44,
+            "max_marks": 200,
+            "correct": 48,
+            "wrong": 32,
+            "unanswered": 0,
+            "accuracy": 60.0,
+            "passed": true,
+            "cutoff": 66,
+            "margin": 27.44
+          },
+          "gs1": {
+            "marks": 167.4,
+            "max_marks": 200,
+            "correct": 87,
+            "wrong": 10,
+            "unanswered": 0,
+            "accuracy": 89.69,
+            "passed": true,
+            "cutoff": 87.98,
+            "margin": 79.42,
+            "estimated_rank": {
+              "rank": 1,
+              "percentile": 99.9998,
+              "label": "Exceeds estimated topper",
+              "total_appeared": 600000
+            }
+          }
+        },
+        "2025": {
+          "csat": {
+            "marks": 96.77,
+            "max_marks": 200,
+            "correct": 49,
+            "wrong": 31,
+            "unanswered": 0,
+            "accuracy": 61.25,
+            "passed": true,
+            "cutoff": 66,
+            "margin": 30.77
+          },
+          "gs1": {
+            "marks": 144.14,
+            "max_marks": 200,
+            "correct": 79,
+            "wrong": 21,
+            "unanswered": 0,
+            "accuracy": 79.0,
+            "passed": true,
+            "cutoff": 90.0,
+            "margin": 54.14,
+            "estimated_rank": {
+              "rank": 419,
+              "percentile": 99.94,
+              "label": "Top 500",
+              "total_appeared": 650000
+            }
+          }
+        }
+      },
+      "rank": 3,
+      "mains": {
+        "2025": {
+          "total_score": 942.7,
+          "max_marks": 1250,
+          "score_pct": 75.42,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 371.27,
+          "estimated_rank": {
+            "rank": 1,
+            "percentile": 99.99,
+            "label": "Exceeds estimated topper",
+            "total_candidates": 14500
+          },
+          "papers": {
+            "essay": {
+              "score": 178.0,
+              "max_marks": 250,
+              "score_pct": 71.2,
+              "questions_evaluated": 2,
+              "selected_essays": [
+                "mains_essay_2025_q2",
+                "mains_essay_2025_q5"
+              ]
+            },
+            "gs1": {
+              "score": 196.2,
+              "max_marks": 250,
+              "score_pct": 78.48,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 184.1,
+              "max_marks": 250,
+              "score_pct": 73.64,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 195.9,
+              "max_marks": 250,
+              "score_pct": 78.36,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 188.5,
+              "max_marks": 250,
+              "score_pct": 75.4,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
       "rank": 0,
       "model": "human/shakti_dubey_2024",
       "is_human": true,
+      "human_metadata": {
+        "air": 1,
+        "exam_year": "2024",
+        "written_marks": 843,
+        "written_max": 1750,
+        "interview_marks": 200,
+        "total_marks": 1043,
+        "total_max": 2025
+      },
       "overall": {
         "total_questions": 0,
         "correct": 0,
@@ -771,33 +780,708 @@
           },
           "papers": {
             "essay": {
-              "score": 120.4,
+              "score": 120.43,
               "max_marks": 250,
-              "score_pct": 48.2,
+              "score_pct": 48.17,
               "questions_evaluated": 2
             },
             "gs1": {
-              "score": 120.4,
+              "score": 120.43,
               "max_marks": 250,
-              "score_pct": 48.2,
+              "score_pct": 48.17,
               "questions_evaluated": 20
             },
             "gs2": {
-              "score": 120.4,
+              "score": 120.43,
               "max_marks": 250,
-              "score_pct": 48.2,
+              "score_pct": 48.17,
               "questions_evaluated": 20
             },
             "gs3": {
-              "score": 120.4,
+              "score": 120.43,
               "max_marks": 250,
-              "score_pct": 48.2,
+              "score_pct": 48.17,
               "questions_evaluated": 20
             },
             "gs4": {
-              "score": 120.4,
+              "score": 120.43,
               "max_marks": 250,
-              "score_pct": 48.2,
+              "score_pct": 48.17,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/harshita_goyal_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 2,
+        "exam_year": "2024",
+        "written_marks": 851,
+        "written_max": 1750,
+        "interview_marks": 187,
+        "total_marks": 1038,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 607.86,
+          "max_marks": 1250,
+          "score_pct": 48.63,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 36.43,
+          "estimated_rank": {
+            "rank": 2,
+            "percentile": 99.99,
+            "label": "AIR 2",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 121.57,
+              "max_marks": 250,
+              "score_pct": 48.63,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 121.57,
+              "max_marks": 250,
+              "score_pct": 48.63,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 121.57,
+              "max_marks": 250,
+              "score_pct": 48.63,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 121.57,
+              "max_marks": 250,
+              "score_pct": 48.63,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 121.57,
+              "max_marks": 250,
+              "score_pct": 48.63,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/dongre_archit_parag_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 3,
+        "exam_year": "2024",
+        "written_marks": 848,
+        "written_max": 1750,
+        "interview_marks": 190,
+        "total_marks": 1038,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 605.71,
+          "max_marks": 1250,
+          "score_pct": 48.46,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 34.28,
+          "estimated_rank": {
+            "rank": 3,
+            "percentile": 99.99,
+            "label": "AIR 3",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 121.14,
+              "max_marks": 250,
+              "score_pct": 48.46,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 121.14,
+              "max_marks": 250,
+              "score_pct": 48.46,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 121.14,
+              "max_marks": 250,
+              "score_pct": 48.46,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 121.14,
+              "max_marks": 250,
+              "score_pct": 48.46,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 121.14,
+              "max_marks": 250,
+              "score_pct": 48.46,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/shah_margi_chirag_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 4,
+        "exam_year": "2024",
+        "written_marks": 825,
+        "written_max": 1750,
+        "interview_marks": 210,
+        "total_marks": 1035,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 589.29,
+          "max_marks": 1250,
+          "score_pct": 47.14,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 17.86,
+          "estimated_rank": {
+            "rank": 4,
+            "percentile": 99.99,
+            "label": "AIR 4",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 117.86,
+              "max_marks": 250,
+              "score_pct": 47.14,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 117.86,
+              "max_marks": 250,
+              "score_pct": 47.14,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 117.86,
+              "max_marks": 250,
+              "score_pct": 47.14,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 117.86,
+              "max_marks": 250,
+              "score_pct": 47.14,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 117.86,
+              "max_marks": 250,
+              "score_pct": 47.14,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/aakash_garg_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 5,
+        "exam_year": "2024",
+        "written_marks": 831,
+        "written_max": 1750,
+        "interview_marks": 201,
+        "total_marks": 1032,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 593.57,
+          "max_marks": 1250,
+          "score_pct": 47.49,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 22.14,
+          "estimated_rank": {
+            "rank": 5,
+            "percentile": 99.99,
+            "label": "AIR 5",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/komal_punia_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 6,
+        "exam_year": "2024",
+        "written_marks": 856,
+        "written_max": 1750,
+        "interview_marks": 176,
+        "total_marks": 1032,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 611.43,
+          "max_marks": 1250,
+          "score_pct": 48.91,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 40.0,
+          "estimated_rank": {
+            "rank": 6,
+            "percentile": 99.99,
+            "label": "AIR 6",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 122.29,
+              "max_marks": 250,
+              "score_pct": 48.92,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 122.29,
+              "max_marks": 250,
+              "score_pct": 48.92,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 122.29,
+              "max_marks": 250,
+              "score_pct": 48.92,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 122.29,
+              "max_marks": 250,
+              "score_pct": 48.92,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 122.29,
+              "max_marks": 250,
+              "score_pct": 48.92,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/aayushi_bansal_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 7,
+        "exam_year": "2024",
+        "written_marks": 821,
+        "written_max": 1750,
+        "interview_marks": 210,
+        "total_marks": 1031,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 586.43,
+          "max_marks": 1250,
+          "score_pct": 46.91,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 15.0,
+          "estimated_rank": {
+            "rank": 7,
+            "percentile": 99.99,
+            "label": "AIR 7",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 117.29,
+              "max_marks": 250,
+              "score_pct": 46.92,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 117.29,
+              "max_marks": 250,
+              "score_pct": 46.92,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 117.29,
+              "max_marks": 250,
+              "score_pct": 46.92,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 117.29,
+              "max_marks": 250,
+              "score_pct": 46.92,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 117.29,
+              "max_marks": 250,
+              "score_pct": 46.92,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/raj_krishna_jha_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 8,
+        "exam_year": "2024",
+        "written_marks": 831,
+        "written_max": 1750,
+        "interview_marks": 200,
+        "total_marks": 1031,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 593.57,
+          "max_marks": 1250,
+          "score_pct": 47.49,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 22.14,
+          "estimated_rank": {
+            "rank": 8,
+            "percentile": 99.99,
+            "label": "AIR 8",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 118.71,
+              "max_marks": 250,
+              "score_pct": 47.48,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/aditya_vikram_agarwal_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 9,
+        "exam_year": "2024",
+        "written_marks": 854,
+        "written_max": 1750,
+        "interview_marks": 173,
+        "total_marks": 1027,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 610.0,
+          "max_marks": 1250,
+          "score_pct": 48.8,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 38.57,
+          "estimated_rank": {
+            "rank": 9,
+            "percentile": 99.99,
+            "label": "AIR 9",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 122.0,
+              "max_marks": 250,
+              "score_pct": 48.8,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 122.0,
+              "max_marks": 250,
+              "score_pct": 48.8,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 122.0,
+              "max_marks": 250,
+              "score_pct": 48.8,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 122.0,
+              "max_marks": 250,
+              "score_pct": 48.8,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 122.0,
+              "max_marks": 250,
+              "score_pct": 48.8,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "model": "human/mayank_tripathi_2024",
+      "is_human": true,
+      "human_metadata": {
+        "air": 10,
+        "exam_year": "2024",
+        "written_marks": 843,
+        "written_max": 1750,
+        "interview_marks": 184,
+        "total_marks": 1027,
+        "total_max": 2025
+      },
+      "overall": {
+        "total_questions": 0,
+        "correct": 0,
+        "wrong": 0,
+        "unanswered": 0,
+        "accuracy": 0,
+        "gs1_avg_marks": 0,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {},
+      "yearly": {},
+      "mains": {
+        "2025": {
+          "total_score": 602.14,
+          "max_marks": 1250,
+          "score_pct": 48.17,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 30.71,
+          "estimated_rank": {
+            "rank": 10,
+            "percentile": 99.99,
+            "label": "AIR 10",
+            "total_candidates": 14500,
+            "note": "Actual CSE 2024 result"
+          },
+          "papers": {
+            "essay": {
+              "score": 120.43,
+              "max_marks": 250,
+              "score_pct": 48.17,
+              "questions_evaluated": 2
+            },
+            "gs1": {
+              "score": 120.43,
+              "max_marks": 250,
+              "score_pct": 48.17,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 120.43,
+              "max_marks": 250,
+              "score_pct": 48.17,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 120.43,
+              "max_marks": 250,
+              "score_pct": 48.17,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 120.43,
+              "max_marks": 250,
+              "score_pct": 48.17,
               "questions_evaluated": 19
             }
           }

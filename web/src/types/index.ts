@@ -59,10 +59,21 @@ export interface MainsYearData {
   papers: Record<string, MainsPaperScore>;
 }
 
+export interface HumanMetadata {
+  air: number;
+  exam_year: string;
+  written_marks: number;
+  written_max: number;
+  interview_marks: number;
+  total_marks: number;
+  total_max: number;
+}
+
 export interface ModelEntry {
   rank: number;
   model: string;
   is_human?: boolean;
+  human_metadata?: HumanMetadata;
   overall: ModelOverall;
   paper_totals: Record<string, PaperTotals>;
   yearly: Record<number, Record<string, PaperScore>>;

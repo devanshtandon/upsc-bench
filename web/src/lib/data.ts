@@ -44,7 +44,8 @@ export function getMainsFilteredModels(
   year: number,
   paper: MainsPaper
 ): ModelEntry[] {
-  let models = data.models.filter((m) => m.mains?.[year]);
+  // Exclude humans from AI ranking — they're rendered separately
+  let models = data.models.filter((m) => m.mains?.[year] && !m.is_human);
 
   if (paper === "mains_total") {
     models = models
@@ -66,6 +67,19 @@ export function getMainsFilteredModels(
   }
 
   return models;
+}
+
+export function getMainsHumanModels(
+  data: LeaderboardData,
+  year: number
+): ModelEntry[] {
+  return data.models
+    .filter((m) => m.mains?.[year] && m.is_human)
+    .sort((a, b) => {
+      const aAir = a.human_metadata?.air ?? 999;
+      const bAir = b.human_metadata?.air ?? 999;
+      return aAir - bAir;
+    });
 }
 
 export function getModelScore(

@@ -6,14 +6,9 @@ CSAT Paper II: +2.5 correct, -0.83 wrong, 0 unanswered (80 Qs, max 200)
 """
 
 import json
-import yaml
 from pathlib import Path
 
-
-def load_cutoffs(cutoffs_path: str = "config/cutoffs.yaml") -> dict:
-    """Load historical UPSC cutoff marks and marking scheme."""
-    with open(cutoffs_path) as f:
-        return yaml.safe_load(f)
+from benchmark.common import load_cutoffs
 
 
 def load_rank_mapping(rank_path: str = "data/rank_mapping.json") -> dict:

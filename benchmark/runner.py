@@ -10,51 +10,33 @@ import json
 import uuid
 from pathlib import Path
 
-import yaml
 from dotenv import load_dotenv
 from tqdm import tqdm
 
 load_dotenv()
 
 from benchmark.grader import grade_response
-from benchmark.scorer import calculate_score, check_pass_fail, load_cutoffs
+from benchmark.scorer import calculate_score, check_pass_fail
+from benchmark.common import load_cutoffs, load_config, load_questions, resolve_model_config
 from benchmark.solver import solve_question
 from benchmark.db import BenchmarkDB
 
 
-def load_config(config_path: str) -> dict:
-    """Load YAML config for a benchmark run."""
-    with open(config_path) as f:
-        return yaml.safe_load(f)
-
-
-def load_questions(input_path: str, filter_years: list[int] | None = None,
-                   filter_papers: list[str] | None = None,
-                   max_questions: int | None = None) -> list[dict]:
-    """Load and filter questions from the dataset."""
-    with open(input_path) as f:
-        questions = json.load(f)
-
-    if filter_years:
-        questions = [q for q in questions if q["year"] in filter_years]
-    if filter_papers:
-        questions = [q for q in questions if q["paper"] in filter_papers]
-    if max_questions:
-        questions = questions[:max_questions]
-
-    return questions
-
-
-def run_benchmark(config_path: str) -> dict:
+def run_benchmark(config_or_path: str | dict) -> dict:
     """Run a full benchmark evaluation.
 
     Args:
-        config_path: Path to YAML config file.
+        config_or_path: Path to YAML config file, or a pre-built config dict.
 
     Returns:
         Dict with run summary including scores and pass/fail results.
     """
-    config = load_config(config_path)
+    if isinstance(config_or_path, dict):
+        config = config_or_path
+        config_source = "(models.yaml)"
+    else:
+        config = load_config(config_or_path)
+        config_source = config_or_path
     model_config = config["model"]
     model_name = model_config["name"]
 
@@ -74,7 +56,7 @@ def run_benchmark(config_path: str) -> dict:
     # Init DB
     db = BenchmarkDB(config["dbfilepath"])
     run_id = str(uuid.uuid4())[:8]
-    db.create_run(run_id, model_name, config_path)
+    db.create_run(run_id, model_name, config_source)
 
     # Run evaluation
     all_results = []
@@ -126,7 +108,8 @@ def run_benchmark(config_path: str) -> dict:
         all_results.append(result_entry)
 
         db.save_result(run_id, question, response["raw_output"],
-                       grading, marks, response.get("usage", {}))
+                       grading, marks, response.get("usage", {}),
+                       model=model_name)
 
     db.complete_run(run_id, len(questions))
 
@@ -195,7 +178,12 @@ def run_benchmark(config_path: str) -> dict:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run UPSC Bench evaluation")
-    parser.add_argument("--config", required=True, help="Path to model config YAML")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--config", help="Path to model config YAML (legacy)")
+    group.add_argument("--model", help="Model key from config/models.yaml (e.g., gpt5, claude_opus)")
     args = parser.parse_args()
 
-    run_benchmark(args.config)
+    if args.model:
+        run_benchmark(resolve_model_config(args.model, exam_type="prelims"))
+    else:
+        run_benchmark(args.config)

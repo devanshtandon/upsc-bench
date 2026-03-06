@@ -10,15 +10,8 @@ import os
 import shutil
 from pathlib import Path
 
-import yaml
-
+from benchmark.common import load_cutoffs
 from benchmark.scorer import estimate_rank, load_rank_mapping
-
-
-def load_cutoffs(cutoffs_path: str = "config/cutoffs.yaml") -> dict:
-    """Load UPSC cutoff marks and marking scheme."""
-    with open(cutoffs_path) as f:
-        return yaml.safe_load(f)
 
 
 def aggregate_model_results(results_path: str, cutoffs: dict, rank_data: dict | None = None) -> dict:

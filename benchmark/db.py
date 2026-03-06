@@ -110,7 +110,7 @@ class BenchmarkDB:
         self.conn.commit()
 
     def save_result(self, run_id: str, question: dict, raw_output: str,
-                    grading: dict, marks: float, usage: dict):
+                    grading: dict, marks: float, usage: dict, model: str = ""):
         """Save a single question result."""
         self.conn.execute(
             "INSERT OR REPLACE INTO results "
@@ -121,7 +121,7 @@ class BenchmarkDB:
             (
                 run_id,
                 question["id"],
-                "",  # model filled from run
+                model,
                 question["year"],
                 question["paper"],
                 question["question_number"],
@@ -164,7 +164,7 @@ class BenchmarkDB:
     # --- Mains methods ---
 
     def save_mains_result(self, run_id: str, question: dict, raw_output: str,
-                          word_count: int, usage: dict):
+                          word_count: int, usage: dict, model: str = ""):
         """Save a single Mains question answer (pre-grading)."""
         self.conn.execute(
             "INSERT OR REPLACE INTO mains_results "
@@ -175,7 +175,7 @@ class BenchmarkDB:
             (
                 run_id,
                 question["id"],
-                "",  # model filled from run
+                model,
                 question.get("year"),
                 question.get("paper"),
                 question.get("question_number"),

@@ -3,6 +3,7 @@
 import React from "react";
 import { MODEL_DISPLAY_NAMES, MODEL_COLORS } from "@/lib/constants";
 import { getModelScore } from "@/lib/data";
+import { getRankClass, HumanIcon } from "@/lib/utils";
 import type { ModelEntry, Paper } from "@/types";
 
 interface LeaderboardProps {
@@ -10,13 +11,6 @@ interface LeaderboardProps {
   year: number;
   paper: Paper;
   cutoffs?: Record<number, Record<string, number>>;
-}
-
-function getRankClass(rank: number): string {
-  if (rank === 1) return "gold";
-  if (rank === 2) return "silver";
-  if (rank === 3) return "bronze";
-  return "default";
 }
 
 function getModelMeta(model: ModelEntry, year: number, paper: Paper) {
@@ -109,10 +103,7 @@ export default function Leaderboard({ models, year, paper, cutoffs }: Leaderboar
                   <div className="flex items-center gap-3">
                     {isHuman ? (
                       <span className="inline-flex items-center justify-center w-7 h-7 rounded-full flex-shrink-0" style={{ backgroundColor: "rgba(139,92,246,0.1)", color: "#8B5CF6" }}>
-                        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                          <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
-                          <circle cx="12" cy="7" r="4" />
-                        </svg>
+                        <HumanIcon size={13} />
                       </span>
                     ) : (
                       <span className={`rank-badge flex-shrink-0 ${getRankClass(model.rank)}`}>
@@ -287,10 +278,7 @@ function DesktopTable({
                 <td className="px-3 py-2.5">
                   {isHuman ? (
                     <span className="inline-flex items-center justify-center w-7 h-7 rounded-full text-sm" style={{ backgroundColor: "rgba(139,92,246,0.1)", color: "#8B5CF6" }}>
-                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
-                        <circle cx="12" cy="7" r="4" />
-                      </svg>
+                      <HumanIcon size={14} />
                     </span>
                   ) : (
                     <span className={`rank-badge ${getRankClass(model.rank)}`}>

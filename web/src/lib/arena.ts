@@ -1,17 +1,9 @@
 // Arena logic: pairing generation, vote computation, summary aggregation
 
 import type { ArenaData, ArenaPairing, ArenaRoundResult, VoteChoice } from "@/types/arena";
+import { shuffle } from "./utils";
 
 export const ROUNDS_PER_SESSION = 5;
-
-/** Fisher-Yates shuffle (in-place). */
-function shuffle<T>(arr: T[]): T[] {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
 
 /**
  * Generate randomized pairings for an arena session.
@@ -22,7 +14,7 @@ export function buildPairings(
   data: ArenaData,
   count: number = ROUNDS_PER_SESSION
 ): ArenaPairing[] {
-  const questions = shuffle([...data.questions]);
+  const questions = shuffle(data.questions);
   const pairings: ArenaPairing[] = [];
 
   for (let attempt = 0; pairings.length < count && attempt < count * 3; attempt++) {
@@ -35,7 +27,7 @@ export function buildPairings(
     if (models.length < 2) continue;
 
     // Fisher-Yates pick 2 distinct models
-    const shuffled = shuffle([...models]);
+    const shuffled = shuffle(models);
     pairings.push({
       questionId: question.id,
       modelA: shuffled[0],

@@ -11,34 +11,14 @@ import json
 import uuid
 from pathlib import Path
 
-import yaml
 from dotenv import load_dotenv
 from tqdm import tqdm
 
 load_dotenv()
 
 from benchmark.mains_solver import solve_mains_question
+from benchmark.common import load_config, load_questions, resolve_model_config
 from benchmark.db import BenchmarkDB
-
-
-def load_config(config_path: str) -> dict:
-    """Load YAML config for a Mains benchmark run."""
-    with open(config_path) as f:
-        return yaml.safe_load(f)
-
-
-def load_questions(input_path: str, filter_years: list[int] | None = None,
-                   filter_papers: list[str] | None = None) -> list[dict]:
-    """Load and filter Mains questions from the dataset."""
-    with open(input_path) as f:
-        questions = json.load(f)
-
-    if filter_years:
-        questions = [q for q in questions if q["year"] in filter_years]
-    if filter_papers:
-        questions = [q for q in questions if q["paper"] in filter_papers]
-
-    return questions
 
 
 def load_existing_answers(output_path: str) -> set[str]:
@@ -53,18 +33,23 @@ def load_existing_answers(output_path: str) -> set[str]:
     return {r["question_id"] for r in data.get("results", [])}
 
 
-def run_mains_benchmark(config_path: str) -> dict:
+def run_mains_benchmark(config_or_path: str | dict) -> dict:
     """Run a Mains benchmark — collect model answers only.
 
     Judging/grading happens separately via in-session subagents.
 
     Args:
-        config_path: Path to YAML config file.
+        config_or_path: Path to YAML config file, or a pre-built config dict.
 
     Returns:
         Dict with model answers and metadata.
     """
-    config = load_config(config_path)
+    if isinstance(config_or_path, dict):
+        config = config_or_path
+        config_source = "(models.yaml)"
+    else:
+        config = load_config(config_or_path)
+        config_source = config_or_path
     model_config = config["model"]
     model_name = model_config["name"]
     output_path = config["output_filepath"]
@@ -89,7 +74,7 @@ def run_mains_benchmark(config_path: str) -> dict:
     # Init DB
     db = BenchmarkDB(config["dbfilepath"])
     run_id = str(uuid.uuid4())[:8]
-    db.create_run(run_id, model_name, config_path,
+    db.create_run(run_id, model_name, config_source,
                   metadata={"exam_type": "mains"})
 
     # Load existing results to append to
@@ -150,12 +135,13 @@ def run_mains_benchmark(config_path: str) -> dict:
             raw_output=response["raw_output"],
             word_count=response["word_count"],
             usage=response.get("usage", {}),
+            model=model_name,
         )
 
         # Incremental save after each question
         output_data = {
             "model": model_name,
-            "config": config_path,
+            "config": config_source,
             "total_questions": len(questions),
             "answered": len(all_results),
             "results": all_results,
@@ -191,7 +177,12 @@ def run_mains_benchmark(config_path: str) -> dict:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run UPSC Mains evaluation")
-    parser.add_argument("--config", required=True, help="Path to Mains model config YAML")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--config", help="Path to Mains model config YAML (legacy)")
+    group.add_argument("--model", help="Model key from config/models.yaml (e.g., gpt5, claude_opus)")
     args = parser.parse_args()
 
-    run_mains_benchmark(args.config)
+    if args.model:
+        run_mains_benchmark(resolve_model_config(args.model, exam_type="mains"))
+    else:
+        run_mains_benchmark(args.config)

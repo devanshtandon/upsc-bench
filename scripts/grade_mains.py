@@ -17,13 +17,7 @@ import glob
 import json
 from pathlib import Path
 
-import yaml
-
-
-def load_rubric(judge_path: str = "config/judge.yaml") -> dict:
-    """Load the grading rubric."""
-    with open(judge_path) as f:
-        return yaml.safe_load(f)
+from benchmark.common import load_rubric
 
 
 def prepare_grading_input(answer_files: list[str], output_path: str,

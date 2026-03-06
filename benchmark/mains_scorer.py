@@ -7,20 +7,7 @@ GS1-4: ~20 questions each x 10-15 marks = 250 marks per paper
 Total: 1250 marks (excluding Optional paper)
 """
 
-import yaml
-from pathlib import Path
-
-
-def load_cutoffs(cutoffs_path: str = "config/cutoffs.yaml") -> dict:
-    """Load historical UPSC cutoff marks."""
-    with open(cutoffs_path) as f:
-        return yaml.safe_load(f)
-
-
-def load_rubric(judge_path: str = "config/judge.yaml") -> dict:
-    """Load grading rubric configuration."""
-    with open(judge_path) as f:
-        return yaml.safe_load(f)
+from benchmark.common import load_cutoffs
 
 
 def calculate_mains_score(results: list[dict], paper: str) -> dict:

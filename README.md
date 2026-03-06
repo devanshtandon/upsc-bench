@@ -105,10 +105,10 @@ pip install -e .
 cp .env.example .env
 
 # Run the Prelims benchmark
-python benchmark/runner.py --config config/claude_opus.yaml
+python benchmark/runner.py --model claude_opus
 
 # Run the Mains benchmark
-python -m benchmark.mains_runner --config config/mains_claude_opus.yaml
+python -m benchmark.mains_runner --model claude_opus
 
 # Generate leaderboard
 python scripts/generate_leaderboard.py

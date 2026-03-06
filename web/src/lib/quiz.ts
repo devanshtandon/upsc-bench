@@ -1,4 +1,5 @@
 import type { RawQuestion } from "../types";
+import { shuffle } from "./utils";
 
 // ── Types ──────────────────────────────────────────────
 
@@ -50,12 +51,7 @@ export function pickQuizQuestions(allQuestions: RawQuestion[]): QuizQuestion[] {
     (q) => q.year === QUIZ_YEAR && q.paper === QUIZ_PAPER
   );
 
-  // Fisher-Yates shuffle
-  const shuffled = [...pool];
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  }
+  const shuffled = shuffle(pool);
 
   return shuffled.slice(0, QUIZ_SIZE).map((q) => ({
     id: q.id,

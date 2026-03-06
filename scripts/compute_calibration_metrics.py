@@ -13,6 +13,7 @@ Usage:
 """
 import json
 import statistics
+import sys
 from pathlib import Path
 
 RESULTS_FILE = Path("data/calibration/grading_results.json")

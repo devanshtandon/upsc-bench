@@ -55,6 +55,7 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 21. **Judge calibration** — 78 coaching institute model answers (InsightsIAS) graded by same Opus judge; validated -8.8% conservative bias, 9.8% MAE; methodology page updated with validation results
 22. **Deployed** — Live on Vercel at upsc-bench.com
 23. **Arena feature** — Blind side-by-side essay comparison at /arena; 8 essay topics × 5 models; LMSys Arena-style voting with reveal; mobile-responsive with tab layout; Python build script + static JSON data pipeline
+24. **Codebase simplification** — Deleted 12 obsolete scripts (~2,300 lines), untracked 142 intermediate files, consolidated 12 model configs into single registry, extracted shared utilities (Python `common.py` + TS `utils.ts`), fixed 3 bugs, removed dead frontend code
 
 ### What's NOT DONE:
 1. ~~Add GitHub remote and push~~ (done)
@@ -182,16 +183,7 @@ upsc-bench/
 ├── config/
 │   ├── cutoffs.yaml                   <- Historical UPSC cutoffs 2020-2025 (Prelims + Mains)
 │   ├── judge.yaml                     <- Mains grading rubric weights
-│   ├── claude_opus.yaml
-│   ├── gpt5.yaml
-│   ├── gemini_3_pro.yaml
-│   ├── gemini_flash.yaml
-│   ├── mains_claude_opus.yaml         <- Mains model configs
-│   ├── mains_gpt5.yaml
-│   ├── mains_gemini_3_pro.yaml
-│   ├── mains_gemini_flash.yaml
-│   ├── gpt5_4.yaml                   <- GPT-5.4 Prelims config
-│   └── mains_gpt5_4.yaml             <- GPT-5.4 Mains config
+│   └── models.yaml                    <- Model registry (6 models, Prelims+Mains defaults)
 ├── data/
 │   ├── pdfs/                          <- Question paper PDFs (gitignored)
 │   ├── answer_keys/
@@ -201,12 +193,7 @@ upsc-bench/
 │   │   ├── csat_2025.json             <- Structured answer key
 │   │   └── pdfs/                      <- Raw answer key PDFs (gitignored)
 │   ├── processed/
-│   │   ├── upsc_bench.json            <- 357 merged questions (main dataset)
-│   │   ├── gs1_2024_batch[1-4].json   <- Intermediate parsing outputs
-│   │   ├── csat_2024_batch[1-4].json  <- Intermediate parsing outputs
-│   │   ├── answers_gs1_part[1-2].json <- Model answer batches
-│   │   ├── answers_csat_part[1-2].json
-│   │   └── my_answers.json            <- Self-eval answers
+│   │   └── upsc_bench.json            <- 357 merged questions (main dataset)
 │   ├── images/                        <- Extracted question images
 │   ├── mains_questions/
 │   │   └── mains_2025.json            <- Structured Mains questions (Essay + GS1-4)
@@ -218,28 +205,23 @@ upsc-bench/
 │   ├── validate_dataset.py            <- Dataset validation
 │   └── build_dataset.py               <- Pipeline orchestrator
 ├── benchmark/
+│   ├── common.py                      <- Shared utilities (load_cutoffs, load_config, resolve_model_config, etc.)
 │   ├── grader.py                      <- Regex answer extraction + grading
 │   ├── scorer.py                      <- UPSC Prelims marks calculation
 │   ├── solver.py                      <- LiteLLM prompt construction (MCQ)
 │   ├── db.py                          <- SQLite operations (Prelims + Mains tables)
-│   ├── runner.py                      <- Main Prelims eval loop
+│   ├── runner.py                      <- Main Prelims eval loop (--model KEY or --config FILE)
 │   ├── mains_solver.py                <- Mains long-form answer prompt construction
 │   ├── mains_scorer.py                <- Mains marks aggregation
-│   └── mains_runner.py                <- Mains answer collection pipeline
+│   └── mains_runner.py                <- Mains answer collection pipeline (--model KEY or --config FILE)
 ├── scripts/
 │   ├── generate_leaderboard.py        <- Aggregate results -> leaderboard.json
-│   ├── clean_gs1_2025.py              <- GS1 2025 data quality cleanup script
 │   ├── grade_mains.py                 <- Prepare grading input + merge grading output
+│   ├── merge_all_mains.py             <- Merge Mains grading batches into per-model results
 │   ├── scrape_coaching_answers.py     <- Structure raw InsightsIAS data into calibration format
 │   ├── grade_calibration.py           <- Prepare/merge calibration grading batches
 │   ├── compute_calibration_metrics.py <- Compute MAE, bias, per-paper breakdown
-│   ├── build_arena_data.py           <- Extract essay answers -> web/data/arena_data.json
-│   ├── self_eval.py                   <- Self-evaluation script
-│   ├── merge_and_build.py             <- Merge + build pipeline
-│   ├── merge_answers.py               <- Answer merging utility
-│   ├── combine_results.py             <- Results combiner
-│   ├── add_2025_questions.py          <- 2025 question adder
-│   └── run_2025.sh                    <- 2025 benchmark runner
+│   └── build_arena_data.py            <- Extract essay answers -> web/data/arena_data.json
 ├── results/
 │   └── leaderboard.json               <- Real benchmark results (4 models x 2 years)
 ├── db/                                <- For SQLite (empty)
@@ -262,14 +244,14 @@ upsc-bench/
     │   │   ├── ScoreChart.tsx         <- Recharts bar chart
     │   │   ├── YearSelector.tsx       <- Year filter pills
     │   │   ├── PaperTabs.tsx          <- Paper type toggle
-    │   │   ├── PassFailBadge.tsx      <- Pass/fail indicator
     │   │   ├── QuestionCard.tsx       <- Quiz question display with options
     │   │   └── Footer.tsx             <- Tricolor + disclaimer
     │   ├── lib/
     │   │   ├── data.ts                <- Data loading + filtering + ranking
     │   │   ├── quiz.ts                <- Quiz logic: sampling, scoring, rank extrapolation
     │   │   ├── arena.ts               <- Arena logic: pairings, voting, summary
-    │   │   └── constants.ts           <- Colors, model display names
+    │   │   ├── constants.ts           <- Model display names, model colors
+    │   │   └── utils.ts               <- Shared utilities (shuffle, getRankClass, HumanIcon)
     │   └── types/
     │       ├── index.ts               <- TypeScript interfaces
     │       └── arena.ts               <- Arena-specific types
@@ -278,6 +260,16 @@ upsc-bench/
 ```
 
 ## Session Log (latest first)
+
+### Session 13 (2026-03-05) — Full project simplification
+- **Phase 1: Frontend dead code removal** — Deleted `PassFailBadge.tsx` (unused), removed `COLORS` export and Grok 4 phantom model entries from `constants.ts`, removed 6 unused CSS classes + 5 keyframes from `globals.css` (~45 lines)
+- **Phase 2: Bug fixes** — Wrapped YearSelector `onChange()` in `useEffect` (React anti-pattern fix), added missing `import sys` in `compute_calibration_metrics.py`, added `model` parameter to `db.py` `save_result()` and `save_mains_result()` (was hardcoded `""`)
+- **Phase 3: Untrack intermediate results** — Added 10 gitignore entries, `git rm --cached` 142 intermediate JSON files (grading batches, regrade batches, parsing intermediates). Files remain on disk.
+- **Phase 4: Delete obsolete scripts** — Removed 12 one-time scripts (~2,300 lines): `merge_regrade.py`, `build_mains_questions.py`, `clean_gs1_2025.py`, `add_2025_questions.py`, `merge_and_build.py`, `self_eval.py`, `build_regrade_batches.py`, `build_flash_solo_batches.py`, `prepare_flash_grading.py`, `combine_results.py`, `merge_answers.py`, `run_2025.sh`
+- **Phase 5: Extract shared frontend utilities** — Created `web/src/lib/utils.ts` with `shuffle<T>()`, `getRankClass()`, and `HumanIcon` component. Updated imports in `quiz.ts`, `arena.ts`, `Leaderboard.tsx`, `MainsLeaderboard.tsx`.
+- **Phase 6: Extract shared Python utilities** — Created `benchmark/common.py` with `load_cutoffs()`, `load_config()`, `load_questions()`, `load_rubric()`. Updated imports in `scorer.py`, `mains_scorer.py`, `runner.py`, `mains_runner.py`, `generate_leaderboard.py`, `grade_mains.py`.
+- **Phase 7: Consolidate model configs** — Replaced 12 individual YAML files with single `config/models.yaml` registry + `resolve_model_config()` in `common.py`. Runners now accept `--model KEY` (e.g., `--model gpt5`) as alternative to `--config FILE`.
+- Total: ~2,600 lines removed, 142 files untracked, 13 files deleted, 3 bugs fixed, 2 new shared utility modules created
 
 ### Session 12 (2026-03-05) — Arena feature
 - Built LMSys Arena-style blind side-by-side essay comparison at `/arena`

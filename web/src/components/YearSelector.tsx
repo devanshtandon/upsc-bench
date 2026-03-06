@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect } from "react";
 import type { Year } from "@/types";
 
 interface YearSelectorProps {
@@ -13,9 +14,11 @@ export default function YearSelector({ years, selected, onChange }: YearSelector
   const options: Year[] = years.length > 1 ? [...[...years].reverse(), "all"] : [...years];
 
   // If only one year and nothing selected yet, auto-select it
-  if (years.length === 1 && selected === "all") {
-    onChange(years[0]);
-  }
+  useEffect(() => {
+    if (years.length === 1 && selected === "all") {
+      onChange(years[0]);
+    }
+  }, [years, selected, onChange]);
 
   // Don't render the selector at all if there's only one year
   if (years.length <= 1) {

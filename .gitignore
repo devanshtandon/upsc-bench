@@ -11,9 +11,11 @@ venv/
 .env
 CLAUDE.md
 
-# Data (raw PDFs are large)
-data/pdfs/
-data/answer_keys/pdfs/
+# Data (empty year dirs and temp pipeline artifacts)
+data/pdfs/2020/
+data/pdfs/2021/
+data/poc_images/
+data/tmp_pages/
 
 # Database
 db/*.db
@@ -39,6 +41,7 @@ results/regrade_flash/
 results/regrade_flash_solo/
 results/dry_run/
 results/mains_grading_input*.json
+results/raw/*_local_test.json
 data/processed/gs1_2024_batch*.json
 data/processed/csat_2024_batch*.json
 data/processed/answers_*.json

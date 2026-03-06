@@ -1,0 +1,1627 @@
+{
+  "run_id": "9bce65a4",
+  "model": "openrouter/openai/gpt-5.2",
+  "total_questions": 100,
+  "overall_correct": 81,
+  "overall_wrong": 19,
+  "overall_unanswered": 0,
+  "overall_accuracy": 81.0,
+  "scores_by_year": {
+    "2025": {
+      "gs1": {
+        "total_marks": 149.46,
+        "max_marks": 200,
+        "correct_count": 81,
+        "wrong_count": 19,
+        "unanswered_count": 0,
+        "total_questions": 100,
+        "accuracy": 81.0,
+        "passed": true,
+        "cutoff": 90.0,
+        "margin": 59.46
+      }
+    }
+  },
+  "results": [
+    {
+      "question_id": "gs1_2025_q001",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 1,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 165,
+        "completion_tokens": 61,
+        "total_tokens": 226
+      }
+    },
+    {
+      "question_id": "gs1_2025_q002",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 2,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 201,
+        "completion_tokens": 148,
+        "total_tokens": 349
+      }
+    },
+    {
+      "question_id": "gs1_2025_q003",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 3,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 250,
+        "completion_tokens": 267,
+        "total_tokens": 517
+      }
+    },
+    {
+      "question_id": "gs1_2025_q004",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 4,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 198,
+        "completion_tokens": 59,
+        "total_tokens": 257
+      }
+    },
+    {
+      "question_id": "gs1_2025_q005",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 5,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 245,
+        "completion_tokens": 133,
+        "total_tokens": 378
+      }
+    },
+    {
+      "question_id": "gs1_2025_q006",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 6,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 223,
+        "completion_tokens": 180,
+        "total_tokens": 403
+      }
+    },
+    {
+      "question_id": "gs1_2025_q007",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 7,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 256,
+        "completion_tokens": 67,
+        "total_tokens": 323
+      }
+    },
+    {
+      "question_id": "gs1_2025_q008",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 8,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 100,
+        "total_tokens": 325
+      }
+    },
+    {
+      "question_id": "gs1_2025_q009",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 9,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 47,
+        "total_tokens": 276
+      }
+    },
+    {
+      "question_id": "gs1_2025_q010",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 10,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 190,
+        "completion_tokens": 85,
+        "total_tokens": 275
+      }
+    },
+    {
+      "question_id": "gs1_2025_q011",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 11,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 197,
+        "completion_tokens": 60,
+        "total_tokens": 257
+      }
+    },
+    {
+      "question_id": "gs1_2025_q012",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 12,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 201,
+        "completion_tokens": 110,
+        "total_tokens": 311
+      }
+    },
+    {
+      "question_id": "gs1_2025_q013",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 13,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 174,
+        "completion_tokens": 48,
+        "total_tokens": 222
+      }
+    },
+    {
+      "question_id": "gs1_2025_q014",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 14,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 166,
+        "completion_tokens": 50,
+        "total_tokens": 216
+      }
+    },
+    {
+      "question_id": "gs1_2025_q015",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 15,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 44,
+        "total_tokens": 199
+      }
+    },
+    {
+      "question_id": "gs1_2025_q016",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 16,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 189,
+        "completion_tokens": 41,
+        "total_tokens": 230
+      }
+    },
+    {
+      "question_id": "gs1_2025_q017",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 17,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 193,
+        "completion_tokens": 113,
+        "total_tokens": 306
+      }
+    },
+    {
+      "question_id": "gs1_2025_q018",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 18,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 159,
+        "completion_tokens": 36,
+        "total_tokens": 195
+      }
+    },
+    {
+      "question_id": "gs1_2025_q019",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 19,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 83,
+        "total_tokens": 240
+      }
+    },
+    {
+      "question_id": "gs1_2025_q020",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 20,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "b",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 223,
+        "completion_tokens": 91,
+        "total_tokens": 314
+      }
+    },
+    {
+      "question_id": "gs1_2025_q021",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 21,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 88,
+        "total_tokens": 257
+      }
+    },
+    {
+      "question_id": "gs1_2025_q022",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 22,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 61,
+        "total_tokens": 224
+      }
+    },
+    {
+      "question_id": "gs1_2025_q023",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 23,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 162,
+        "completion_tokens": 56,
+        "total_tokens": 218
+      }
+    },
+    {
+      "question_id": "gs1_2025_q024",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 24,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 220,
+        "completion_tokens": 92,
+        "total_tokens": 312
+      }
+    },
+    {
+      "question_id": "gs1_2025_q025",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 25,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 81,
+        "total_tokens": 306
+      }
+    },
+    {
+      "question_id": "gs1_2025_q026",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 26,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 93,
+        "total_tokens": 322
+      }
+    },
+    {
+      "question_id": "gs1_2025_q027",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 27,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 246,
+        "completion_tokens": 82,
+        "total_tokens": 328
+      }
+    },
+    {
+      "question_id": "gs1_2025_q028",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 28,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 251,
+        "completion_tokens": 162,
+        "total_tokens": 413
+      }
+    },
+    {
+      "question_id": "gs1_2025_q029",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 29,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 203,
+        "completion_tokens": 90,
+        "total_tokens": 293
+      }
+    },
+    {
+      "question_id": "gs1_2025_q030",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 30,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 207,
+        "completion_tokens": 115,
+        "total_tokens": 322
+      }
+    },
+    {
+      "question_id": "gs1_2025_q031",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 31,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 244,
+        "completion_tokens": 182,
+        "total_tokens": 426
+      }
+    },
+    {
+      "question_id": "gs1_2025_q032",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 32,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 283,
+        "completion_tokens": 222,
+        "total_tokens": 505
+      }
+    },
+    {
+      "question_id": "gs1_2025_q033",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 33,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 256,
+        "completion_tokens": 315,
+        "total_tokens": 571
+      }
+    },
+    {
+      "question_id": "gs1_2025_q034",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 34,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 264,
+        "completion_tokens": 124,
+        "total_tokens": 388
+      }
+    },
+    {
+      "question_id": "gs1_2025_q035",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 35,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 83,
+        "total_tokens": 250
+      }
+    },
+    {
+      "question_id": "gs1_2025_q036",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 36,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 220,
+        "completion_tokens": 95,
+        "total_tokens": 315
+      }
+    },
+    {
+      "question_id": "gs1_2025_q037",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 37,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 204,
+        "completion_tokens": 76,
+        "total_tokens": 280
+      }
+    },
+    {
+      "question_id": "gs1_2025_q038",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 38,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 209,
+        "completion_tokens": 139,
+        "total_tokens": 348
+      }
+    },
+    {
+      "question_id": "gs1_2025_q039",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 39,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 185,
+        "completion_tokens": 151,
+        "total_tokens": 336
+      }
+    },
+    {
+      "question_id": "gs1_2025_q040",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 40,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 211,
+        "completion_tokens": 103,
+        "total_tokens": 314
+      }
+    },
+    {
+      "question_id": "gs1_2025_q041",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 41,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 57,
+        "total_tokens": 224
+      }
+    },
+    {
+      "question_id": "gs1_2025_q042",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 42,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 199,
+        "completion_tokens": 78,
+        "total_tokens": 277
+      }
+    },
+    {
+      "question_id": "gs1_2025_q043",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 43,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 77,
+        "total_tokens": 246
+      }
+    },
+    {
+      "question_id": "gs1_2025_q044",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 44,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 108,
+        "total_tokens": 263
+      }
+    },
+    {
+      "question_id": "gs1_2025_q045",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 45,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 162,
+        "completion_tokens": 171,
+        "total_tokens": 333
+      }
+    },
+    {
+      "question_id": "gs1_2025_q046",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 46,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 180,
+        "completion_tokens": 44,
+        "total_tokens": 224
+      }
+    },
+    {
+      "question_id": "gs1_2025_q047",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 47,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 193,
+        "completion_tokens": 189,
+        "total_tokens": 382
+      }
+    },
+    {
+      "question_id": "gs1_2025_q048",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 48,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 203,
+        "completion_tokens": 71,
+        "total_tokens": 274
+      }
+    },
+    {
+      "question_id": "gs1_2025_q049",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 49,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 176,
+        "completion_tokens": 58,
+        "total_tokens": 234
+      }
+    },
+    {
+      "question_id": "gs1_2025_q050",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 50,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 257,
+        "completion_tokens": 103,
+        "total_tokens": 360
+      }
+    },
+    {
+      "question_id": "gs1_2025_q051",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 51,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 194,
+        "completion_tokens": 166,
+        "total_tokens": 360
+      }
+    },
+    {
+      "question_id": "gs1_2025_q052",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 52,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 225,
+        "completion_tokens": 198,
+        "total_tokens": 423
+      }
+    },
+    {
+      "question_id": "gs1_2025_q053",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 53,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 208,
+        "completion_tokens": 132,
+        "total_tokens": 340
+      }
+    },
+    {
+      "question_id": "gs1_2025_q054",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 54,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 206,
+        "completion_tokens": 126,
+        "total_tokens": 332
+      }
+    },
+    {
+      "question_id": "gs1_2025_q055",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 55,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 224,
+        "completion_tokens": 178,
+        "total_tokens": 402
+      }
+    },
+    {
+      "question_id": "gs1_2025_q056",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 56,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 216,
+        "completion_tokens": 174,
+        "total_tokens": 390
+      }
+    },
+    {
+      "question_id": "gs1_2025_q057",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 57,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 190,
+        "completion_tokens": 666,
+        "total_tokens": 856
+      }
+    },
+    {
+      "question_id": "gs1_2025_q058",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 58,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 220,
+        "completion_tokens": 132,
+        "total_tokens": 352
+      }
+    },
+    {
+      "question_id": "gs1_2025_q059",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 59,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 150,
+        "total_tokens": 379
+      }
+    },
+    {
+      "question_id": "gs1_2025_q060",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 60,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 186,
+        "completion_tokens": 144,
+        "total_tokens": 330
+      }
+    },
+    {
+      "question_id": "gs1_2025_q061",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 61,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 246,
+        "completion_tokens": 130,
+        "total_tokens": 376
+      }
+    },
+    {
+      "question_id": "gs1_2025_q062",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 62,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 174,
+        "completion_tokens": 94,
+        "total_tokens": 268
+      }
+    },
+    {
+      "question_id": "gs1_2025_q063",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 63,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 257,
+        "completion_tokens": 59,
+        "total_tokens": 316
+      }
+    },
+    {
+      "question_id": "gs1_2025_q064",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 64,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 226,
+        "completion_tokens": 106,
+        "total_tokens": 332
+      }
+    },
+    {
+      "question_id": "gs1_2025_q065",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 65,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 236,
+        "completion_tokens": 303,
+        "total_tokens": 539
+      }
+    },
+    {
+      "question_id": "gs1_2025_q066",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 66,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 263,
+        "completion_tokens": 448,
+        "total_tokens": 711
+      }
+    },
+    {
+      "question_id": "gs1_2025_q067",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 67,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 205,
+        "completion_tokens": 81,
+        "total_tokens": 286
+      }
+    },
+    {
+      "question_id": "gs1_2025_q068",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 68,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 226,
+        "completion_tokens": 523,
+        "total_tokens": 749
+      }
+    },
+    {
+      "question_id": "gs1_2025_q069",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 69,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 174,
+        "completion_tokens": 235,
+        "total_tokens": 409
+      }
+    },
+    {
+      "question_id": "gs1_2025_q070",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 70,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 243,
+        "completion_tokens": 256,
+        "total_tokens": 499
+      }
+    },
+    {
+      "question_id": "gs1_2025_q071",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 71,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 168,
+        "completion_tokens": 424,
+        "total_tokens": 592
+      }
+    },
+    {
+      "question_id": "gs1_2025_q072",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 72,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 147,
+        "completion_tokens": 9,
+        "total_tokens": 156
+      }
+    },
+    {
+      "question_id": "gs1_2025_q073",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 73,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 173,
+        "completion_tokens": 68,
+        "total_tokens": 241
+      }
+    },
+    {
+      "question_id": "gs1_2025_q074",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 74,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 205,
+        "completion_tokens": 78,
+        "total_tokens": 283
+      }
+    },
+    {
+      "question_id": "gs1_2025_q075",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 75,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 103,
+        "total_tokens": 270
+      }
+    },
+    {
+      "question_id": "gs1_2025_q076",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 76,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 166,
+        "completion_tokens": 471,
+        "total_tokens": 637
+      }
+    },
+    {
+      "question_id": "gs1_2025_q077",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 77,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 201,
+        "completion_tokens": 239,
+        "total_tokens": 440
+      }
+    },
+    {
+      "question_id": "gs1_2025_q078",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 78,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 170,
+        "completion_tokens": 39,
+        "total_tokens": 209
+      }
+    },
+    {
+      "question_id": "gs1_2025_q079",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 79,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 168,
+        "completion_tokens": 42,
+        "total_tokens": 210
+      }
+    },
+    {
+      "question_id": "gs1_2025_q080",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 80,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 50,
+        "total_tokens": 217
+      }
+    },
+    {
+      "question_id": "gs1_2025_q081",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 81,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 219,
+        "completion_tokens": 57,
+        "total_tokens": 276
+      }
+    },
+    {
+      "question_id": "gs1_2025_q082",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 82,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 219,
+        "completion_tokens": 185,
+        "total_tokens": 404
+      }
+    },
+    {
+      "question_id": "gs1_2025_q083",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 83,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 166,
+        "completion_tokens": 100,
+        "total_tokens": 266
+      }
+    },
+    {
+      "question_id": "gs1_2025_q084",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 84,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 187,
+        "completion_tokens": 109,
+        "total_tokens": 296
+      }
+    },
+    {
+      "question_id": "gs1_2025_q085",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 85,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 154,
+        "completion_tokens": 63,
+        "total_tokens": 217
+      }
+    },
+    {
+      "question_id": "gs1_2025_q086",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 86,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 190,
+        "completion_tokens": 73,
+        "total_tokens": 263
+      }
+    },
+    {
+      "question_id": "gs1_2025_q087",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 87,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 285,
+        "completion_tokens": 126,
+        "total_tokens": 411
+      }
+    },
+    {
+      "question_id": "gs1_2025_q088",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 88,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 214,
+        "completion_tokens": 138,
+        "total_tokens": 352
+      }
+    },
+    {
+      "question_id": "gs1_2025_q089",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 89,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 242,
+        "completion_tokens": 115,
+        "total_tokens": 357
+      }
+    },
+    {
+      "question_id": "gs1_2025_q090",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 90,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 24,
+        "total_tokens": 179
+      }
+    },
+    {
+      "question_id": "gs1_2025_q091",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 91,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 248,
+        "completion_tokens": 144,
+        "total_tokens": 392
+      }
+    },
+    {
+      "question_id": "gs1_2025_q092",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 92,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 1050,
+        "total_tokens": 1279
+      }
+    },
+    {
+      "question_id": "gs1_2025_q093",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 93,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 248,
+        "completion_tokens": 178,
+        "total_tokens": 426
+      }
+    },
+    {
+      "question_id": "gs1_2025_q094",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 94,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 224,
+        "completion_tokens": 74,
+        "total_tokens": 298
+      }
+    },
+    {
+      "question_id": "gs1_2025_q095",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 95,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 218,
+        "completion_tokens": 176,
+        "total_tokens": 394
+      }
+    },
+    {
+      "question_id": "gs1_2025_q096",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 96,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 197,
+        "completion_tokens": 586,
+        "total_tokens": 783
+      }
+    },
+    {
+      "question_id": "gs1_2025_q097",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 97,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 206,
+        "completion_tokens": 122,
+        "total_tokens": 328
+      }
+    },
+    {
+      "question_id": "gs1_2025_q098",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 98,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 284,
+        "completion_tokens": 160,
+        "total_tokens": 444
+      }
+    },
+    {
+      "question_id": "gs1_2025_q099",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 99,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 220,
+        "completion_tokens": 188,
+        "total_tokens": 408
+      }
+    },
+    {
+      "question_id": "gs1_2025_q100",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 100,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 211,
+        "completion_tokens": 170,
+        "total_tokens": 381
+      }
+    }
+  ]
+}

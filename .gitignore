@@ -31,8 +31,7 @@ web/node_modules/
 web/.next/
 web/out/
 
-# Results (regenerable)
-results/raw/
+# Results (intermediate/regenerable)
 results/grading/
 results/regrade/
 results/regrade_flash/

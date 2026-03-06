@@ -1,0 +1,1627 @@
+{
+  "run_id": "a5b3d2a7",
+  "model": "openrouter/google/gemini-3.1-pro-preview",
+  "total_questions": 100,
+  "overall_correct": 81,
+  "overall_wrong": 16,
+  "overall_unanswered": 3,
+  "overall_accuracy": 81.0,
+  "scores_by_year": {
+    "2025": {
+      "gs1": {
+        "total_marks": 151.44,
+        "max_marks": 200,
+        "correct_count": 81,
+        "wrong_count": 16,
+        "unanswered_count": 3,
+        "total_questions": 100,
+        "accuracy": 81.0,
+        "passed": true,
+        "cutoff": 90.0,
+        "margin": 61.44
+      }
+    }
+  },
+  "results": [
+    {
+      "question_id": "gs1_2025_q001",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 1,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 168,
+        "completion_tokens": 414,
+        "total_tokens": 582
+      }
+    },
+    {
+      "question_id": "gs1_2025_q002",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 2,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 204,
+        "completion_tokens": 648,
+        "total_tokens": 852
+      }
+    },
+    {
+      "question_id": "gs1_2025_q003",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 3,
+      "raw_output": "To determine the correct answer, let's evaluate each row of information provided:\n\n**Row I:**\n* **Organization:** Directorate of Enforcement (ED)\n* **Functions:** Enforcement of the Fugitive Economic Offenders Act, 2018\n* **Works under:** Internal Security Division-I, Ministry of Home Affairs\n* **Analysis:** While the ED does enforce the Fugitive Economic Offenders Act, 2018 (along with FEMA and PMLA), it functions under the **Department of Revenue, Ministry of Finance**, not the Ministry of Home Affairs. \n* **Status:** Incorrectly matched.\n\n**Row II:**\n* **Organization:** Directorate of Revenue Intelligence (DRI)\n* **Functions:** Enforces the provisions of the Customs Act, 1962\n* **Works under:** Department of Revenue, Ministry of Finance\n* **Analysis:** The DRI is the apex anti-smuggling agency of India. It enforces the provisions of the Customs Act, 1962, and functions under the Central Board of Indirect Taxes and Customs (CBIC), which is a part of the Department of Revenue, Ministry of Finance.\n* **Status:** Correctly matched.\n\n**Row III:**\n* **Organization:** Directorate General of Systems and Data Management\n* **Functions:** Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders\n* **Works under:** Department of Revenue, Ministry of Finance\n* **Analysis:** The Directorate General of Systems and Data Management is an attached office of the CBIC (and CBDT has a similar systems directorate) under the Department of Revenue, Ministry of Finance. It is responsible for the IT infrastructure and uses big data analytics (like Project ADVAIT) to assist tax officers and catch tax evaders.\n* **Status:** Correctly matched.\n\nSince exactly two rows (Row II and Row III) are correctly matched, the correct option is (B).\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 253,
+        "completion_tokens": 1268,
+        "total_tokens": 1521
+      }
+    },
+    {
+      "question_id": "gs1_2025_q004",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 4,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 199,
+        "completion_tokens": 403,
+        "total_tokens": 602
+      }
+    },
+    {
+      "question_id": "gs1_2025_q005",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 5,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 251,
+        "completion_tokens": 383,
+        "total_tokens": 634
+      }
+    },
+    {
+      "question_id": "gs1_2025_q006",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 6,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 233,
+        "completion_tokens": 414,
+        "total_tokens": 647
+      }
+    },
+    {
+      "question_id": "gs1_2025_q007",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 7,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 259,
+        "completion_tokens": 459,
+        "total_tokens": 718
+      }
+    },
+    {
+      "question_id": "gs1_2025_q008",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 8,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 232,
+        "completion_tokens": 385,
+        "total_tokens": 617
+      }
+    },
+    {
+      "question_id": "gs1_2025_q009",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 9,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 234,
+        "completion_tokens": 383,
+        "total_tokens": 617
+      }
+    },
+    {
+      "question_id": "gs1_2025_q010",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 10,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 194,
+        "completion_tokens": 318,
+        "total_tokens": 512
+      }
+    },
+    {
+      "question_id": "gs1_2025_q011",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 11,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 201,
+        "completion_tokens": 267,
+        "total_tokens": 468
+      }
+    },
+    {
+      "question_id": "gs1_2025_q012",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 12,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 201,
+        "completion_tokens": 434,
+        "total_tokens": 635
+      }
+    },
+    {
+      "question_id": "gs1_2025_q013",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 13,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 171,
+        "completion_tokens": 221,
+        "total_tokens": 392
+      }
+    },
+    {
+      "question_id": "gs1_2025_q014",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 14,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 168,
+        "completion_tokens": 169,
+        "total_tokens": 337
+      }
+    },
+    {
+      "question_id": "gs1_2025_q015",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 15,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 166,
+        "total_tokens": 321
+      }
+    },
+    {
+      "question_id": "gs1_2025_q016",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 16,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 191,
+        "completion_tokens": 181,
+        "total_tokens": 372
+      }
+    },
+    {
+      "question_id": "gs1_2025_q017",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 17,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 198,
+        "completion_tokens": 387,
+        "total_tokens": 585
+      }
+    },
+    {
+      "question_id": "gs1_2025_q018",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 18,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 162,
+        "completion_tokens": 169,
+        "total_tokens": 331
+      }
+    },
+    {
+      "question_id": "gs1_2025_q019",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 19,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 158,
+        "completion_tokens": 339,
+        "total_tokens": 497
+      }
+    },
+    {
+      "question_id": "gs1_2025_q020",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 20,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "b",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 227,
+        "completion_tokens": 582,
+        "total_tokens": 809
+      }
+    },
+    {
+      "question_id": "gs1_2025_q021",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 21,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 171,
+        "completion_tokens": 533,
+        "total_tokens": 704
+      }
+    },
+    {
+      "question_id": "gs1_2025_q022",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 22,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 317,
+        "total_tokens": 484
+      }
+    },
+    {
+      "question_id": "gs1_2025_q023",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 23,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 165,
+        "completion_tokens": 521,
+        "total_tokens": 686
+      }
+    },
+    {
+      "question_id": "gs1_2025_q024",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 24,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 231,
+        "completion_tokens": 436,
+        "total_tokens": 667
+      }
+    },
+    {
+      "question_id": "gs1_2025_q025",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 25,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 597,
+        "total_tokens": 826
+      }
+    },
+    {
+      "question_id": "gs1_2025_q026",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 26,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 230,
+        "completion_tokens": 512,
+        "total_tokens": 742
+      }
+    },
+    {
+      "question_id": "gs1_2025_q027",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 27,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 249,
+        "completion_tokens": 544,
+        "total_tokens": 793
+      }
+    },
+    {
+      "question_id": "gs1_2025_q028",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 28,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 257,
+        "completion_tokens": 617,
+        "total_tokens": 874
+      }
+    },
+    {
+      "question_id": "gs1_2025_q029",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 29,
+      "raw_output": "To determine the correct statements, let's evaluate them one by one:\n\n**Statement I:** \"Without the atmosphere, temperature would be well below freezing point everywhere on the Earth's surface.\" \nThis statement is **incorrect**. While it is true that without the atmosphere (and the greenhouse effect), the Earth's *average* global temperature would drop to about -18\u00b0C (0\u00b0F), which is below freezing, it would not be below freezing *everywhere*. Similar to the Moon, which lacks an atmosphere and is at the same distance from the Sun, the Earth would experience extreme temperature variations. Daytime temperatures at the equator would soar well above the boiling point of water (up to around 120\u00b0C or 250\u00b0F), while nighttime temperatures would plunge drastically. Therefore, the word \"everywhere\" makes this statement false.\n\n**Statement II:** \"Heat absorbed and trapped by the atmosphere maintains our planet's average temperature.\"\nThis statement is **correct**. The atmosphere acts like a blanket, absorbing and trapping outgoing infrared radiation from the Earth's surface (the greenhouse effect). This natural process regulates and maintains the Earth's average temperature at a life-sustaining 15\u00b0C (59\u00b0F).\n\n**Statement III:** \"Atmosphere's gases, like carbon dioxide, are particularly good at absorbing and trapping radiation.\"\nThis statement is **correct**. Greenhouse gases such as carbon dioxide, methane, and water vapor are highly effective at absorbing long-wave infrared radiation emitted by the Earth and re-radiating it back towards the surface, trapping heat in the lower atmosphere.\n\nSince only Statements II and III are correct, the right choice is (D).\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 211,
+        "completion_tokens": 1136,
+        "total_tokens": 1347
+      }
+    },
+    {
+      "question_id": "gs1_2025_q030",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 30,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 210,
+        "completion_tokens": 527,
+        "total_tokens": 737
+      }
+    },
+    {
+      "question_id": "gs1_2025_q031",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 31,
+      "raw_output": "To determine the correct option, let's evaluate each of the statements:\n\n**Statement I:** *Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.*\nThis statement is **correct**. The cement industry is highly energy- and carbon-intensive, accounting for roughly 8% of global anthropogenic carbon dioxide (CO2) emissions. \n\n**Statement II:** *Silica-bearing clay is mixed with limestone while manufacturing cement.*\nThis statement is **correct**. In the manufacturing of Portland cement, the primary raw materials are limestone (which provides calcium) and clay or shale (which provides silica, alumina, and iron). They are crushed and mixed together before being fed into the kiln.\n\n**Statement III:** *Limestone is converted into lime during clinker production for cement manufacturing.*\nThis statement is **correct**. Inside the cement kiln, the mixture is heated to very high temperatures (around 1450\u00b0C). During this process, a chemical reaction called \"calcination\" occurs, where limestone (calcium carbonate, CaCO3) breaks down into lime (calcium oxide, CaO) and releases carbon dioxide (CO2) as a byproduct. \n\n**Relationship between the statements:**\nWhile both Statement II and Statement III are factually correct regarding the cement manufacturing process, only **Statement III explains Statement I**. The calcination process described in Statement III (where limestone is converted to lime) directly releases massive amounts of CO2 into the atmosphere, which, along with the burning of fossil fuels to heat the kilns, is the primary reason the cement industry accounts for such a high percentage of global CO2 emissions. Statement II merely describes the mixing of raw materials and does not explain the high carbon emissions. \n\nTherefore, both Statement II and Statement III are correct, but only one of them (Statement III) explains Statement I.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 249,
+        "completion_tokens": 1207,
+        "total_tokens": 1456
+      }
+    },
+    {
+      "question_id": "gs1_2025_q032",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 32,
+      "raw_output": "To determine the correct option, let's analyze the statements provided:\n\n**Statement I:** *At the 28th United Nations Climate Change Conference (COP28), India refrained from signing the 'Declaration on Climate and Health'.*\nThis statement is **correct**. India, along with a few other countries, did not sign the COP28 UAE Declaration on Climate and Health. \n\n**Statement II:** *The COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes mandatory to decarbonize health sector.*\nThis statement is **incorrect**. The COP28 Declaration on Climate and Health is a voluntary, non-legally binding political declaration. While it does call for climate action and lowering greenhouse gas emissions within the health sector, it does not impose a mandatory, legally binding obligation on the signatories.\n\n**Statement III:** *If India's health sector is decarbonized, the resilience of its health-care system may be compromised.*\nThis statement is **correct** in the context of India's official rationale. India's primary concern and reason for not signing the declaration was that its healthcare infrastructure is still developing and requires a continuous, reliable power supply to meet the growing medical needs of its massive population. Currently, this heavily relies on conventional energy sources. India argued that committing to rapid greenhouse gas reduction (decarbonization) in the health sector could hinder medical services and compromise the overall resilience and reliability of its healthcare system. \n\n**Conclusion:**\nStatement II is incorrect, while Statement III is correct and serves as the actual explanation for why India refrained from signing the declaration (Statement I). \n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 291,
+        "completion_tokens": 1227,
+        "total_tokens": 1518
+      }
+    },
+    {
+      "question_id": "gs1_2025_q033",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 33,
+      "raw_output": "To determine the correct option, let's analyze the given statements:\n\n**Statement I:** *Scientific studies suggest that a shift is taking place in the Earth's rotation and axis.*\nThis statement is **correct**. Recent scientific studies have shown that the Earth's axis of rotation has been shifting (a phenomenon known as polar wander) and its rotational speed has been affected. \n\n**Statement II:** *Solar flares and associated coronal mass ejections bombarded the Earth's outermost atmosphere with tremendous amount of energy.*\nThis statement is **correct** as a general scientific fact. Solar flares and coronal mass ejections (CMEs) frequently release massive amounts of energy and charged particles that interact with and bombard the Earth's upper atmosphere (causing phenomena like auroras and geomagnetic storms). However, this space weather does not have a significant enough gravitational or mass-shifting effect to alter the Earth's axis or rotation. Therefore, it **does not** explain Statement I.\n\n**Statement III:** *As the Earth's polar ice melts, the water tends to move towards the equator.*\nThis statement is **correct**. Due to global warming, massive ice sheets at the poles (like in Greenland and Antarctica) are melting. As this ice turns into water, it flows into the oceans and redistributes the Earth's mass. Because of the Earth's rotation and centrifugal force, this water tends to accumulate more towards the equator (increasing the equatorial bulge). This redistribution of mass changes the Earth's moment of inertia, which directly causes a shift in the Earth's axis and slightly slows down its rotation. Therefore, Statement III **explains** Statement I.\n\n**Conclusion:** Both Statement II and Statement III are factually correct, but only Statement III explains the phenomenon mentioned in Statement I. \n\n*(Note: \"Statement m\" in Option B is a typographical error for \"Statement III\")*\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 262,
+        "completion_tokens": 1252,
+        "total_tokens": 1514
+      }
+    },
+    {
+      "question_id": "gs1_2025_q034",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 34,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 273,
+        "completion_tokens": 476,
+        "total_tokens": 749
+      }
+    },
+    {
+      "question_id": "gs1_2025_q035",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 35,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 174,
+        "completion_tokens": 166,
+        "total_tokens": 340
+      }
+    },
+    {
+      "question_id": "gs1_2025_q036",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 36,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 227,
+        "completion_tokens": 344,
+        "total_tokens": 571
+      }
+    },
+    {
+      "question_id": "gs1_2025_q037",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 37,
+      "raw_output": "Based on the biological characteristics and habitat of the Peacock tarantula (also known as the Gooty tarantula or *Poecilotheria metallica*):\n\n1. **Statement I is incorrect:** The Peacock tarantula is a spider, which makes it an **arachnid**, not a crustacean. Furthermore, tarantulas are strictly carnivorous (feeding primarily on insects and small vertebrates), not omnivorous.\n2. **Statement II is correct:** It is a critically endangered species endemic to India. Its natural habitat is highly restricted to a very small reserve forest area in Andhra Pradesh (specifically between Gooty and Nandyal). \n3. **Statement III is correct:** In its natural habitat, it is an **arboreal** (tree-dwelling) species. It lives in the holes and crevices of tall trees where it spins funnel webs.\n\nTherefore, only statements II and III are correct.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 210,
+        "completion_tokens": 659,
+        "total_tokens": 869
+      }
+    },
+    {
+      "question_id": "gs1_2025_q038",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 38,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 217,
+        "completion_tokens": 462,
+        "total_tokens": 679
+      }
+    },
+    {
+      "question_id": "gs1_2025_q039",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 39,
+      "raw_output": "To determine the correct number of matched pairs, let's evaluate each pair individually:\n\nI. **Cassava - Woody shrub**: Cassava (*Manihot esculenta*) is a perennial plant with a woody stem, widely cultivated as an annual crop for its starchy tuberous root. It is correctly classified as a woody shrub. (**Correct**)\n\nII. **Ginger - Herb with pseudostem**: Ginger (*Zingiber officinale*) is a perennial herb. The true stem of the ginger plant is the underground rhizome, while the above-ground \"stem\" is actually a pseudostem (false stem) formed by tightly overlapping leaf sheaths. (**Correct**)\n\nIII. **Malabar spinach - Herbaceous climber**: Malabar spinach (*Basella alba*) is a fast-growing, soft-stemmed vine. Because it lacks woody tissue and climbs or trails, it is correctly classified as a herbaceous climber. (**Correct**)\n\nIV. **Mint - Annual shrub**: Mint (*Mentha*) is typically a perennial herb, not an annual, and it does not have the woody tissue required to be classified as a shrub. (**Incorrect**)\n\nV. **Papaya - Woody shrub**: Papaya (*Carica papaya*) is a large, tree-like plant, but its stem is soft, fleshy, and lacks true woody tissue. Botanically, it is considered a large herbaceous plant (or a giant herb), not a woody shrub. (**Incorrect**)\n\nTherefore, exactly three pairs (I, II, and III) are correctly matched.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 186,
+        "completion_tokens": 1224,
+        "total_tokens": 1410
+      }
+    },
+    {
+      "question_id": "gs1_2025_q040",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 40,
+      "raw_output": "To determine the correct answer, let's evaluate each statement individually:\n\n**Statement I: Rain forests produce more oxygen than that produced by oceans.**\nThis statement is **incorrect**. While rain forests (often called the \"lungs of the Earth\") do produce a significant amount of oxygen (around 20-28%), the oceans actually produce the majority of the oxygen in our atmosphere. Scientists estimate that between 50% to 80% of the world's oxygen is produced by the oceans. \n\n**Statement II: Marine phytoplankton and photosynthetic bacteria produce about 50% of world's oxygen.**\nThis statement is **correct**. The vast majority of the oxygen produced in the oceans comes from marine phytoplankton, algae, and photosynthetic bacteria (such as Prochlorococcus). They are responsible for producing at least 50% of the Earth's oxygen through the process of photosynthesis.\n\n**Statement III: Well-oxygenated surface water contains several folds higher oxygen than that in atmospheric air.**\nThis statement is **incorrect**. Atmospheric air contains about 21% oxygen by volume. In contrast, even well-oxygenated surface water holds a very small fraction of oxygen compared to the air (typically around 5 to 10 milligrams of dissolved oxygen per liter of water, which is less than 1% by volume). Therefore, water contains significantly *less* oxygen than atmospheric air, not several folds higher.\n\nSince only Statement II is correct, the right option is (B).\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 216,
+        "completion_tokens": 855,
+        "total_tokens": 1071
+      }
+    },
+    {
+      "question_id": "gs1_2025_q041",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 41,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 171,
+        "completion_tokens": 243,
+        "total_tokens": 414
+      }
+    },
+    {
+      "question_id": "gs1_2025_q042",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 42,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 205,
+        "completion_tokens": 308,
+        "total_tokens": 513
+      }
+    },
+    {
+      "question_id": "gs1_2025_q043",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 43,
+      "raw_output": "To determine the correct answer, let's look at the typical composition of a lithium-ion battery used in electric vehicles, which consists of a cathode (positive electrode), an anode (negative electrode), and an electrolyte.\n\n1. **Cobalt**: This is a key element used in the cathode of many lithium-ion batteries, such as Lithium Nickel Manganese Cobalt Oxide (NMC) and Lithium Cobalt Oxide (LCO) batteries.\n2. **Graphite**: This is the primary material used for the **anode** (negative electrode) in lithium-ion batteries, not the cathode. \n3. **Lithium**: As the name suggests, lithium is the fundamental active metal in the battery and is present in the cathode material (e.g., Lithium Iron Phosphate, Lithium Cobalt Oxide).\n4. **Nickel**: This is another major metal used in the cathode to increase the energy density of the battery, commonly found in NMC and NCA (Lithium Nickel Cobalt Aluminum Oxide) batteries.\n\nSince Cobalt, Lithium, and Nickel are typically used to make up the battery cathodes, exactly three of the listed elements apply.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 170,
+        "completion_tokens": 680,
+        "total_tokens": 850
+      }
+    },
+    {
+      "question_id": "gs1_2025_q044",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 44,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 158,
+        "completion_tokens": 336,
+        "total_tokens": 494
+      }
+    },
+    {
+      "question_id": "gs1_2025_q045",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 45,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "b",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 162,
+        "completion_tokens": 1968,
+        "total_tokens": 2130
+      }
+    },
+    {
+      "question_id": "gs1_2025_q046",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 46,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 185,
+        "completion_tokens": 242,
+        "total_tokens": 427
+      }
+    },
+    {
+      "question_id": "gs1_2025_q047",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 47,
+      "raw_output": "To determine the correct statements, let's evaluate them one by one:\n\n**Statement I: It is expected that Majorana 1 chip will enable quantum computing.**\nThis statement is **correct**. The concept of using Majorana fermions (Majorana zero modes) is a highly researched approach to building topological quantum computers. These particles are expected to be much more stable and less prone to errors (decoherence) than other types of qubits, making them a promising avenue for enabling scalable quantum computing. \n\n**Statement II: Majorana 1 chip has been introduced by Amazon Web Services (AWS).** *(Note: The text in the prompt is slightly garbled but implies AWS introduced it).*\nThis statement is **incorrect**. Amazon Web Services (AWS) has not introduced a \"Majorana 1\" chip. While AWS is involved in quantum computing through its Amazon Braket service and its Center for Quantum Computing, the research and development heavily focused on Majorana-based topological quantum computing is primarily being spearheaded by **Microsoft**, not AWS. \n\n**Statement III: Deep learning is a subset of machine learning.**\nThis statement is **correct**. Deep learning is a specialized sub-field of machine learning that is based on artificial neural networks with multiple layers (hence \"deep\"). Just as machine learning is a subset of artificial intelligence (AI), deep learning is a subset of machine learning.\n\nSince Statements I and III are correct and Statement II is incorrect, the correct option is (C).\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 197,
+        "completion_tokens": 1208,
+        "total_tokens": 1405
+      }
+    },
+    {
+      "question_id": "gs1_2025_q048",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 48,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 207,
+        "completion_tokens": 309,
+        "total_tokens": 516
+      }
+    },
+    {
+      "question_id": "gs1_2025_q049",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 49,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 180,
+        "completion_tokens": 161,
+        "total_tokens": 341
+      }
+    },
+    {
+      "question_id": "gs1_2025_q050",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 50,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 260,
+        "completion_tokens": 455,
+        "total_tokens": 715
+      }
+    },
+    {
+      "question_id": "gs1_2025_q051",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 51,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 198,
+        "completion_tokens": 505,
+        "total_tokens": 703
+      }
+    },
+    {
+      "question_id": "gs1_2025_q052",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 52,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 228,
+        "completion_tokens": 1967,
+        "total_tokens": 2195
+      }
+    },
+    {
+      "question_id": "gs1_2025_q053",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 53,
+      "raw_output": "Based on the text provided, there appears to be a mix of two different questions due to a formatting error. However, the complete and answerable question is:\n\n**\"With reference to India, consider the following:**\n**I. The Inter-State Council**\n**II. The National Security Council**\n**III. Zonal Councils**\n**How many of the above were established as per the provisions of the Constitution of India?\"**\n\nLet's evaluate the bodies mentioned:\n1. **The Inter-State Council:** This is a constitutional body. It was established under the provisions of **Article 263** of the Constitution of India (formed by a Presidential Order in 1990 based on the recommendations of the Sarkaria Commission).\n2. **The National Security Council:** This is an executive body. It was established by the executive order of the government in 1998 to advise the Prime Minister on national security and strategic interests. It is not mentioned in the Constitution.\n3. **Zonal Councils:** These are statutory bodies, not constitutional bodies. They were established by an Act of Parliament, specifically the **States Reorganisation Act of 1956**. \n\nTherefore, only one of the bodies listed (The Inter-State Council) was established as per the provisions of the Constitution of India.\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 216,
+        "completion_tokens": 1258,
+        "total_tokens": 1474
+      }
+    },
+    {
+      "question_id": "gs1_2025_q054",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 54,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 215,
+        "completion_tokens": 415,
+        "total_tokens": 630
+      }
+    },
+    {
+      "question_id": "gs1_2025_q055",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 55,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 598,
+        "total_tokens": 827
+      }
+    },
+    {
+      "question_id": "gs1_2025_q056",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 56,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 219,
+        "completion_tokens": 340,
+        "total_tokens": 559
+      }
+    },
+    {
+      "question_id": "gs1_2025_q057",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 57,
+      "raw_output": "To determine how many pairs are correctly matched, let's analyze the organizations and their respective Union Ministries:\n\n1. **The National Automotive Board (NAB):** This board was set up to act as a repository of automotive technology and to coordinate the testing and R&D centers in the country. It functions under the **Ministry of Heavy Industries**, not the Ministry of Commerce and Industry. *(Pair I is incorrectly matched)*\n\n2. **The Coir Board:** This is a statutory body established by the Government of India under the Coir Industry Act 1953 for the promotion and development of the coir industry. It functions under the **Ministry of Micro, Small and Medium Enterprises (MSME)**, not the Ministry of Heavy Industries. *(Pair II is incorrectly matched)*\n\n3. **The National Centre for Trade Information (NCTI):** This was set up as a joint venture of the India Trade Promotion Organisation (ITPO) and the National Informatics Centre (NIC) to collect and disseminate trade data. It falls under the **Ministry of Commerce and Industry**, not the Ministry of Micro, Small and Medium Enterprises. *(Pair III is incorrectly matched)*\n\nSince all the organizations have been cross-matched with the wrong ministries in the given sequence, none of the pairs are correctly matched.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 193,
+        "completion_tokens": 1662,
+        "total_tokens": 1855
+      }
+    },
+    {
+      "question_id": "gs1_2025_q058",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 58,
+      "raw_output": "To determine which subjects require ratification by the Legislatures of not less than one-half of the States for a constitutional amendment, we must look at the provisions of **Article 368** of the Constitution of India. \n\nAccording to the proviso to Article 368(2), a special majority of the Parliament along with the ratification by at least half of the State Legislatures is required if an amendment seeks to make a change to federal provisions. These provisions include:\n1. Election of the President and its manner (Articles 54 and 55).\n2. Extent of the executive power of the Union and the States (**Articles 73 and 162**).\n3. Supreme Court and High Courts (Chapter IV of Part V, Chapter V of Part VI, and Article 241).\n4. Distribution of legislative powers between the Union and the States (Chapter I of Part XI).\n5. Goods and Services Tax Council (Article 279A).\n6. **Any of the Lists in the Seventh Schedule**.\n7. Representation of States in Parliament.\n8. Power of Parliament to amend the Constitution and its procedure (Article 368 itself).\n\nNow let's evaluate the given subjects:\n* **I. List I-Union List, in the Seventh Schedule:** This falls under \"Any of the Lists in the Seventh Schedule.\" Therefore, it **requires** ratification by half of the States.\n* **II. Extent of the executive power of a State:** This is dealt with under Article 162, which is explicitly mentioned in the proviso to Article 368. Therefore, it **requires** ratification by half of the States.\n* **III. Conditions of the Governor's office:** This is dealt with under Article 158. It is not included in the entrenched provisions listed in the proviso to Article 368. Therefore, it can be amended by a special majority of the Parliament alone and **does not require** ratification by the State Legislatures.\n\nSince only statements I and II require ratification by the State Legislatures, the correct option is (A).\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 224,
+        "completion_tokens": 1279,
+        "total_tokens": 1503
+      }
+    },
+    {
+      "question_id": "gs1_2025_q059",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 59,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 236,
+        "completion_tokens": 432,
+        "total_tokens": 668
+      }
+    },
+    {
+      "question_id": "gs1_2025_q060",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 60,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 189,
+        "completion_tokens": 537,
+        "total_tokens": 726
+      }
+    },
+    {
+      "question_id": "gs1_2025_q061",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 61,
+      "raw_output": "To determine the correct statements, let's calculate each of the deficits based on the given data:\n\n1. **Revenue Deficit**: \nRevenue Deficit is the excess of revenue expenditure over revenue receipts.\n* Revenue Deficit = Revenue Expenditure - Revenue Receipts\n* Revenue Deficit = \u20b980,000 crores - \u20b960,000 crores = \u20b920,000 crores.\n**Statement I is correct.**\n\n2. **Fiscal Deficit**: \nFiscal Deficit is the excess of total expenditure over total receipts (excluding borrowings). In simpler terms, it represents the total borrowing requirements of the government to bridge the gap between its expenses and its income. \n* Fiscal Deficit = Total Borrowings\n* Fiscal Deficit = \u20b910,000 crores.\n**Statement II is correct.**\n\n3. **Primary Deficit**: \nPrimary Deficit is calculated by deducting interest payments on previous borrowings from the current year's fiscal deficit. It shows the borrowing requirement of the government exclusive of interest payments.\n* Primary Deficit = Fiscal Deficit - Interest Payments\n* Primary Deficit = \u20b910,000 crores - \u20b96,000 crores = \u20b94,000 crores.\n**Statement III is correct.**\n\nSince all three statements are correct, the right choice is D.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 264,
+        "completion_tokens": 1085,
+        "total_tokens": 1349
+      }
+    },
+    {
+      "question_id": "gs1_2025_q062",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 62,
+      "raw_output": "To determine the correct answer, let's look at the details of the International North-South Transport Corridor (INSTC):\n\n1. **Founding Members:** The INSTC was established in September 2000 in St. Petersburg by its three founding members: **India, Iran, and Russia**. \n2. **Route and Purpose:** It is a 7,200-km-long multi-mode network of ship, rail, and road routes. The primary objective of the corridor is to reduce the time and cost of transporting goods between India and Europe/Russia. \n3. **Path:** The freight route connects India to Iran (via the Arabian Sea to the port of Bandar Abbas), and then transits onward through Iran to the Caspian Sea, Central Asia, and Russia, eventually reaching Europe. \n\nOption (A) correctly identifies the key transit route (via Iran) and the regions it connects (India to Central Asia and Europe). Option (D) mentions Azerbaijan (which is part of the Western route of the INSTC), but it misses the crucial primary transit node of Iran, which is a founding member. Options (B) and (C) describe entirely different projects (like the BCIM or the India-Myanmar-Thailand Trilateral Highway).\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 176,
+        "completion_tokens": 1131,
+        "total_tokens": 1307
+      }
+    },
+    {
+      "question_id": "gs1_2025_q063",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 63,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 258,
+        "completion_tokens": 368,
+        "total_tokens": 626
+      }
+    },
+    {
+      "question_id": "gs1_2025_q064",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 64,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 326,
+        "total_tokens": 555
+      }
+    },
+    {
+      "question_id": "gs1_2025_q065",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 65,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 247,
+        "completion_tokens": 1967,
+        "total_tokens": 2214
+      }
+    },
+    {
+      "question_id": "gs1_2025_q066",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 66,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 282,
+        "completion_tokens": 594,
+        "total_tokens": 876
+      }
+    },
+    {
+      "question_id": "gs1_2025_q067",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 67,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 213,
+        "completion_tokens": 295,
+        "total_tokens": 508
+      }
+    },
+    {
+      "question_id": "gs1_2025_q068",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 68,
+      "raw_output": "To determine the correct statements regarding RTGS (Real Time Gross Settlement) and NEFT (National Electronic Funds Transfer), let's evaluate them one by one:\n\n**Statement I:** *In RTGS, the settlement time is instantaneous while in case of NEFT, it takes some time to settle payments.*\n- **Correct.** RTGS is a real-time settlement system, meaning the transfer of funds happens instantaneously and individually on an order-by-order basis. NEFT, on the other hand, operates in half-hourly batches, so it takes a short amount of time for the payment to be settled. \n\n**Statement II:** *In RTGS, the customer is charged for inward transactions while that is not the case for NEFT.*\n- **Incorrect.** The Reserve Bank of India (RBI) has mandated that no charges can be levied on customers for inward transactions (receiving funds) for both RTGS and NEFT. \n\n**Statement III:** *Operating hours for RTGS are restricted on certain days while this is not true for NEFT.*\n- **Correct (in the context of the exam year).** This question appeared in the UPSC CAPF 2020 examination. At the time the paper was set, NEFT had already been made available 24x7x365 (since December 2019), while RTGS was still restricted to working days and specific hours (it was later made 24x7 on December 14, 2020). Therefore, historically and in the context of the official answer key, this statement is considered correct.\n\nSince Statements I and III are correct, the right option is (C).\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 237,
+        "completion_tokens": 1600,
+        "total_tokens": 1837
+      }
+    },
+    {
+      "question_id": "gs1_2025_q069",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 69,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 177,
+        "completion_tokens": 557,
+        "total_tokens": 734
+      }
+    },
+    {
+      "question_id": "gs1_2025_q070",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 70,
+      "raw_output": "To determine the correct statements about the 'PM Surya Ghar Muft Bijli Yojana', let's evaluate each statement based on the official guidelines and announcements of the scheme:\n\n1. **Statement I:** The 'PM Surya Ghar Muft Bijli Yojana' was approved by the Union Cabinet with a total outlay of Rs 75,021 crore. Its primary objective is to provide free electricity up to 300 units per month to **one crore households** by installing solar rooftop panels in the residential sector. Thus, Statement I is correct.\n\n2. **Statement II:** As the nodal ministry, the **Ministry of New and Renewable Energy (MNRE)** is responsible for the implementation of the scheme. A key part of ensuring the sustainability of the scheme is the capacity building component, which aims to impart training on the installation, operation, maintenance, and repair of solar rooftop systems at the grassroots level. Thus, Statement II is correct.\n\n3. **Statement III:** Under the capacity building component of the scheme, the government has allocated specific funds to ensure there is enough trained personnel to meet the massive target. The scheme officially aims to create more than **three lakh skilled manpower** through fresh skilling and up-skilling programs to support the manufacturing, logistics, installation, and O&M (Operation and Maintenance) of these solar systems. Thus, Statement III is correct.\n\nSince all three statements are correct, the right option is D.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 246,
+        "completion_tokens": 1500,
+        "total_tokens": 1746
+      }
+    },
+    {
+      "question_id": "gs1_2025_q071",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 71,
+      "raw_output": "To determine the correct context of Mahatma Gandhi's statement, \"Sedition has become my religion,\" we can look at the events surrounding the Civil Disobedience Movement. \n\nMahatma Gandhi made this famous statement in 1930 during the Salt Satyagraha. When he reached Dandi and publicly violated the British salt laws by picking up a lump of salt on April 6, 1930, he openly defied the British Empire. The act of making salt was a direct challenge to the British monopoly and taxation on salt, which Gandhi and his followers considered unjust. By breaking the law, Gandhi was openly committing sedition against the British government, and he embraced this defiance peacefully, stating that \"Sedition has become my religion\" to emphasize his unwavering commitment to non-violent resistance against an unjust regime. \n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 1563,
+        "total_tokens": 1730
+      }
+    },
+    {
+      "question_id": "gs1_2025_q072",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 72,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 94,
+        "total_tokens": 242
+      }
+    },
+    {
+      "question_id": "gs1_2025_q073",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 73,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 175,
+        "completion_tokens": 280,
+        "total_tokens": 455
+      }
+    },
+    {
+      "question_id": "gs1_2025_q074",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 74,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 205,
+        "completion_tokens": 298,
+        "total_tokens": 503
+      }
+    },
+    {
+      "question_id": "gs1_2025_q075",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 75,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 215,
+        "total_tokens": 382
+      }
+    },
+    {
+      "question_id": "gs1_2025_q076",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 76,
+      "raw_output": "To determine how many of the listed countries have more than four time zones, we must look at the time zones of each country, including their overseas territories and dependencies:\n\n1. **United Kingdom**: The UK itself observes 1 time zone, but when including its Overseas Territories (such as Bermuda, the Falkland Islands, Gibraltar, the Pitcairn Islands, and the British Indian Ocean Territory",
+      "extracted_answer": null,
+      "correct_answer": "c",
+      "result": "unanswered",
+      "marks": 0.0,
+      "usage": {
+        "prompt_tokens": 170,
+        "completion_tokens": 2044,
+        "total_tokens": 2214
+      }
+    },
+    {
+      "question_id": "gs1_2025_q077",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 77,
+      "raw_output": "To determine the correct statements, let's analyze them one by one:\n\n**Statement I:** Anadyr is located in the Chukotka Autonomous Okrug of Russia (Siberia), and Nome is located in Alaska, USA. They are relatively close to each other, separated by the Bering Sea. However, the International Date Line (IDL) passes right between them through the Bering Strait. Because they sit on opposite sides of the IDL, they are in completely different time zones that are separated by nearly a full day (21 hours). Therefore, when people in both cities are waking up around the same solar time for breakfast, they are experiencing two different days of the week. This statement is **correct**.\n\n**Statement II:** The Earth rotates from west to east, meaning places to the west of the International Date Line (like Russia/Asia) are a day *ahead* of places to the east of the line (like Alaska/North America). Because Anadyr is west of the IDL, it experiences the new calendar day first. Therefore, if it is Monday in Anadyr, it would still be Sunday in Nome, not Tuesday. This statement is **incorrect**. \n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 208,
+        "completion_tokens": 1256,
+        "total_tokens": 1464
+      }
+    },
+    {
+      "question_id": "gs1_2025_q078",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 78,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 165,
+        "completion_tokens": 204,
+        "total_tokens": 369
+      }
+    },
+    {
+      "question_id": "gs1_2025_q079",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 79,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 170,
+        "completion_tokens": 188,
+        "total_tokens": 358
+      }
+    },
+    {
+      "question_id": "gs1_2025_q080",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 80,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 161,
+        "total_tokens": 330
+      }
+    },
+    {
+      "question_id": "gs1_2025_q081",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 81,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 224,
+        "completion_tokens": 274,
+        "total_tokens": 498
+      }
+    },
+    {
+      "question_id": "gs1_2025_q082",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 82,
+      "raw_output": "To determine the correct answer, let's evaluate each statement:\n\n**Statement I:** Indian Railways have prepared a National Rail Plan (NRP) to create a 'future ready' railway system by 2028.\n*Analysis:* This statement is **incorrect**. The Indian Railways have prepared the National Rail Plan (NRP) for India to create a 'future ready' Railway system by **2030**, not 2028. The objective is to formulate strategies based on both operational capacities and commercial policy initiatives to increase the modal share of the Railways in freight to 45%.\n\n**Statement II:** 'Kavach' is an Automatic Train Protection system developed in collaboration with Germany.\n*Analysis:* This statement is **incorrect**. 'Kavach' is an **indigenously** developed Automatic Train Protection (ATP) system. It was developed by the Research Design and Standards Organisation (RDSO) in collaboration with the Indian industry, not with Germany. It is a part of the Atmanirbhar Bharat initiative.\n\n**Statement III:** 'Kavach' system consists of RFID tags fitted on track in station section.\n*Analysis:* This statement is **correct**. The Kavach system relies on several components to function, one of which includes Radio Frequency Identification (RFID) tags that are fitted on the tracks (including station sections and block sections). These tags help in identifying the exact location and direction of the train.\n\nThe question asks which of the statements are **not correct**. Since Statements I and II are incorrect, the right option is (A).\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 227,
+        "completion_tokens": 840,
+        "total_tokens": 1067
+      }
+    },
+    {
+      "question_id": "gs1_2025_q083",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 83,
+      "raw_output": "To determine how many of the given space missions encourage and support micro-gravity research, let's analyze each mission:\n\n1. **Axiom-4 (Ax-4):** This is a planned commercial spaceflight to the International Space Station (ISS). ISRO has selected Group Captain Shubhanshu Shukla as the prime astronaut for this mission. During his time on the ISS, he will",
+      "extracted_answer": null,
+      "correct_answer": "c",
+      "result": "unanswered",
+      "marks": 0.0,
+      "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 2044,
+        "total_tokens": 2213
+      }
+    },
+    {
+      "question_id": "gs1_2025_q084",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 84,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 196,
+        "completion_tokens": 362,
+        "total_tokens": 558
+      }
+    },
+    {
+      "question_id": "gs1_2025_q085",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 85,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 144,
+        "total_tokens": 296
+      }
+    },
+    {
+      "question_id": "gs1_2025_q086",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 86,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 194,
+        "completion_tokens": 238,
+        "total_tokens": 432
+      }
+    },
+    {
+      "question_id": "gs1_2025_q087",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 87,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 293,
+        "completion_tokens": 423,
+        "total_tokens": 716
+      }
+    },
+    {
+      "question_id": "gs1_2025_q088",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 88,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 220,
+        "completion_tokens": 476,
+        "total_tokens": 696
+      }
+    },
+    {
+      "question_id": "gs1_2025_q089",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 89,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 246,
+        "completion_tokens": 295,
+        "total_tokens": 541
+      }
+    },
+    {
+      "question_id": "gs1_2025_q090",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 90,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 158,
+        "completion_tokens": 103,
+        "total_tokens": 261
+      }
+    },
+    {
+      "question_id": "gs1_2025_q091",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 91,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 254,
+        "completion_tokens": 462,
+        "total_tokens": 716
+      }
+    },
+    {
+      "question_id": "gs1_2025_q092",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 92,
+      "raw_output": "To determine the correct statements about the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC), let's evaluate each statement:\n\n*   **Statement I:** BIMSTEC is a regional organization comprising seven member states (Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, and Thailand). This statement is **correct**.\n*   **Statement II:** BIMSTEC came into existence on June 6, 1997, through the signing of the **Bangkok Declaration**, not the Dhaka Declaration of 1999. Thus, this statement is **incorrect**.\n*   **Statement III:** The founding members of BIMSTEC were Bangladesh, India, Sri Lanka, and Thailand (originally formed as BIST-EC). Myanmar joined later in 1997, and Nepal and Bhutan became members in 2004. Therefore, Nepal was not a founding member, making this statement **incorrect**.\n*   **Statement IV:** Following the rationalization of BIMSTEC sectors in 2022 (reducing them from 14 to 7), the 'People-to-People Contact' sector, which includes the subsector of **'Tourism'**, is being led by **Nepal**, not India. India currently leads the 'Security' sector (which includes Counter-Terrorism and Transnational Crime, Disaster Management, and Energy). Thus, this statement is **incorrect**.\n\nSince only Statement I is correct, the right option is (D).\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 239,
+        "completion_tokens": 1618,
+        "total_tokens": 1857
+      }
+    },
+    {
+      "question_id": "gs1_2025_q093",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 93,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 254,
+        "completion_tokens": 467,
+        "total_tokens": 721
+      }
+    },
+    {
+      "question_id": "gs1_2025_q094",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 94,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 228,
+        "completion_tokens": 254,
+        "total_tokens": 482
+      }
+    },
+    {
+      "question_id": "gs1_2025_q095",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 95,
+      "raw_output": "To determine the correct answer, let's evaluate both statements based on the events of the AI Action Summit held in Paris in February 2025:\n\n**Statement I:** The AI Action Summit held in Paris (February 10-11, 2025) was hosted solely by France (spearheaded by French President Emmanuel Macron). It was **not** co-chaired with India. While it is true that the event builds on the previous AI Safety Summits held at Bletchley Park (2023) and Seoul (2024), the claim that it was co-chaired with India makes this statement incorrect. \n\n**Statement II:** At the conclusion of the Paris AI Action Summit, a major point of global news was that the **United States and the United Kingdom both declined to sign** the final joint declaration on inclusive, sustainable, and safe AI. They, along with a few other nations, opted out due to concerns that the declaration's regulatory tone could stifle technological innovation and development. Therefore, this statement is also incorrect.\n\nSince both statements are incorrect, the correct option is (D).\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 231,
+        "completion_tokens": 1471,
+        "total_tokens": 1702
+      }
+    },
+    {
+      "question_id": "gs1_2025_q096",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 96,
+      "raw_output": "To determine the correct number of matched pairs, let's look at the recent declarations made by the United Nations General Assembly (UNGA) regarding International Years:\n\n1. **International Year of the Woman Farmer (2026):** In May 2024, the UNGA adopted a resolution declaring 2026 as the International Year of the Woman Farmer to highlight the crucial role women play in global agriculture and food systems. (Correctly matched)\n2. **International Year of Sustainable and Resilient Tourism (2027):** In February 2024, the UNGA declared 2027 as the International Year of Sustainable and Resilient Tourism to foster tourism that contributes to sustainable development and poverty eradication. (Correctly matched)\n3. **International Year of Peace and Trust (2025):** The UNGA declared 2025 as the International Year of Peace and Trust to encourage the international community to resolve conflicts through inclusive dialogue and negotiation. (Correctly matched)\n4. **International Year of Asteroid Awareness and Planetary Defence (2029):** Recognizing the near-Earth approach of the asteroid Apophis in 2029, the UNGA adopted a resolution to declare 2029 as the International Year of Asteroid Awareness and Planetary Defence. (Correctly matched)\n\nAll four pairs are correctly matched.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 208,
+        "completion_tokens": 1207,
+        "total_tokens": 1415
+      }
+    },
+    {
+      "question_id": "gs1_2025_q097",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 97,
+      "raw_output": "To determine the correct statements, let's evaluate them one by one:\n\n**Statement I:** The 16th BRICS Summit was indeed held in Kazan, Russia, from October 22 to 24, 2024, under the chairship of Russia. *(Statement I is correct)*\n\n**Statement II:** On January 1, 2024, BRICS expanded its full membership to include Egypt, Ethiopia, Iran, Saudi Arabia, and the United Arab Emirates. While Indonesia was recently recognized as one of the 13 new \"partner countries\" during the Kazan summit, it has not become a full member of BRICS. *(Statement II is incorrect)*\n\n**Statement III:** The official theme of the 16th BRICS Summit was \"Strengthening **Multilateralism** for Just Global Development and Security,\" not \"Multiculturalism.\" In competitive exams, such specific wordplay (Multilateralism vs. Multiculturalism) is often used to make a statement factually incorrect. *(Statement III is incorrect)*\n\nTherefore, only Statement I is correct.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 212,
+        "completion_tokens": 1823,
+        "total_tokens": 2035
+      }
+    },
+    {
+      "question_id": "gs1_2025_q098",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 98,
+      "raw_output": "To determine the correct statements about the Lokpal, let's evaluate each statement based on the **Lokpal and Lokayuktas Act, 2013**:\n\n*   **Statement I is incorrect:** According to Section 1(2) of the Act, the jurisdiction of the Lokpal extends to the whole of India and applies to public servants in India as well as Indian public servants posted **outside India**.\n*   **Statement II is incorrect:** While the Chairperson or a Member cannot be a Member of Parliament or a State Legislature, the Chairperson does not *have* to be only the Chief Justice of India. According to Section 3(2), the Chairperson can be a current or former Chief Justice of India, a current or former Judge of the Supreme Court, or an eminent person with impeccable integrity and outstanding ability having special knowledge and expertise of not less than 25 years in matters relating to anti-corruption policy, public administration, vigilance, finance, etc.\n*   **Statement III is correct:** According to Section 3(4)(c) of the Act, the Chairperson or a Member shall not be a person of less than forty-five (45) years of age on the date of assuming office.\n*   **Statement IV is incorrect:** The Lokpal **can** inquire into allegations of corruption against a sitting Prime Minister of India. However, there are certain exceptions; it cannot inquire into allegations related to international relations, external and internal security, public order, atomic energy, and space. Furthermore, an inquiry against the PM requires the approval of a full bench of the Lokpal with at least a two-thirds majority.\n\nSince only Statement III is correct, the correct option is (A).\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 287,
+        "completion_tokens": 1081,
+        "total_tokens": 1368
+      }
+    },
+    {
+      "question_id": "gs1_2025_q099",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 99,
+      "raw_output": "To determine the correct statements regarding the first Kho Kho World Cup, let's evaluate each statement:\n\nI. **The event was held in Delhi, India.** \nThe first-ever Kho Kho World Cup was indeed hosted by India and took place at the Thyagaraj Indoor Stadium in New Delhi from January 13 to January 19, 2025. Thus, Statement",
+      "extracted_answer": null,
+      "correct_answer": "a",
+      "result": "unanswered",
+      "marks": 0.0,
+      "usage": {
+        "prompt_tokens": 231,
+        "completion_tokens": 2044,
+        "total_tokens": 2275
+      }
+    },
+    {
+      "question_id": "gs1_2025_q100",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 100,
+      "raw_output": "To determine the correct answer, let's evaluate both statements:\n\n**Statement I:** *In the finals of the 45th Chess Olympiad held in 2024, Gukesh Dommaraju became the world's youngest winner after defeating the Russian player Ian Nepomniachtchi.*\nThis statement is **incorrect**. Gukesh Dommaraju made history by winning the **FIDE Candidates Tournament** in April 2024 (not the Chess Olympiad, which is a team event played in a Swiss-system format without a traditional \"final\" match between two individuals). By winning the Candidates Tournament, Gukesh became the youngest-ever challenger for the World Chess Championship. Furthermore, he secured the tournament victory after drawing his final round game against Hikaru Nakamura, while Ian Nepomniachtchi drew against Fabiano Caruana. \n\n**Statement II:** *Abhimanyu Mishra, an American chess player, holds the record of becoming world's youngest ever Grandmaster.*\nThis statement is **correct**. In 2021, Abhimanyu Mishra, an American chess prodigy, broke the 19-year-old record held by Sergey Karjakin to become the youngest Grandmaster in chess history at the age of 12 years, 4 months, and 25 days.\n\nSince only Statement II is correct, the right option is (B).\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 224,
+        "completion_tokens": 904,
+        "total_tokens": 1128
+      }
+    }
+  ]
+}

@@ -1,0 +1,1619 @@
+{
+  "run_id": "483030aa",
+  "model": "openrouter/google/gemini-2.5-flash",
+  "total_questions": 100,
+  "overall_correct": 77,
+  "overall_wrong": 21,
+  "overall_unanswered": 2,
+  "overall_accuracy": 77.0,
+  "scores_by_year": {
+    "2025": {
+      "gs1": {
+        "total_marks": 140.14,
+        "max_marks": 200,
+        "correct_count": 77,
+        "wrong_count": 21,
+        "unanswered_count": 2,
+        "total_questions": 100,
+        "accuracy": 77.0,
+        "passed": true,
+        "cutoff": 90.0,
+        "margin": 50.14
+      }
+    }
+  },
+  "results": [
+    {
+      "question_id": "gs1_2025_q001",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 1,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "b",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 168,
+        "completion_tokens": 5,
+        "total_tokens": 173
+      }
+    },
+    {
+      "question_id": "gs1_2025_q002",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 2,
+      "raw_output": "Let's analyze each statement:\n\n*   **I. Buying and selling Government bonds:** The RBI conducts Open Market Operations (OMOs) where it buys and sells government securities. The interest earned on these securities and capital gains/losses from their trading are a significant source of income for the RBI. This is a correct source.\n\n*   **II. Buying and selling foreign currency:** The RBI manages India's foreign exchange reserves. It buys and sells foreign currency to influence the exchange rate and manage liquidity. The interest earned on foreign currency assets and capital gains/losses from their trading are a major source of income. This is a correct source.\n\n*   **III. Pension fund management:** The RBI does not typically engage in pension fund management for the general public or private entities as a primary income-generating activity. Its role is more about monetary policy and financial regulation. While it might manage its own employee pension funds, this is not a significant *source of income for the institution* in the broader sense of its operations.\n\n*   **IV. Lending to private companies:** The RBI is a \"banker's bank\" and a \"banker to the government.\" It does not directly lend to private companies. Commercial banks lend to private companies. The RBI lends to commercial banks (e.g., through repo operations), but this is not \"lending to private companies.\"\n\n*   **V. Printing and distributing currency notes:** While the RBI is responsible for printing and distributing currency notes, this is a *cost* or a *function*, not a *source of income*. The cost of printing is borne by the RBI, and the notes themselves are liabilities on its balance sheet.\n\nBased on this analysis, the primary sources of income among the given options are I and II.\n\nLet's re-evaluate the options:\n(A) I and II only\n(B) II, III and IV\n(C) I, III, IV and V\n(D) I, II and V\n\nOption (A) correctly identifies I and II as sources of income.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 204,
+        "completion_tokens": 436,
+        "total_tokens": 640
+      }
+    },
+    {
+      "question_id": "gs1_2025_q003",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 3,
+      "raw_output": "Let's analyze each row:\n\n**Row I: Directorate of Enforcement**\n*   **Organization:** Directorate of Enforcement\n*   **Some of its functions:** Internal Enforcement of the Security Fugitive Division-I, Economic Offenders Act, 2018\n*   **It works under:** Ministry of Home Affairs\n\n*   **Analysis:**\n    *   The Directorate of Enforcement (ED) is indeed responsible for enforcing the Prevention of Money Laundering Act (PMLA), the Foreign Exchange Management Act (FEMA), and the Fugitive Economic Offenders Act (FEOA), 2018. So, the function mentioned is correct.\n    *   However, the ED functions under the **Department of Revenue, Ministry of Finance**, not the Ministry of Home Affairs.\n    *   Therefore, Row I is **incorrectly matched**.\n\n**Row II: Directorate of Revenue Intelligence (DRI)**\n*   **Organization:** Directorate of Revenue Intelligence\n*   **Some of its functions:** Enforces the Provisions of the Customs Act, 1962\n*   **It works under:** Department of Revenue, Ministry of Finance\n\n*   **Analysis:**\n    *   The Directorate of Revenue Intelligence (DRI) is the principal intelligence agency of India responsible for combating smuggling and enforcing the provisions of the Customs Act, 1962. So, the function is correct.\n    *   The DRI functions under the **Central Board of Indirect Taxes and Customs (CBIC)**, which is part of the **Department of Revenue, Ministry of Finance**. So, the working under information is correct.\n    *   Therefore, Row II is **correctly matched**.\n\n**Row III: Directorate General of Systems and Data Management**\n*   **Organization:** Directorate General of Systems and Data Management\n*   **Some of its functions:** Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders\n*   **It works under:** Department of Revenue, Ministry of Finance\n\n*   **Analysis:**\n    *   The Directorate General of Systems and Data Management (DGS&DM) is indeed responsible for managing IT systems and carrying out data analytics for the Central Board of Indirect Taxes and Customs (CBIC) to assist in tax administration, policy formulation, and identifying tax evaders. So, the function is correct.\n    *   It functions under the **Central Board of Indirect Taxes and Customs (CBIC)**, which is part of the **Department of Revenue, Ministry of Finance**. So, the working under information is correct.\n    *   Therefore, Row III is **correctly matched**.\n\n**Conclusion:**\nRows II and III are correctly matched.\n\nThe final answer is $\\boxed{B}$",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 255,
+        "completion_tokens": 565,
+        "total_tokens": 820
+      }
+    },
+    {
+      "question_id": "gs1_2025_q004",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 4,
+      "raw_output": "The correct answer is (B). Here's why:\n\n*   **Statement I is incorrect:** The Reserve Bank of India (RBI) does not mandate BRSR submission. It is the **Securities and Exchange Board of India (SEBI)** that mandates BRSR for the top 1000 listed companies by market capitalization.\n\n*   **Statement II is correct:** The Business Responsibility and Sustainability Report (BRSR) focuses heavily on environmental, social, and governance (ESG) aspects. These disclosures are indeed largely non-financial, covering areas like resource consumption, emissions, employee well-being, human rights, supply chain practices, and governance structures, in addition to some financial implications related to these areas.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 201,
+        "completion_tokens": 151,
+        "total_tokens": 352
+      }
+    },
+    {
+      "question_id": "gs1_2025_q005",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 5,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 251,
+        "completion_tokens": 5,
+        "total_tokens": 256
+      }
+    },
+    {
+      "question_id": "gs1_2025_q006",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 6,
+      "raw_output": "The question asks us to identify the correct statements regarding India's critical minerals policy. Let's analyze each statement:\n\n**Statement I: India has joined the Minerals Security Partnership as a member.**\nThe Minerals Security Partnership (MSP) is a US-led initiative aimed at securing critical mineral supply chains. India officially joined the MSP in June 2023. This statement is correct.\n\n**Statement II: India is a resource-rich country in all the 30 critical minerals that it has identified.**\nIndia has identified 30 critical minerals. However, India is not resource-rich in *all* of them. For many critical minerals like lithium, cobalt, and nickel, India has limited or no known reserves and is heavily reliant on imports. The very purpose of identifying critical minerals and joining initiatives like MSP is to secure supply chains for minerals where India is not self-sufficient. This statement is incorrect.\n\n**Statement III: The Parliament in 2023 has amended the Mines and Minerals (Development and Regulation) Act, 1957 empowering the Central Government to exclusively auction mining lease and composite license for certain critical minerals.**\nThe Mines and Minerals (Development and and Regulation) Amendment Act, 2023, was indeed passed by Parliament. This amendment specifically delisted six minerals (lithium, beryllium, niobium, titanium, tantalum, and zirconium) from the list of atomic minerals, allowing their auction by the Central Government. It also empowered the Central Government to exclusively auction mining leases and composite licenses for 24 critical minerals (including the six delisted ones) to ensure a faster and more streamlined process for these strategically important minerals. This statement is correct.\n\nBased on the analysis:\nStatement I is correct.\nStatement II is incorrect.\nStatement III is correct.\n\nTherefore, the correct statements are I and III.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 235,
+        "completion_tokens": 389,
+        "total_tokens": 624
+      }
+    },
+    {
+      "question_id": "gs1_2025_q007",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 7,
+      "raw_output": "The question asks us to evaluate three statements related to bondholders and stockholders and determine the correct relationship between them.\n\nLet's analyze each statement:\n\n**Statement I: As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.**\n*   **Bondholders** receive fixed interest payments and the return of their principal. Their returns are generally predictable and less volatile.\n*   **Stockholders** receive dividends (which are not guaranteed) and potential capital appreciation. Their returns are directly tied to the company's profitability and market performance, making them more volatile and higher risk.\n*   Therefore, bondholders are indeed at lower risk than stockholders. This statement is **correct**.\n\n**Statement II: Bondholders are lenders to a company whereas stockholders are its owners.**\n*   **Bondholders** provide debt capital to the company and are creditors. They lend money to the company in exchange for interest payments.\n*   **Stockholders** purchase shares of the company and represent ownership. They have a claim on the company's assets and earnings.\n*   This statement accurately defines the roles of bondholders and stockholders. This statement is **correct**.\n\n**Statement III: For repayment purpose, bondholders are prioritized over stockholders by a company.**\n*   In the event of a company's liquidation or bankruptcy, creditors (including bondholders) have a higher claim on the company's assets than equity holders (stockholders). Bondholders must be repaid their principal and any accrued interest before stockholders receive anything. Stockholders are residual claimants.\n*   This statement is **correct**.\n\nNow let's look at the options:\n\n**(A) Both Statement II and Statement III are correct and both of them explain Statement I**\n*   We've established that Statement II and Statement III are correct.\n*   **Does Statement II explain Statement I?** Yes, because bondholders are lenders (creditors) and stockholders are owners, the legal structure inherently places bondholders in a less risky position regarding repayment and fixed income, which contributes to their lower risk profile compared to owners whose returns are residual and dependent on profit.\n*   **Does Statement III explain Statement I?** Yes, the prioritization of bondholders over stockholders for repayment directly contributes to bondholders being at lower risk. If the company faces financial distress, bondholders have a better chance of recovering their investment than stockholders.\n*   Therefore, both Statement II and Statement III are correct and they both explain why bondholders are at lower risk than stockholders (Statement I).\n\n**(B) Both Statement I and Statement II are correct and Statement I explains Statement II**\n*   Statement I and Statement II are correct.\n*   However, Statement I (bondholders are lower risk) does not explain Statement II (bondholders are lenders, stockholders are owners). Rather, Statement II provides the fundamental definitions that *lead to* Statement I. The roles of lenders and owners determine their respective risk profiles. So, the explanatory direction is incorrect here.\n\n**(C) Only one of the Statements II and III is correct and that explains Statement I**\n*   This is incorrect because both Statement II and Statement III are correct.\n\n**(D) Neither Statement II nor Statement III is correct**\n*   This is incorrect because both Statement II and Statement III are correct.\n\nBased on the analysis, option (A) correctly identifies that Statement II and Statement III are correct and that they both explain Statement I.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 259,
+        "completion_tokens": 732,
+        "total_tokens": 991
+      }
+    },
+    {
+      "question_id": "gs1_2025_q008",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 8,
+      "raw_output": "Let's analyze each statement:\n\n**Statement I: India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.**\nThis statement is largely true. India's National Stock Exchange (NSE) has indeed become a global leader in the trading of equity derivatives, particularly index options. Reports from the Futures Industry Association (FIA) consistently show NSE among the top exchanges globally by the number of contracts traded. This indicates a significant boom in options trading in India.\n\n**Statement II: India's stock market has grown rapidly in the recent past even overtaking Hong Kong's at some point of time.**\nThis statement is also true. In January 2024, India's stock market (in terms of market capitalization) surpassed Hong Kong's to become the world's fourth-largest stock market. This was a significant milestone reflecting rapid growth.\n\n**Statement III: There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.**\nThis statement is incorrect. The Securities and Exchange Board of India (SEBI) is the primary regulatory body for the securities market in India. SEBI actively issues warnings to investors about the risks associated with derivatives trading, including options, and has taken steps to regulate financial advisors. It has a framework for registration of investment advisors and takes action against unregistered entities. Therefore, to say there is \"no regulatory body\" is false.\n\nBased on the analysis:\n* Statement I is correct.\n* Statement II is correct.\n* Statement III is incorrect.\n\nTherefore, the correct statements are I and II only.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 232,
+        "completion_tokens": 348,
+        "total_tokens": 580
+      }
+    },
+    {
+      "question_id": "gs1_2025_q009",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 9,
+      "raw_output": "The question asks us to evaluate three statements about the circular economy and determine the relationship between them.\n\nLet's analyze each statement:\n\n*   **Statement I: Circular economy reduces the emissions of greenhouse gases.**\n    The circular economy aims to keep products and materials in use for as long as possible, design out waste and pollution, and regenerate natural systems. By reducing the need for new raw materials, minimizing waste, and promoting reuse, repair, and recycling, it inherently reduces the energy required for extraction, manufacturing, and disposal, which in turn leads to lower greenhouse gas emissions. So, Statement I is correct.\n\n*   **Statement II: Circular economy reduces the use of raw materials as inputs.**\n    A core principle of the circular economy is to minimize the extraction of virgin raw materials. It achieves this by maximizing the use of existing materials through recycling, reuse, remanufacturing, and designing products for durability and repairability. This directly reduces the demand for new raw material inputs. So, Statement II is correct.\n\n*   **Statement III: Circular economy reduces wastage in the production process.**\n    The circular economy is fundamentally about designing out waste and pollution. This includes waste generated during the production process (e.g., by-products are reused or recycled) as well as waste at the end-of-life of products. By promoting efficient resource use, industrial symbiosis, and closed-loop systems, it significantly reduces wastage. So, Statement III is correct.\n\nNow, let's consider the relationship between these statements.\n\n*   **Does Statement II explain Statement I?**\n    Reducing the use of raw materials (Statement II) means less energy is expended on extraction, processing, and transportation of these materials. These activities are significant sources of greenhouse gas emissions. Therefore, reducing raw material use directly contributes to reducing greenhouse gas emissions (Statement I). So, Statement II helps explain Statement I.\n\n*   **Does Statement III explain Statement I?**\n    Reducing wastage in the production process (Statement III) means resources are used more efficiently, less energy is consumed in managing and disposing of waste, and fewer new resources are needed to replace wasted ones. All these aspects lead to a reduction in greenhouse gas emissions (Statement I). So, Statement III also helps explain Statement I.\n\nBoth Statement II and Statement III are correct, and both contribute to and explain why a circular economy reduces greenhouse gas emissions (Statement I).\n\nLet's evaluate the given options:\n\n(A) Both Statement II and Statement III are correct and both of them explain Statement I.\n    This aligns with our analysis.\n\n(B) Both Statement II and Statement III are correct but only one of them explains Statement I.\n    This is incorrect because both explain Statement I.\n\n(C) Only one of the Statements II and III is correct and that explains Statement I.\n    This is incorrect because both are correct.\n\n(D) Neither Statement II nor Statement III is correct.\n    This is incorrect because both are correct.\n\nTherefore, option (A) is the most accurate description.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 234,
+        "completion_tokens": 640,
+        "total_tokens": 874
+      }
+    },
+    {
+      "question_id": "gs1_2025_q010",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 10,
+      "raw_output": "Let's analyze each statement:\n\n*   **Statement I: Capital receipts create a liability or cause a reduction in the assets of the Government.**\n    *   Capital receipts are non-recurring and either create a liability (like borrowings) or reduce financial assets (like disinvestment). This statement is correct.\n\n*   **Statement II: Borrowings and disinvestment are capital receipts.**\n    *   Borrowings create a liability for the government, making them a capital receipt.\n    *   Disinvestment (selling off government assets/shares) reduces the government's assets, making it a capital receipt. This statement is correct.\n\n*   **Statement III: Interest received on loans creates a liability of the Government.**\n    *   Interest *received* on loans is income for the government. It is a revenue receipt, not a capital receipt. It does not create a liability for the government; rather, it is a payment *to* the government. This statement is incorrect.\n\nBased on the analysis:\nStatements I and II are correct. Statement III is incorrect.\n\nTherefore, the correct option is (A).\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 196,
+        "completion_tokens": 239,
+        "total_tokens": 435
+      }
+    },
+    {
+      "question_id": "gs1_2025_q011",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 11,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 201,
+        "completion_tokens": 5,
+        "total_tokens": 206
+      }
+    },
+    {
+      "question_id": "gs1_2025_q012",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 12,
+      "raw_output": "The Non-Cooperation Movement (1920-1922) was a significant phase in the Indian independence struggle led by Mahatma Gandhi. Let's analyze each statement:\n\nI. **Boycott of law-courts and foreign cloth:** This was a central tenet of the Non-Cooperation Programme. People were encouraged to boycott British institutions, including courts, and promote Swadeshi (indigenous) goods, leading to the boycott of foreign cloth. This statement is correct.\n\nII. **Observance of strict non-violence:** Non-violence (Ahimsa) was the fundamental principle of the Non-Cooperation Movement, as envisioned by Gandhi. Participants were strictly enjoined to remain non-violent in all their actions. This statement is correct.\n\nIII. **Retention of titles and honours without using them in public:** The Non-Cooperation Programme explicitly called for the **surrender** of titles and honorary offices. Many prominent Indians, like Rabindranath Tagore (who renounced his knighthood after the Jallianwala Bagh massacre, though before the formal launch of the NCM, it set a precedent), did so. Retaining them, even without public use, would contradict the spirit of non-cooperation. This statement is incorrect.\n\nIV. **Establishment of Panchayats for settling disputes:** As part of the constructive program and the boycott of British courts, the establishment of parallel indigenous institutions like Panchayats for dispute resolution was encouraged. This was aimed at building self-reliance and undermining the British judicial system. This statement is correct.\n\nBased on the analysis:\nStatements I, II, and IV were parts of the Non-Cooperation Programme.\nStatement III was not.\n\nTherefore, three of the above were parts of the Non-Cooperation Programme.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 203,
+        "completion_tokens": 382,
+        "total_tokens": 585
+      }
+    },
+    {
+      "question_id": "gs1_2025_q013",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 13,
+      "raw_output": "The correct answer is (B).\n\nThe 'Araghatta' was a type of water wheel, often driven by animals, used for irrigation. It featured a large wheel with earthen pots or buckets attached to its rim or spokes, which would scoop up water from a well or river and then empty it into a channel as the wheel rotated. This mechanism is also known as a Persian wheel or Noria.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 173,
+        "completion_tokens": 88,
+        "total_tokens": 261
+      }
+    },
+    {
+      "question_id": "gs1_2025_q014",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 14,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 170,
+        "completion_tokens": 5,
+        "total_tokens": 175
+      }
+    },
+    {
+      "question_id": "gs1_2025_q015",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 15,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 5,
+        "total_tokens": 160
+      }
+    },
+    {
+      "question_id": "gs1_2025_q016",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 16,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 191,
+        "completion_tokens": 5,
+        "total_tokens": 196
+      }
+    },
+    {
+      "question_id": "gs1_2025_q017",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 17,
+      "raw_output": "Let's analyze each pair:\n\n*   **I. Asmaka - Godavari:** Asmaka (or Assaka) was one of the sixteen Mahajanapadas, located in South India, on the banks of the Godavari river. This pair is **correctly matched**.\n\n*   **II. Kamboja - Vipas:** Kamboja was located in the far northwest, beyond Gandhara, in what is now parts of Afghanistan and Pakistan. The Vipas (Beas) river flows through Punjab, which is further east. The Kamboja region was more associated with rivers like the Kunar or Kabul river system. This pair is **incorrectly matched**.\n\n*   **III. Avanti - Mahanadi:** Avanti was a Mahajanapada in Central India, with its capital at Ujjain. It was located on the Malwa plateau, and rivers like the Shipra (a tributary of the Chambal) or the Narmada were more prominent in its vicinity. The Mahanadi flows through Odisha and Chhattisgarh, much further to the east. This pair is **incorrectly matched**.\n\n*   **IV. Kosala - Sarayu:** Kosala was a prominent Mahajanapada in North India, with its capital at Ayodhya. The Sarayu river (modern Ghaghara) flowed through the Kosala region. This pair is **correctly matched**.\n\nSo, two pairs (I and IV) are correctly matched.\n\nThe final answer is $\\boxed{B}$",
+      "extracted_answer": "b",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 198,
+        "completion_tokens": 312,
+        "total_tokens": 510
+      }
+    },
+    {
+      "question_id": "gs1_2025_q018",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 18,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 162,
+        "completion_tokens": 5,
+        "total_tokens": 167
+      }
+    },
+    {
+      "question_id": "gs1_2025_q019",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 19,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 160,
+        "completion_tokens": 5,
+        "total_tokens": 165
+      }
+    },
+    {
+      "question_id": "gs1_2025_q020",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 20,
+      "raw_output": "The Non-Cooperation Movement (1920-1922) was a pivotal moment in the Indian independence struggle. Let's analyze each statement:\n\n**Statement I: The Congress declared the attainment of 'Swaraj' by all legitimate and peaceful means to be its objective.**\nThis statement is correct. At the Nagpur session in December 1920, the Congress adopted a new constitution and changed its objective from \"self-government within the British Empire\" to \"the attainment of Swaraj by all legitimate and peaceful means.\" This was a significant shift, making Swaraj (self-rule) the primary goal and broadening the methods to achieve it, albeit within the confines of legitimacy and non-violence.\n\n**Statement II: It was to be implemented in stages with civil disobedience and non-payment of truces for the next stage only if 'Swaraj' did not come within a year and the Government resorted to repression.**\nThis statement is also correct. Gandhi had promised Swaraj within a year if the Non-Cooperation Movement was fully implemented. The movement was indeed planned in stages. The initial stages involved boycotts of foreign goods, government schools, colleges, courts, and legislative councils, and the surrender of titles and honorary offices. The next stage, which included civil disobedience (like non-payment of taxes), was to be launched if the government did not concede to demands and resorted to repression, and if Swaraj was not achieved within the promised timeframe. The Bardoli Resolution of 1922, for instance, was a plan to launch a no-tax campaign in Bardoli as part of this next stage, which was ultimately called off due to the Chauri Chaura incident.\n\nTherefore, both statements accurately describe aspects of the Non-Cooperation Movement.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "b",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 227,
+        "completion_tokens": 378,
+        "total_tokens": 605
+      }
+    },
+    {
+      "question_id": "gs1_2025_q021",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 21,
+      "raw_output": "Let's analyze each country's NATO membership status:\n\n*   **I. Austria:** Not a member of NATO. It is a neutral country.\n*   **II. Bulgaria:** Member of NATO (joined in 2004).\n*   **III. Croatia:** Member of NATO (joined in 2009).\n*   **IV. Serbia:** Not a member of NATO. It is militarily neutral.\n*   **V. Sweden:** Member of NATO (joined in 2024).\n*   **VI. North Macedonia:** Member of NATO (joined in 2020).\n\nCounting the NATO members from the list: Bulgaria, Croatia, Sweden, North Macedonia.\nThat's a total of four countries.\n\nTherefore, the correct option is (B).\n\nThe final answer is $\\boxed{B}$",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 173,
+        "completion_tokens": 181,
+        "total_tokens": 354
+      }
+    },
+    {
+      "question_id": "gs1_2025_q022",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 22,
+      "raw_output": "The Andes mountains are the longest continental mountain range in the world, running through seven South American countries. Let's check which of the given countries are among them:\n\nI. Bolivia: Yes, the Andes pass through Bolivia.\nII. Brazil: No, the Andes do not pass through Brazil. Brazil's highest point is Pico da Neblina, which is part of the Guiana Highlands, not the Andes.\nIII. Colombia: Yes, the Andes pass through Colombia.\nIV. Ecuador: Yes, the Andes pass through Ecuador.\nV. Paraguay: No, the Andes do not pass through Paraguay. Paraguay is largely flat or low-lying, with some hills in the east.\nVI. Venezuela: Yes, the Andes pass through Venezuela (specifically the Cordillera de M\u00e9rida).\n\nSo, the Andes mountains pass through Bolivia, Colombia, Ecuador, and Venezuela. That's a total of four countries from the given list.\n\nAnswer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 199,
+        "total_tokens": 366
+      }
+    },
+    {
+      "question_id": "gs1_2025_q023",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 23,
+      "raw_output": "The question asks through how many of the given water bodies the equator passes. Let's analyze each one:\n\nI. **Lake Tanganyika**: Lake Tanganyika is located in Central Africa, bordering Tanzania, Democratic Republic of Congo, Burundi, and Zambia. Its coordinates are approximately between 3\u00b0S and 9\u00b0S latitude. The equator is 0\u00b0 latitude. Therefore, the equator does **not** pass through Lake Tanganyika.\n\nII. **Lake Tonle Sap**: Lake Tonle Sap is a large freshwater lake in Cambodia, Southeast Asia. Its coordinates are approximately between 12\u00b0N and 13\u00b0N latitude. The equator is 0\u00b0 latitude. Therefore, the equator does **not** pass through Lake Tonle Sap.\n\nIII. **Patos Lagoon (Lagoa dos Patos)**: Patos Lagoon is the second-largest lagoon in South America, located in the state of Rio Grande do Sul, Brazil. Its coordinates are approximately between 30\u00b0S and 32\u00b0S latitude. The equator is 0\u00b0 latitude. Therefore, the equator does **not** pass through Patos Lagoon.\n\nBased on this analysis, the equator does not pass through any of the listed water bodies.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 165,
+        "completion_tokens": 256,
+        "total_tokens": 421
+      }
+    },
+    {
+      "question_id": "gs1_2025_q024",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 24,
+      "raw_output": "The question asks us to identify the correct statements about turmeric during the year 2022-23. Let's analyze each statement:\n\nStatement I: \"India is the largest producer and exporter of turmeric in the world.\"\nIndia has historically been the largest producer and exporter of turmeric globally. This trend continued in 2022-23. India accounts for a significant share of global turmeric production and trade.\n\nStatement II: \"More than 30 varieties of turmeric are grown in India.\"\nIndia is known for its rich biodiversity and diverse agro-climatic conditions, which support the cultivation of numerous varieties of crops, including turmeric. There are indeed many varieties of turmeric grown across different regions of India, each with unique characteristics. The number \"more than 30\" is plausible given the extensive cultivation and research in this area.\n\nStatement III: \"Maharashtra, Telangana, Karnataka and Tamil Nadu are major turmeric producing States in India.\"\nThese states are indeed among the leading turmeric-producing states in India. Other significant producers include Andhra Pradesh, Odisha, and parts of the North-Eastern region. Maharashtra, Telangana, Karnataka, and Tamil Nadu consistently rank high in turmeric production.\n\nBased on general knowledge about turmeric production in India, all three statements appear to be correct.\n\nLet's re-verify the facts:\nI. India is indeed the world's largest producer, consumer, and exporter of turmeric. This is a well-established fact.\nII. India cultivates a wide range of turmeric varieties. While an exact number can be hard to pinpoint and might vary slightly depending on classification, \"more than 30\" is a reasonable estimate given the genetic diversity and regional specificities. For instance, varieties like 'Lakadong' from Meghalaya, 'Alleppey Finger' from Kerala, 'Erode' from Tamil Nadu, 'Nizamabad' from Telangana, 'Sangli' from Maharashtra, etc., are well-known, and there are many more local and improved varieties.\nIII. Maharashtra, Telangana, Karnataka, and Tamil Nadu are consistently among the top turmeric-producing states in India. Other major states include Andhra Pradesh, Odisha, and Assam.\n\nTherefore, all three statements are factually correct.\n\nThe final answer is $\\boxed{D}$",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 231,
+        "completion_tokens": 473,
+        "total_tokens": 704
+      }
+    },
+    {
+      "question_id": "gs1_2025_q025",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 25,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 231,
+        "completion_tokens": 5,
+        "total_tokens": 236
+      }
+    },
+    {
+      "question_id": "gs1_2025_q026",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 26,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 230,
+        "completion_tokens": 5,
+        "total_tokens": 235
+      }
+    },
+    {
+      "question_id": "gs1_2025_q027",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 27,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 249,
+        "completion_tokens": 5,
+        "total_tokens": 254
+      }
+    },
+    {
+      "question_id": "gs1_2025_q028",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 28,
+      "raw_output": "Let's analyze each statement:\n\n**Statement I:** \"In the context of effect of water on rocks, chalk is known as a very permeable rock whereas clay is known as quite an impermeable or least permeable rock.\"\n*   **Chalk:** Chalk is indeed known for being permeable. It allows water to pass through relatively easily due to its porous nature.\n*   **Clay:** Clay is well-known for its low permeability. Its fine particle size and platy structure make it very difficult for water to pass through.\n*   **Conclusion for Statement I:** This statement is **correct**.\n\n**Statement II:** \"Chalk is porous and hence can absorb water.\"\n*   **Chalk's Porosity:** Chalk is a highly porous rock, meaning it has many small spaces (pores) within its structure.\n*   **Absorption:** Due to its porosity, chalk can absorb a significant amount of water.\n*   **Conclusion for Statement II:** This statement is **correct**. It also directly explains *why* chalk is permeable (as stated in Statement I).\n\n**Statement III:** \"Clay is not at all porous.\"\n*   **Clay's Porosity:** While clay has very low permeability, it is actually quite porous. The individual clay particles are very small, but there are spaces between them. In fact, clay can hold a lot of water *within* its structure (though it doesn't allow it to flow through easily). The pores are just very small and often interconnected in a tortuous way, leading to low permeability, but not zero porosity.\n*   **Conclusion for Statement III:** This statement is **incorrect**. Clay is porous, even if its permeability is low.\n\nNow let's evaluate the options based on our analysis:\n\n*   Statement I: Correct\n*   Statement II: Correct\n*   Statement III: Incorrect\n\nLet's re-examine the options:\n\n(A) Both Statement II and Statement III are correct and both of them explain Statement I\n    *   Incorrect, as Statement III is incorrect.\n\n(B) Both Statement II and Statement III are correct but only one of them explains Statement I\n    *   Incorrect, as Statement III is incorrect.\n\n(C) Only one of the Statements II and III is correct and that explains Statement I\n    *   Statement II is correct and explains Statement I (chalk's porosity leads to its permeability).\n    *   Statement III is incorrect.\n    *   This option fits.\n\n(D) Neither Statement II nor Statement III is correct\n    *   Incorrect, as Statement II is correct.\n\nTherefore, option (C) is the correct choice.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 257,
+        "completion_tokens": 560,
+        "total_tokens": 817
+      }
+    },
+    {
+      "question_id": "gs1_2025_q029",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 29,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 213,
+        "completion_tokens": 5,
+        "total_tokens": 218
+      }
+    },
+    {
+      "question_id": "gs1_2025_q030",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 30,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 210,
+        "completion_tokens": 5,
+        "total_tokens": 215
+      }
+    },
+    {
+      "question_id": "gs1_2025_q031",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 31,
+      "raw_output": "Let's analyze each statement:\n\n**Statement I: Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.**\n*   This statement is generally considered true. The cement industry is a major contributor to global CO2 emissions, often cited as accounting for around 5-8% of global anthropogenic CO2 emissions.\n\n**Statement II: Silica-bearing clay is mixed with limestone while manufacturing cement.**\n*   This statement is correct. The primary raw materials for cement production (specifically Portland cement) are calcium carbonate (usually from limestone) and a source of silica, alumina, and iron (often from clay, shale, or sand). These are mixed and then heated.\n\n**Statement III: Limestone is converted into lime during clinker production for cement manufacturing.**\n*   This statement is correct. During the clinker production process, limestone (calcium carbonate, CaCO3) is heated to very high temperatures (around 1450\u00b0C) in a process called calcination. This decomposes the limestone into lime (calcium oxide, CaO) and carbon dioxide (CO2). This CO2 release is a significant source of emissions from the cement industry. The lime then reacts with the silica, alumina, and iron components to form the clinker minerals.\n\nNow let's evaluate the relationship between the statements and the options:\n\n*   **Statement I** talks about the *magnitude* of CO2 emissions.\n*   **Statement II** describes a *raw material* used.\n*   **Statement III** describes a *chemical process* (calcination of limestone to lime) that *releases CO2*.\n\nStatement III directly explains *why* there are significant CO2 emissions from cement manufacturing (the calcination of limestone). Statement II describes another raw material, but doesn't directly explain the CO2 emissions in the same way Statement III does.\n\nLet's re-evaluate the options based on the correctness of II and III, and their explanatory power for I.\n\n*   (A) Both Statement II and Statement III are correct and both of them explain Statement I\n    *   Both II and III are correct. However, only Statement III directly explains the *source* of a significant portion of the CO2 emissions mentioned in Statement I. Statement II describes a raw material, but not the CO2 emission mechanism.\n*   (B) Both Statement II and Statement III are correct but only one of them explains Statement I\n    *   Both II and III are correct. Statement III explains Statement I (CO2 from calcination). Statement II does not directly explain the CO2 emissions. This option seems plausible.\n*   (C) Only one of the Statements II and III is correct and that explains Statement I\n    *   This is incorrect because both II and III are correct.\n*   (D) Neither Statement II nor Statement III is correct\n    *   This is incorrect because both II and III are correct.\n\nTherefore, option (B) is the most accurate. Both Statement II and Statement III are correct, but only Statement III directly explains a major reason for the CO2 emissions mentioned in Statement I.\n\nThe final answer is $\\boxed{B}$",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 251,
+        "completion_tokens": 662,
+        "total_tokens": 913
+      }
+    },
+    {
+      "question_id": "gs1_2025_q032",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 32,
+      "raw_output": "The user is asking to evaluate three statements related to India's stance on the 'Declaration on Climate and Health' at COP28 and the implications of decarbonizing the health sector.\n\nLet's analyze each statement:\n\n**Statement I: At the 28th United Nations Climate Change Conference (COP28), India refrained from signing the 'Declaration on Climate and Health'.**\n*   This statement is factually correct. India, along with China and the USA, did not sign the 'Declaration on Climate and Health' at COP28.\n\n**Statement II: The COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes mandatory to decarbonize health sector.**\n*   Declarations at COPs are generally non-binding political statements of intent, not legally binding treaties. The 'Declaration on Climate and Health' is a voluntary commitment. Therefore, it is not a binding declaration, and signing it does not make decarbonizing the health sector mandatory in a legal sense.\n*   Thus, Statement II is incorrect.\n\n**Statement III: If India's health sector is decarbonized, the resilience of its health-care system may be compromised.**\n*   Decarbonizing the health sector involves transitioning to renewable energy, sustainable procurement, and reducing waste. While the long-term goal is to enhance resilience by mitigating climate change impacts, the *process* of rapid decarbonization, especially in a developing country like India with a vast and diverse healthcare system, could present challenges.\n*   For instance, a rapid shift without adequate infrastructure, technology, and financial support could temporarily strain resources, disrupt supply chains, or increase costs, potentially affecting the accessibility and affordability of healthcare, thereby compromising resilience in the short to medium term.\n*   However, the declaration itself aims to *strengthen* health systems against climate change impacts, which inherently involves building resilience. The statement suggests a potential *compromise* during the transition.\n*   Let's re-evaluate the nuance. Decarbonization, when done effectively, is meant to *improve* resilience by reducing the health sector's contribution to climate change and making it more sustainable. However, the *pace* and *method* of decarbonization could indeed pose challenges. For example, if it leads to increased costs for essential medical supplies or energy, or if the alternative energy sources are not yet robust enough, it *could* compromise resilience.\n*   Considering the context of a developing country, this statement holds some plausibility as a potential concern or challenge during the transition. India's reluctance to sign might stem from such concerns about the practicalities and potential immediate impacts on its vast and resource-constrained health system.\n\nNow let's look at the options based on the analysis:\n\n*   Statement I is correct.\n*   Statement II is incorrect.\n*   Statement III is plausible as a potential reason for India's reluctance, suggesting a concern about the practical implications of rapid decarbonization on system resilience.\n\nLet's re-examine the options:\n\n(A) Both Statement II and Statement III are correct and both of them explain Statement I\n    *   Incorrect, as Statement II is incorrect.\n\n(B) Both Statement II and Statement III are correct but only one of them explains Statement I\n    *   Incorrect, as Statement II is incorrect.\n\n(C) Only one of the Statements II and III is correct and that explains Statement I\n    *   If Statement III is correct, then it could explain Statement I (India's reluctance due to concerns about compromising resilience).\n    *   If Statement II is incorrect, then this option suggests that only one of them (Statement III) is correct.\n\n(D) Neither Statement II nor Statement III is correct\n    *   Statement III seems plausible as a concern.\n\nLet's refine the assessment of Statement III. While the ultimate goal of climate action in health is to enhance resilience, the *process* of decarbonization, especially if perceived as rapid or resource-intensive without sufficient support, could be seen as potentially compromising the existing system's resilience in the short term, particularly for a large developing country. This concern could be a reason for not signing a declaration that implies a commitment to such a process. Therefore, Statement III can be considered correct in the context of a potential rationale for India's decision.\n\nSo, Statement I is correct.\nStatement II is incorrect (declarations are non-binding).\nStatement III is correct (it represents a plausible concern for a developing country like India).\n\nIf Statement III is correct, and Statement II is incorrect, then option (C) \"Only one of the Statements II and III is correct and that explains Statement I\" fits. Statement III (potential compromise of resilience) could explain why India refrained from signing.\n\nFinal check:\nStatement I: India refrained from signing. (Factually correct)\nStatement II: Declaration is binding and mandatory. (Incorrect, it's non-binding)\nStatement III: Decarbonizing health sector may compromise resilience. (Plausible concern, especially for a developing country, and could be a reason for not signing).\n\nTherefore, only Statement III is correct among II and III, and it explains Statement I.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 291,
+        "completion_tokens": 1093,
+        "total_tokens": 1384
+      }
+    },
+    {
+      "question_id": "gs1_2025_q033",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 33,
+      "raw_output": "The question asks us to evaluate three statements and determine their correctness and explanatory relationship.\n\nLet's analyze each statement:\n\n**Statement I: Scientific studies suggest that a shift is taking place in the Earth's rotation and axis.**\nThis statement is generally correct. Scientific studies, particularly those related to geodynamics and climate change, have indeed observed shifts in the Earth's rotation and the position of its rotational axis (polar motion). These shifts are influenced by various factors, including mass redistribution on and within the Earth.\n\n**Statement II: Solar flares and associated coronal mass ejections bombarded the Earth's outermost atmosphere with tremendous amount of energy.**\nThis statement is correct. Solar flares and coronal mass ejections (CMEs) are powerful eruptions from the Sun that release vast amounts of energy and charged particles. When directed towards Earth, these can indeed bombard the Earth's outermost atmosphere (magnetosphere and ionosphere) with tremendous energy, causing geomagnetic storms, auroras, and disruptions to communication systems. However, the energy from solar flares and CMEs primarily affects the Earth's atmosphere and magnetosphere, and while it can cause minor atmospheric drag on satellites, it is not a primary driver of significant shifts in the Earth's *rotation and axis* in the long term. The mass involved in these events is negligible compared to Earth's mass, and the energy transfer is primarily to the upper atmosphere, not directly to the solid Earth in a way that would significantly alter its rotational dynamics or axis.\n\n**Statement III: As the Earth's polar ice melts, the water tends to move towards the equator.**\nThis statement is correct. When polar ice sheets and glaciers melt, the resulting water flows into the oceans. Due to the Earth's rotation, this added mass of water, being fluid, tends to redistribute itself towards the equator due to centrifugal force. This redistribution of mass from high latitudes (poles) to lower latitudes (equator) has a measurable effect on the Earth's moment of inertia and, consequently, on its rotation and the position of its rotational axis. This is analogous to a figure skater extending their arms (mass moving away from the axis) to slow down their spin, or pulling them in (mass moving towards the axis) to speed up. In the case of melting ice, mass moves from the poles towards the equator, increasing the moment of inertia about the rotational axis, which tends to slow down the Earth's rotation slightly and also causes a shift in the polar axis (polar wander).\n\nNow let's evaluate the relationship between the statements:\n\n*   Statement I describes an observed phenomenon: shifts in Earth's rotation and axis.\n*   Statement II describes a solar phenomenon that affects Earth's atmosphere but is not a primary cause of significant shifts in Earth's rotation and axis.\n*   Statement III describes a terrestrial phenomenon (polar ice melt and water redistribution) that *is* a known and significant cause of shifts in Earth's rotation and axis.\n\nTherefore, Statement III explains Statement I. Statement II is correct but does not explain Statement I in the context of significant shifts in Earth's rotation and axis.\n\nLet's check the options:\n\n(A) Both Statement II and Statement III are correct and both of them explain Statement I.\n- Statement II is correct, but it does not explain Statement I. So, this option is incorrect.\n\n(B) Both Statement II and Statement III are correct but only one of them explains Statement I.\n- Statement II is correct.\n- Statement III is correct.\n- Only Statement III explains Statement I.\n- This option aligns with our analysis.\n\n(C) Only one of the Statements II and III is correct and that explains Statement I.\n- Both Statement II and Statement III are correct. So, this option is incorrect.\n\n(D) Neither Statement II nor Statement III is correct.\n- Both Statement II and Statement III are correct. So, this option is incorrect.\n\nThe final answer is $\\boxed{B}$",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 264,
+        "completion_tokens": 825,
+        "total_tokens": 1089
+      }
+    },
+    {
+      "question_id": "gs1_2025_q034",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 34,
+      "raw_output": "The question asks us to evaluate three statements related to Article 6 of the Paris Agreement and determine the correct relationship between them.\n\nLet's break down each statement:\n\n**Statement I: Article 6 of the Paris Agreement on climate change is frequently discussed in global discussions on sustainable development and climate change.**\n*   This statement is generally true. Article 6 is a crucial and complex part of the Paris Agreement, dealing with international cooperation, including market and non-market mechanisms, to achieve Nationally Determined Contributions (NDCs). Its implementation has been a major topic of discussion and negotiation since the agreement's adoption.\n\n**Statement II: Article 6 of the Paris Agreement on climate change sets out the principles of carbon markets.**\n*   This statement is correct. Article 6 indeed provides for cooperative approaches, including market-based mechanisms. Specifically, Article 6.2 allows for the international transfer of mitigation outcomes (ITMOs) between countries, and Article 6.4 establishes a new international carbon market mechanism to replace the Clean Development Mechanism (CDM) under the Kyoto Protocol. These provisions lay the groundwork for carbon markets.\n\n**Statement III: Article 6 of the Paris Agreement on climate change intends to promote inter-country non-market strategies to reach their climate targets.**\n*   This statement is also correct. Article 6.8 of the Paris Agreement explicitly addresses \"non-market approaches to sustainable development.\" It recognizes the importance of non-market cooperation, such as joint mitigation and adaptation efforts, technology transfer, capacity building, and financial support, to help countries achieve their NDCs.\n\nNow, let's evaluate the relationship between these statements and the given options.\n\n*   **Statement I** is a general observation about the prominence of Article 6 in discussions.\n*   **Statements II and III** describe *what* Article 6 entails, specifically its two main components: market mechanisms (carbon markets) and non-market approaches. These two components are precisely *why* Article 6 is frequently discussed (Statement I). Therefore, Statements II and III explain Statement I.\n\nLet's look at the options:\n\n(A) **Both Statement II and Statement III are correct and both of them explain Statement I.**\n    *   As established, both Statement II and Statement III are correct descriptions of Article 6.\n    *   The fact that Article 6 covers both market mechanisms (carbon markets) and non-market strategies makes it a complex and highly debated topic, thus explaining why it's frequently discussed (Statement I). So, both statements contribute to explaining Statement I.\n\n(B) Both Statement II and Statement III are correct but only one of them explains Statement I.\n    *   This is incorrect because both aspects (market and non-market) are central to the discussions around Article 6.\n\n(C) Only one of the Statements II and III is correct and that explains Statement I.\n    *   This is incorrect because both statements II and III are correct.\n\n(D) Neither Statement II nor Statement III is correct.\n    *   This is incorrect because both statements II and III are correct.\n\nTherefore, option (A) accurately reflects the correctness of Statements II and III and their explanatory relationship with Statement I.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 273,
+        "completion_tokens": 679,
+        "total_tokens": 952
+      }
+    },
+    {
+      "question_id": "gs1_2025_q035",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 35,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 174,
+        "completion_tokens": 5,
+        "total_tokens": 179
+      }
+    },
+    {
+      "question_id": "gs1_2025_q036",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 36,
+      "raw_output": "The question asks about the correctness of three statements regarding 'Direct Air Capture' (DAC) technology. Let's analyze each statement:\n\nStatement I: \"It can be used as a way of carbon sequestration.\"\nDirect Air Capture (DAC) is a technology that captures carbon dioxide (CO2) directly from the ambient air. Once captured, this CO2 can be stored permanently underground (geological sequestration) or used in various products and processes. Therefore, using it for permanent storage is a form of carbon sequestration. This statement is correct.\n\nStatement II: \"It can be a valuable approach for plastic production and in food processing.\"\nCaptured CO2 from DAC can be utilized in various industrial applications. In plastic production, CO2 can be used as a feedstock to create polymers (e.g., polycarbonates, polyurethanes). In food processing, CO2 is used for carbonation of beverages, in greenhouses to enhance plant growth, and for food preservation (e.g., dry ice). So, DAC can provide a source of CO2 for these applications. This statement is correct.\n\nStatement III: \"In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel.\"\nThis refers to the production of synthetic fuels, often called \"e-fuels\" or \"Power-to-Liquid\" (PtL) fuels. These fuels are produced by combining captured CO2 (the carbon source) with green hydrogen (produced via electrolysis using renewable electricity). This process creates synthetic hydrocarbons that can be refined into aviation fuels (Sustainable Aviation Fuels - SAFs). This is a promising pathway for decarbonizing hard-to-abate sectors like aviation. This statement is correct.\n\nSince all three statements are correct, the correct option should include I, II, and III.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 227,
+        "completion_tokens": 380,
+        "total_tokens": 607
+      }
+    },
+    {
+      "question_id": "gs1_2025_q037",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 37,
+      "raw_output": "The question asks about the Peacock tarantula (Poecilotheria metallica), also known as the Gooty sapphire ornamental tree spider. Let's analyze each statement:\n\nStatement I: \"It is an omnivorous crustacean.\"\n- The Peacock tarantula is a spider, which belongs to the class Arachnida, not Crustacea. Crustaceans are crabs, lobsters, shrimp, etc.\n- Tarantulas are carnivorous, primarily feeding on insects and small vertebrates, not omnivorous.\n- Therefore, Statement I is incorrect.\n\nStatement II: \"Its natural habitat in India is only limited to some forest areas.\"\n- The Peacock tarantula is endemic to a small region of deciduous forest in Andhra Pradesh, India, specifically around the town of Gooty.\n- This statement accurately reflects its highly restricted natural habitat.\n- Therefore, Statement II is correct.\n\nStatement III: \"In its natural habitat, it is an arboreal species.\"\n- The Peacock tarantula is known to live in tree holes and crevices in its natural habitat. \"Arboreal\" means living in trees.\n- This is a well-known characteristic of this species, which is why it's often called an \"ornamental tree spider.\"\n- Therefore, Statement III is correct.\n\nBased on the analysis:\n- Statement I is incorrect.\n- Statement II is correct.\n- Statement III is correct.\n\nWe are looking for the correct statements. Statements II and III are correct.\n\nComparing this with the options:\n(A) I only - Incorrect\n(B) I and III - Incorrect\n(C) II only - Incorrect (because III is also correct)\n(D) II and III - Correct\n\nThe final answer is $\\boxed{D}$",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 210,
+        "completion_tokens": 371,
+        "total_tokens": 581
+      }
+    },
+    {
+      "question_id": "gs1_2025_q038",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 38,
+      "raw_output": "The question asks us to evaluate the correctness of three statements regarding CO2 emissions in India. Let's analyze each statement:\n\n**Statement I: Carbon dioxide (CO2) emissions in India are less than 0.5 t CO2 / capita.**\n*   According to various sources (e.g., World Bank, IEA, Our World in Data), India's per capita CO2 emissions have been consistently higher than 0.5 t CO2/capita for many years. For instance, in 2021, it was around 1.9 t CO2/capita. Even in earlier years, it was above 1 t CO2/capita. Therefore, this statement is incorrect.\n\n**Statement II: In terms of CO2 emissions from fuel combustion, India ranks second in Asia-Pacific region.**\n*   Globally, China is the largest emitter of CO2 from fuel combustion, followed by the United States, and then India.\n*   Within the Asia-Pacific region, China is by far the largest emitter. India is the second largest emitter in the Asia-Pacific region in terms of CO2 emissions from fuel combustion. This statement is correct.\n\n**Statement III: Electricity and heat producers are the largest sources of CO2 emissions in India.**\n*   Thermal power plants (primarily coal-fired) are the dominant source of electricity generation in India. The combustion of fossil fuels for electricity and heat production is indeed the largest contributor to CO2 emissions in India. This is a well-established fact for most developing and developed economies that rely heavily on fossil fuels for power. This statement is correct.\n\nBased on the analysis:\n*   Statement I is incorrect.\n*   Statement II is correct.\n*   Statement III is correct.\n\nTherefore, the correct statements are II and III.\n\nComparing this with the options:\n(A) I and III only - Incorrect (I is incorrect)\n(B) II only - Incorrect (III is also correct)\n(C) II and III only - Correct\n(D) I, II and III - Incorrect (I is incorrect)\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 217,
+        "completion_tokens": 449,
+        "total_tokens": 666
+      }
+    },
+    {
+      "question_id": "gs1_2025_q039",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 39,
+      "raw_output": "Let's analyze each pair:\n\n*   **I. Cassava: Woody shrub**\n    *   Cassava (Manihot esculenta) is indeed a woody shrub, typically growing 1-5 meters tall.\n    *   **Correctly matched.**\n\n*   **II. Ginger: Herb with pseudostem**\n    *   Ginger (Zingiber officinale) is a herbaceous perennial. It does not have a true stem above ground; what appears to be a stem is actually a pseudostem formed by the tightly wrapped leaf sheaths.\n    *   **Correctly matched.**\n\n*   **III. Malabar spinach: Herbaceous climber**\n    *   Malabar spinach (Basella alba) is a fast-growing, soft-stemmed, herbaceous perennial vine that is often grown as an annual. It climbs.\n    *   **Correctly matched.**\n\n*   **IV. Mint: Annual shrub**\n    *   Mint (Mentha species) is a herbaceous perennial, not an annual. It is also not a shrub; it's a low-growing herb.\n    *   **Incorrectly matched.**\n\n*   **V. Papaya: Woody shrub**\n    *   Papaya (Carica papaya) is a large, tree-like herbaceous plant. While it has a woody stem, it's technically considered a large herb or a \"herbaceous tree\" rather than a true woody shrub or tree because its stem lacks true secondary growth (cambium) and is soft and spongy inside. However, in common parlance and for general classification, it's often described as having a woody stem. Given the options, and comparing it to a typical shrub, it's more tree-like. But the question asks \"woody shrub\". It's a bit ambiguous. If we consider \"woody\" in the sense of having a firm, non-herbaceous stem, it fits. But \"shrub\" might be less accurate than \"tree-like herb\". Let's re-evaluate. A shrub is typically multi-stemmed and smaller than a tree. Papaya usually has a single, unbranched stem until it fruits. It's often called a \"giant herb\" or \"herbaceous tree\". Calling it a \"woody shrub\" is not the most precise botanical description.\n\nLet's reconsider V. Papaya. While it has a woody stem, it's not typically classified as a \"shrub\" in the botanical sense. It's more accurately described as a large herbaceous plant or a \"herbaceous tree\". Therefore, this pair is likely **incorrectly matched** in a strict sense.\n\nSo, the correctly matched pairs are I, II, and III. That's three pairs.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 188,
+        "completion_tokens": 577,
+        "total_tokens": 765
+      }
+    },
+    {
+      "question_id": "gs1_2025_q040",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 40,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 216,
+        "completion_tokens": 5,
+        "total_tokens": 221
+      }
+    },
+    {
+      "question_id": "gs1_2025_q041",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 41,
+      "raw_output": "The question asks to identify which of the given vehicle types are considered \"alternative powertrain vehicles.\"\n\nLet's analyze each type:\n\n*   **I. Full battery electric vehicles (BEVs):** These vehicles are powered solely by electricity stored in a battery, which drives an electric motor. They do not use an internal combustion engine and are a clear alternative to traditional gasoline/diesel vehicles.\n\n*   **II. Hydrogen fuel cell vehicles (FCVs):** These vehicles generate electricity through a chemical reaction between hydrogen and oxygen in a fuel cell, which then powers an electric motor. They emit only water vapor. They are a distinct alternative to traditional internal combustion engines.\n\n*   **III. Fuel cell-electric hybrid vehicles:** This term is a bit less common but implies a vehicle that combines a fuel cell system with an electric powertrain, potentially also including a battery for energy storage and regeneration, similar to how a conventional hybrid combines an ICE with an electric motor. Since a fuel cell is an alternative powertrain technology, any vehicle primarily driven by a fuel cell, even if hybridized with other electric components, would fall under the umbrella of alternative powertrain. In essence, it's a variation or combination of fuel cell technology with electric drive, both of which are alternative to conventional fossil fuel engines.\n\nAll three types represent technologies that move away from traditional internal combustion engines powered by gasoline or diesel. They are designed to reduce emissions and/or reliance on fossil fuels. Therefore, all three are considered alternative powertrain vehicles.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 171,
+        "completion_tokens": 313,
+        "total_tokens": 484
+      }
+    },
+    {
+      "question_id": "gs1_2025_q042",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 42,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 203,
+        "completion_tokens": 5,
+        "total_tokens": 208
+      }
+    },
+    {
+      "question_id": "gs1_2025_q043",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 43,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 168,
+        "completion_tokens": 5,
+        "total_tokens": 173
+      }
+    },
+    {
+      "question_id": "gs1_2025_q044",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 44,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 156,
+        "completion_tokens": 5,
+        "total_tokens": 161
+      }
+    },
+    {
+      "question_id": "gs1_2025_q045",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 45,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 162,
+        "completion_tokens": 5,
+        "total_tokens": 167
+      }
+    },
+    {
+      "question_id": "gs1_2025_q046",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 46,
+      "raw_output": "The correct answer is (B).\n\nCL-20 (Octanitrocubane), HMX (High Melting Explosive or Octogen), and LLM-105 (2,6-diamino-3,5-dinitropyrazine-1-oxide) are all well-known high explosives. They are researched and used primarily in military applications due to their high energy density and stability.\n\nAnswer: B",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 185,
+        "completion_tokens": 89,
+        "total_tokens": 274
+      }
+    },
+    {
+      "question_id": "gs1_2025_q047",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 47,
+      "raw_output": "The correct answer is (C).\n\nExplanation:\n*   **Statement I: It is expected that Majorana 1 chip will enable quantum computing.** This statement is correct. Majorana fermions are theoretical particles that are their own antiparticles, and they are considered promising candidates for building robust qubits (quantum bits) in topological quantum computing, which could overcome some of the stability issues faced by current quantum computing approaches. The \"Majorana 1 chip\" likely refers to research efforts aimed at realizing these particles for quantum computing.\n*   **Statement II: Majorana 1 chip has been introduced by Amazon Web Services (AWS).** This statement is incorrect. While AWS is involved in quantum computing (e.g., through Amazon Braket), the development of a \"Majorana 1 chip\" is primarily associated with research institutions and companies like Microsoft (which has been heavily invested in topological quantum computing based on Majorana fermions), not specifically AWS as the introducer of such a chip.\n*   **Statement III: Deep learning is a subset of machine learning.** This statement is correct. Machine learning is a broad field, and deep learning is a specialized subfield that uses artificial neural networks with multiple layers (deep neural networks) to learn from data.\n\nTherefore, statements I and III are correct.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 195,
+        "completion_tokens": 269,
+        "total_tokens": 464
+      }
+    },
+    {
+      "question_id": "gs1_2025_q048",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 48,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 205,
+        "completion_tokens": 5,
+        "total_tokens": 210
+      }
+    },
+    {
+      "question_id": "gs1_2025_q049",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 49,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 180,
+        "completion_tokens": 5,
+        "total_tokens": 185
+      }
+    },
+    {
+      "question_id": "gs1_2025_q050",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 50,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 258,
+        "completion_tokens": 5,
+        "total_tokens": 263
+      }
+    },
+    {
+      "question_id": "gs1_2025_q051",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 51,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 196,
+        "completion_tokens": 5,
+        "total_tokens": 201
+      }
+    },
+    {
+      "question_id": "gs1_2025_q052",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 52,
+      "raw_output": "The correct answer is (A) Only one.\n\nLet's analyze each pair:\n\n*   **I. Arunachal Pradesh : The capital is named after a fort, and the State has two National Parks**\n    *   The capital of Arunachal Pradesh is Itanagar, which is named after the Ita Fort. This part is correct.\n    *   Arunachal Pradesh has two National Parks: Mouling National Park and Namdapha National Park. This part is also correct.\n    *   Therefore, Pair I is correctly matched.\n\n*   **II. Nagaland : The State came into existence on the basis of a Constitutional Amendment Act**\n    *   Nagaland was formed in 1963 by the State of Nagaland Act, 1962, which was an Act of Parliament, not a Constitutional Amendment Act. While it involved an amendment to the First Schedule of the Constitution, the *creation* of the state itself was primarily through a parliamentary act. States are typically formed by acts of Parliament, not directly by constitutional amendment acts in the same way fundamental rights are amended.\n    *   Therefore, Pair II is incorrectly matched.\n\n*   **III. Tripura : Initially a Part 'C' State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State**\n    *   Tripura was indeed a Part 'C' State.\n    *   With the States Reorganisation Act of 1956, Part 'C' states were abolished, and Tripura became a Union Territory (which is a centrally administered territory).\n    *   It attained full statehood in 1972.\n    *   Therefore, Pair III is correctly matched.\n\nWait, let me re-evaluate my initial assessment. I made a mistake in my analysis of Pair III.\n\nLet's re-evaluate:\n\n*   **I. Arunachal Pradesh : The capital is named after a fort, and the State has two National Parks**\n    *   Capital Itanagar is named after Ita Fort. Correct.\n    *   Arunachal Pradesh has two National Parks: Mouling and Namdapha. Correct.\n    *   **Pair I is correctly matched.**\n\n*   **II. Nagaland : The State came into existence on the basis of a Constitutional Amendment Act**\n    *   Nagaland was formed by the State of Nagaland Act, 1962. This Act was passed by Parliament. While it led to an amendment in the First Schedule of the Constitution (to include Nagaland), the *basis* of its existence as a state was the parliamentary act, not a constitutional amendment act in the sense of amending a specific article of the constitution to create the state. States are typically created by ordinary legislation under Articles 2, 3, and 4.\n    *   **Pair II is incorrectly matched.**\n\n*   **III. Tripura : Initially a Part 'C' State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State**\n    *   Tripura was a Part 'C' State. Correct.\n    *   After the States Reorganisation Act, 1956, it became a Union Territory (a centrally administered territory). Correct.\n    *   It attained full statehood in 1972. Correct.\n    *   **Pair III is correctly matched.**\n\nMy apologies, I miscounted in my head. Both Pair I and Pair III are correctly matched.\n\nTherefore, there are two correctly matched pairs.\n\nThe final answer is $\\boxed{B}$",
+      "extracted_answer": "b",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 226,
+        "completion_tokens": 770,
+        "total_tokens": 996
+      }
+    },
+    {
+      "question_id": "gs1_2025_q053",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 53,
+      "raw_output": "The question asks to identify how many of the given bodies were established as per the provisions of the Constitution of India.\n\nLet's analyze each body:\n\nI. **The Inter-State Council:** Article 263 of the Constitution of India provides for the establishment of an Inter-State Council. It states that if at any time it appears to the President that the public interests would be served by the establishment of a Council charged with the duty of inquiring into and advising upon disputes which may have arisen between States; and investigating and discussing subjects in which some or all of the States, or the Union and one or more of the States, have a common interest; or making recommendations upon any such subject and, in particular, recommendations for the better co-ordination of policy and action with respect to that subject, it shall be lawful for the President by order to establish such a Council, and to define the nature of the duties to be performed by it and its organisation and procedure. Thus, it is a constitutional body.\n\nII. **The National Security Council:** The National Security Council (NSC) is an executive government agency responsible for advising the Prime Minister on matters of national security and foreign policy. It was established in 1998 by the Atal Bihari Vajpayee government. It is not a constitutional body; it was established by an executive order.\n\nIII. **Zonal Councils:** Zonal Councils are statutory bodies, not constitutional bodies. They were established under the States Reorganisation Act, 1956. The Act divided the country into five zones (Northern, Central, Eastern, Western, and Southern) and provided for a Zonal Council for each zone. Later, a North-Eastern Council was created by a separate Act, the North-Eastern Council Act, 1971.\n\nTherefore, only the Inter-State Council was established as per the provisions of the Constitution of India.\n\nAnswer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 214,
+        "completion_tokens": 397,
+        "total_tokens": 611
+      }
+    },
+    {
+      "question_id": "gs1_2025_q054",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 54,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 213,
+        "completion_tokens": 5,
+        "total_tokens": 218
+      }
+    },
+    {
+      "question_id": "gs1_2025_q055",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 55,
+      "raw_output": "The question asks to identify correctly matched pairs between a provision in the Indian Constitution and its category (Directive Principles, Fundamental Duties, or Fundamental Rights). Let's analyze each pair:\n\n**Pair I: Separation of Judiciary from the Executive in the public services of the State - The Directive Principles of the State Policy**\n*   Article 50 of the Indian Constitution states: \"The State shall take steps to separate the judiciary from the executive in the public services of the State.\" This is indeed a Directive Principle of State Policy (DPSP).\n*   Therefore, Pair I is correctly matched.\n\n**Pair II: Valuing and preserving of the rich heritage of our composite culture - The Fundamental Duties**\n*   Article 51A(f) of the Indian Constitution states that it shall be the duty of every citizen of India \"to value and preserve the rich heritage of our composite culture.\" This is a Fundamental Duty.\n*   Therefore, Pair II is correctly matched.\n\n**Pair III: Prohibition of employment of children below the age of 14 years in factories - The Fundamental Rights**\n*   Article 24 of the Indian Constitution states: \"No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.\" This is a Fundamental Right (Right against Exploitation).\n*   Therefore, Pair III is correctly matched.\n\nAll three pairs are correctly matched.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 227,
+        "completion_tokens": 305,
+        "total_tokens": 532
+      }
+    },
+    {
+      "question_id": "gs1_2025_q056",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 56,
+      "raw_output": "Answer: D",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 217,
+        "completion_tokens": 3,
+        "total_tokens": 220
+      }
+    },
+    {
+      "question_id": "gs1_2025_q057",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 57,
+      "raw_output": "Let's analyze each pair:\n\n*   **I. The National Automotive Board - Ministry of Commerce and Industry:** The National Automotive Board (NAB) was constituted under the Department of Heavy Industry, which falls under the **Ministry of Heavy Industries**. Therefore, this pair is **incorrectly matched**.\n\n*   **II. The Coir Board - Ministry of Heavy Industries:** The Coir Board is a statutory body established under the Coir Industry Act, 1953. It functions under the **Ministry of Micro, Small and Medium Enterprises (MSME)**. Therefore, this pair is **incorrectly matched**.\n\n*   **III. The National Centre for Trade Information India - Ministry of Micro, Small and Medium Enterprises:** The National Centre for Trade Information (NCTI) was set up by the Ministry of Commerce and Industry. It is a joint venture of India Trade Promotion Organisation (ITPO) and National Informatics Centre (NIC). It functions under the **Ministry of Commerce and Industry**. Therefore, this pair is **incorrectly matched**.\n\nSince all three pairs are incorrectly matched, the correct answer is \"None\".\n\nThe final answer is $\\boxed{D}$",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 193,
+        "completion_tokens": 239,
+        "total_tokens": 432
+      }
+    },
+    {
+      "question_id": "gs1_2025_q058",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 58,
+      "raw_output": "The question asks which of the given subjects require ratification by at least half of the State Legislatures for a constitutional amendment. This refers to the special majority plus ratification by states as outlined in Article 368(2) of the Constitution.\n\nLet's analyze each subject:\n\nI. **List I-Union List, in the Seventh Schedule**: Any amendment to the legislative lists (Union List, State List, Concurrent List) in the Seventh Schedule affects the distribution of legislative powers between the Union and the States. Therefore, such an amendment requires ratification by not less than one-half of the State Legislatures. This is explicitly mentioned in the proviso to Article 368(2).\n\nII. **Extent of the executive power of a State**: Article 73 deals with the extent of the executive power of the Union, and Article 162 deals with the extent of the executive power of a State. Any amendment that alters the extent of the executive power of the Union or of the States would affect the federal structure and the distribution of powers. The proviso to Article 368(2) states that amendments relating to \"Chapter IV of Part V (the Union Judiciary), Chapter V of Part VI (the High Courts in the States), or Chapter I of Part XI (Legislative Relations between the Union and the States), or any of the Lists in the Seventh Schedule, or the representation of States in Parliament, or the provisions of this article\" require state ratification. While not explicitly listed as \"extent of executive power,\" changes to the executive power of states often have implications for the distribution of powers and the federal structure, similar to changes in legislative lists. However, the most direct interpretation of Article 368(2) proviso focuses on specific articles and chapters. Let's re-evaluate. The proviso to Article 368(2) mentions \"any of the Lists in the Seventh Schedule\" and \"the representation of States in Parliament.\" It also mentions \"Chapter IV of Part V (the Union Judiciary)\" and \"Chapter V of Part VI (the High Courts in the States).\" It does not explicitly mention the \"extent of the executive power of a State\" as a standalone item requiring ratification. However, if an amendment to the executive power of a state were to impact the distribution of powers or the federal structure significantly, it might be argued to fall under the spirit of the proviso. But strictly speaking, it's not one of the explicitly listed items.\n\nLet's reconsider the scope. Article 368(2) proviso lists:\n(a) articles 54, article 55, article 73, article 162 or article 241, or\n(b) Chapter IV of Part V, Chapter V of Part VI, or Chapter I of Part XI, or\n(c) any of the Lists in the Seventh Schedule, or\n(d) the representation of States in Parliament, or\n(e) the provisions of this article.\n\nArticle 162 deals with the extent of executive power of States. Therefore, an amendment to Article 162 would require ratification by the Legislatures of not less than one-half of the States. So, II is correct.\n\nIII. **Conditions of the Governor's office**: The Governor's office is dealt with in Part VI, Chapter II (The Executive) of the Constitution, specifically Articles 153 to 167. The proviso to Article 368(2) does not explicitly list \"Conditions of the Governor's office\" or Chapter II of Part VI as requiring state ratification. Amendments related to the Governor's office, such as their appointment, term, or conditions, are generally considered to be within the purview of the Union and do not directly alter the federal distribution of powers in a way that would necessitate state ratification, unless they impact the federal structure significantly. For example, if the amendment were to change the relationship between the Governor and the State Legislature in a fundamental way that affects the autonomy of the state, it might be argued. However, the explicit list in Article 368(2) proviso does not include this.\n\nLet's re-examine the options and the strict interpretation of Article 368(2) proviso.\nThe proviso to Article 368(2) states that ratification by not less than one-half of the States is required for amendments relating to:\n(a) the election of the President (Articles 54, 55)\n(b) the extent of the executive power of the Union (Article 73) and the States (Article 162)\n(c) the Supreme Court (Chapter IV of Part V)\n(d) the High Courts in the States (Chapter V of Part VI)\n(e) the legislative relations between the Union and the States (Chapter I of Part XI)\n(f) any of the Lists in the Seventh Schedule\n(g) the representation of States in Parliament\n(h) the provisions of Article 368 itself.\n\nBased on this:\nI. **List I-Union List, in the Seventh Schedule**: This falls under point (f) above. So, I requires ratification.\nII. **Extent of the executive power of a State**: This falls under point (b) above (Article 162). So, II requires ratification.\nIII. **Conditions of the Governor's office**: This is covered in Part VI, Chapter II (The State Executive). This chapter is *not* listed in the proviso to Article 368(2). Therefore, an amendment to the conditions of the Governor's office would *not* require ratification by the State Legislatures.\n\nThus, only I and II require ratification.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 226,
+        "completion_tokens": 1206,
+        "total_tokens": 1432
+      }
+    },
+    {
+      "question_id": "gs1_2025_q059",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 59,
+      "raw_output": "",
+      "extracted_answer": null,
+      "correct_answer": "d",
+      "result": "unanswered",
+      "marks": 0.0,
+      "usage": {}
+    },
+    {
+      "question_id": "gs1_2025_q060",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 60,
+      "raw_output": "The Petroleum and Natural Gas Regulatory Board (PNGRB) was established under the Petroleum and Natural Gas Regulatory Board Act, 2006. Its primary role is to regulate the refining, processing, storage, transportation, distribution, marketing, and sale of petroleum, petroleum products, and natural gas.\n\nLet's analyze each activity:\n\n*   **I. Production of crude oil:** The upstream exploration and production (E&P) of crude oil and natural gas are primarily regulated by the Ministry of Petroleum and Natural Gas through the Directorate General of Hydrocarbons (DGH) under the Oilfields (Regulation and Development) Act, 1948, and the Petroleum and Natural Gas Rules, 1959. PNGRB does *not* regulate the production of crude oil.\n*   **II. Refining, storage and distribution of petroleum:** This falls directly under the purview of the PNGRB. The Act specifically mentions \"refining, processing, storage, transportation, distribution, marketing and sale of petroleum, petroleum products and natural gas.\"\n*   **III. Marketing and sale of petroleum products:** This is also explicitly mentioned in the PNGRB Act as an area of regulation.\n*   **IV. Production of natural gas:** Similar to crude oil production, the upstream production of natural gas is regulated by the DGH and the Ministry, not the PNGRB. PNGRB regulates the *transportation, distribution, marketing, and sale* of natural gas, but not its initial production from the wellhead.\n\nTherefore, only activities II and III are regulated by the PNGRB.\n\nAnswer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 189,
+        "completion_tokens": 338,
+        "total_tokens": 527
+      }
+    },
+    {
+      "question_id": "gs1_2025_q061",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 61,
+      "raw_output": "Let's break down the given information and calculate each deficit.\n\n**Given Data:**\n*   Revenue Expenditure (RE) = \u20b9 80,000 crores\n*   Revenue Receipts (RR) = \u20b9 60,000 crores\n*   Borrowings = \u20b9 10,000 crores\n*   Interest Payments (IP) = \u20b9 6,000 crores\n\n**Calculations:**\n\n**I. Revenue Deficit (RD):**\nRevenue Deficit = Revenue Expenditure - Revenue Receipts\nRD = \u20b9 80,000 crores - \u20b9 60,000 crores\nRD = \u20b9 20,000 crores\n\n*Statement I is correct.*\n\n**II. Fiscal Deficit (FD):**\nFiscal Deficit represents the total borrowings required by the government.\nFD = Total Expenditure - Total Receipts (excluding borrowings)\nAlternatively, Fiscal Deficit = Total Borrowings\nFD = \u20b9 10,000 crores\n\n*Statement II is correct.*\n\n**III. Primary Deficit (PD):**\nPrimary Deficit = Fiscal Deficit - Interest Payments\nPD = \u20b9 10,000 crores - \u20b9 6,000 crores\nPD = \u20b9 4,000 crores\n\n*Statement III is correct.*\n\nSince all three statements are correct, the correct option is (D).\n\nThe final answer is $\\boxed{D}$",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 264,
+        "completion_tokens": 301,
+        "total_tokens": 565
+      }
+    },
+    {
+      "question_id": "gs1_2025_q062",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 62,
+      "raw_output": "The International North-South Transport Corridor (INSTC) is a 7,200-km-long multi-modal transport corridor that aims to connect the Indian Ocean and Persian Gulf to the Caspian Sea via Iran, and then onward to Northern Europe and Russia.\n\nLet's analyze the options:\n*   **(A) India to Central Asia to Europe via Iran:** This accurately describes the primary route and purpose of INSTC. It connects India (Mumbai) to Iran (Bandar Abbas, Chabahar), then through Iran to the Caspian Sea (Anzali, Astrakhan), and further to Russia and Europe. Central Asia is also a key region connected by this corridor.\n*   **(B) India to Central Asia via China:** This describes a different corridor, possibly related to the Belt and Road Initiative, but not the INSTC.\n*   **(C) India to South-East Asia through Bangladesh and Myanmar:** This describes the Kaladan Multi-Modal Transit Transport Project or other regional connectivity initiatives, not the INSTC.\n*   **(D) India to Europe through Azerbaijan:** While Azerbaijan is a crucial part of the INSTC route (connecting Iran to Russia and Europe), the corridor's full scope is broader than just \"through Azerbaijan\" and importantly includes Central Asia and the initial leg through Iran. Option A provides a more comprehensive description.\n\nTherefore, option A is the most accurate description of the INSTC's connectivity.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 176,
+        "completion_tokens": 306,
+        "total_tokens": 482
+      }
+    },
+    {
+      "question_id": "gs1_2025_q063",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 63,
+      "raw_output": "Answer: D",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 258,
+        "completion_tokens": 3,
+        "total_tokens": 261
+      }
+    },
+    {
+      "question_id": "gs1_2025_q064",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 64,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 227,
+        "completion_tokens": 5,
+        "total_tokens": 232
+      }
+    },
+    {
+      "question_id": "gs1_2025_q065",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 65,
+      "raw_output": "The question provided has two distinct parts that are unrelated. The first part asks to select correct statements about climate change impacts, and the second part asks a question about fiscal deficit. I will address the first part as it seems to be the primary question intended for the provided options.\n\n**Part 1: Climate Change Impacts**\n\n*   **Statement I: Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.**\n    *   This statement is generally true. Climate change projections indicate that Peninsular India is highly vulnerable to extreme weather events. Increased intensity and frequency of tropical cyclones, changes in monsoon patterns leading to both droughts and intense rainfall events (flooding), are all anticipated consequences of global warming in the region.\n\n*   **Statement II: The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.**\n    *   This statement is also true. As global temperatures rise, particularly with increased humidity, the human body's ability to cool itself through perspiration (evaporative cooling) becomes less effective. This can lead to heat stress, heatstroke, and other heat-related illnesses, posing a significant threat to the survival and well-being of humans and other animals, especially in tropical and subtropical regions.\n\nGiven that both statements I and II are accurate descriptions of potential impacts of climate change, the correct option would be (C).\n\n**Part 2: Fiscal Deficit Calculation**\n\nThis part is a separate question and does not relate to the options provided for the first part. However, if we were to answer it:\n\n*   **Fiscal Deficit** = \u20b9 50,000 crores\n*   **Non-debt creating capital receipts** = \u20b9 10,000 crores (This information is usually relevant for calculating Net Fiscal Deficit or Effective Revenue Deficit, but not directly for Gross Primary Deficit from the given Fiscal Deficit).\n*   **Interest Liabilities** = \u20b9 1,500 crores\n\n**Gross Primary Deficit = Fiscal Deficit - Interest Payments**\n\nGross Primary Deficit = \u20b9 50,000 crores - \u20b9 1,500 crores\nGross Primary Deficit = \u20b9 48,500 crores\n\nSince the options (A), (B), (C), (D) are clearly for the first part of the question, I will provide the answer based on the first part.\n\nAnswer: C",
+      "extracted_answer": "c",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 245,
+        "completion_tokens": 505,
+        "total_tokens": 750
+      }
+    },
+    {
+      "question_id": "gs1_2025_q066",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 66,
+      "raw_output": "The 15th Finance Commission's recommendations are complex, and we need to evaluate each statement.\n\n*   **Statement I:** The 15th Finance Commission did recommend grants for incentivizing states to enhance educational outcomes. The figure of \u20b94,800 crores from 2022-23 to 2025-26 for this purpose is accurate.\n*   **Statement II:** The 15th Finance Commission recommended that 41% of the divisible pool of central taxes be shared with states, not 45%. This is a key recommendation and a common point of confusion.\n*   **Statement III:** The 15th Finance Commission did recommend performance-based incentives for states for carrying out agricultural reforms, and the figure of \u20b945,000 crores is correct.\n*   **Statement IV:** The 15th Finance Commission did reintroduce the tax effort criteria to reward fiscal performance, which was a notable change from the 14th Finance Commission.\n\nBased on this analysis, Statement II is incorrect. Statements I, III, and IV are correct.\n\nTherefore, the correct option should include I, III, and IV.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 280,
+        "completion_tokens": 259,
+        "total_tokens": 539
+      }
+    },
+    {
+      "question_id": "gs1_2025_q067",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 67,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 211,
+        "completion_tokens": 5,
+        "total_tokens": 216
+      }
+    },
+    {
+      "question_id": "gs1_2025_q068",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 68,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 235,
+        "completion_tokens": 5,
+        "total_tokens": 240
+      }
+    },
+    {
+      "question_id": "gs1_2025_q069",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 69,
+      "raw_output": "The question asks to identify how many of the listed countries accept international merchant payments under UPI, excluding India.\n\nLet's examine each country:\n\n*   **I. United Arab Emirates (UAE):** UPI is accepted in UAE. NPCI International Payments Ltd (NIPL) has partnered with LuLu Financial Holdings to enable UPI payments in the UAE.\n*   **II. France:** UPI was launched in France in July 2023, starting with the Eiffel Tower.\n*   **III. Germany:** As of late 2023 and early 2024, there have been discussions and pilot programs for UPI in Germany, but widespread international merchant payments acceptance is still in early stages or not fully established compared to countries like UAE or France. However, some sources indicate that UPI is being expanded to European countries. Let's keep this in consideration.\n*   **IV. Singapore:** UPI is linked with Singapore's PayNow, allowing for cross-border transactions. This means UPI is accepted for merchant payments.\n*   **V. Bangladesh:** UPI is not currently accepted for international merchant payments in Bangladesh. Bangladesh has its own mobile financial services, but direct UPI integration for merchant payments is not yet in place.\n\nRevisiting Germany: While there are efforts to expand UPI to Europe, and some reports mention Germany as a potential market, the widespread acceptance for international merchant payments under UPI, similar to UAE, France, or Singapore, is not as firmly established or widely reported as of early 2024. However, given the options, we need to be precise.\n\nLet's re-evaluate based on confirmed operational acceptance for international merchant payments:\n1.  **UAE:** Yes, confirmed.\n2.  **France:** Yes, confirmed.\n3.  **Singapore:** Yes, confirmed (via PayNow linkage).\n4.  **Germany:** While there are plans and discussions, widespread merchant acceptance is not as definitively established as the others. Some sources might list it as \"upcoming\" or \"in progress.\"\n5.  **Bangladesh:** No.\n\nIf we consider countries where UPI is *currently* operational for international merchant payments, the confirmed ones are UAE, France, and Singapore. This would be three countries.\n\nLet's check if there's any recent update that firmly includes Germany. As of early 2024, while UPI is expanding rapidly, Germany's full-fledged operational status for international merchant payments is less clear than the other three. However, some reports do include Germany in the list of countries where UPI is accepted or being rolled out. For instance, some articles mention that UPI is accepted in France, UAE, Singapore, Bhutan, Nepal, and Oman, and is being expanded to other European countries including Germany.\n\nGiven the options, if we strictly count fully operational and widely accepted, it might be three. If we include countries where it's actively being rolled out or has some level of acceptance, it could be more.\n\nLet's assume the question refers to countries where UPI is *currently* accepted for international merchant payments.\n*   UAE: Yes\n*   France: Yes\n*   Singapore: Yes\n*   Germany: While there are initiatives, it's not as widely established for merchant payments as the others. However, some sources do list it.\n*   Bangladesh: No\n\nIf we consider the most commonly cited countries where UPI is operational for international merchant payments, it includes UAE, France, and Singapore. If Germany is also included, then it would be four.\n\nLet's search for a definitive list of countries where UPI is accepted for international merchant payments.\nAccording to various sources (NPCI, news reports):\n*   **UAE:** Yes (via LuLu Financial Holdings, Mashreq Bank)\n*   **France:** Yes (via Lyra Network)\n*   **Singapore:** Yes (via PayNow linkage)\n*   **Germany:** While there are discussions and potential future rollouts, it's not as widely operational for merchant payments as the others. However, some reports do include it in the broader expansion plans.\n*   **Bangladesh:** No.\n\nOther countries where UPI is accepted for merchant payments include Bhutan, Nepal, and Oman. These are not in the list.\n\nIf we consider the most confirmed and operational ones from the given list, it's UAE, France, and Singapore. This makes it three.\n\nLet's re-evaluate Germany. Some sources indicate that UPI is accepted in Germany through specific partnerships or pilot programs. For example, Worldline has partnered with NPCI to enable UPI payments in Europe, including Germany. If this is considered \"accepted,\" then Germany would be included.\n\nSo, if we include Germany based on ongoing efforts and partnerships:\n1.  United Arab Emirates (UAE) - Yes\n2.  France - Yes\n3.  Germany - Yes (through partnerships like Worldline)\n4.  Singapore - Yes (via PayNow linkage)\n5.  Bangladesh - No\n\nThis would make it four countries.\n\nLet's confirm the status of Germany. Worldline, a European payment services provider, has partnered with NPCI International to enable UPI payments in Europe, starting with France, and potentially expanding to other European countries including Germany. So, it is reasonable to include Germany in the list of countries where UPI is being accepted or rolled out for merchant payments.\n\nTherefore, the countries are:\n1.  United Arab Emirates (UAE) - Yes\n2.  France - Yes\n3.  Germany - Yes\n4.  Singapore - Yes\n5.  Bangladesh - No\n\nThis gives us 4 countries.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "b",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 177,
+        "completion_tokens": 1185,
+        "total_tokens": 1362
+      }
+    },
+    {
+      "question_id": "gs1_2025_q070",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 70,
+      "raw_output": "Answer: D",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 244,
+        "completion_tokens": 3,
+        "total_tokens": 247
+      }
+    },
+    {
+      "question_id": "gs1_2025_q071",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 71,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 165,
+        "completion_tokens": 5,
+        "total_tokens": 170
+      }
+    },
+    {
+      "question_id": "gs1_2025_q072",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 72,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 5,
+        "total_tokens": 153
+      }
+    },
+    {
+      "question_id": "gs1_2025_q073",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 73,
+      "raw_output": "The Chauri Chaura incident led to the arrest of many peasants. Mahatma Gandhi himself was deeply disturbed by the violence and called off the Non-Cooperation Movement. The legal defense for those arrested was a significant undertaking.\n\nLet's evaluate the options:\n\n*   **(A) C. R. Das:** Chittaranjan Das was a prominent lawyer and nationalist leader. He did provide legal defense in many important political cases, but not specifically for the Chauri Chaura accused.\n*   **(B) Madan Mohan Malaviya and Krishna Kant:** Madan Mohan Malaviya was a highly respected lawyer and politician. He is well-known for defending many of the accused in the Chauri Chaura case, often pro bono. Krishna Kant is not as prominently associated with this specific defense. However, Malaviya's role was crucial.\n*   **(C) Dr. Saifuddin Kitchlew and Khwaja Hasan Nizami:** Dr. Kitchlew was a nationalist leader and lawyer, but his primary involvement was not with the Chauri Chaura defense. Khwaja Hasan Nizami was a Sufi saint and writer, not a lawyer involved in this case.\n*   **(D) M. A. Jinnah:** Muhammad Ali Jinnah was a brilliant lawyer, but by the time of Chauri Chaura (1922), he had largely distanced himself from the Congress's non-cooperation policies and was not involved in defending the accused in this particular incident.\n\nMadan Mohan Malaviya played a pivotal role in defending the accused in the Chauri Chaura case, saving many from the gallows.\n\nThe final answer is $\\boxed{B}$",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 175,
+        "completion_tokens": 348,
+        "total_tokens": 523
+      }
+    },
+    {
+      "question_id": "gs1_2025_q074",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 74,
+      "raw_output": "Answer: A",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 203,
+        "completion_tokens": 3,
+        "total_tokens": 206
+      }
+    },
+    {
+      "question_id": "gs1_2025_q075",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 75,
+      "raw_output": "Answer: (C)",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 165,
+        "completion_tokens": 5,
+        "total_tokens": 170
+      }
+    },
+    {
+      "question_id": "gs1_2025_q076",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 76,
+      "raw_output": "Let's analyze the time zones for each country:\n\n*   **I. United Kingdom:** Primarily uses GMT/BST (1 time zone, plus a few minor overseas territories, but not more than 4 for the main country).\n*   **II. Denmark:** Uses CET/CEST (1 time zone, plus Greenland and Faroe Islands, which add a couple more, but not more than 4 for the main country and its major territories).\n*   **III. New Zealand:** Uses NZST/NZDT (1 time zone, plus Chatham Islands, which is a half-hour offset, so 2 time zones in total).\n*   **IV. Australia:** Has 3 main time zones (AWST, ACST, AEST) on the mainland, plus various daylight saving variations. Its external territories (e.g., Christmas Island, Cocos (Keeling) Islands, Norfolk Island, Macquarie Island) add more. When considering all territories, Australia has more than 4 time zones.\n*   **V. Brazil:** Has 4 official time zones (UTC-2, UTC-3, UTC-4, UTC-5).\n\nSo, only Australia and Brazil have more than four time zones.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 170,
+        "completion_tokens": 261,
+        "total_tokens": 431
+      }
+    },
+    {
+      "question_id": "gs1_2025_q077",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 77,
+      "raw_output": "The question describes a scenario involving Anadyr (Siberia, Russia) and Nome (Alaska, USA) and their time differences, specifically concerning the International Date Line (IDL).\n\nLet's analyze statement I:\n\"Anadyr in Siberia and Nome in Alaska are a few kilometers from each other, but when people are waking up and getting set for breakfast in these cities, it would be different days.\"\nAnadyr and Nome are indeed relatively close, separated by the Bering Strait. The International Date Line runs between them. The IDL is an imaginary line that generally follows the 180\u00b0 longitude, and crossing it changes the date. When traveling west across the IDL, you advance the date by one day. When traveling east, you go back one day.\nSince Anadyr is west of the IDL and Nome is east of the IDL, they are on different dates. For example, if it's Monday in Anadyr, it would be Sunday in Nome. Therefore, if people are waking up and having breakfast at roughly the same local time (e.g., 7 AM), the *date* would be different. This statement is correct.\n\nLet's analyze statement II:\n\"When it is Monday in Anadyr, it is Tuesday in Nome.\"\nAs established, Anadyr is west of the IDL, and Nome is east of the IDL. When you cross the IDL from west to east (e.g., from Anadyr's side to Nome's side), you *subtract* a day. Conversely, when you cross from east to west, you *add* a day.\nTherefore, if it is Monday in Anadyr (which is west of the IDL), it would be the *previous* day in Nome (which is east of the IDL). So, if it's Monday in Anadyr, it would be Sunday in Nome.\nThe statement says \"When it is Monday in Anadyr, it is Tuesday in Nome,\" which is incorrect.\n\nBased on this analysis:\nStatement I is correct.\nStatement II is incorrect.\n\nTherefore, only statement I is correct.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 208,
+        "completion_tokens": 466,
+        "total_tokens": 674
+      }
+    },
+    {
+      "question_id": "gs1_2025_q078",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 78,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 165,
+        "completion_tokens": 5,
+        "total_tokens": 170
+      }
+    },
+    {
+      "question_id": "gs1_2025_q079",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 79,
+      "raw_output": "The question asks us to identify how many of the given country-resource pairs are correctly matched. Let's examine each pair:\n\nI. **Botswana : Diamond**\nBotswana is one of the world's largest producers of diamonds by value and volume. Diamond mining is a cornerstone of its economy. This pair is correctly matched.\n\nII. **Chile : Lithium**\nChile has the world's largest known lithium reserves and is one of the top global producers of lithium, primarily from its salt flats (salar). This pair is correctly matched.\n\nIII. **Indonesia : Nickel**\nIndonesia is the world's largest producer of nickel ore and has significant nickel reserves. It plays a crucial role in the global nickel market, especially for electric vehicle batteries. This pair is correctly matched.\n\nSince all three pairs are correctly matched, the answer is \"All the three\".\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 172,
+        "completion_tokens": 191,
+        "total_tokens": 363
+      }
+    },
+    {
+      "question_id": "gs1_2025_q080",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 80,
+      "raw_output": "Let's analyze each pair:\n\n*   **I. Mallorca : Italy**\n    *   Mallorca is the largest island in the Balearic Islands archipelago, which is an autonomous community of **Spain**.\n    *   Therefore, this pair is incorrectly matched.\n\n*   **II. Normandy : Spain**\n    *   Normandy is a geographical and cultural region in **France**.\n    *   Therefore, this pair is incorrectly matched.\n\n*   **III. Sardinia : France**\n    *   Sardinia is the second-largest island in the Mediterranean Sea and an autonomous region of **Italy**.\n    *   Therefore, this pair is incorrectly matched.\n\nIn all three rows, the given information is incorrectly matched.\n\nAnswer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 155,
+        "total_tokens": 324
+      }
+    },
+    {
+      "question_id": "gs1_2025_q081",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 81,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 224,
+        "completion_tokens": 5,
+        "total_tokens": 229
+      }
+    },
+    {
+      "question_id": "gs1_2025_q082",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 82,
+      "raw_output": "",
+      "extracted_answer": null,
+      "correct_answer": "d",
+      "result": "unanswered",
+      "marks": 0.0,
+      "usage": {}
+    },
+    {
+      "question_id": "gs1_2025_q083",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 83,
+      "raw_output": "The question asks about space missions that encourage and support micro-gravity research. Let's analyze each mission:\n\n*   **I. Axiom-4:** Axiom Space is a private company that organizes commercial space missions to the International Space Station (ISS). These missions, like Axiom-4 (a planned future mission), are primarily focused on commercial research, manufacturing, and tourism, and a significant component of the research conducted on the ISS is micro-gravity research. So, Axiom-4 will definitely support micro-gravity research.\n\n*   **II. SpaDeX:** SpaDeX (Space Docking Experiment) is an Indian Space Research Organisation (ISRO) mission. It is an experimental mission designed to demonstrate and validate technologies for orbital rendezvous and docking. While it's a technology demonstration mission, the primary objective is not micro-gravity research itself, but rather developing capabilities for future complex space missions, including potentially a space station where micro-gravity research would be conducted. However, the mission *itself* is not primarily for micro-gravity research.\n\n*   **III. Gaganyaan:** Gaganyaan is India's human spaceflight mission. Its primary objective is to send a crew of astronauts into low Earth orbit and safely return them to Earth. While the mission will involve astronauts living and working in micro-gravity, and some experiments might be conducted, the core purpose of Gaganyaan is human spaceflight capability demonstration. The *encouragement and support* for dedicated micro-gravity research as a primary objective is not as central as it is for missions specifically designed for research platforms like the ISS or commercial missions to it. However, human spaceflight inherently involves micro-gravity and often includes scientific experiments taking advantage of it. ISRO has stated that Gaganyaan will include scientific experiments, some of which will leverage the micro-gravity environment.\n\nRevisiting the question: \"How many of the space missions given above encourage and support micro-gravity research?\"\n\n*   Axiom-4: Yes, as a commercial mission to the ISS, it's a platform for micro-gravity research.\n*   SpaDeX: No, it's a technology demonstration for docking.\n*   Gaganyaan: Yes, while primarily human spaceflight, it will include scientific experiments in micro-gravity. ISRO has plans for micro-gravity experiments during the mission.\n\nTherefore, Axiom-4 and Gaganyaan encourage and support micro-gravity research.\n\nAnswer: (B) Only two",
+      "extracted_answer": "b",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 513,
+        "total_tokens": 680
+      }
+    },
+    {
+      "question_id": "gs1_2025_q084",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 84,
+      "raw_output": "The question asks us to identify correctly matched pairs regarding India's defence aircraft types and their descriptions.\n\nLet's analyze each pair:\n\n*   **Pair I: Dornier-228 - Maritime patrol aircraft**\n    The Dornier 228 is indeed a twin-turboprop STOL utility aircraft, and in India, it is widely used by the Indian Navy and Coast Guard for maritime surveillance, patrol, and reconnaissance. This pair is **correctly matched**.\n\n*   **Pair II: IL-76 - Supersonic combat aircraft**\n    The IL-76 (Ilyushin Il-76) is a multi-purpose four-engine turbofan strategic airlifter. It is primarily used for military transport, carrying heavy and oversized cargo, and also serves as an airborne early warning and control (AWACS) platform (e.g., A-50EI). It is **not** a supersonic combat aircraft. Supersonic combat aircraft are typically fighter jets (e.g., Sukhoi Su-30MKI, Dassault Rafale). This pair is **incorrectly matched**.\n\n*   **Pair III: C-17 Globemaster III - Military transport aircraft**\n    The C-17 Globemaster III is a large military transport aircraft developed by McDonnell Douglas (now Boeing). The Indian Air Force operates a fleet of C-17s for strategic airlift missions, including transporting troops and cargo over long distances. This pair is **correctly matched**.\n\nBased on the analysis:\n*   Pair I is correct.\n*   Pair II is incorrect.\n*   Pair III is correct.\n\nTherefore, two pairs are correctly matched.\n\nThe final answer is $\\boxed{B}$",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 196,
+        "completion_tokens": 360,
+        "total_tokens": 556
+      }
+    },
+    {
+      "question_id": "gs1_2025_q085",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 85,
+      "raw_output": "The question asks about the chemicals used in artificial rainfall (cloud seeding) to reduce air pollution.\n\nCloud seeding is a weather modification technique that aims to change the amount or type of precipitation that falls from clouds by dispersing substances into the air that serve as cloud condensation or ice nuclei, which alter the microphysical processes within the cloud.\n\nThe most common chemicals used for cloud seeding are:\n1.  **Silver iodide (AgI)**: This is the most widely used chemical for cloud seeding. Its crystal structure is similar to that of ice, making it an effective ice-nucleating agent.\n2.  **Potassium iodide (KI)**: This can also be used as an ice-nucleating agent, sometimes in conjunction with silver iodide.\n3.  **Dry ice (solid carbon dioxide)**: This cools the air to such an extent that water vapor directly freezes into ice crystals.\n4.  **Liquid propane**: Similar to dry ice, it cools the air rapidly.\n5.  **Hygroscopic materials** (e.g., salts like sodium chloride, calcium chloride): These absorb water and form larger droplets, promoting coalescence.\n\nLooking at the options provided:\n(A) **silver iodide and potassium iodide**: Both are known cloud-seeding agents. Silver iodide is very common, and potassium iodide can also be used.\n(B) **silver nitrate and potassium iodide**: Silver nitrate is not typically used for cloud seeding.\n(C) **silver iodide and potassium nitrate**: Potassium nitrate is not typically used for cloud seeding.\n(D) **silver nitrate and potassium chloride**: Neither silver nitrate nor potassium chloride are primary cloud-seeding agents in this context. While sodium chloride (a hygroscopic salt) is used, potassium chloride is less common for this purpose, and silver nitrate is not used.\n\nTherefore, the combination of silver iodide and potassium iodide is the most appropriate answer among the given options for artificial rainfall.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 407,
+        "total_tokens": 559
+      }
+    },
+    {
+      "question_id": "gs1_2025_q086",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 86,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 196,
+        "completion_tokens": 5,
+        "total_tokens": 201
+      }
+    },
+    {
+      "question_id": "gs1_2025_q087",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 87,
+      "raw_output": "The question asks us to identify the correct statements regarding the Speaker of the House of the People (Lok Sabha). Let's analyze each statement:\n\nStatement I: \"On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution.\"\nThis statement is correct. Article 94 of the Constitution of India states: \"Provided that whenever the House of the People is dissolved, the Speaker shall not vacate his office until immediately before the first meeting of the House after the dissolution.\" This provision ensures continuity in the office of the Speaker and facilitates the smooth functioning of the new House.\n\nStatement II: \"According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately.\"\nThis statement is incorrect. The Constitution of India does not mandate that the Speaker must resign from their political party immediately upon election. While it is a convention in some parliamentary democracies (like the UK) for the Speaker to sever ties with their political party to maintain impartiality, there is no such explicit constitutional provision in India. In India, Speakers generally continue to be members of their political parties, although they are expected to act impartially in their role.\n\nStatement III: \"The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the then Members of the House, provided that no resolution shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.\"\nThis statement is correct. Article 94(c) of the Constitution states that the Speaker \"may be removed from his office by a resolution of the House of the People passed by a majority of all the then members of the House: Provided that no resolution for the purpose of this clause shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.\" This outlines the procedure for the removal of the Speaker.\n\nBased on the analysis:\nStatement I is correct.\nStatement II is incorrect.\nStatement III is correct.\n\nTherefore, the correct statements are I and III.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "c",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 295,
+        "completion_tokens": 469,
+        "total_tokens": 764
+      }
+    },
+    {
+      "question_id": "gs1_2025_q088",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 88,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 218,
+        "completion_tokens": 5,
+        "total_tokens": 223
+      }
+    },
+    {
+      "question_id": "gs1_2025_q089",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 89,
+      "raw_output": "Answer: (D)\n\n**Explanation:**\n\n*   **Statement I:** This statement is incorrect. In India, State Governments *do* have the power to make rules for the grant of concessions in respect of extraction of minor minerals. The Mines and Minerals (Development and Regulation) Act, 1957 (MMDR Act) empowers state governments to frame rules for regulating the grant of mining leases and other mineral concessions in respect of minor minerals.\n*   **Statement II:** This statement is correct. Section 3(e) of the MMDR Act defines \"minor minerals\" and also states that the Central Government has the power to declare any mineral as a minor mineral by notification in the Official Gazette.\n\nTherefore, Statement I is incorrect, and Statement II is correct.",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 248,
+        "completion_tokens": 159,
+        "total_tokens": 407
+      }
+    },
+    {
+      "question_id": "gs1_2025_q090",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 90,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 158,
+        "completion_tokens": 5,
+        "total_tokens": 163
+      }
+    },
+    {
+      "question_id": "gs1_2025_q091",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 91,
+      "raw_output": "The question asks to identify the statements that are **not correct**. Let's analyze each statement:\n\n**Statement I: Panchayats at the intermediate level exist in all States.**\nThe 73rd Constitutional Amendment Act mandates a three-tier system of Panchayats: Village, Intermediate, and District levels. However, Article 243B(2) states that \"Panchayats at the intermediate level may not be constituted in a State having a population not exceeding twenty lakhs.\" This means that states with a population of less than 20 lakhs are exempted from having an intermediate level Panchayat. Therefore, Panchayats at the intermediate level do not exist in *all* States. This statement is **incorrect**.\n\n**Statement II: To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years.**\nArticle 243F(1)(a) states that a person shall be disqualified for being chosen as, and for being, a member of a Panchayat if he is so disqualified by or under any law for the time being in force for the purposes of elections to the Legislature of the State concerned. Article 243F(1)(b) further states that no person shall be disqualified on the ground that he is less than twenty-five years of age, if he has attained the age of twenty-one years. This means the minimum age to be a member of a Panchayat is 21 years, not 30 years. This statement is **incorrect**.\n\n**Statement III: The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate level and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level.**\nArticle 243I of the Constitution mandates that the **Governor** of a State shall constitute a Finance Commission to review the financial position of the Panchayats and to make recommendations regarding the distribution of net proceeds of taxes, duties, tolls, and fees leviable by the State between the State and the Panchayats. It is the Governor, not the Chief Minister, who constitutes this commission. This statement is **incorrect**.\n\nSince all three statements are incorrect, the option that includes I, II, and III is the correct answer.\n\nThe final answer is $\\boxed{D}$",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 254,
+        "completion_tokens": 499,
+        "total_tokens": 753
+      }
+    },
+    {
+      "question_id": "gs1_2025_q092",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 92,
+      "raw_output": "Let's analyze each statement regarding BIMSTEC:\n\n*   **Statement I: It is a regional organization consisting of seven member States till January 2025.**\n    BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) currently has seven member states: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, and Thailand. This statement is factually correct regarding the number of member states. The \"till January 2025\" part doesn't change the current number of members.\n\n*   **Statement II: It came into existence with the signing of the Dhaka Declaration, 1999.**\n    BIMSTEC was initially formed as BIST-EC (Bangladesh, India, Sri Lanka, Thailand Economic Cooperation) in 1997 with the signing of the **Bangkok Declaration**. Myanmar joined later in 1997, and the group was renamed BIMST-EC. Nepal and Bhutan joined in 2004, and the organization was renamed BIMSTEC. The Dhaka Declaration was not the founding document. Therefore, this statement is incorrect.\n\n*   **Statement III: Bangladesh, India, Sri Lanka, Thailand and Nepal are founding member States of BIMSTEC.**\n    The founding members were Bangladesh, India, Sri Lanka, and Thailand (BIST-EC). Myanmar joined shortly after. Nepal and Bhutan joined in 2004. Since Nepal was not a founding member, this statement is incorrect.\n\n*   **Statement IV: In BIMSTEC, the subsector of 'tourism' is being led by India.**\n    BIMSTEC has identified various sectors for cooperation, and each member state is designated as a lead country for specific sectors. India leads the 'Tourism' sector, among others. This statement is correct.\n\nBased on the analysis:\n*   Statement I is correct.\n*   Statement II is incorrect.\n*   Statement III is incorrect.\n*   Statement IV is correct.\n\nTherefore, the correct statements are I and IV.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 239,
+        "completion_tokens": 440,
+        "total_tokens": 679
+      }
+    },
+    {
+      "question_id": "gs1_2025_q093",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 93,
+      "raw_output": "Answer: (D)",
+      "extracted_answer": "d",
+      "correct_answer": "c",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 252,
+        "completion_tokens": 5,
+        "total_tokens": 257
+      }
+    },
+    {
+      "question_id": "gs1_2025_q094",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 94,
+      "raw_output": "The question asks about the GAGAN system and its characteristics. Let's analyze each statement:\n\nStatement I: \"It is designed to provide additional accuracy and integrity.\"\nGAGAN is a Satellite-Based Augmentation System (SBAS) developed by ISRO and AAI. Its primary purpose is to enhance the accuracy and integrity of GPS signals over the Indian airspace. This statement is correct.\n\nStatement II: \"It will allow more uniform and high quality air traffic management.\"\nBy providing more accurate and reliable positioning information, GAGAN enables better navigation for aircraft, especially during critical phases of flight like landing. This leads to improved air traffic management, allowing for more efficient and safer operations, and potentially reducing separation minima between aircraft. This statement is correct.\n\nStatement III: \"It will provide benefits only in aviation but not in other modes of transportation.\"\nWhile GAGAN was primarily developed for aviation, its benefits are not limited to it. The enhanced accuracy and integrity of positioning data can be utilized in various other applications and modes of transportation, such as railways, maritime navigation, surveying, mapping, precision agriculture, and even for location-based services for general public. Therefore, this statement is incorrect.\n\nBased on the analysis:\nStatement I is correct.\nStatement II is correct.\nStatement III is incorrect.\n\nWe need to select the option that includes I and II only.\n\nOption (A) I, II and III - Incorrect because III is incorrect.\nOption (B) II and III only - Incorrect because III is incorrect.\nOption (C) I only - Incorrect because II is also correct.\nOption (D) I and II only - Correct.\n\nThe final answer is $\\boxed{D}$",
+      "extracted_answer": "d",
+      "correct_answer": "d",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 230,
+        "completion_tokens": 353,
+        "total_tokens": 583
+      }
+    },
+    {
+      "question_id": "gs1_2025_q095",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 95,
+      "raw_output": "The question refers to an AI Action Summit held in Grand Palais, Paris in February 2025. Since the current date is before February 2025, this event is in the future. Information about future events, especially specific details like co-chairs and declarations signed, is not generally available or confirmed in the present.\n\nHowever, let's analyze the statements based on typical patterns of such summits and the information that *is* available about past and planned AI summits.\n\nStatement I: \"Co-chaired with India, the event builds on the advances made at the Bletchley Park Summit held in 2023 and the Seoul Summit held in 2024.\"\n*   The Bletchley Park Summit (UK) was held in November 2023.\n*   The Seoul Summit (South Korea) was held in May 2024.\n*   There is indeed a planned \"AI Action Summit\" in France in early 2025, which is intended to build on the previous summits.\n*   The question states it is \"Co-chaired with India\". While India is a significant player in AI and has participated in these summits, whether it will *co-chair* the specific Paris summit in 2025 is a detail that would need to be officially announced. As of now, the host is France. Without official confirmation, this part is speculative for a future event.\n\nStatement II: \"Along with other countries, US and UK also signed the declaration on inclusive and sustainable AI.\"\n*   Declarations are common outcomes of such summits.\n*   The US and UK are major participants in AI discussions and would likely be signatories to any significant declaration.\n*   However, the specific content (\"inclusive and sustainable AI\") and the fact of signing for a future event are not confirmable at present.\n\nGiven that the event is in the future (February 2025), specific details about co-chairs and declarations are not yet public knowledge or confirmed. UPSC questions usually refer to established facts or officially announced future plans. Without official announcements for a future event, it's difficult to confirm these details.\n\nHowever, if we consider the *spirit* of such questions, they often test knowledge of ongoing international collaborations. The Bletchley Park and Seoul summits are real. A follow-up in France is planned. The co-chairing with India and the specific declaration are details that would need to be confirmed.\n\nLet's re-evaluate based on the premise that the question expects us to know *officially announced* future plans. As of now, the official host for the 2025 summit is France. There hasn't been a widely publicized announcement of India co-chairing it. Similarly, the specific declaration and its signatories for a future event are not yet known.\n\nTherefore, both statements refer to details of a future event that are not yet confirmed or publicly announced.\n\nAnswer: D",
+      "extracted_answer": "d",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 231,
+        "completion_tokens": 621,
+        "total_tokens": 852
+      }
+    },
+    {
+      "question_id": "gs1_2025_q096",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 96,
+      "raw_output": "The question asks to identify the correctly matched pairs of International Years and their corresponding years. Let's examine each pair:\n\n*   **I. International Year of the Woman Farmer 2026:** This is incorrect. The UN has not declared 2026 as the International Year of the Woman Farmer. There have been discussions and proposals, but no official declaration for 2026 with this specific title.\n\n*   **II. International Year of Sustainable and Resilient Tourism 2027:** This is incorrect. The UN has not declared 2027 as the International Year of Sustainable and Resilient Tourism. The year 2017 was the International Year of Sustainable Tourism for Development.\n\n*   **III. International Year of Peace and Trust 2025:** This is incorrect. The International Year of Peace and Trust was observed in **2021**, not 2025.\n\n*   **IV. International Year of Asteroid Awareness and Planetary Defence 2029:** This is incorrect. While there is growing awareness and initiatives around asteroid defense, the UN has not officially declared 2029 as the International Year of Asteroid Awareness and Planetary Defence. The UN General Assembly designated 30 June as International Asteroid Day to raise public awareness.\n\nSince none of the given pairs are correctly matched, the number of correctly matched pairs is zero.\n\nTherefore, the correct option is (A) Only one, if we interpret \"Only one\" as meaning that at least one of the options is correct, but since none are correct, the question implies that we should choose the option that best reflects the count of correct matches. In this case, zero correct matches would mean \"None\" or \"Zero\". However, given the options, if none are correct, then \"Only one\" would be the closest if the question implies that at least one of the options is correct. But if we strictly count the correct matches, it's zero.\n\nLet's re-evaluate the options based on the possibility of a trick or a misunderstanding of the question's intent. If the question asks \"How many of the pairs given above are correctly matched?\", and the answer is zero, then none of the options (A) Only one, (B) Only two, (C) Only three, (D) All the four, directly represent \"zero\". This suggests there might be an error in the question or the options provided, or a misunderstanding of the actual declarations.\n\nLet's double-check the official UN International Years.\n*   2021: International Year of Peace and Trust (III is incorrect)\n*   2022: International Year of Sustainable Mountain Development, International Year of Artisanal Fisheries and Aquaculture, International Year of Basic Sciences for Sustainable Development\n*   2023: International Year of Millets\n*   2024: International Year of Camelids\n*   2025: International Year of Cooperatives (proposed), International Year of Quantum Science and Technology (proposed), International Year of Glaciers' Preservation (proposed) - None of these match \"Peace and Trust\".\n*   2026: No official declaration for \"Woman Farmer\".\n*   2027: No official declaration for \"Sustainable and Resilient Tourism\".\n*   2029: No official declaration for \"Asteroid Awareness and Planetary Defence\".\n\nBased on official UN declarations, all four pairs are incorrectly matched. Therefore, the number of correctly matched pairs is zero. Since \"zero\" is not an option, there might be an issue with the question itself or the provided options. However, in a multiple-choice scenario, if forced to choose, and assuming there might be a subtle interpretation or a less common declaration, it's problematic.\n\nLet's assume there might be a mistake in my research or a very recent declaration.\n*   **International Year of Peace and Trust:** This was indeed 2021. So, III is definitely incorrect as 2025 is given.\n*   **International Year of the Woman Farmer:** No official UN declaration for 2026.\n*   **International Year of Sustainable and Resilient Tourism:** No official UN declaration for 2027.\n*   **International Year of Asteroid Awareness and Planetary Defence:** No official UN declaration for 2029.\n\nGiven that all four pairs are definitively incorrect based on official UN declarations, the number of correctly matched pairs is 0. Since 0 is not an option, this question is flawed. However, if I must choose from the given options, and assuming the question expects at least one correct answer, it's impossible to select one without external information or a correction to the question.\n\nIf this were a real exam, I would flag this question. But since I have to provide an answer, and assuming there might be a single correct one that I missed, let me re-verify.\n\nA thorough check confirms that none of the years match the declared International Years.\n*   International Year of Peace and Trust was 2021.\n*   No International Year of the Woman Farmer declared for 2026.\n*   No International Year of Sustainable and Resilient Tourism declared for 2027.\n*   No International Year of Asteroid Awareness and Planetary Defence declared for 2029.\n\nTherefore, the number of correctly matched pairs is 0. Since 0 is not an option, and the options are \"Only one\", \"Only two\", \"Only three\", \"All the four\", this question is unanswerable as presented.\n\nHowever, if I am forced to choose, and assuming there might be a single correct one that is obscure or a recent proposal that gained traction, it's a guess. Without any correct matches, the most accurate answer would be \"None\", which is not an option.\n\nLet's consider the possibility that one of these is a proposed year that is widely discussed, even if not officially declared by the UN General Assembly yet.\n*   The concept of \"Woman Farmer\" is important, but 2026 is not designated.\n*   Sustainable tourism is a recurring theme, but 2027 is not designated.\n*   Peace and Trust was 2021.\n*   Asteroid awareness is a real concern, but 2029 is not designated.\n\nGiven the strictness of UPSC questions, it's highly unlikely that a \"proposed\" year would be considered \"correctly matched\" unless explicitly stated.\n\nTherefore, the number of correctly matched pairs is 0. Since 0 is not an option, the question is flawed. If I must select an option, and assuming the question expects a non-zero count, it's a guess. However, if the question is designed to test knowledge of official declarations, and none are correct, then the answer should reflect that.\n\nSince I must provide an answer from the given options, and all pairs are incorrect, there are 0 correctly matched pairs. None of the options (A, B, C, D) represent 0. This indicates a problem with the question or options.\n\nIf I have to choose the *best* option among the given ones, and knowing that 0 is the actual count, it's impossible to logically derive one of the options.\n\nLet's assume there's a mistake in my verification and one of them *is* correct.\nRe-checking:\nI. International Year of the Woman Farmer 2026 - No.\nII. International Year of Sustainable and Resilient Tourism 2027 - No.\nIII. International Year of Peace and Trust 2025 - No (it was 2021).\nIV. International Year of Asteroid Awareness and Planetary Defence 2029 - No.\n\nAll are incorrect. Therefore, the number of correctly matched pairs is 0.\n\nGiven the options, and the fact that I must choose one, this question is problematic. If I were forced to guess, I would have no basis. However, if the question implies that *at least one* of the options is correct, and my research shows *none* are correct, then there's a fundamental mismatch.\n\nLet's assume the question is valid and there is a correct answer among the options. This would mean my research is flawed. But based on official UN sources, these years are not correctly matched.\n\nTherefore, the most accurate statement based on the provided information and official UN declarations is that 0 pairs are correctly matched. Since 0 is not an option, I cannot logically select A, B, C, or D.\n\nHowever, if I am forced to choose, and assuming there might be a single correct one that I missed, I cannot make an informed choice.\n\nLet's consider the possibility that the question is from a source where one of these was indeed declared or widely recognized. Without that context, I must rely on official UN declarations.\n\nSince all pairs are incorrect, the number of correctly matched pairs is zero. As \"zero\" is not an option, the question is flawed. If I must provide an answer, and assuming the question expects a non-zero count, I cannot logically deduce it.\n\nHowever, if I am forced to select an option, and if the question is from a source that expects a specific answer, I cannot determine it without external information.\n\nGiven the constraints, and the fact that I must provide an answer, and my research indicates 0 correct matches, I cannot logically choose A, B, C, or D.\n\nIf I have to pick the \"least wrong\" answer, or if there's a common error in such questions where one might be subtly correct, it'",
+      "extracted_answer": "a",
+      "correct_answer": "d",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 206,
+        "completion_tokens": 2048,
+        "total_tokens": 2254
+      }
+    },
+    {
+      "question_id": "gs1_2025_q097",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 97,
+      "raw_output": "The 16th BRICS Summit is scheduled to be held in Kazan, Russia, in October 2024. Russia holds the chairship for BRICS in 2024. So, statement I is correct.\n\nIndonesia has not become a full member of BRICS. While Indonesia has expressed interest in joining, it has not yet been admitted. The countries that joined BRICS as full members on January 1, 2024, are Egypt, Ethiopia, Iran, Saudi Arabia, and the United Arab Emirates. So, statement II is incorrect.\n\nThe theme of Russia's BRICS Chairship in 2024 is \"Strengthening Multiculturalism for Just Global Development and Security.\" This will also be the theme of the 16th BRICS Summit. So, statement III is correct.\n\nTherefore, statements I and III are correct.\n\nThe final answer is $\\boxed{C}$",
+      "extracted_answer": "c",
+      "correct_answer": "a",
+      "result": "wrong",
+      "marks": -0.66,
+      "usage": {
+        "prompt_tokens": 212,
+        "completion_tokens": 190,
+        "total_tokens": 402
+      }
+    },
+    {
+      "question_id": "gs1_2025_q098",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 98,
+      "raw_output": "Let's analyze each statement about Lokpal:\n\n*   **Statement I: The power of Lokpal applies to public servants of India, but not to the Indian public servants posted outside India.**\n    *   The Lokpal and Lokayuktas Act, 2013, defines \"public servant\" broadly. Section 2(p) includes \"any person who is or has been a Prime Minister, or a Minister in the Union, or a Member of Parliament, or any Group 'A', 'B', 'C' or 'D' officer or equivalent post in the Central Government, or any person who is or has been a chairperson or member or officer or employee of any body or board or corporation established by or under any Central Act or owned or controlled or aided by the Central Government, or any person who is or has been a director, manager, secretary or other officer of a company in which the Central Government has not less than fifty-one per cent of the paid-up share capital, or any person who is or has been a director, manager, secretary or other officer of a co-operative society or any other society or association or body which is financed wholly or partly by the Central Government.\"\n    *   The Act does not explicitly exclude public servants posted outside India if they fall under these categories. The jurisdiction is generally based on their status as Indian public servants. Therefore, this statement is likely incorrect.\n\n*   **Statement II: The Chairperson or a Member shall not be a Member of the Parliament or a Member of the Legislature of any State or Union Territory, and only the Chief Justice of India, whether incumbent or retired, has to be its Chairperson.**\n    *   The first part is correct: Section 4(1)(d) states that the Chairperson or a Member shall not be a Member of Parliament or a Member of the Legislature of any State or Union Territory.\n    *   The second part is incorrect: Section 3(2) states that the Chairperson shall be a person who is or has been a Chief Justice of India, or is or has been a Judge of the Supreme Court, or an eminent person who fulfills the eligibility criteria. It's not *only* the Chief Justice of India. A Supreme Court Judge or an eminent person can also be the Chairperson.\n    *   Since the second part is incorrect, the entire statement II is incorrect.\n\n*   **Statement III: The Chairperson or a Member shall not be a person of less than forty-five years of age on the date of assuming office as the Chairperson or Member, as the case may be.**\n    *   Section 3(3)(a) of the Lokpal and Lokayuktas Act, 2013, states that \"a person shall not be qualified for appointment as a Chairperson or a Member, if he is less than forty-five years of age on the date of assuming office as the Chairperson or Member, as the case may be.\"\n    *   This statement is correct.\n\n*   **Statement IV: Lokpal cannot inquire into the allegations of corruption against a sitting Prime Minister of India.**\n    *   This statement is incorrect. The Lokpal has the power to inquire into allegations of corruption against a sitting Prime Minister. However, there are specific safeguards and conditions. Section 14(1)(a) explicitly includes the Prime Minister within its ambit. Section 20(3) states that any complaint against the Prime Minister relating to international relations, external and internal security, public order, atomic energy, and space, unless it relates to a criminal offence, shall not be probed by the Lokpal. Also, a full bench of the Lokpal, including not less than two-thirds of its members, must approve the initiation of an inquiry against the Prime Minister, and the inquiry proceedings are to be held in camera. If the Lokpal concludes that the complaint should be dismissed, the records of the inquiry are not to be published or made available to anyone.\n    *   Therefore, Lokpal *can* inquire into allegations of corruption against a sitting Prime Minister, with certain conditions and exclusions.\n\nBased on the analysis:\n*   Statement I is incorrect.\n*   Statement II is incorrect.\n*   Statement III is correct.\n*   Statement IV is incorrect.\n\nThus, only statement III is correct.\n\nThe final answer is $\\boxed{A}$",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 289,
+        "completion_tokens": 906,
+        "total_tokens": 1195
+      }
+    },
+    {
+      "question_id": "gs1_2025_q099",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 99,
+      "raw_output": "Answer: (A)",
+      "extracted_answer": "a",
+      "correct_answer": "a",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 229,
+        "completion_tokens": 5,
+        "total_tokens": 234
+      }
+    },
+    {
+      "question_id": "gs1_2025_q100",
+      "year": 2025,
+      "paper": "gs1",
+      "question_number": 100,
+      "raw_output": "Answer: (B)",
+      "extracted_answer": "b",
+      "correct_answer": "b",
+      "result": "correct",
+      "marks": 2.0,
+      "usage": {
+        "prompt_tokens": 222,
+        "completion_tokens": 5,
+        "total_tokens": 227
+      }
+    }
+  ]
+}

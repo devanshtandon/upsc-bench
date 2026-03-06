@@ -3,7 +3,7 @@
 ## RESUME HERE — Immediate Next Action
 **Expand coverage and improve grading.**
 
-Deployed at upsc-bench.com. Prelims + Mains complete for 5 AI models + human reference. Judge calibration validates grading accuracy (-8.8% conservative bias vs coaching benchmarks). Frontend is live with Prelims/Mains toggle, interactive quiz, methodology page with judge validation section.
+Deployed at upsc-bench.com. Prelims + Mains complete for 6 AI models + human reference. GPT-5.4 added (Prelims rank #3, Mains rank #1 at 942.70/1250). Judge calibration validates grading accuracy (-8.8% conservative bias vs coaching benchmarks). Frontend is live with Prelims/Mains toggle, interactive quiz, methodology page with judge validation section.
 
 Steps to resume:
 1. Evaluate more models (Claude Sonnet, DeepSeek R1)
@@ -30,7 +30,7 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
    - `data/answer_keys/csat_2025.json` — 80 questions
 6. **Parsed questions** — `data/processed/upsc_bench.json` — 357 questions total (197 GS1, 160 CSAT across 2024+2025)
    - GS1 2025 data cleaned: fixed word-per-line formatting, III→Ill/m corruption, garbage text, OCR artifacts (90/100 questions affected)
-7. **Benchmark results** — 5 models evaluated: GPT-5.2, Gemini 3.1 Pro, Claude Opus 4.6, Gemini 2.5 Flash, Gemini 3 Flash
+7. **Benchmark results** — 6 models evaluated: GPT-5.2, GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6, Gemini 2.5 Flash, Gemini 3 Flash
    - GS1 2025 re-run on cleaned data: all models improved (+3 to +19 marks)
    - Gemini 3 Flash added: rank #1 Prelims (86.83% accuracy, GS1 avg 157.10)
 8. **Real leaderboard data** — `results/leaderboard.json` and `web/data/leaderboard.json` with actual scores, estimated AIR, pass/fail
@@ -46,7 +46,7 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 13. **Mains pipeline** — `benchmark/mains_solver.py`, `mains_scorer.py`, `mains_runner.py`, DB schema, grading infrastructure, model configs
 14. **Mains question data** — `data/mains_questions/mains_2025.json` — 2025 Mains questions (Essay + GS1-4)
 15. **Mains benchmark run** — All 5 models answered 87 Mains questions, graded by calibrated Claude Opus judge
-16. **Mains leaderboard** — GPT-5.2 #1 (897.25/1250), Gemini 3.1 Pro #2, Claude Opus #3, Gemini 3 Flash #4, Gemini 2.5 Flash #5
+16. **Mains leaderboard** — GPT-5.4 #1 (942.70/1250), GPT-5.2 #2 (897.25), Gemini 3.1 Pro #3, Claude Opus #4, Gemini 3 Flash #5, Gemini 2.5 Flash #6
 17. **Human reference** — Shakti Dubey (CSE 2024 AIR 1) added as Mains baseline (602.14/1250 estimated)
 18. **Frontend Mains view** — ExamToggle (Prelims/Mains), MainsLeaderboard.tsx, Mains tabs (Total, Essay, GS1-4), paper breakdown
 19. **Mobile-responsive redesign** — Card layout for mobile, responsive leaderboard
@@ -110,8 +110,9 @@ Branch: `main`
   - Each question: `{id, year, paper, question_number, question_text, options, has_image, image_paths, image_description, correct_answer, marks_correct, marks_wrong, marks_unanswered}`
 
 ### Benchmark Results (leaderboard.json)
-5 models evaluated via OpenRouter:
+6 models evaluated via OpenRouter:
 - `openrouter/openai/gpt-5.2`
+- `openrouter/openai/gpt-5.4`
 - `openrouter/google/gemini-3.1-pro-preview`
 - `openrouter/anthropic/claude-opus-4.6`
 - `openrouter/google/gemini-2.5-flash`
@@ -182,7 +183,9 @@ upsc-bench/
 │   ├── mains_claude_opus.yaml         <- Mains model configs
 │   ├── mains_gpt5.yaml
 │   ├── mains_gemini_3_pro.yaml
-│   └── mains_gemini_flash.yaml
+│   ├── mains_gemini_flash.yaml
+│   ├── gpt5_4.yaml                   <- GPT-5.4 Prelims config
+│   └── mains_gpt5_4.yaml             <- GPT-5.4 Mains config
 ├── data/
 │   ├── pdfs/                          <- Question paper PDFs (gitignored)
 │   ├── answer_keys/
@@ -262,6 +265,17 @@ upsc-bench/
 ```
 
 ## Session Log (latest first)
+
+### Session 11 (2026-03-05) — GPT-5.4 evaluation
+- Added GPT-5.4 (`openrouter/openai/gpt-5.4`) to benchmark — full Prelims + Mains evaluation
+- Prelims: 357 MCQs, 73.67% accuracy, GS1 avg 155.77/200 (rank #3)
+  - GS1 2024: 167.4/200, GS1 2025: 144.14/200, CSAT 2024: 93.44, CSAT 2025: 96.77
+- Mains: 87 questions graded by 4 parallel Opus subagents
+  - Total: 942.70/1250 (75.4%) — rank #1 Mains, surpassing GPT-5.2's 897.25
+  - Essay: 178.00/250 (selected Q2, Q5), GS1: 196.20/250, GS2: 184.10/250, GS3: 195.90/250, GS4: 188.50/250
+- Created config files: `config/gpt5_4.yaml`, `config/mains_gpt5_4.yaml`
+- Updated `web/src/lib/constants.ts` with GPT-5.4 display name and emerald color (#059669)
+- Regenerated leaderboard, `npm run build` passes
 
 ### Session 10 (2026-03-03) — Judge calibration & deployment
 - Built judge calibration pipeline: scraped 78 model answers from InsightsIAS (GS1-4) using 4 parallel subagents

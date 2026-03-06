@@ -297,6 +297,154 @@
       }
     },
     {
+      "model": "openrouter/openai/gpt-5.4",
+      "overall": {
+        "total_questions": 357,
+        "correct": 263,
+        "wrong": 94,
+        "unanswered": 0,
+        "accuracy": 73.67,
+        "gs1_avg_marks": 155.77,
+        "gs1_all_years_pass": true,
+        "csat_all_years_pass": true
+      },
+      "paper_totals": {
+        "csat": {
+          "total_marks": 190.20999999999998,
+          "max_marks": 400,
+          "correct": 97,
+          "wrong": 63,
+          "unanswered": 0,
+          "years_passed": 2,
+          "years_total": 2
+        },
+        "gs1": {
+          "total_marks": 311.53999999999996,
+          "max_marks": 400,
+          "correct": 166,
+          "wrong": 31,
+          "unanswered": 0,
+          "years_passed": 2,
+          "years_total": 2
+        }
+      },
+      "yearly": {
+        "2024": {
+          "csat": {
+            "marks": 93.44,
+            "max_marks": 200,
+            "correct": 48,
+            "wrong": 32,
+            "unanswered": 0,
+            "accuracy": 60.0,
+            "passed": true,
+            "cutoff": 66,
+            "margin": 27.44
+          },
+          "gs1": {
+            "marks": 167.4,
+            "max_marks": 200,
+            "correct": 87,
+            "wrong": 10,
+            "unanswered": 0,
+            "accuracy": 89.69,
+            "passed": true,
+            "cutoff": 87.98,
+            "margin": 79.42,
+            "estimated_rank": {
+              "rank": 1,
+              "percentile": 99.9998,
+              "label": "Exceeds estimated topper",
+              "total_appeared": 600000
+            }
+          }
+        },
+        "2025": {
+          "csat": {
+            "marks": 96.77,
+            "max_marks": 200,
+            "correct": 49,
+            "wrong": 31,
+            "unanswered": 0,
+            "accuracy": 61.25,
+            "passed": true,
+            "cutoff": 66,
+            "margin": 30.77
+          },
+          "gs1": {
+            "marks": 144.14,
+            "max_marks": 200,
+            "correct": 79,
+            "wrong": 21,
+            "unanswered": 0,
+            "accuracy": 79.0,
+            "passed": true,
+            "cutoff": 90.0,
+            "margin": 54.14,
+            "estimated_rank": {
+              "rank": 419,
+              "percentile": 99.94,
+              "label": "Top 500",
+              "total_appeared": 650000
+            }
+          }
+        }
+      },
+      "rank": 3,
+      "mains": {
+        "2025": {
+          "total_score": 942.7,
+          "max_marks": 1250,
+          "score_pct": 75.42,
+          "passed": true,
+          "cutoff": 571.43,
+          "margin": 371.27,
+          "estimated_rank": {
+            "rank": 1,
+            "percentile": 99.99,
+            "label": "Exceeds estimated topper",
+            "total_candidates": 14500
+          },
+          "papers": {
+            "essay": {
+              "score": 178.0,
+              "max_marks": 250,
+              "score_pct": 71.2,
+              "questions_evaluated": 2,
+              "selected_essays": [
+                "mains_essay_2025_q2",
+                "mains_essay_2025_q5"
+              ]
+            },
+            "gs1": {
+              "score": 196.2,
+              "max_marks": 250,
+              "score_pct": 78.48,
+              "questions_evaluated": 20
+            },
+            "gs2": {
+              "score": 184.1,
+              "max_marks": 250,
+              "score_pct": 73.64,
+              "questions_evaluated": 20
+            },
+            "gs3": {
+              "score": 195.9,
+              "max_marks": 250,
+              "score_pct": 78.36,
+              "questions_evaluated": 20
+            },
+            "gs4": {
+              "score": 188.5,
+              "max_marks": 250,
+              "score_pct": 75.4,
+              "questions_evaluated": 19
+            }
+          }
+        }
+      }
+    },
+    {
       "model": "openrouter/google/gemini-3.1-pro-preview",
       "overall": {
         "total_questions": 100,
@@ -340,7 +488,7 @@
           }
         }
       },
-      "rank": 3,
+      "rank": 4,
       "mains": {
         "2025": {
           "total_score": 865.12,
@@ -438,7 +586,7 @@
           }
         }
       },
-      "rank": 4,
+      "rank": 5,
       "mains": {
         "2025": {
           "total_score": 897.25,
@@ -536,7 +684,7 @@
           }
         }
       },
-      "rank": 5,
+      "rank": 6,
       "mains": {
         "2025": {
           "total_score": 735.8,
@@ -658,7 +806,7 @@
     }
   ],
   "metadata": {
-    "total_models": 5,
+    "total_models": 6,
     "years": [
       2024,
       2025

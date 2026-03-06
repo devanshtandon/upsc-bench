@@ -1,0 +1,355 @@
+{
+  "batch_id": "batch_001",
+  "scores": [
+    {
+      "question_id": "mains_essay_2025_q1",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_breadth": 26.5,
+        "structure_flow": 18.0,
+        "depth_examples": 17.5,
+        "analytical_depth": 17.0,
+        "presentation": 9.0
+      },
+      "total_score": 88.0,
+      "max_marks": 125,
+      "brief_feedback": "Comprehensive essay spanning social hierarchies, constitutional law, science, journalism, justice, and postmodernism with strong Indian and global examples. Well-structured with clear thesis and balanced conclusion, though exceeds word limit and some sections feel encyclopedic rather than deeply argued."
+    },
+    {
+      "question_id": "mains_essay_2025_q2",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_breadth": 27.0,
+        "structure_flow": 18.5,
+        "depth_examples": 18.0,
+        "analytical_depth": 18.0,
+        "presentation": 9.0
+      },
+      "total_score": 90.5,
+      "max_marks": 125,
+      "brief_feedback": "Outstanding strategic analysis interpreting Sun Tzu across military, diplomatic, economic, technological, and Indian freedom struggle dimensions. Rich historical examples (Cold War, Cuban Missile Crisis, Kargil) and honest critical engagement with limitations (Nazi Germany, ISIS). Exceeds word limit; some arguments could be more original."
+    },
+    {
+      "question_id": "mains_essay_2025_q3",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_breadth": 26.0,
+        "structure_flow": 17.5,
+        "depth_examples": 17.5,
+        "analytical_depth": 17.5,
+        "presentation": 9.0
+      },
+      "total_score": 87.5,
+      "max_marks": 125,
+      "brief_feedback": "Excellent dialectical treatment of thought as both receiver and creator of reality, spanning Indian philosophy, the Constitution, Green Revolution, AI/digital infrastructure, and climate change. Philosophically mature but verbose; the essay would benefit from fewer examples treated with greater depth rather than breadth."
+    },
+    {
+      "question_id": "mains_essay_2025_q4",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_breadth": 25.0,
+        "structure_flow": 17.0,
+        "depth_examples": 16.5,
+        "analytical_depth": 16.0,
+        "presentation": 8.5
+      },
+      "total_score": 83.0,
+      "max_marks": 125,
+      "brief_feedback": "Well-rounded coverage across personal failure, psychological resilience, India's colonial experience, the Emergency, 1991 crisis, world wars, pandemics, and Bhopal. Good qualification that suffering is not automatically educational. However, the argument follows a predictable domain-by-domain pattern and lacks a truly distinctive analytical thread."
+    },
+    {
+      "question_id": "mains_essay_2025_q5",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_breadth": 26.0,
+        "structure_flow": 18.0,
+        "depth_examples": 17.0,
+        "analytical_depth": 17.5,
+        "presentation": 9.0
+      },
+      "total_score": 87.5,
+      "max_marks": 125,
+      "brief_feedback": "Thoughtfully navigates the tension between patience and passivity across psychology, governance, environment, diplomacy, judiciary, and social media. Strong critical engagement distinguishing when the metaphor applies versus when active intervention is needed (Ganga, structural injustice). Cuban Missile Crisis, Thames revival examples are apt."
+    },
+    {
+      "question_id": "mains_essay_2025_q6",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_breadth": 25.0,
+        "structure_flow": 17.0,
+        "depth_examples": 16.5,
+        "analytical_depth": 16.0,
+        "presentation": 8.5
+      },
+      "total_score": 83.0,
+      "max_marks": 125,
+      "brief_feedback": "Solid essay distinguishing short-term information from long-term wisdom. Harvard study, Emergency, 1991 crisis, and climate change examples are relevant. However, the later half becomes repetitive and the distinction between years-as-teacher and mere passage-of-time could be sharper. Lacks a truly original analytical contribution."
+    },
+    {
+      "question_id": "mains_essay_2025_q7",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_breadth": 24.5,
+        "structure_flow": 17.0,
+        "depth_examples": 16.0,
+        "analytical_depth": 15.5,
+        "presentation": 8.5
+      },
+      "total_score": 81.5,
+      "max_marks": 125,
+      "brief_feedback": "Competent treatment of the journey-vs-destination theme across education, work, failure, Indian philosophy, and nation-building. Incorporates Bhagavad Gita, NEP 2020, and Kalam. However, the thesis is conventional and the essay reads more as thematic paragraphs than a tightly unified argument. Most ideas are well-known rather than original."
+    },
+    {
+      "question_id": "mains_essay_2025_q8",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_breadth": 26.0,
+        "structure_flow": 17.5,
+        "depth_examples": 17.0,
+        "analytical_depth": 17.0,
+        "presentation": 9.0
+      },
+      "total_score": 86.5,
+      "max_marks": 125,
+      "brief_feedback": "Strong essay unpacking the Socratic paradox through Indian philosophy, hedonic treadmill research, environmental costs of luxury, Gandhi's trusteeship, and policy implications. Good balance arguing contentment is not resignation and luxury is not inherently immoral. Amul cooperative example is distinctive. Slightly over-long."
+    },
+    {
+      "question_id": "mains_gs1_2025_q1",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.7,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.2,
+      "max_marks": 10,
+      "brief_feedback": "Comprehensive coverage of Harappan architecture: grid planning, citadel-lower town, standardized bricks (1:2:4 ratio), drainage, domestic and public architecture with specific site references. All major features addressed accurately. Could mention fortification walls or lack of palatial structures for deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q2",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.6,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.2,
+      "max_marks": 10,
+      "brief_feedback": "Thorough treatment of Akbar's syncretism covering Sulh-i-kul, Rajput alliances, jizya abolition, Ibadat Khana, Din-i-Ilahi, and translation projects with accurate dates. Good concluding qualification about Din-i-Ilahi's limited reach. Could discuss motivations (political vs. genuine spiritual) more critically."
+    },
+    {
+      "question_id": "mains_gs1_2025_q3",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.5,
+        "depth_examples": 1.5,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 7.7,
+      "max_marks": 10,
+      "brief_feedback": "Good interpretation of Chandella art's vigor and breadth with Kandariya Mahadeva reference, tribhanga postures, and secular-divine thematic range. Tantric context is relevant. Could have discussed more specific sculptural techniques, compared with Chola or Pala art, or mentioned architectural innovations like the Nagara shikhara."
+    },
+    {
+      "question_id": "mains_gs1_2025_q4",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.6,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.2,
+      "max_marks": 10,
+      "brief_feedback": "Well-structured covering sea-level rise, extreme weather, and sovereignty for SIDS with accurate examples (Maldives elevation, Kiribati land purchase in Fiji, EEZ implications) and IPCC data. Factually sound. Could have mentioned Marshall Islands, specific adaptation strategies, or climate justice dimensions more."
+    },
+    {
+      "question_id": "mains_gs1_2025_q5",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.3,
+        "structure_flow": 1.6,
+        "depth_examples": 1.6,
+        "analytical_depth": 0.6,
+        "presentation": 0.8
+      },
+      "total_score": 7.9,
+      "max_marks": 10,
+      "brief_feedback": "Clear definition of non-farm primary activities and systematic linkage to physiography across mountains, coasts, plateaus, and arid tracts with state-level examples. Covers forestry, fishing, mining, and salt-making. Could analyze the economic significance of these activities or discuss policy interventions linking physiography to livelihood planning."
+    },
+    {
+      "question_id": "mains_gs1_2025_q6",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.5,
+        "depth_examples": 1.5,
+        "analytical_depth": 0.6,
+        "presentation": 0.7
+      },
+      "total_score": 7.5,
+      "max_marks": 10,
+      "brief_feedback": "Covers both ecological and economic benefits with relevant examples (Bhadla, Pavagada, PM-KUSUM) and Paris Agreement target. Adequate but somewhat generic; lacks specific quantitative data on emissions saved, jobs created, or tariff comparisons. Could discuss challenges or state-level variation for deeper analysis."
+    },
+    {
+      "question_id": "mains_gs1_2025_q7",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.4,
+        "structure_flow": 1.6,
+        "depth_examples": 1.7,
+        "analytical_depth": 0.7,
+        "presentation": 0.8
+      },
+      "total_score": 8.2,
+      "max_marks": 10,
+      "brief_feedback": "Strong answer covering tsunami definition, formation mechanism, wave physics (500-800 km/h), and consequences with two excellent examples (2004 Indian Ocean with 2.3 lakh deaths, 2011 Japan/Fukushima). Factually accurate and well-organized. Slightly exceeds word limit."
+    },
+    {
+      "question_id": "mains_gs1_2025_q8",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.1,
+        "structure_flow": 1.5,
+        "depth_examples": 1.4,
+        "analytical_depth": 0.7,
+        "presentation": 0.7
+      },
+      "total_score": 7.4,
+      "max_marks": 10,
+      "brief_feedback": "Balanced answer on Smart Cities addressing both potential (ICT platforms, PMAY convergence, digital inclusion) and limitations (gentrification, area-based approach). City examples are relevant but somewhat surface-level. Could have provided more concrete evidence of impact on urban poverty indicators or discussed specific equity-oriented projects."
+    },
+    {
+      "question_id": "mains_gs1_2025_q9",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.0,
+        "structure_flow": 1.4,
+        "depth_examples": 1.3,
+        "analytical_depth": 0.6,
+        "presentation": 0.7
+      },
+      "total_score": 7.0,
+      "max_marks": 10,
+      "brief_feedback": "Adequately defines the dual ethos of professionalism and nationalistic consciousness with Sardar Patel's 'steel frame' reference and examples (Odisha cyclone, COVID, Aspirational Districts). However, lacks critical depth -- does not discuss tensions between the two ideals, challenges of politicization, or how this ethos has evolved over time."
+    },
+    {
+      "question_id": "mains_gs1_2025_q10",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 3.2,
+        "structure_flow": 1.5,
+        "depth_examples": 1.4,
+        "analytical_depth": 0.7,
+        "presentation": 0.7
+      },
+      "total_score": 7.5,
+      "max_marks": 10,
+      "brief_feedback": "Balanced response arguing globalization produces multiple outcomes beyond aggressive consumerism. Covers cultural exchange, knowledge flows, social awareness, and glocalization with Indian examples. The glocalization concept is well-applied. Could engage more deeply with mechanisms of consumer culture or discuss power asymmetries in cultural exchange."
+    },
+    {
+      "question_id": "mains_gs1_2025_q11",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 5.2,
+        "structure_flow": 2.5,
+        "depth_examples": 2.5,
+        "analytical_depth": 1.1,
+        "presentation": 1.2
+      },
+      "total_score": 12.5,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive answer covering Phule's work across caste (Gulamgiri, Satyashodhak Samaj), women's emancipation (schools, widow homes), peasant rights (Shetkaryacha Asud), and education with accurate dates and legacy connections to Ambedkar. Strong command of subject matter. Could discuss limitations of his movement or contemporary relevance."
+    },
+    {
+      "question_id": "mains_gs1_2025_q12",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 5.2,
+        "structure_flow": 2.6,
+        "depth_examples": 2.5,
+        "analytical_depth": 1.1,
+        "presentation": 1.2
+      },
+      "total_score": 12.6,
+      "max_marks": 15,
+      "brief_feedback": "Excellent multi-dimensional answer covering polity (princely states, Constitution, States Reorganisation), economy (Planning Commission, Mahalanobis model, steel plants), education (commissions, IITs, UGC), and international relations (Non-Alignment, Bandung, 1962 war). Factually rich and well-organized. Exceeds word limit; could integrate themes more than list them."
+    },
+    {
+      "question_id": "mains_gs1_2025_q13",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 4.8,
+        "structure_flow": 2.4,
+        "depth_examples": 2.3,
+        "analytical_depth": 1.1,
+        "presentation": 1.2
+      },
+      "total_score": 11.8,
+      "max_marks": 15,
+      "brief_feedback": "Well-organized treatment of the French Revolution's enduring relevance across political ideals, feudalism's decline, nationalism, mass mobilization, and cautionary lessons. Arab Spring and UDHR connections are apt. Could have drawn more explicit connections to India's constitutional discourse or provided deeper analysis beyond listing areas of influence."
+    },
+    {
+      "question_id": "mains_gs1_2025_q14",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 5.0,
+        "structure_flow": 2.4,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.0,
+        "presentation": 1.2
+      },
+      "total_score": 12.0,
+      "max_marks": 15,
+      "brief_feedback": "Strong geographical treatment of offshore oil distribution with clear explanations of continental shelves, passive margins, and salt tectonics. Good global coverage (Persian Gulf, North Sea, Brazil pre-salt, Bombay High) and systematic onshore-offshore comparison. Could discuss more about deep-water vs. shallow-water differences or economic viability factors."
+    },
+    {
+      "question_id": "mains_gs1_2025_q15",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 4.8,
+        "structure_flow": 2.4,
+        "depth_examples": 2.2,
+        "analytical_depth": 1.0,
+        "presentation": 1.2
+      },
+      "total_score": 11.6,
+      "max_marks": 15,
+      "brief_feedback": "Comprehensive answer covering drone data collection, AI spatial analysis, multi-criteria land suitability, disaster planning, and governance benefits. SVAMITVA and Bhuvan examples are relevant. However, the treatment is somewhat textbook-like; could benefit from specific case studies with measurable outcomes and discussion of data privacy or accuracy challenges."
+    },
+    {
+      "question_id": "mains_gs1_2025_q16",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 5.2,
+        "structure_flow": 2.5,
+        "depth_examples": 2.4,
+        "analytical_depth": 1.1,
+        "presentation": 1.2
+      },
+      "total_score": 12.4,
+      "max_marks": 15,
+      "brief_feedback": "Excellent coverage of plate tectonic processes (divergent, convergent, transform) with specific examples (Mid-Atlantic Ridge, East African Rift, Himalayas, Ring of Fire, San Andreas Fault). Wilson Cycle and Pangaea breakup add geological depth. Well-structured and factually accurate. Could discuss rates of change or evidence methods."
+    },
+    {
+      "question_id": "mains_gs1_2025_q17",
+      "candidate_id": "candidate_8717",
+      "rubric_scores": {
+        "content_accuracy": 5.0,
+        "structure_flow": 2.5,
+        "depth_examples": 2.3,
+        "analytical_depth": 1.0,
+        "presentation": 1.2
+      },
+      "total_score": 12.0,
+      "max_marks": 15,
+      "brief_feedback": "Well-structured treatment of Ganga Basin population distribution with systematic coverage of land (Indo-Gangetic plain), soil (khadar/bhangar), and water resources. Good quantitative data (8.6 lakh sq km, 40-43% population) and district references. Could discuss urban-rural dynamics, migration patterns, or policy responses to ecological stress more substantively."
+    }
+  ]
+}

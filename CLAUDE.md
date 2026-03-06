@@ -3,13 +3,14 @@
 ## RESUME HERE — Immediate Next Action
 **Expand coverage and improve grading.**
 
-Deployed at upsc-bench.com. Prelims + Mains complete for 6 AI models + human reference. GPT-5.4 added (Prelims rank #3, Mains rank #1 at 942.70/1250). Judge calibration validates grading accuracy (-8.8% conservative bias vs coaching benchmarks). Frontend is live with Prelims/Mains toggle, interactive quiz, methodology page with judge validation section.
+Deployed at upsc-bench.com. Prelims + Mains complete for 6 AI models + 10 human references (CSE 2024 top 10). Arena feature live — blind side-by-side essay comparison at /arena. Judge calibration validates grading accuracy (-8.8% conservative bias vs coaching benchmarks). Frontend is live with Prelims/Mains toggle, interactive quiz, arena, methodology page with judge validation section.
 
 Steps to resume:
 1. Evaluate more models (Claude Sonnet, DeepSeek R1)
 2. Add Prelims years 2020-2023 (PDFs downloaded for some, not parsed)
 3. Write proper README for open source release (draft complete, finalize after deploy)
 4. Consider re-running Mains grading with question-grouped batches (per regrade plan)
+5. **When CSE 2025 results are released:** Add 2025 top 10 as primary human reference, keep only AIR 1 from 2024. Switch human color to Faded Lavender (#9A8CB8) to differentiate the newer cohort.
 
 ---
 
@@ -53,6 +54,7 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 20. **Documentation update** — README rewrite, About/Methodology page with Mains methodology + FAQ
 21. **Judge calibration** — 78 coaching institute model answers (InsightsIAS) graded by same Opus judge; validated -8.8% conservative bias, 9.8% MAE; methodology page updated with validation results
 22. **Deployed** — Live on Vercel at upsc-bench.com
+23. **Arena feature** — Blind side-by-side essay comparison at /arena; 8 essay topics × 5 models; LMSys Arena-style voting with reveal; mobile-responsive with tab layout; Python build script + static JSON data pipeline
 
 ### What's NOT DONE:
 1. ~~Add GitHub remote and push~~ (done)
@@ -69,6 +71,8 @@ UPSC Bench is an LLM evaluation benchmark based on India's UPSC Civil Services E
 
 ## Git History
 ```
+aa96850 feat: add Arena — blind side-by-side LLM essay comparison
+c8a9308 chore: sync leaderboard data and UI updates from GPT-5.4 session
 344de91 feat: add GPT-5.4 to benchmark (Prelims rank #3, Mains rank #1)
 efae48a Update CLAUDE.md: checkpoint after judge calibration and deployment
 87ad72d docs: add judge validation findings to methodology page
@@ -229,6 +233,7 @@ upsc-bench/
 │   ├── scrape_coaching_answers.py     <- Structure raw InsightsIAS data into calibration format
 │   ├── grade_calibration.py           <- Prepare/merge calibration grading batches
 │   ├── compute_calibration_metrics.py <- Compute MAE, bias, per-paper breakdown
+│   ├── build_arena_data.py           <- Extract essay answers -> web/data/arena_data.json
 │   ├── self_eval.py                   <- Self-evaluation script
 │   ├── merge_and_build.py             <- Merge + build pipeline
 │   ├── merge_answers.py               <- Answer merging utility
@@ -240,17 +245,20 @@ upsc-bench/
 ├── db/                                <- For SQLite (empty)
 └── web/                               <- Next.js frontend
     ├── data/leaderboard.json          <- Copy of leaderboard data for static build
+    ├── data/arena_data.json           <- Essay answers for arena (8 questions × 5 models)
     ├── src/
     │   ├── app/
     │   │   ├── layout.tsx
     │   │   ├── page.tsx               <- Main leaderboard page
     │   │   ├── globals.css            <- Global styles + animations
     │   │   ├── about/page.tsx         <- Methodology + "Why This Matters"
+    │   │   ├── arena/page.tsx         <- Blind side-by-side essay comparison
     │   │   └── quiz/page.tsx          <- Interactive 5-question quiz
     │   ├── components/
     │   │   ├── Header.tsx             <- SVG Ashoka Chakra + title + stats
     │   │   ├── Leaderboard.tsx        <- Prelims ranking table with cutoff rows
     │   │   ├── MainsLeaderboard.tsx   <- Mains ranking table with paper breakdown
+    │   │   ├── ArenaEssayPanel.tsx    <- Side-by-side essay display with rubric scores
     │   │   ├── ScoreChart.tsx         <- Recharts bar chart
     │   │   ├── YearSelector.tsx       <- Year filter pills
     │   │   ├── PaperTabs.tsx          <- Paper type toggle
@@ -260,13 +268,27 @@ upsc-bench/
     │   ├── lib/
     │   │   ├── data.ts                <- Data loading + filtering + ranking
     │   │   ├── quiz.ts                <- Quiz logic: sampling, scoring, rank extrapolation
+    │   │   ├── arena.ts               <- Arena logic: pairings, voting, summary
     │   │   └── constants.ts           <- Colors, model display names
-    │   └── types/index.ts             <- TypeScript interfaces
+    │   └── types/
+    │       ├── index.ts               <- TypeScript interfaces
+    │       └── arena.ts               <- Arena-specific types
     ├── package.json
     └── tsconfig.json
 ```
 
 ## Session Log (latest first)
+
+### Session 12 (2026-03-05) — Arena feature
+- Built LMSys Arena-style blind side-by-side essay comparison at `/arena`
+- Created Python build script (`scripts/build_arena_data.py`) to extract essay answers from `results/raw/mains_results_*.json` into `web/data/arena_data.json` (366KB, 8 questions × 5 models)
+- Arena flow: 5-round sessions, blind Model A/B labels, optional reveal before voting, post-vote rubric score bars + judge feedback
+- Mobile-responsive: tab-switched on mobile, true side-by-side grid on desktop
+- Added task context to question header explaining UPSC essay requirements and judging criteria
+- Code review found & fixed 6 bugs: handleRestart double-randomization, biased sort shuffle replaced with Fisher-Yates, ARENA_MODELS derived per-question, progress bar off-by-one, unused props, inline markdown rendering
+- New files: `arena/page.tsx`, `ArenaEssayPanel.tsx`, `lib/arena.ts`, `types/arena.ts`
+- Modified: `Footer.tsx` (arena link), `page.tsx` (arena callout), `globals.css` (arena-essay styles)
+- Deployed to Vercel (upsc-bench.com/arena)
 
 ### Session 11 (2026-03-05) — GPT-5.4 evaluation
 - Added GPT-5.4 (`openrouter/openai/gpt-5.4`) to benchmark — full Prelims + Mains evaluation

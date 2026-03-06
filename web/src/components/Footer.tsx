@@ -31,6 +31,14 @@ export default function Footer() {
           </a>
           <span style={{ color: "rgba(26,17,69,0.15)" }}>|</span>
           <a
+            href="/arena"
+            className="font-medium transition-colors hover:text-[var(--saffron)]"
+            style={{ color: "var(--navy)" }}
+          >
+            Arena
+          </a>
+          <span style={{ color: "rgba(26,17,69,0.15)" }}>|</span>
+          <a
             href="/about"
             className="font-medium transition-colors hover:text-[var(--saffron)]"
             style={{ color: "var(--navy)" }}

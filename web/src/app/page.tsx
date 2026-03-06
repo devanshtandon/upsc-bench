@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { getLeaderboardData, getFilteredModels, getMainsFilteredModels } from "@/lib/data";
+import { getLeaderboardData, getFilteredModels, getMainsFilteredModels, getMainsHumanModels } from "@/lib/data";
 import { MAINS_PAPER_LABELS } from "@/lib/constants";
 import Header from "@/components/Header";
 import PaperTabs from "@/components/PaperTabs";
@@ -16,9 +16,19 @@ export default function Home() {
   const [examType, setExamType] = useState<ExamType>("mains");
   const [paper, setPaper] = useState<Paper>("overall");
   const [mainsPaper, setMainsPaper] = useState<MainsPaper>("mains_total");
+  const [humanColor, setHumanColor] = useState("#8B5CF6");
+
+  const colorOptions = [
+    { hex: "#8B5CF6", name: "Current Purple" },
+    { hex: "#78716C", name: "Warm Gray" },
+    { hex: "#6B8F71", name: "Muted Sage" },
+    { hex: "#7C8DB0", name: "Slate Blue" },
+    { hex: "#9A8CB8", name: "Faded Lavender" },
+  ];
 
   const filteredModels = getFilteredModels(data, year, paper);
   const mainsModels = getMainsFilteredModels(data, year, mainsPaper);
+  const humanModels = getMainsHumanModels(data, year);
 
   const mainsPapers: MainsPaper[] = ["mains_total", "essay", "mains_gs1", "mains_gs2", "mains_gs3", "mains_gs4"];
 
@@ -117,7 +127,26 @@ export default function Home() {
             </div>
           ) : (
             <div className="glass-card overflow-hidden">
-              <MainsLeaderboard models={mainsModels} year={year} paper={mainsPaper} />
+              {/* Temporary color picker for human section */}
+              <div className="px-4 py-3 flex items-center gap-3 flex-wrap" style={{ borderBottom: "1px solid rgba(26,17,69,0.06)", backgroundColor: "rgba(26,17,69,0.02)" }}>
+                <span className="text-[11px] font-semibold uppercase tracking-wider" style={{ color: "rgba(26,17,69,0.4)" }}>Human color:</span>
+                {colorOptions.map((opt) => (
+                  <button
+                    key={opt.hex}
+                    onClick={() => setHumanColor(opt.hex)}
+                    className="flex items-center gap-1.5 px-2.5 py-1 rounded-md text-[12px] font-medium transition-all cursor-pointer"
+                    style={{
+                      backgroundColor: humanColor === opt.hex ? opt.hex : "transparent",
+                      color: humanColor === opt.hex ? "#fff" : opt.hex,
+                      border: `1.5px solid ${opt.hex}`,
+                    }}
+                  >
+                    <span className="w-3 h-3 rounded-full flex-shrink-0" style={{ backgroundColor: opt.hex, opacity: humanColor === opt.hex ? 0 : 1 }} />
+                    {opt.name}
+                  </button>
+                ))}
+              </div>
+              <MainsLeaderboard models={mainsModels} humanModels={humanModels} year={year} paper={mainsPaper} humanColor={humanColor} />
             </div>
           )}
 
@@ -183,6 +212,33 @@ export default function Home() {
             style={{ backgroundColor: "var(--saffron)", color: "#fff" }}
           >
             Take the quiz
+          </a>
+        </div>
+
+        {/* Arena callout */}
+        <div
+          className="mb-12 p-5 rounded-xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 animate-fade-in-up"
+          style={{
+            backgroundColor: "rgba(26,17,69,0.03)",
+            border: "1px solid rgba(26,17,69,0.1)",
+            animationDelay: "800ms",
+          }}
+        >
+          <div>
+            <h3 className="text-sm font-semibold mb-1" style={{ color: "var(--navy)" }}>
+              Grade the models&apos; papers
+            </h3>
+            <p className="text-sm leading-relaxed" style={{ color: "rgba(26,17,69,0.6)" }}>
+              Read two AI-written UPSC essays side-by-side and vote for the better answer.
+              Model identities are hidden until you decide.
+            </p>
+          </div>
+          <a
+            href="/arena"
+            className="flex-shrink-0 px-5 py-2.5 rounded-lg text-sm font-semibold transition-colors"
+            style={{ backgroundColor: "var(--navy)", color: "#fff" }}
+          >
+            Enter the arena
           </a>
         </div>
 

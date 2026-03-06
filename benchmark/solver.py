@@ -33,6 +33,23 @@ Options:
 
 Provide your answer."""
 
+PASSAGE_QUESTION_TEMPLATE = """Question {number}:
+
+Read the following passage and answer the question that follows.
+
+Passage:
+{passage}
+
+{question_text}
+
+Options:
+(A) {option_a}
+(B) {option_b}
+(C) {option_c}
+(D) {option_d}
+
+Provide your answer."""
+
 
 def build_prompt(question: dict) -> str:
     """Build the question prompt text.
@@ -43,14 +60,21 @@ def build_prompt(question: dict) -> str:
     Returns:
         Formatted question prompt string.
     """
-    return QUESTION_TEMPLATE.format(
-        number=question["question_number"],
-        question_text=question["question_text"],
-        option_a=question["options"]["a"],
-        option_b=question["options"]["b"],
-        option_c=question["options"]["c"],
-        option_d=question["options"]["d"],
-    )
+    passage = question.get("passage", "").strip()
+    template = PASSAGE_QUESTION_TEMPLATE if passage else QUESTION_TEMPLATE
+
+    kwargs = {
+        "number": question["question_number"],
+        "question_text": question["question_text"],
+        "option_a": question["options"]["a"],
+        "option_b": question["options"]["b"],
+        "option_c": question["options"]["c"],
+        "option_d": question["options"]["d"],
+    }
+    if passage:
+        kwargs["passage"] = passage
+
+    return template.format(**kwargs)
 
 
 def encode_image(image_path: str) -> str:

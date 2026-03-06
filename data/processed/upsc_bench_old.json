@@ -4,7 +4,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 1,
-    "question_text": "Which one of the following statements best reflects the critical message conveyed by the author of the passage ?",
+    "question_text": "[Based on Passage about ecosystem conservation vs commercial exploitation] Which one of the following statements best reflects the critical message conveyed by the author of the passage?",
     "options": {
       "a": "Conservation of biodiversity is not an issue to be worried about when some people depend on ecosystems for their livelihoods.",
       "b": "Commercial exploitation of forests goes against the fundamental rights of the people dependent on forests for food and shelter.",
@@ -17,15 +17,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q002",
     "year": 2025,
     "paper": "csat",
     "question_number": 2,
-    "question_text": "With reference to above passage, the following assumptions have been made :\n\nI. No country needs to depend on ecosystems to boost national income.\n\nII. Resource-rich countries need to share their resources with those of scant resources so as to prevent the degradation of ecosystems.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage about ecosystem conservation vs commercial exploitation] With reference to above passage, the following assumptions have been made:\nI. No country needs to depend on ecosystems to boost national income.\nII. Resource-rich countries need to share their resources with those of scant resources so as to prevent the degradation of ecosystems.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -38,15 +37,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q003",
     "year": 2025,
     "paper": "csat",
     "question_number": 3,
-    "question_text": "Which one of the following statements best reflects the central idea of the passage ?",
+    "question_text": "[Based on Passage about renewable energy and green transition] Which one of the following statements best reflects the central idea of the passage?",
     "options": {
       "a": "Economies of scale is essential for transition to green growth.",
       "b": "Modern technological progress is intensely linked to path-dependent innovations.",
@@ -59,15 +57,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q004",
     "year": 2025,
     "paper": "csat",
     "question_number": 4,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\nI. Path-dependent green investments will eventually most likely benefit growth as well as public finances in a country like India.\n\nII. If other green technologies follow the same pattern as that of solar energy, there will most likely be an easy green transition.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage about renewable energy and green transition] With reference to the above passage, the following assumptions have been made:\nI. Path-dependent green investments will eventually most likely benefit growth as well as public finances in a country like India.\nII. If other green technologies follow the same pattern as that of solar energy, there will most likely be an easy green transition.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -80,15 +77,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q005",
     "year": 2025,
     "paper": "csat",
     "question_number": 5,
-    "question_text": "A natural number N is such that it can be expressed as N = p + q + r, where p, q and r are distinct factors of N. How many numbers below 50 have this property ?",
+    "question_text": "A natural number N is such that it can be expressed as N = p + q + r, where p, q and r are distinct factors of N. How many numbers below 50 have this property?",
     "options": {
       "a": "6",
       "b": "7",
@@ -101,14 +97,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q006",
     "year": 2025,
     "paper": "csat",
     "question_number": 6,
-    "question_text": "Three prime numbers p, q and r, each less than 20, are such that p − q = q − r. How many distinct possible values can we get for (p + q + r) ?",
+    "question_text": "Three prime numbers p, q and r, each less than 20, are such that p - q = q - r. How many distinct possible values can we get for (p + q + r)?",
     "options": {
       "a": "4",
       "b": "5",
@@ -121,14 +117,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q007",
     "year": 2025,
     "paper": "csat",
     "question_number": 7,
-    "question_text": "How many possible values of (p + q + r) are there satisfying 1/p + 1/q + 1/r = 1, where p, q and r are natural numbers (not necessarily distinct) ?",
+    "question_text": "How many possible values of (p + q + r) are there satisfying 1/p + 1/q + 1/r = 1, where p, q and r are natural numbers (not necessarily distinct)?",
     "options": {
       "a": "None",
       "b": "One",
@@ -141,7 +137,7 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q008",
@@ -161,7 +157,7 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q009",
@@ -181,7 +177,7 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q010",
@@ -190,10 +186,10 @@
     "question_number": 10,
     "question_text": "The price (p) of a commodity is first increased by k%; then decreased by k%; again increased by k%; and again decreased by k%. If the new price is q, then what is the relation between p and q?",
     "options": {
-      "a": "p(10⁴ − k²)² = q × 10⁸",
-      "b": "p(10⁴ − k²)² = q × 10⁴",
-      "c": "p(10⁴ − k²) = q × 10⁴",
-      "d": "p(10⁴ − k²) = q × 10⁸"
+      "a": "p(10^4 - k^2)^2 = q x 10^8",
+      "b": "p(10^4 - k^2)^2 = q x 10^4",
+      "c": "p(10^4 - k^2) = q x 10^4",
+      "d": "p(10^4 - k^2) = q x 10^8"
     },
     "has_image": false,
     "image_paths": [],
@@ -201,14 +197,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q011",
     "year": 2025,
     "paper": "csat",
     "question_number": 11,
-    "question_text": "Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the author of the passage?",
+    "question_text": "[Based on Passage about climate change and India's state-level strategies] Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the author of the passage?",
     "options": {
       "a": "The mitigation and adaptation strategies to address/tackle the climate change is essentially the responsibility of each State.",
       "b": "India is too diverse to implement any effective strategy or programme to address/tackle the climate change.",
@@ -221,15 +217,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Each State in India faces a distinctive set of challenges regarding the impact of warming, but also offers its own set of opportunities for reducing emissions depending on its natural resources. For example, coastal States need to take action to protect their shores from sea level rise, districts that are drier need to prepare for variable monsoon precipitation. Himalayan regions have their own unique challenges, and selected parts of peninsular India and offshore areas offer great opportunities for harnessing wind power. These various aspects need to be considered for developing clear and sustainable goals for the future."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q012",
     "year": 2025,
     "paper": "csat",
     "question_number": 12,
-    "question_text": "With reference to the passage, the following assumptions have been made :\n\nI. Green energy production can be linked to/integrated with the climate change mitigation and adaptation strategies.\n\nII. Effects of climate change are much more severe in coastal and mountainous regions.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage about climate change and India's state-level strategies] With reference to the passage, the following assumptions have been made:\nI. Green energy production can be linked to/integrated with the climate change mitigation and adaptation strategies.\nII. Effects of climate change are much more severe in coastal and mountainous regions.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -242,15 +237,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Each State in India faces a distinctive set of challenges regarding the impact of warming, but also offers its own set of opportunities for reducing emissions depending on its natural resources. For example, coastal States need to take action to protect their shores from sea level rise, districts that are drier need to prepare for variable monsoon precipitation. Himalayan regions have their own unique challenges, and selected parts of peninsular India and offshore areas offer great opportunities for harnessing wind power. These various aspects need to be considered for developing clear and sustainable goals for the future."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q013",
     "year": 2025,
     "paper": "csat",
     "question_number": 13,
-    "question_text": "Which one of the following statements best reflects the critical message conveyed by the passage ?",
+    "question_text": "[Based on Passage about social inequality and economic insecurity in India] Which one of the following statements best reflects the critical message conveyed by the passage?",
     "options": {
       "a": "India's political executive should be aware that poverty and social inequality and the consequent sense of insecurity is the main social problem.",
       "b": "In India, poverty is the primary reason for social inequality and insecurity.",
@@ -263,15 +257,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "If the social inequality is the most acutely felt social problem in India, insecurity, more than poverty, is the most acutely felt economic problem. Besides those below the official poverty line, even those just over the poverty line are subject to multiple economic insecurities of various kinds (due to wealth and/or health risks, market fluctuations, job-related uncertainties). Many Government policies are actually intended towards mitigating these insecurities."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q014",
     "year": 2025,
     "paper": "csat",
     "question_number": 14,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\nI. People above the poverty line also are prone to suffer from anxiety about economic insecurity.\n\nII. Eradication of poverty can result in peace and social equality in the country.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage about social inequality and economic insecurity in India] With reference to the above passage, the following assumptions have been made:\nI. People above the poverty line also are prone to suffer from anxiety about economic insecurity.\nII. Eradication of poverty can result in peace and social equality in the country.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -284,15 +277,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "If the social inequality is the most acutely felt social problem in India, insecurity, more than poverty, is the most acutely felt economic problem. Besides those below the official poverty line, even those just over the poverty line are subject to multiple economic insecurities of various kinds (due to wealth and/or health risks, market fluctuations, job-related uncertainties). Many Government policies are actually intended towards mitigating these insecurities."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q015",
     "year": 2025,
     "paper": "csat",
     "question_number": 15,
-    "question_text": "A solid cube is painted yellow on all its faces. The cube is then cut into 60 smaller but equal pieces by making the minimum number of cuts. Which of the following statements is/are correct?\n\nI. The minimum number of cuts is 9.\nII. The number of smaller pieces which are not painted on any face is 6.\n\nSelect the correct answer using the code given below:",
+    "question_text": "A solid cube is painted yellow on all its faces. The cube is then cut into 60 smaller but equal pieces by making the minimum number of cuts. Which of the following statements is/are correct?\nI. The minimum number of cuts is 9.\nII. The number of smaller pieces which are not painted on any face is 6.\nSelect the correct answer using the code given below:",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -305,14 +297,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q016",
     "year": 2025,
     "paper": "csat",
     "question_number": 16,
-    "question_text": "If 7 * 24 = 25 and 12 * 16 = 20, then what is 16 * 63 equal to ?",
+    "question_text": "If 7 * 24 = 25 and 12 * 16 = 20, then what is 16 * 63 equal to?",
     "options": {
       "a": "70",
       "b": "66",
@@ -325,14 +317,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q017",
     "year": 2025,
     "paper": "csat",
     "question_number": 17,
-    "question_text": "The petrol price shot up by 10% as a result of the hike in crude oil prices. The price of petrol before the hike was ₹ 90 per litre. A person travels 2200 km every month and his car gives a mileage of 16 km per litre. By how many km should he reduce his travel if he wants to maintain his expenditure at the previous level ?",
+    "question_text": "The petrol price shot up by 10% as a result of the hike in crude oil prices. The price of petrol before the hike was Rs. 90 per litre. A person travels 2200 km every month and his car gives a mileage of 16 km per litre. By how many km should he reduce his travel if he wants to maintain his expenditure at the previous level?",
     "options": {
       "a": "180 km",
       "b": "200 km",
@@ -345,14 +337,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q018",
     "year": 2025,
     "paper": "csat",
     "question_number": 18,
-    "question_text": "A 4-digit number N is such that when divided by 3, 5, 6, 9 leaves a remainder 1, 3, 4, 7 respectively. What is the smallest value of N ?",
+    "question_text": "A 4-digit number N is such that when divided by 3, 5, 6, 9 leaves a remainder 1, 3, 4, 7 respectively. What is the smallest value of N?",
     "options": {
       "a": "1068",
       "b": "1072",
@@ -365,14 +357,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q019",
     "year": 2025,
     "paper": "csat",
     "question_number": 19,
-    "question_text": "Consider the following statements :\n\nI. If A ≤ B > C < D > E > F ≥ G = H; then B is always greater than E.\nII. If P > Q = R ≥ S = T ≤ U = V > W; then S is always less than V.\n\nWhich of the statements given above is/are correct ?",
+    "question_text": "Consider the following statements:\nI. If A <= B > C < D > E > F >= G = H; then B is always greater than E.\nII. If P > Q = R >= S = T <= U = V > W; then S is always less than V.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -385,14 +377,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q020",
     "year": 2025,
     "paper": "csat",
     "question_number": 20,
-    "question_text": "What is the unit digit in the multiplication of\n\n1 × 3 × 5 × 7 × 9 × . . . × 999 ?",
+    "question_text": "What is the unit digit in the multiplication of 1 x 3 x 5 x 7 x 9 x ... x 999?",
     "options": {
       "a": "1",
       "b": "3",
@@ -405,14 +397,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q021",
     "year": 2025,
     "paper": "csat",
     "question_number": 21,
-    "question_text": "Which one of the following statements best reflects the corollary to the above passage?",
+    "question_text": "[Based on Passage about agricultural growth stagnation in India] Which one of the following statements best reflects the corollary to the above passage?",
     "options": {
       "a": "The benefit of economic reforms percolates down more slowly to the agriculture sector than in other sectors of the economy.",
       "b": "For India, the green revolution was not as useful as it was expected to be.",
@@ -425,15 +417,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3·5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q022",
     "year": 2025,
     "paper": "csat",
     "question_number": 22,
-    "question_text": "With reference to the passage, the following assumptions have been made :\n\nThe growing divergence between the fortunes of the agricultural and non-agricultural economy in India could have been reduced/contained by :\n\nI. adapting large-scale cultivation of commercial crops and viable corporate farming.\nII. providing free insurance for all crops and heavily subsidizing seeds, fertilizers, electricity and farm machinery at par with developed countries.\n\nWhich of the above assumptions is/are valid?",
+    "question_text": "[Based on Passage about agricultural growth stagnation in India] With reference to the passage, the following assumptions have been made:\nThe growing divergence between the fortunes of the agricultural and non-agricultural economy in India could have been reduced/contained by:\nI. adapting large-scale cultivation of commercial crops and viable corporate farming.\nII. providing free insurance for all crops and heavily subsidizing seeds, fertilizers, electricity and farm machinery at par with developed countries.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -446,15 +437,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3·5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q023",
     "year": 2025,
     "paper": "csat",
     "question_number": 23,
-    "question_text": "Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage ?",
+    "question_text": "[Based on Passage about handlooms and tradition in India] Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage?",
     "options": {
       "a": "We need to free the handloom industry from the limited narrative linked to preserving cultural heritage.",
       "b": "Continued State support to the handloom industry ensures the preservation of some of our glorious art forms and old traditions.",
@@ -467,15 +457,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3·5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q024",
     "year": 2025,
     "paper": "csat",
     "question_number": 24,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\nI. There is no need for the State to be involved in any manner in the handloom sector.\nII. Handloom products are no longer appealing and attractive in the rapidly changing modern world.\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage about handlooms and tradition in India] With reference to the above passage, the following assumptions have been made:\nI. There is no need for the State to be involved in any manner in the handloom sector.\nII. Handloom products are no longer appealing and attractive in the rapidly changing modern world.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -488,15 +477,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3·5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q025",
     "year": 2025,
     "paper": "csat",
     "question_number": 25,
-    "question_text": "Consider the first 100 natural numbers. How many of them are not divisible by any one of 2, 3, 5, 7 and 9 ?",
+    "question_text": "Consider the first 100 natural numbers. How many of them are not divisible by any one of 2, 3, 5, 7 and 9?",
     "options": {
       "a": "20",
       "b": "21",
@@ -509,14 +497,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q026",
     "year": 2025,
     "paper": "csat",
     "question_number": 26,
-    "question_text": "If 4 ≤ x ≤ 8 and 2 ≤ y ≤ 7, then what is the ratio of maximum value of (x + y) to minimum value of (x - y) ?",
+    "question_text": "If 4 <= x <= 8 and 2 <= y <= 7, then what is the ratio of maximum value of (x + y) to minimum value of (x - y)?",
     "options": {
       "a": "6",
       "b": "15/2",
@@ -529,14 +517,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q027",
     "year": 2025,
     "paper": "csat",
     "question_number": 27,
-    "question_text": "Let both p and k be prime numbers such that (p² + k) is also a prime number less than 30. What is the number of possible values of k ?",
+    "question_text": "Let both p and k be prime numbers such that (p^2 + k) is also a prime number less than 30. What is the number of possible values of k?",
     "options": {
       "a": "4",
       "b": "5",
@@ -549,7 +537,7 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q028",
@@ -569,7 +557,7 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q029",
@@ -589,7 +577,7 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q030",
@@ -609,14 +597,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q031",
     "year": 2025,
     "paper": "csat",
     "question_number": 31,
-    "question_text": "Which one of the following statements best reflects the central idea conveyed by the passage?",
+    "question_text": "[Based on Passage about higher education and critical thinking in India] Which one of the following statements best reflects the central idea conveyed by the passage?",
     "options": {
       "a": "India does not have enough resources for promoting quality education in its universities.",
       "b": "The institutions of higher learning in the country should not be under the control of the Government.",
@@ -629,15 +617,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "In our country, regrettably, teaching and learning for the examination have been our forte but the new demands of society and the future of work require critical and independent thinking, learning through doing, asking questions from multiple disciplinary perspectives on the same issue, using evidence for building arguments, and reflecting and articulation. Higher education should not \"either be a mere servant of the government policy or a passive respondent to public mood.\" Higher learning is all about how to think rather than what to think. Teaching has to be re-invented."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q032",
     "year": 2025,
     "paper": "csat",
     "question_number": 32,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\nI. Higher education is a constantly evolving subject that needs to align towards new developments in all spheres of society.\n\nII. In our country, sufficient funds are not allocated for promoting higher education.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage 1 about higher education and teaching reform]\nWith reference to the above passage, the following assumptions have been made:\nI. Higher education is a constantly evolving subject that needs to align towards new developments in all spheres of society.\nII. In our country, sufficient funds are not allocated for promoting higher education.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -650,15 +637,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "In our country, regrettably, teaching and learning for the examination have been our forte but the new demands of society and the future of work require critical and independent thinking, learning through doing, asking questions from multiple disciplinary perspectives on the same issue, using evidence for building arguments, and reflecting and articulation. Higher education should not \"either be a mere servant of the government policy or a passive respondent to public mood.\" Higher learning is all about how to think rather than what to think. Teaching has to be re-invented."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q033",
     "year": 2025,
     "paper": "csat",
     "question_number": 33,
-    "question_text": "Which one of the following statements best reflects the crux of the passage ?",
+    "question_text": "[Based on Passage 2 about inequality in food production and consumption]\nWhich one of the following statements best reflects the crux of the passage?",
     "options": {
       "a": "There is an urgent need for a public policy to promote the consumption of cereal-based foods in wealthier societies.",
       "b": "Animal-based food is far less efficient than grain/plant-based food in terms of production and utilization.",
@@ -671,15 +657,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "In our country, regrettably, teaching and learning for the examination have been our forte but the new demands of society and the future of work require critical and independent thinking, learning through doing, asking questions from multiple disciplinary perspectives on the same issue, using evidence for building arguments, and reflecting and articulation. Higher education should not \"either be a mere servant of the government policy or a passive respondent to public mood.\" Higher learning is all about how to think rather than what to think. Teaching has to be re-invented."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q034",
     "year": 2025,
     "paper": "csat",
     "question_number": 34,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\nI. The food manufacturing and processing industries in every country should align their objectives and processes in accordance with the changing needs of the societies.\n\nII. Wealthier societies tend to incur great loss of calories of food materials due to indirect utilization of their agricultural produce.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage 2 about inequality in food production and consumption]\nWith reference to the above passage, the following assumptions have been made:\nI. The food manufacturing and processing industries in every country should align their objectives and processes in accordance with the changing needs of the societies.\nII. Wealthier societies tend to incur great loss of calories of food materials due to indirect utilization of their agricultural produce.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -692,15 +677,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "If there is inequality in the pattern of population growth, there is greater inequality in food production and utilization. As societies become wealthier, their consumption of animal products increases. This means that a greater proportion of such basic foodstuff as grains and legumes that could feed humans directly is instead being converted into feed for poultry and large farm animals. Yet this conversion of plant-based food into animal food for humans is far from efficient. Only 16% of the calories fed to chickens are recovered by us when we eat them. This conversion rate goes down to five to seven per cent in large animals that are fed grain to add fat and some protein before slaughter."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q035",
     "year": 2025,
     "paper": "csat",
     "question_number": 35,
-    "question_text": "What is the maximum value of n such that 7 × 343 × 385 × 1000 × 2401 × 77777 is divisible by 35^n ?",
+    "question_text": "What is the maximum value of n such that 7 \u00d7 343 \u00d7 385 \u00d7 1000 \u00d7 2401 \u00d7 77777 is divisible by 35^n?",
     "options": {
       "a": "3",
       "b": "4",
@@ -713,14 +697,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q036",
     "year": 2025,
     "paper": "csat",
     "question_number": 36,
-    "question_text": "What is X in the sequence 24, X, 12, 18, 36, 90 ?",
+    "question_text": "What is X in the sequence\n24, X, 12, 18, 36, 90?",
     "options": {
       "a": "18",
       "b": "12",
@@ -733,14 +717,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q037",
     "year": 2025,
     "paper": "csat",
     "question_number": 37,
-    "question_text": "P and Q walk along a circular track. They start at 5:00 a.m. from the same point in opposite directions. P walks at an average speed of 5 rounds per hour and Q walks at an average speed of 3 rounds per hour. How many times will they cross each other between 5:20 a.m. and 7:00 a.m. ?",
+    "question_text": "P and Q walk along a circular track. They start at 5:00 a.m. from the same point in opposite directions. P walks at an average speed of 5 rounds per hour and Q walks at an average speed of 3 rounds per hour. How many times will they cross each other between 5:20 a.m. and 7:00 a.m.?",
     "options": {
       "a": "12",
       "b": "13",
@@ -753,14 +737,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q038",
     "year": 2025,
     "paper": "csat",
     "question_number": 38,
-    "question_text": "If P = +, Q = -, R = ×, S = ÷, then insert the proper notations between the successive numbers in the equation 60 18 3 20 4 = 20.",
+    "question_text": "If P = 1, Q = 7, R = 8, S = 4, then find the proper notations between the successive numbers in the equation 60 15 3 90 4 = 90.",
     "options": {
       "a": "SPRQ",
       "b": "QRPS",
@@ -773,14 +757,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q039",
     "year": 2025,
     "paper": "csat",
     "question_number": 39,
-    "question_text": "A tram overtakes 2 persons X and Y walking at an average speed of 3 km/hr and 4 km/hr in the same direction and completely passes them in 8 seconds and 9 seconds respectively. What is the length of the tram ?",
+    "question_text": "A tram overtakes 2 persons X and Y walking at an average speed of 3 km/hr and 4 km/hr in the same direction and completely passes them in 8 seconds and 9 seconds respectively. What is the length of the tram?",
     "options": {
       "a": "15 m",
       "b": "18 m",
@@ -793,14 +777,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q040",
     "year": 2025,
     "paper": "csat",
     "question_number": 40,
-    "question_text": "If N^2 = 12345678987654321, then how many digits does the number N have ?",
+    "question_text": "If N\u00b2 = 12345678987654321, then how many digits does the number N have?",
     "options": {
       "a": "8",
       "b": "9",
@@ -813,14 +797,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q041",
     "year": 2025,
     "paper": "csat",
     "question_number": 41,
-    "question_text": "Which one of the following statements best reflects the central idea conveyed by the passage?",
+    "question_text": "[Based on Passage about net-zero carbon and demand-side measures] Which one of the following statements best reflects the central idea conveyed by the passage?",
     "options": {
       "a": "Moving to net-zero carbon is possible only by the reduction in household emissions.",
       "b": "Low-carbon behaviour in people can be brought about by incentivising them.",
@@ -833,15 +817,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Over the next 30 years, many countries are promising to move to net-zero carbon, implying that household emissions will have to be cut to close to nothing. A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures, such as behavioural changes by individuals and households. And even that would require companies and governments to provide more incentives to change through supply-side investments to make low-carbon options cheaper and more widely available."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q042",
     "year": 2025,
     "paper": "csat",
     "question_number": 42,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\nI. Supply-side investments in companies can result in low-carbon behaviour in people.\nII. People are not capable of adapting low-carbon behaviour without the involvement of Government and Companies.\nWhich of the above assumptions is/are valid?",
+    "question_text": "[Based on Passage about net-zero carbon and demand-side measures] With reference to the above passage, the following assumptions have been made:\nI. Supply-side investments in companies can result in low-carbon behaviour in people.\nII. People are not capable of adapting low-carbon behaviour without the involvement of Government and Companies.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -854,15 +837,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Over the next 30 years, many countries are promising to move to net-zero carbon, implying that household emissions will have to be cut to close to nothing. A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures, such as behavioural changes by individuals and households. And even that would require companies and governments to provide more incentives to change through supply-side investments to make low-carbon options cheaper and more widely available."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q043",
     "year": 2025,
     "paper": "csat",
     "question_number": 43,
-    "question_text": "Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the passage ?",
+    "question_text": "[Based on Passage about raw materials consumption and circular economy] Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the passage?",
     "options": {
       "a": "Green economy is not possible without reusing critical minerals.",
       "b": "Every sector of economy should adapt the reuse of material resources immediately.",
@@ -875,15 +857,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Over the next 30 years, many countries are promising to move to net-zero carbon, implying that household emissions will have to be cut to close to nothing. A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures, such as behavioural changes by individuals and households. And even that would require companies and governments to provide more incentives to change through supply-side investments to make low-carbon options cheaper and more widely available."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q044",
     "year": 2025,
     "paper": "csat",
     "question_number": 44,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\n1. Automobile factories are examples of the circular economy.\nII. Economic growth is compatible with circular use of mineral resources.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage about raw materials consumption and circular economy] With reference to the above passage, the following assumptions have been made:\nI. Automobile factories are examples of circular economy.\nII. Economic growth is compatible with circular use of mineral resources.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -896,15 +877,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Over the next 30 years, many countries are promising to move to net-zero carbon, implying that household emissions will have to be cut to close to nothing. A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures, such as behavioural changes by individuals and households. And even that would require companies and governments to provide more incentives to change through supply-side investments to make low-carbon options cheaper and more widely available."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q045",
     "year": 2025,
     "paper": "csat",
     "question_number": 45,
-    "question_text": "A set (X) of 20 pipes can fill 70% of a tank in 14 minutes. Another set (Y) of 10 pipes fills 3/8th of the tank in 6 minutes. A third set (Z) of 16 pipes can empty half of the tank in 20 minutes. If half of the pipes of set X are closed and only half of the pipes of set Y are open, and all pipes of the set (Z) are open, then how long will it take to fill 50% of the tank ?",
+    "question_text": "A set (X) of 20 pipes can fill 70% of a tank in 14 minutes. Another set (Y) of 10 pipes fills 3/8th of the tank in 6 minutes. A third set (Z) of 16 pipes can empty half of the tank in 20 minutes. If half of the pipes of set X are closed and only half of the pipes of set Y are open, and all pipes of the set (Z) are open, then how long will it take to fill 50% of the tank?",
     "options": {
       "a": "8 minutes",
       "b": "10 minutes",
@@ -917,14 +897,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q046",
     "year": 2025,
     "paper": "csat",
     "question_number": 46,
-    "question_text": "If n is a natural number, then what is the number of distinct remainders of (1n + 2n) when divided by 4 ?",
+    "question_text": "If n is a natural number, then what is the number of distinct remainders of (1^n + 2^n) when divided by 4?",
     "options": {
       "a": "0",
       "b": "1",
@@ -937,14 +917,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q047",
     "year": 2025,
     "paper": "csat",
     "question_number": 47,
-    "question_text": "Let P = QQQ be a 3-digit number. What is the HCF of P and 481 ?",
+    "question_text": "Let P = QQQ be a 3-digit number. What is the HCF of P and 481?",
     "options": {
       "a": "1",
       "b": "13",
@@ -957,14 +937,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q048",
     "year": 2025,
     "paper": "csat",
     "question_number": 48,
-    "question_text": "What is the 489th digit in the number 123456789101112... ?",
+    "question_text": "What is the 489th digit in the number 123456789101112...?",
     "options": {
       "a": "0",
       "b": "3",
@@ -977,14 +957,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q049",
     "year": 2025,
     "paper": "csat",
     "question_number": 49,
-    "question_text": "A mobile phone has been stolen. There are 3 suspects P, Q and R. They were questioned knowing that only one of them is guilty. Their responses are as follows :\nP : I did not steal. Q stole it.\nQ : R did not steal. I did not steal.\nR : I did not steal. I do not know who did it.\nWho stole the mobile phone ?",
+    "question_text": "A mobile phone has been stolen. There are 3 suspects P, Q and R. They were questioned knowing that only one of them is guilty. Their responses are as follows :\nP : I did not steal. Q stole it.\nQ : R did not steal. I did not steal.\nR : I did not steal. I do not know who did it.\nWho stole the mobile phone?",
     "options": {
       "a": "P",
       "b": "Q",
@@ -997,14 +977,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q050",
     "year": 2025,
     "paper": "csat",
     "question_number": 50,
-    "question_text": "Three teams P, Q, R participated in a tournament in which the teams play with one another exactly once. A win fetches a team 2 points and a draw 1 point. A team gets no point for a loss. Each team scored exactly one goal in the tournament. The team P got 3 points, Q got 2 points and R got 1 point. Which of the following statements is/are correct ?\nI. The result of the match between P and Q is a draw with the score 0 – 0.\nII. The number of goals scored by R against Q is 1.\nWhich of the statements given above is/are correct ?",
+    "question_text": "Three teams P, Q, R participated in a tournament in which the teams play with one another exactly once. A win fetches a team 2 points and a draw 1 point. A team gets no point for a loss. Each team scored exactly one goal in the tournament. The team P got 3 points, Q got 2 points and R got 1 point.\nWhich of the following statements is/are correct?\nI. The result of the match between P and Q is a draw with the score 0 - 0.\nII. The number of goals scored by R against Q is 1.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1017,14 +997,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q051",
     "year": 2025,
     "paper": "csat",
     "question_number": 51,
-    "question_text": "Which one of the following statements best reflects the central idea conveyed by the passage ?",
+    "question_text": "[Based on Passage about climate change, plant diseases, and genetically honed crops]\nIt is hard to predict how changes in the climate and the atmosphere's chemistry will affect the prevalence and virulence of agricultural diseases. But there is a risk that such changes will make some plant infections more common in all climatic zones, perhaps catastrophically so. Part of the problem is that centuries of selective breeding have refined the genomes of most high-value crops. They are spectacular at growing in today's conditions but genetic variations that are not immediately useful to them have been bred out. This is good for yields but bad for coping with changes. A minor disease or even an unknown one could suddenly rampage through a genetically honed crop.\n\nWhich one of the following statements best reflects the central idea conveyed by the passage?",
     "options": {
       "a": "Global climate change adversely affects the productivity of crops.",
       "b": "Our total dependence on genetically honed crops entails possible food insecurity.",
@@ -1037,15 +1017,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "It is hard to predict how changes in the climate and the atmosphere's chemistry will affect the prevalence and virulence of agricultural diseases. But there is a risk that such changes will make some plant infections more common in all climatic zones, perhaps catastrophically so. Part of the problem is that centuries of selective breeding have refined the genomes of most high-value crops. They are spectacular at growing in today's conditions but genetic variations that are not immediately useful to them have been bred out. This is good for yields but bad for coping with changes. A minor disease or even an unknown one could suddenly rampage through a genetically honed crop."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q052",
     "year": 2025,
     "paper": "csat",
     "question_number": 52,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\nI. Global climate change can result in the migration of several plant diseases to new areas.\n\nII. Scientific understanding of the wild relatives of our present crops would enable us to strengthen food security.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage about climate change, plant diseases, and genetically honed crops]\nWith reference to the above passage, the following assumptions have been made :\nI. Global climate change can result in the migration of several plant diseases to new areas.\nII. Scientific understanding of the wild relatives of our present crops would enable us to strengthen food security.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1058,15 +1037,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "It is hard to predict how changes in the climate and the atmosphere's chemistry will affect the prevalence and virulence of agricultural diseases. But there is a risk that such changes will make some plant infections more common in all climatic zones, perhaps catastrophically so. Part of the problem is that centuries of selective breeding have refined the genomes of most high-value crops. They are spectacular at growing in today's conditions but genetic variations that are not immediately useful to them have been bred out. This is good for yields but bad for coping with changes. A minor disease or even an unknown one could suddenly rampage through a genetically honed crop."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q053",
     "year": 2025,
     "paper": "csat",
     "question_number": 53,
-    "question_text": "Which one of the following statements best reflects the critical message conveyed by the author of the passage ?",
+    "question_text": "[Based on Passage about statesmen learning from opponents]\n\"A good statesman, like any other sensible human being, learns more from his opponents than from his fervent supporters. For his supporters will push him to disaster unless his opponents show him where the dangers are. So if he is wise he will often pray to be delivered from his friends, because they will ruin him. But, though it hurts, he ought also to pray never to be left without opponents; for they keep him on the path of reason and good sense. The national unity of free people depends upon a sufficiently even balance of political power to make it impracticable for the administration to be arbitrary and for opposition to be revolutionary and irreconcilable.\"\n\nWhich one of the following statements best reflects the critical message conveyed by the author of the passage?",
     "options": {
       "a": "Without opposition parties, the administration in a democracy gets to become more responsible.",
       "b": "Democracy needs to have revolutionaries in opposition to keep the government alert.",
@@ -1079,15 +1057,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "It is hard to predict how changes in the climate and the atmosphere's chemistry will affect the prevalence and virulence of agricultural diseases. But there is a risk that such changes will make some plant infections more common in all climatic zones, perhaps catastrophically so. Part of the problem is that centuries of selective breeding have refined the genomes of most high-value crops. They are spectacular at growing in today's conditions but genetic variations that are not immediately useful to them have been bred out. This is good for yields but bad for coping with changes. A minor disease or even an unknown one could suddenly rampage through a genetically honed crop."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q054",
     "year": 2025,
     "paper": "csat",
     "question_number": 54,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\nI. In a democracy, a strong opposition is required only if the Head of Government is indifferent.\n\nII. The more aggressive the opposition, the better is the governance in a democracy.\n\nWhich of the above assumptions is/are valid ?",
+    "question_text": "[Based on Passage about statesmen learning from opponents]\nWith reference to the above passage, the following assumptions have been made :\nI. In a democracy, a strong opposition is required only if the Head of Government is indifferent.\nII. The more aggressive the opposition, the better is the governance in a democracy.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1100,15 +1077,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "\"A good statesman, like any other sensible human being, learns more from his opponents than from his fervent supporters. For his supporters will push him to disaster unless his opponents show him where the dangers are. So if he is wise he will often pray to be delivered from his friends, because they will ruin him. But, though it hurts, he ought also to pray never to be left without opponents; for they keep him on the path of reason and good sense. The national unity of free people depends upon a sufficiently even balance of political power to make it impracticable for the administration to be arbitrary and for opposition to be revolutionary and irreconcilable.\""
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q055",
     "year": 2025,
     "paper": "csat",
     "question_number": 55,
-    "question_text": "P is the brother of Q and R. S is R's mother. T is P's father. How many of the following statements are definitely true ?\n\nI. S and T are a couple.\nII. Q is T's son.\nIII. T is Q's father.\nIV. S is P's mother.\nV. R is T's daughter.\nVI. P is S's son.\n\nSelect the correct answer using the code given below :",
+    "question_text": "P is the brother of Q and R. S is R's mother. T is P's father. How many of the following statements are definitely true?\nI. S and T are a couple.\nII. Q is T's son.\nIII. T is Q's father.\nIV. S is P's mother.\nV. R is T's daughter.\nVI. P is S's son.\nSelect the correct answer using the code given below:",
     "options": {
       "a": "Only two",
       "b": "Only three",
@@ -1121,14 +1097,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q056",
     "year": 2025,
     "paper": "csat",
     "question_number": 56,
-    "question_text": "If NO is coded as 210, NOT is coded as 4200 and NOTE is coded as 21000, then how is NOTES coded ?",
+    "question_text": "If NO is coded as 210, NOT is coded as 4200 and NOTE is coded as 21000, then how is NOTES coded?",
     "options": {
       "a": "399000",
       "b": "420000",
@@ -1141,14 +1117,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q057",
     "year": 2025,
     "paper": "csat",
     "question_number": 57,
-    "question_text": "If FRANCE is coded as 654321 and GERMANY is coded as 9158437, then how is YEMEN coded ?",
+    "question_text": "If FRANCE is coded as 654321 and GERMANY is coded as 9158437, then how is YEMEN coded?",
     "options": {
       "a": "54321",
       "b": "81913",
@@ -1161,14 +1137,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q058",
     "year": 2025,
     "paper": "csat",
     "question_number": 58,
-    "question_text": "The 5-digit number PQRST (all distinct digits) is such that T ≠ 0. P is thrice T. S is greater than Q by 4, while Q is greater than R by 3. How many such 5-digit numbers are possible ?",
+    "question_text": "The 5-digit number PQRST (all distinct digits) is such that T is not 0. P is thrice T. S is greater than Q by 4, while Q is greater than R by 3. How many such 5-digit numbers are possible?",
     "options": {
       "a": "3",
       "b": "4",
@@ -1181,14 +1157,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q059",
     "year": 2025,
     "paper": "csat",
     "question_number": 59,
-    "question_text": "X can complete one-third of a certain work in 6 days, Y can complete one-third of the same work in 8 days and Z can complete three-fourth of the same work in 12 days. All of them work together for n days and then X and Z quit and Y alone finishes the remaining work in 8⅔ days. What is n equal to ?",
+    "question_text": "X can complete one-third of a certain work in 6 days, Y can complete one-third of the same work in 8 days and Z can complete three-fourth of the same work in 12 days. All of them work together for n days and then X and Z quit and Y alone finishes the remaining work in 8 2/3 days. What is n equal to?",
     "options": {
       "a": "3",
       "b": "4",
@@ -1201,14 +1177,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q060",
     "year": 2025,
     "paper": "csat",
     "question_number": 60,
-    "question_text": "What is X in the sequence 1, 3, 6, 11, 18, X, 42 ?",
+    "question_text": "What is X in the sequence 1, 3, 6, 11, 18, X, 42?",
     "options": {
       "a": "26",
       "b": "27",
@@ -1221,14 +1197,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q061",
     "year": 2025,
     "paper": "csat",
     "question_number": 61,
-    "question_text": "Which one of the following statements best reflects the critical message conveyed by the author of the passage?",
+    "question_text": "[Based on Passage about corporate capitalism and democracy] Which one of the following statements best reflects the critical message conveyed by the author of the passage?",
     "options": {
       "a": "Corporate capitalism is important for economic growth of a State and also for democracy.",
       "b": "Corporate capitalism is imperative for a modern State to achieve its political objectives.",
@@ -1241,15 +1217,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy and enabling the transition from rural to urban, and agriculture to industry and services, which are inevitable with growth. It generates jobs — and there is no other way to fix a country's unemployment challenge without a further impetus to private business. Big companies can operate on a large scale and become competitive both domestically and externally. A vibrant corporate capitalist base also leads to additional revenues for the State — which in turn, can be used for greater welfare for the marginalized and creating a more level playing field in terms of opportunities."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q062",
     "year": 2025,
     "paper": "csat",
     "question_number": 62,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\nI. Corporate capitalism promotes the growth of labour force and provides more employment opportunities.\nII. Poor and marginalized sections of population are benefited by corporate capitalism due to trickle-down effect.\nWhich of the above assumptions is/are valid?",
+    "question_text": "[Based on Passage about corporate capitalism and democracy] With reference to the above passage, the following assumptions have been made:\nI. Corporate capitalism promotes the growth of labour force and provides more employment opportunities.\nII. Poor and marginalized sections of population are benefited by corporate capitalism due to trickle-down effect.\nWhich of the above assumptions is/are valid?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1262,15 +1237,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy and enabling the transition from rural to urban, and agriculture to industry and services, which are inevitable with growth. It generates jobs — and there is no other way to fix a country's unemployment challenge without a further impetus to private business. Big companies can operate on a large scale and become competitive both domestically and externally. A vibrant corporate capitalist base also leads to additional revenues for the State — which in turn, can be used for greater welfare for the marginalized and creating a more level playing field in terms of opportunities."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q063",
     "year": 2025,
     "paper": "csat",
     "question_number": 63,
-    "question_text": "Which one of the following statements reflects the best explanation of the above passage?",
+    "question_text": "[Based on Passage about voluntary associations as buffer between individual and State] Which one of the following statements reflects the best explanation of the above passage?",
     "options": {
       "a": "It emphasizes the inability of the State to enforce its will in practice against the opposition of certain groups within it.",
       "b": "It is a cooperative organization for the promotion of the well-being and development of the personality of its members.",
@@ -1283,15 +1257,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "\"A network of voluntary associations stands as a 'buffer' between the relatively powerless individual and the potentially powerful State.\""
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q064",
     "year": 2025,
     "paper": "csat",
     "question_number": 64,
-    "question_text": "Consider the following statements :\nI. There exists a natural number which when increased by 50% can have its number of factors unchanged.\nII. There exists a natural number which when increased by 150% can have its number of factors unchanged.\nWhich of the statements given above is/are correct ?",
+    "question_text": "Consider the following statements:\nI. There exists a natural number which when increased by 50% can have its number of factors unchanged.\nII. There exists a natural number which when increased by 150% can have its number of factors unchanged.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1304,14 +1277,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q065",
     "year": 2025,
     "paper": "csat",
     "question_number": 65,
-    "question_text": "There are 7 places A, B, C, D, E, F and G in a city connected by various roads AB, AC, CD, DE, BF, EG and FG. A is 6 km south of B. A is 10 km west of C. D is 5 km east of E. C is 6 km north of D. F is 9 km west of B. F is 12 km north of G. A person travels from D to F through these roads. What is the distance covered by the person ?",
+    "question_text": "There are 7 places A, B, C, D, E, F and G in a city connected by various roads AB, AC, CD, DE, BF, EG and FG. A is 6 km south of B. A is 10 km west of C. D is 5 km east of E. C is 6 km north of D. F is 9 km west of B. F is 12 km north of G. A person travels from D to F through these roads. What is the distance covered by the person?",
     "options": {
       "a": "20 km",
       "b": "25 km",
@@ -1324,14 +1297,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q066",
     "year": 2025,
     "paper": "csat",
     "question_number": 66,
-    "question_text": "In a certain code if 64 is written as 343 and 216 is written as 729, then how is 512 written in that code ?",
+    "question_text": "In a certain code if 64 is written as 343 and 216 is written as 729, then how is 512 written in that code?",
     "options": {
       "a": "1000",
       "b": "1331",
@@ -1344,14 +1317,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q067",
     "year": 2025,
     "paper": "csat",
     "question_number": 67,
-    "question_text": "What is the remainder when\n9^3 + 9^4 + 9^5 + 9^6 + ... + 9^100\nis divided by 6 ?",
+    "question_text": "What is the remainder when 9^3 + 9^4 + 9^5 + 9^6 + ... + 9^100 is divided by 6?",
     "options": {
       "a": "0",
       "b": "1",
@@ -1364,14 +1337,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q068",
     "year": 2025,
     "paper": "csat",
     "question_number": 68,
-    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion :\nWhat is the smallest 1-digit number having exactly 4 distinct factors ?\nStatement I : 2 is one of the factors.\nStatement II : 3 is one of the factors.\n\nWhich one of the following is correct in respect of the above Question and the Statements ?",
+    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\nQuestion: What is the smallest 1-digit number having exactly 4 distinct factors?\nStatement I: 2 is one of the factors.\nStatement II: 3 is one of the factors.\nWhich one of the following is correct in respect of the above Question and the Statements?",
     "options": {
       "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
       "b": "The Question can be answered by using either Statement alone.",
@@ -1384,14 +1357,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q069",
     "year": 2025,
     "paper": "csat",
     "question_number": 69,
-    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion:\n\nLet P, Q, R, S be distinct non-zero digits. If PP x PQ = RRSS, where P ≤ 3 and Q ≤ 4, then what is Q equal to?\n\nStatement I: R = 1.\n\nStatement II: S = 2.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\nQuestion: Let P, Q, R, S be distinct non-zero digits. If PP x PQ = RRSS, where P <= 3 and Q <= 4, then what is Q equal to?\nStatement I: R = 1.\nStatement II: S = 2.\nWhich one of the following is correct in respect of the above Question and the Statements?",
     "options": {
       "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
       "b": "The Question can be answered by using either Statement alone.",
@@ -1404,34 +1377,34 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q070",
     "year": 2025,
     "paper": "csat",
     "question_number": 70,
-    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion:\n\nHow is Q related to P?\n\nStatement I: P has two sisters, R and S.\n\nStatement II: R's father is the brother of Q.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\nQuestion: How is Q related to P?\nStatement I: P has two sisters, R and S.\nStatement II: R's father is the brother of Q.\nWhich one of the following is correct in respect of the above Question and the Statements?",
     "options": {
       "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
       "b": "The Question can be answered by using either Statement alone.",
       "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
       "d": "The Question cannot be answered even using any of the Statements."
     },
-    "has_image": true,
+    "has_image": false,
     "image_paths": [],
-    "image_description": "A family relationship diagram showing symbols connected by lines, representing the relationships between P, Q, R, and S.",
+    "image_description": "",
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q071",
     "year": 2025,
     "paper": "csat",
     "question_number": 71,
-    "question_text": "Which one of the following statements best reflects the most logical, rational and crucial message conveyed by the passage?",
+    "question_text": "[Based on Passage about inflation measurement using WPI and CPI] Which one of the following statements best reflects the most logical, rational and crucial message conveyed by the passage?",
     "options": {
       "a": "We must use WPI exclusively in measuring price rise and CPI should be done away with.",
       "b": "The present calculation of inflation rate does not correctly measure price rise of individual item/commodity.",
@@ -1444,15 +1417,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "A single number for inflation is an aggregate across different commodities and services — the price rise differs for different items of consumption. So, the single number is arrived at by assigning weights to different commodities and services. For WPI, the weights in production are used; for CPI, the consumption basket is used. But people are not homogeneous. The consumption basket is vastly different for the poor, the middle classes, and the rich. Hence, the CPI is different for each of these classes and a composite index requires averaging the baskets."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q072",
     "year": 2025,
     "paper": "csat",
     "question_number": 72,
-    "question_text": "Which one of the following statements best reflects the crux of the passage?",
+    "question_text": "[Based on Passage about trust and entrepreneurship] Which one of the following statements best reflects the crux of the passage?",
     "options": {
       "a": "Trustworthiness cannot be expected in entrepreneurship.",
       "b": "Trustworthy people are the most vulnerable people.",
@@ -1465,15 +1437,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0,
-    "passage": "Trust stands commonly defined as being vulnerable to others. Entrepreneurship implies trust in others and willingness to expose oneself to betrayal. Trust in expert systems is the essence of globalizing behaviour; trust itself emerges as a super-commodity in the social market and defines the characteristics of goods and services in a global market. Trusting conduct also means holding others in good esteem, and an optimism that they are, or will be, competent in certain respects."
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q073",
     "year": 2025,
     "paper": "csat",
     "question_number": 73,
-    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion:\n\nIn a football match, team P playing against Q was behind by 3 goals with 10 minutes remaining. Does team P win the match?\n\nStatement I: Team P scored 4 goals in the last 10 minutes.\n\nStatement II: Team Q scored a total of 4 goals in the match.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\nQuestion: In a football match, team P playing against Q was behind by 3 goals with 10 minutes remaining. Does team P win the match?\nStatement I: Team P scored 4 goals in the last 10 minutes.\nStatement II: Team Q scored a total of 4 goals in the match.\nWhich one of the following is correct in respect of the above Question and the Statements?",
     "options": {
       "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
       "b": "The Question can be answered by using either Statement alone.",
@@ -1486,14 +1457,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q074",
     "year": 2025,
     "paper": "csat",
     "question_number": 74,
-    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion:\n\nIs (p + q)² − 4pq, where p, q are natural numbers, positive?\n\nStatement I: p < q.\n\nStatement II: p > q.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\nQuestion: Is (p + q)^2 - 4pq, where p, q are natural numbers, positive?\nStatement I: p < q.\nStatement II: p > q.\nWhich one of the following is correct in respect of the above Question and the Statements?",
     "options": {
       "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
       "b": "The Question can be answered by using either Statement alone.",
@@ -1506,14 +1477,14 @@
     "correct_answer": "b",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q075",
     "year": 2025,
     "paper": "csat",
     "question_number": 75,
-    "question_text": "In a T20 cricket match, three players X, Y and Z scored a total of 37 runs. The ratio of number of runs scored by X to the number of runs scored by Y is equal to ratio of number of runs scored by Y to number of runs scored by Z.\n\nValue-I = Runs scored by X\nValue-II = Runs scored by Y\nValue-III = Runs scored by Z\n\nWhich one of the following is correct?",
+    "question_text": "In a T20 cricket match, three players X, Y and Z scored a total of 37 runs. The ratio of runs scored by X to the number of runs scored by Y is equal to ratio of number of runs scored by Y to number of runs scored by Z.\nValue-I = Runs scored by X\nValue-II = Runs scored by Y\nValue-III = Runs scored by Z\nWhich one of the following is correct?",
     "options": {
       "a": "Value-I < Value-II < Value-III",
       "b": "Value-III < Value-II < Value-I",
@@ -1526,14 +1497,14 @@
     "correct_answer": "d",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q076",
     "year": 2025,
     "paper": "csat",
     "question_number": 76,
-    "question_text": "Let p + q = 10, where p, q are integers.\n\nValue-I = Maximum value of p × q when p, q are positive integers.\n\nValue-II = Maximum value of p × q when p ≥ -6, q ≥ -4.\n\nWhich one of the following is correct?",
+    "question_text": "Let p + q = 10, where p, q are integers.\nValue-I = Maximum value of p x q when p, q are positive integers.\nValue-II = Maximum value of p x q when p >= -6, q >= -4.\nWhich one of the following is correct?",
     "options": {
       "a": "Value-I < Value-II",
       "b": "Value-II < Value-I",
@@ -1546,14 +1517,14 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q077",
     "year": 2025,
     "paper": "csat",
     "question_number": 77,
-    "question_text": "Consider a set of 11 numbers :\n\nValue-I = Minimum value of the average of the numbers of the set when they are consecutive integers ≥ -5.\n\nValue-II = Minimum value of the product of the numbers of the set when they are consecutive non-negative integers.\n\nWhich one of the following is correct?",
+    "question_text": "Consider a set of 11 numbers:\nValue-I = Minimum value of the average of the numbers of the set when they are consecutive integers >= -5.\nValue-II = Minimum value of the product of the numbers of the set when they are consecutive non-negative integers.\nWhich one of the following is correct?",
     "options": {
       "a": "Value-I < Value-II",
       "b": "Value-II < Value-I",
@@ -1566,7 +1537,7 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q078",
@@ -1586,14 +1557,14 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q079",
     "year": 2025,
     "paper": "csat",
     "question_number": 79,
-    "question_text": "Let x be a real number between 0 and 1. Which of the following statements is/are correct?\n\nI.  x² > x³\n\nII.  x > √x\n\nSelect the correct answer using the code given below:",
+    "question_text": "Let x be a real number between 0 and 1. Which of the following statements is/are correct?\nI. x^2 > x^3\nII. x > sqrt(x)\nSelect the correct answer using the code given below:",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1606,7 +1577,7 @@
     "correct_answer": "a",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "csat_2025_q080",
@@ -1626,7 +1597,7 @@
     "correct_answer": "c",
     "marks_correct": 2.5,
     "marks_wrong": -0.83,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q001",
@@ -1646,7 +1617,7 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q002",
@@ -1666,14 +1637,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q003",
     "year": 2025,
     "paper": "gs1",
     "question_number": 3,
-    "question_text": "With reference to the Government of India, consider the following information :\nOrganization | Some of its functions | It works under\nI. Directorate of Enforcement | Enforcement of the Fugitive Economic Offenders Act, 2018 | Internal Security Division-I, Ministry of Home Affairs\nII. Directorate of Revenue Intelligence | Enforces the Provisions of the Customs Act, 1962 | Department of Revenue, Ministry of Finance\nIII. Directorate General of Systems and Data Management | Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders | Department of Revenue, Ministry of Finance\nIn how many of the above rows is the information correctly matched?",
+    "question_text": "With reference to the Government of India, consider the following information : Organization Some of its It worb functions under Directorate of Enforcement Internal Enforcement of the Security Fugitive Division-I, Economic Ministry of Offenders Home Affairs Act, 2018\nII. Directorate of Enforces the Department\nIII. Revenue Provisions of of Revenue, Intelligence the Customs Ministry of Act, 1962 Finance Directorate Canying out Department General of big data of Revenue, Systems analytics to Ministry of and Data assist tax Finance Management officers for better policy and nabbing tax evaders\nIn how many of the above rows is the information correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -1686,14 +1657,14 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q004",
     "year": 2025,
     "paper": "gs1",
     "question_number": 4,
-    "question_text": "Consider the following statements :\nI. The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR).\nII. In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature.\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements :\nI. The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR).\nII. In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature.\nWhich of the statements given above is/ are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1706,16 +1677,16 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q005",
     "year": 2025,
     "paper": "gs1",
     "question_number": 5,
-    "question_text": "Consider the following statements :\nStatement I :\nIn India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax.\nStatement II :\nIn India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961.\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : In India, income from allied agricultural activities like poultry farming and wool rearing in rural areas 1s exempted from any tax.\nStatement II : In India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
-      "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "a": "Both Statement I and Statement II \u00b7 are correct and Statement II explains Statement I",
       "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
       "c": "Statement I is correct but Statement II is not correct",
       "d": "Statement I is not correct but Statement II is correct"
@@ -1726,7 +1697,7 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q006",
@@ -1738,7 +1709,7 @@
       "a": "I and II only",
       "b": "II and III only",
       "c": "I and III only",
-      "d": "I, II and III"
+      "d": "I, II and III I"
     },
     "has_image": false,
     "image_paths": [],
@@ -1746,18 +1717,18 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q007",
     "year": 2025,
     "paper": "gs1",
     "question_number": 7,
-    "question_text": "Consider the following statements :\n\nStatement I :\nAs regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.\n\nStatement II :\nBondholders are lenders to a company whereas stockholders are its owners.\n\nStatement III :\nFor repayment purpose, bondholders are prioritized over stockholders by a company.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : As regards returns from an investment in a company, generally, bondholders arc considered to be relatively at lower risk than stockholders.\nStatement II : Bondholders arc lenders to a company whereas stockholders are its owners.\nStatement III : For repayment purpose, bond- holders are prioritized over stockholders by a company.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
       "b": "Both Statement I and Statement II are correct and Statement I explains Statement II",
-      "c": "Only one of the Statements II and III is correct and that explains Statement I",
+      "c": "Only one of the Statements II and lII is coi:rect and that explains Statement I",
       "d": "Neither Statement II nor Statement III is correct"
     },
     "has_image": false,
@@ -1766,14 +1737,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q008",
     "year": 2025,
     "paper": "gs1",
     "question_number": 8,
-    "question_text": "Consider the following statements :\nI. India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.\nII. India's stock market has grown rapidly in the recent past even overtaking Hong Kong's at some point of time.\nIII. There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.\n\nWhich of the statements given above are correct?",
+    "question_text": "Consider the following statements :\nI. India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.\nII. India's stock market has grown rapidly in the recent past even overtaking Hong Kong's at some point of time.\nIII. There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -1786,14 +1757,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q009",
     "year": 2025,
     "paper": "gs1",
     "question_number": 9,
-    "question_text": "Consider the following statements :\n\nStatement I :\nCircular economy reduces the emissions of greenhouse gases.\n\nStatement II :\nCircular economy reduces the use of raw materials as inputs.\n\nStatement III :\nCircular economy reduces wastage in the production process.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : Circular economy reduces the emissions of greenhouse gases.\nStatement II : Circular economy reduces the use of raw materials as inputs.\nStatement III : Circular economy reduces wastage in the production process.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
       "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
@@ -1806,14 +1777,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q010",
     "year": 2025,
     "paper": "gs1",
     "question_number": 10,
-    "question_text": "Consider the following statements :\nI. Capital receipts create a liability or cause a reduction in the assets of the Government.\nII. Borrowings and disinvestment are capital receipts.\nIII. Interest received on loans creates a liability of the Government.\n\nWhich of the statements given above are correct?",
+    "question_text": "Consider the following statements :\nI. Capital receipts create a liability or cause a reduction in the assets of the Government.\nII. Borrowings and disinvestment are capital receipts.\nIII. Interest received on loans creates a liability of the Government.\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -1826,14 +1797,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q011",
     "year": 2025,
     "paper": "gs1",
     "question_number": 11,
-    "question_text": "Consider the following statements about Raja Ram Mohan Roy :\n\nI. He possessed great love and respect for the traditional philosophical systems of the East.\n\nII. He desired his countrymen to accept the rational and scientific approach and the principle of human dignity and social equality of all men and women.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements about Raja Ram Mohan Roy :\nI. He possessed great love and respect for the traditional philosophical systems of the East.\nII. He desired his countrymen to accept the rational and scientific approach and the principle of human dignity and social equality of all men and women.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1846,14 +1817,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q012",
     "year": 2025,
     "paper": "gs1",
     "question_number": 12,
-    "question_text": "Consider the following subjects with regard to Non-Cooperation Programme :\n\nI. Boycott of law-courts and foreign cloth\n\nII. Observance of strict non-violence\n\nIII. Retention of titles and honours without using them in public\n\nIV. Establishment of Panchayats for settling disputes\n\nHow many of the above were parts of Non-Cooperation Programme?",
+    "question_text": "Consider the following subjects with regard to Non-Cooperation Programme :\nI. Boycott of law-courts and foreign cloth\nII. Observance of strict non-violence\nIII. Retention of titles and honours without using them in public\nIV. Establishment of Panchayats for settling disputes\nHow many of the above were parts of Non-Cooperation Programme?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -1866,7 +1837,7 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q013",
@@ -1886,14 +1857,14 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q014",
     "year": 2025,
     "paper": "gs1",
     "question_number": 14,
-    "question_text": "Who among the following rulers in ancient India had assumed the titles 'Mattavilasa', 'Vichitrachitta' and 'Gunabhara'?",
+    "question_text": "Who among the following rulers in ancient India had assumed the titles 'Mattavilasa', 'Vichitrachitta' and 'Gunabhara '?",
     "options": {
       "a": "Mahendravarman I",
       "b": "Simhavishnu",
@@ -1906,7 +1877,7 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q015",
@@ -1926,7 +1897,7 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q016",
@@ -1935,7 +1906,7 @@
     "question_number": 16,
     "question_text": "Who among the following led a successful military campaign against the kingdom of Srivijaya, the powerful maritime State, which ruled the Malay Peninsula, Sumatra, Java and the neighbouring islands?",
     "options": {
-      "a": "Amoghavarsha (Rashtrakuta)",
+      "a": ". Amoghavarsha (Rashtrakuta)",
       "b": "Prataparudra (Kakatiya)",
       "c": "Rajendra I (Chola)",
       "d": "Vishnuvardhana (Hoysala)"
@@ -1946,14 +1917,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q017",
     "year": 2025,
     "paper": "gs1",
     "question_number": 17,
-    "question_text": "With reference to ancient India (600-322 BC), consider the following pairs :\n\nTerritorial region | River flowing in the region\nI. Asmaka : Godavari\nII. Kamboja : Vipas\nIII. Avanti : Mahanadi\nIV. Kosala : Sarayu\n\nHow many of the pairs given above are correctly matched?",
+    "question_text": "With reference to ancient India (600-322 BC), consider the following pairs : Territorial River flowing region in the region\nI. Asmaka Godavari\nII. Kamboja Vipas\nIII. Avanti Mahanadi\nIV. Kosala Sarayu\nHow many of the pairs given above are correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -1966,18 +1937,18 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q018",
     "year": 2025,
     "paper": "gs1",
     "question_number": 18,
-    "question_text": "The first Gandharva Mahavidyalaya, a music training school, was set up in 1901 by Vishnu Digambar Paluskar in",
+    "question_text": "The first Oandharva Mahavidyalaya, a music training school, was set up in 1901 by Vishnu Digambar Paluskar in",
     "options": {
       "a": "Delhi",
       "b": "Gwalior",
-      "c": "Ujjain",
+      "c": "U.ijain",
       "d": "Lahore"
     },
     "has_image": false,
@@ -1986,7 +1957,7 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q019",
@@ -2006,14 +1977,14 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q020",
     "year": 2025,
     "paper": "gs1",
     "question_number": 20,
-    "question_text": "Consider the following statements in respect of the Non-Cooperation Movement :\n\nI. The Congress declared the attainment of 'Swaraj' by all legitimate and peaceful means to be its objective.\nII. It was to be implemented in stages with civil disobedience and non-payment of taxes for the next stage only if 'Swaraj' did not come within a year and the Government resorted to repression.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements in respect of the Non-Cooperation Movement:\nI. The Congress declared the attainment of 'Swaraj' by all legitimate and peaceful means to be its objective.\nII. It was to be implemented in stages with civil disobedience and non- payment of truces for the next stage only if 'Swaraj' did not come within a year and the Government resorted to repression.\nWhich of the statements given above is/arc correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -2026,14 +1997,14 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q021",
     "year": 2025,
     "paper": "gs1",
     "question_number": 21,
-    "question_text": "Consider the following countries :\nI. Austria\nII. Bulgaria\nIII. Croatia\nIV. Serbia\nV. Sweden\nVI. North Macedonia\n\nHow many of the above are members of the North Atlantic Treaty Organization?",
+    "question_text": "Consider the following countries :\nI. Austria\nII. Bulgaria\nIII. Croatia\nIV. Serbia\nV. Sweden VI. North Macedonia\nHow many of the above are members of the North Atlantic Treaty Organization?",
     "options": {
       "a": "Only three",
       "b": "Only four",
@@ -2046,18 +2017,18 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q022",
     "year": 2025,
     "paper": "gs1",
     "question_number": 22,
-    "question_text": "Consider the following countries :\nI. Bolivia\nII. Brazil\nIII. Colombia\nIV. Ecuador\nV. Paraguay\nVI. Venezuela\n\nAndes mountains pass through how many of the above countries?",
+    "question_text": "Consider the following countries :\nI. Bolivia\nII. Brazil\nIII. Colombia\nIV. Ecuador\nV. Paraguay VI. Venezuela Andes mountains pass through how many of the above countries?",
     "options": {
       "a": "Only two",
-      "b": "Only three",
       "c": "Only four",
+      "b": "Only three",
       "d": "Only five"
     },
     "has_image": false,
@@ -2066,18 +2037,18 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q023",
     "year": 2025,
     "paper": "gs1",
     "question_number": 23,
-    "question_text": "Consider the following water bodies :\nI. Lake Tanganyika\nII. Lake Tonlé Sap\nIII. Patos Lagoon\n\nThrough how many of them does the equator pass?",
+    "question_text": "Consider the following water bodies :\nI. Lake Tanganyika\nII. Lake Tonle Sap\nIII. Patos La.goon Through how many of them does the equator pass?",
     "options": {
       "a": "Only one",
-      "b": "Only two",
       "c": "All the three",
+      "b": "Only two",
       "d": "None"
     },
     "has_image": false,
@@ -2086,14 +2057,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q024",
     "year": 2025,
     "paper": "gs1",
     "question_number": 24,
-    "question_text": "Consider the following statements about turmeric during the year 2022-23 :\nI. India is the largest producer and exporter of turmeric in the world.\nII. More than 30 varieties of turmeric are grown in India.\nIII. Maharashtra, Telangana, Karnataka and Tamil Nadu are major turmeric producing States in India.\n\nWhich of the statements given above are correct?",
+    "question_text": "Consider the following statements about turmeric during the year 2022-23 :\nI. India is the largest producer and exporter of turmeric in the world.\nII. More than 30 varieties of turmeric are grown in India.\nIII. Maharashtra, Telangana, Kamataka and Tamil Nadu are major turmeric producing States in India. LVPK-0-PSO/56A 11\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -2106,14 +2077,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q025",
     "year": 2025,
     "paper": "gs1",
     "question_number": 25,
-    "question_text": "Which of the following are the evidences of the phenomenon of continental drift?\nI. The belt of ancient rocks from Brazil coast matches with those from Western Africa.\nII. The gold deposits of Ghana are derived from the Brazil plateau when the two continents lay side by side.\nIII. The Gondwana system of sediments from India is known to have its counterparts in six different landmasses of the Southern Hemisphere.\n\nSelect the correct answer using the code given below.",
+    "question_text": "Which of the following are the evidences of the phenomenon of continental drift?\nI. The belt of ancient rocks from Brazil coast matches with those from Western Africa.\nII. The gold deposits of Ghana are derived from the Brazil plateau when the two continents lay side by side.\nIII. The Gondwana system of sediments from India is known to have its counterparts in six different landmasses of the Southern Hemisphere.\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I and III only",
       "b": "I and II only",
@@ -2126,14 +2097,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q026",
     "year": 2025,
     "paper": "gs1",
     "question_number": 26,
-    "question_text": "Consider the following statements :\nStatement I :\nThe amount of dust particles in the atmosphere is more in subtropical and temperate areas than in equatorial and polar regions.\nStatement II :\nSubtropical and temperate areas have less dry winds.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : The amount of dust particles in the atmosphere is more in subtropical and temperate areas than in equatorial and polar regions.\nStatement II : Subtropical and temperate areas have less dry winds.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
       "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
@@ -2146,14 +2117,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q027",
     "year": 2025,
     "paper": "gs1",
     "question_number": 27,
-    "question_text": "Consider the following statements :\nStatement I :\nIn January, in the Northern Hemisphere, the isotherms bend equatorward while crossing the landmasses, and poleward while crossing the oceans.\nStatement II :\nIn January, the air over the oceans is warmer than that over the landmasses in the Northern Hemisphere.\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : In January, in the Northern Hemisphere, the isotherms bend equatotward while crossing the landmasses, and poleward while crossing the oceans.\nStatement II : In January, the air over the oceans is warmer than that over the landmasses in the Northern Hemisphere.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
       "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
@@ -2166,17 +2137,17 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q028",
     "year": 2025,
     "paper": "gs1",
     "question_number": 28,
-    "question_text": "Consider the following statements :\nStatement I :\nIn the context of effect of water on rocks, chalk is known as a very permeable rock whereas clay is known as quite an impermeable or least permeable rock.\nStatement II :\nChalk is porous and hence can absorb water.\nStatement III :\nClay is not at all porous.\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I :\nIn the context of effect of water on rocks, chalk is known as a very permeable rock whereas clay is known as quite an impermeable or least permeable rock.\nStatement II : Chalk is porous and hence can absorb water.\nStatement III : Clay is not at all porous.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
-      "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "b": "Both Statement II and Statement III are correct but only one of them explains Statement I 13",
       "c": "Only one of the Statements II and III is correct and that explains Statement I",
       "d": "Neither Statement II nor Statement III is correct"
     },
@@ -2186,7 +2157,7 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q029",
@@ -2206,7 +2177,7 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q030",
@@ -2226,14 +2197,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q031",
     "year": 2025,
     "paper": "gs1",
     "question_number": 31,
-    "question_text": "Consider the following statements :\n\nStatement I :\nStudies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.\n\nStatement II :\nSilica-bearing clay is mixed with limestone while manufacturing cement.\n\nStatement III :\nLimestone is converted into lime during clinker production for cement manufacturing.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions. Statement n : Silica-bearing clay is mixed with limestone while manufacturing cement.\nStatement III : Limestone is converted into lime during clinker production for cement manufacturing.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
       "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
@@ -2246,14 +2217,14 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q032",
     "year": 2025,
     "paper": "gs1",
     "question_number": 32,
-    "question_text": "Consider the following statements :\n\nStatement I :\nAt the 28th United Nations Climate Change Conference (COP28), India refrained from signing the 'Declaration on Climate and Health'.\n\nStatement II :\nThe COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes mandatory to decarbonize health sector.\n\nStatement III :\nIf India's health sector is decarbonized, the resilience of its health-care system may be compromised.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : At the 28th United Nations Climate Change Conference (COP28), India refrained from signing the 'Declara- tion on Climate and Health'.\nStatement II : The COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes manda- tory to decarbonize health sector.\nStatement III : If India's health sector is decarbonized, the resilience of its health-care system may be compromised.15\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
       "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
@@ -2266,19 +2237,19 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q033",
     "year": 2025,
     "paper": "gs1",
     "question_number": 33,
-    "question_text": "Consider the following statements :\n\nStatement I :\nScientific studies suggest that a shift is taking place in the Earth's rotation and axis.\n\nStatement II :\nSolar flares and associated coronal mass ejections bombarded the Earth's outermost atmosphere with tremendous amount of energy.\n\nStatement III :\nAs the Earth's polar ice melts, the water tends to move towards the equator.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : Scientific studies suggest that a shift is taking place in the Earth's rotation and axis.\nStatement II : Solar flares and associated coronal mass ejections bombarded the Earth's outermost atmosphere with tremendous amount of energy.\nStatement III : As the Earth's polar ice melts, the water tends to move towards the equator.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
-      "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "b": "Both Statement II and Statement m are correct but only one of them explains Statement I",
       "c": "Only one of the Statements II and III is correct and that explains Statement I",
-      "d": "Neither Statement II nor Statement III is correct"
+      "d": "Neither Statement II nor Statement III is correct I"
     },
     "has_image": false,
     "image_paths": [],
@@ -2286,14 +2257,14 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q034",
     "year": 2025,
     "paper": "gs1",
     "question_number": 34,
-    "question_text": "Consider the following statements :\n\nStatement I :\nArticle 6 of the Paris Agreement on climate change is frequently discussed in global discussions on sustainable development and climate change.\n\nStatement II :\nArticle 6 of the Paris Agreement on climate change sets out the principles of carbon markets.\n\nStatement III :\nArticle 6 of the Paris Agreement on climate change intends to promote inter-country non-market strategies to reach their climate targets.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : Article 6 of the Paris Agreement on climate change is frequently discussed in global discussions on sustainable development and climate change.\nStatement II : Article 6 of the Paris Agreement on climate change sets out the principles of carbon markets.\nStatement III : Article 6 of the Paris Agreement on climate change intends to promote inter-country non-market strategies to reach their climate targets.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
       "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
@@ -2306,7 +2277,7 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q035",
@@ -2317,7 +2288,7 @@
     "options": {
       "a": "The Asian Development Bank (ADB)",
       "b": "The Asian Infrastructure Investment Bank (AIIB)",
-      "c": "The New Development Bank (NDB)",
+      "c": "The New Development Bank (NOB)",
       "d": "The International Bank for Reconstruction and Development (IBRD)"
     },
     "has_image": false,
@@ -2326,14 +2297,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q036",
     "year": 2025,
     "paper": "gs1",
     "question_number": 36,
-    "question_text": "With reference to 'Direct Air Capture', an emerging technology, which of the following statements is/are correct?\n\nI. It can be used as a way of carbon sequestration.\n\nII. It can be a valuable approach for plastic production and in food processing.\n\nIII. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel.\n\nSelect the correct answer using the code given below.",
+    "question_text": "With reference to 'Direct Air Capture', an emerging technology, which of the following statements is/are correct?\nI. It can be used as a way of carbon sequestration.\nII. It can be a valuable approach for plastic production and in food processing.\nIII. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel.\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I and II only",
       "b": "III only",
@@ -2346,19 +2317,19 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q037",
     "year": 2025,
     "paper": "gs1",
     "question_number": 37,
-    "question_text": "Regarding Peacock tarantula (Gooty tarantula), consider the following statements :\n\nI. It is an omnivorous crustacean.\n\nII. Its natural habitat in India is only limited to some forest areas.\n\nIII. In its natural habitat, it is an arboreal species.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Regarding Peacock tarantula tarantula), consider the statements : (Gooty following\nI. It is an omnivorous crustacean.\nII. Its natural habitat in India is only limited to some forest areas.\nIII. In its natural habitat, it is an arboreal species.\nWhich of the statements given above is/ are correct?",
     "options": {
       "a": "I only",
       "b": "I and III",
       "c": "II only",
-      "d": "II and III"
+      "d": "II and III [ P.T.0."
     },
     "has_image": false,
     "image_paths": [],
@@ -2366,14 +2337,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q038",
     "year": 2025,
     "paper": "gs1",
     "question_number": 38,
-    "question_text": "Consider the following statements :\n\nI. Carbon dioxide (CO2) emissions in India are less than 0.5 t CO2/capita.\n\nII. In terms of CO2 emissions from fuel combustion, India ranks second in Asia-Pacific region.\n\nIII. Electricity and heat producers are the largest sources of CO2 emissions in India.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements :\nI. Carbon dioxide (CO2 ) emissions in India are less than 0\u00b75 t CO2 / capita.\nII. In terms of CO2 emissions from fuel combustion, India ranks second in Asia-Pacific region.\nIII. Electricity and heat producers are the largest sources of CO2 emissions in India.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I and III only",
       "b": "II only",
@@ -2386,14 +2357,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q039",
     "year": 2025,
     "paper": "gs1",
     "question_number": 39,
-    "question_text": "Consider the following pairs :\n\nPlant | Description\nI. Cassava | Woody shrub\nII. Ginger | Herb with pseudostem\nIII. Malabar spinach | Herbaceous climber\nIV. Mint | Annual shrub\nV. Papaya | Woody shrub\n\nHow many of the above pairs are correctly matched?",
+    "question_text": "Consider the following pairs : Plant Description\nI. Cassava Woody shrub\nII. Ginger Herb with pseudostem\nIII. Malabar spinach Herbaceous climber\nIV. Mint Annual shrub\nV. Papaya Woody shrub 19\nHow many of the above pairs are correctly matched?",
     "options": {
       "a": "Only two",
       "b": "Only three",
@@ -2406,19 +2377,19 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q040",
     "year": 2025,
     "paper": "gs1",
     "question_number": 40,
-    "question_text": "With reference to the planet Earth, consider the following statements :\n\nI. Rain forests produce more oxygen than that produced by oceans.\n\nII. Marine phytoplankton and photosynthetic bacteria produce about 50% of world's oxygen.\n\nIII. Well-oxygenated surface water contains several folds higher oxygen than that in atmospheric air.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "With reference to the planet Earth, consider the following statements :\nI. Rain forests produce more oxygen than that produced by oceans.\nII. Marine phytoplankton and photo- synthetic bacteria produce about 50% of world's oxygen.\nIII. Well-oxygenated surface water contains several folds higher oxygen than that in atmospheric air.\nWhich of the statements given above is/are correct?",
     "options": {
-      "a": "I and II",
+      "a": "1 and II",
       "b": "II only",
       "c": "I and III",
-      "d": "None of the above statements is correct"
+      "d": "None of the above statements is correct . I"
     },
     "has_image": false,
     "image_paths": [],
@@ -2426,18 +2397,18 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q041",
     "year": 2025,
     "paper": "gs1",
     "question_number": 41,
-    "question_text": "Consider the following types of vehicles :\n\nI. Full battery electric vehicles\nII. Hydrogen fuel cell vehicles\nIII. Fuel cell-electric hybrid vehicles\n\nHow many of the above are considered as alternative powertrain vehicles?",
+    "question_text": "Consider the following types of vehicles:\nI. Full battery electric vehicles\nII. Hydrogen fuel cell vehicles\nIII. Fuel cell-electric hybrid vehicles\nHow many of the above are considered as alternative powertrain vehicles?",
     "options": {
       "a": "Only one",
-      "b": "Only two",
       "c": "All the three",
+      "b": "Only two",
       "d": "None"
     },
     "has_image": false,
@@ -2446,18 +2417,18 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q042",
     "year": 2025,
     "paper": "gs1",
     "question_number": 42,
-    "question_text": "With reference to Unmanned Aerial Vehicles (UAVs), consider the following statements :\n\nI. All types of UAVs can do vertical landing.\nII. All types of UAVs can do automated hovering.\nIII. All types of UAVs can use battery only as a source of power supply.\n\nHow many of the statements given above are correct?",
+    "question_text": "With reference to Unmanned Aerial Vehicles (UAVs), consider the following statements :\nI. All types of UAVs can do vertical landing.\nII. All types ofUAVs can do automated hovering.\nIII. All types of UAVs can use battery only as a source of power supply.\nHow many of the statements given above are correct?",
     "options": {
       "a": "Only one",
-      "b": "Only two",
       "c": "All the three",
+      "b": "Only n;vo",
       "d": "None"
     },
     "has_image": false,
@@ -2466,18 +2437,18 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q043",
     "year": 2025,
     "paper": "gs1",
     "question_number": 43,
-    "question_text": "In the context of electric vehicle batteries, consider the following elements :\n\nI. Cobalt\nII. Graphite\nIII. Lithium\nIV. Nickel\n\nHow many of the above usually make up battery cathodes?",
+    "question_text": "In the context of electric vehicle batteries, consider the following elements :\nI. Cobalt\nII. Graphite\nIII. Lithium\nIV. Nickel\nHow many of the above usually make up battery cathodes?",
     "options": {
       "a": "Only one",
-      "b": "Only two",
       "c": "Only three",
+      "b": "Only two",
       "d": "All the four"
     },
     "has_image": false,
@@ -2486,14 +2457,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q044",
     "year": 2025,
     "paper": "gs1",
     "question_number": 44,
-    "question_text": "Consider the following :\n\nI. Cigarette butts\nII. Eyeglass lenses\nIII. Car tyres\n\nHow many of them contain plastic?",
+    "question_text": "Consider the following :\nI. Cigarette butts\nII. Eyeglass lenses\nIII. Car tyres\nHow many of them contain plastic?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -2506,14 +2477,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q045",
     "year": 2025,
     "paper": "gs1",
     "question_number": 45,
-    "question_text": "Consider the following substances :\n\nI. Ethanol\nII. Nitroglycerine\nIII. Urea\n\nCoal gasification technology can be used in the production of how many of them?",
+    "question_text": "Consider the following substances :\nI. Ethanol\nII. Nitroglycerine\nIII. Urea Coal gasification technology can be used in the production of how many of them?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -2526,7 +2497,7 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q046",
@@ -2546,14 +2517,14 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q047",
     "year": 2025,
     "paper": "gs1",
     "question_number": 47,
-    "question_text": "Consider the following statements :\n\nI. It is expected that Majorana 1 chip will enable quantum computing.\nII. Majorana 1 chip has been introduced by Amazon Web Services (AWS).\nIII. Deep learning is a subset of machine learning.\n\nWhich of the statements given above are correct?",
+    "question_text": "Consider the following statements :\nI. It is expected that Majorana 1 chip will enable quantum computing.\nII. Majorana 1 introduced by Services (AWS). chip has Amazon been Web\nIII. Deep learning is a subset of machine learning.\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -2566,14 +2537,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q048",
     "year": 2025,
     "paper": "gs1",
     "question_number": 48,
-    "question_text": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements :\n\nI. They are man-made proteins.\nII. They stimulate immunological function due to their ability to bind to specific antigens.\nIII. They are used in treating viral infections like that of Nipah virus.\n\nWhich of the statements given above are correct?",
+    "question_text": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements :\nI. They are man-made proteins.\nII. They stimulate immunological function due to their ability to bind to specific antigens.\nIII. They are used in treating viral infections like that of Nipah virus.\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -2586,14 +2557,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q049",
     "year": 2025,
     "paper": "gs1",
     "question_number": 49,
-    "question_text": "Consider the following statements :\n\nI. No virus can survive in ocean waters.\nII. No virus can infect bacteria.\nIII. No virus can change the cellular transcriptional activity in host cells.\n\nHow many of the statements given above are correct?",
+    "question_text": "Consider the following statements :\nI. No virus can survive in ocean waters.\nII. No virus can infect bacteria.\nIII. No virus can change the cellular transcriptional activity in host cells. 23\nHow many of the statements given above are correct?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -2606,14 +2577,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q050",
     "year": 2025,
     "paper": "gs1",
     "question_number": 50,
-    "question_text": "Consider the following statements :\n\nStatement I :\nActivated carbon is a good and an attractive tool to remove pollutants from effluent streams and to remediate contaminants from various industries.\n\nStatement II :\nActivated carbon exhibits a large surface area and a strong potential for adsorbing heavy metals.\n\nStatement III :\nActivated carbon can be easily synthesized from environmental wastes with high carbon content.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : Activated carbon is a good and an attractive tool to remove pollutants from effluent streams and to remediate contaminants from various industries.-\nStatement II : Activated carbon exhibits a large surface area and a strong potential for adsorbing heavy metals. Statement m : Activated carbon can be easily synthesized from environmental wastes with high carbon content.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
       "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
@@ -2626,16 +2597,16 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q051",
     "year": 2025,
     "paper": "gs1",
     "question_number": 51,
-    "question_text": "With reference to the Indian polity, consider the following statements :\nI. An Ordinance can amend any Central Act.\nII. An Ordinance can abridge a Fundamental Right.\nIII. An Ordinance can come into effect from a back date.\n\nWhich of the statements given above are correct?",
+    "question_text": "With reference to the Indian polity, consider the following statements :\nI. An Ordinance can amend any Central AcL\nII. An Ordinance can abridge a Fundamental Right.\nIII. An Ordinance can come into effect from a back date.\nWhich of the statements given above are correct?",
     "options": {
-      "a": "I and II only",
+      "a": "I and 11 only",
       "b": "II and III only",
       "c": "I and III only",
       "d": "I, II and III"
@@ -2646,14 +2617,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q052",
     "year": 2025,
     "paper": "gs1",
     "question_number": 52,
-    "question_text": "Consider the following pairs :\n\nState | Description\nI. Arunachal Pradesh : The capital is named after a fort, and the State has two National Parks\nII. Nagaland : The State came into existence on the basis of a Constitutional Amendment Act\nIII. Tripura : Initially a Part 'C' State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State\n\nHow many of the above pairs are correctly matched?",
+    "question_text": "Consider the following pairs : State : Description\nI. Arunachal Pradesh : The capital is named after a fort, and the State has two National Parks\nII. Nagaland : The State came into existence on the basis of a Constitutional Amendment Act\nIII. Tripura : Initially a Part 'C' State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State\nHow many of the above pairs are correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -2666,19 +2637,19 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q053",
     "year": 2025,
     "paper": "gs1",
     "question_number": 53,
-    "question_text": "With reference to India, consider the following :\nI. The Inter-State Council\nII. The National Security Council\nIII. Zonal Councils\n\nHow many of the above were established as per the provisions of the Constitution of India?",
+    "question_text": "it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State\nHow many of the above pairs are correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
       "c": "All the three",
-      "d": "None"
+      "d": "None With reference to India, consider the following : I. The Inter-State Council II. The National Security Council m. Z.Onal Councils 25 How many of the above were established as per the provisions of the Constitution of India?"
     },
     "has_image": false,
     "image_paths": [],
@@ -2686,19 +2657,19 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q054",
     "year": 2025,
     "paper": "gs1",
     "question_number": 54,
-    "question_text": "Consider the following statements :\nI. The Constitution of India explicitly mentions that in certain spheres the Governor of a State acts in his/her own discretion.\nII. The President of India can, of his/her own, reserve a bill passed by a State Legislature for his/her consideration without it being forwarded by the Governor of the State concerned.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements :\nI. The Constitution of India explicitly mentions that in certain spheres the Governor of a State acts in his/her own discretion.\nII. The President of India can, of his/her own, reserve a bill passed by a State Legislature for his/her consideration without it being forwarded by the Governor of the State concerned.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
       "c": "Both I and II",
-      "d": "Neither I nor II"
+      "d": "Neither I nor n"
     },
     "has_image": false,
     "image_paths": [],
@@ -2706,14 +2677,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q055",
     "year": 2025,
     "paper": "gs1",
     "question_number": 55,
-    "question_text": "Consider the following pairs :\n\nProvision in the Constitution of India | Stated under\nI. Separation of Judiciary from the Executive in the public services of the State : The Directive Principles of the State Policy\nII. Valuing and preserving of the rich heritage of our composite culture : The Fundamental Duties\nIII. Prohibition of employment of children below the age of 14 years in factories : The Fundamental Rights\n\nHow many of the above pairs are correctly matched?",
+    "question_text": "Consider the following pairs : Proviafon in the Stated UDder Constitution of lncUa\nI. Separation of Judiciary from the Executive in the public services of the State\nII.\nIII. Valuing and preserving of the rich heritage of our composite culture Prohibition of employ- ment of children below the age of 14 years in factories The Directive Principles of the State Policy The Funda- mental Duties The Funda- mental Rights\nHow many of the above pairs are correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -2726,14 +2697,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q056",
     "year": 2025,
     "paper": "gs1",
     "question_number": 56,
-    "question_text": "Consider the following statements :\n\nWith reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule\n\nI. the State Government loses its executive power in such areas and a local body assumes total administration\nII. the Union Government can take over the total administration of such areas under certain circumstances on the recommendations of the Governor\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements :\nWith reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule\nI. the State Government loses its executive power in such areas and a local body assumes total administration\nII. the Union Government can take over the total administration of such areas under certain circum- stances on the recommendations of the Governor\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -2746,14 +2717,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q057",
     "year": 2025,
     "paper": "gs1",
     "question_number": 57,
-    "question_text": "With reference to India, consider the following pairs :\n\n| Organization | Union Ministry |\n|---|---|\n| I. The National Automotive Board | Ministry of Commerce and Industry |\n| II. The Coir Board | Ministry of Heavy Industries |\n| III. The National Centre for Trade Information | Ministry of Micro, Small and Medium Enterprises |\n\nHow many of the above pairs are correctly matched?",
+    "question_text": "With reference to following pairs : Organization\nI. The National Automotive Board\nII. The Coir Board\nIII. The National Centre for Trade Information India, consider the . Union Ministry Ministry of Commerce and Industry Ministry of Heavy Industries Ministry of Micro, Small and Medium Enterprises\nHow many of the above pairs are correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -2766,14 +2737,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q058",
     "year": 2025,
     "paper": "gs1",
     "question_number": 58,
-    "question_text": "Consider the following subjects under the Constitution of India :\n\nI. List I-Union List, in the Seventh Schedule\nII. Extent of the executive power of a State\nIII. Conditions of the Governor's office\n\nFor a constitutional amendment with respect to which of the above, ratification by the Legislatures of not less than one-half of the States is required before presenting the bill to the President of India for assent?",
+    "question_text": "Consider the following subjects under the Constitution of India :\nI. List I-Union List, in the Seventh Schedule\nII. Extent of the executive power of a State\nIII. Conditions of the Governor's office 27 For a constitutional amendment with respect to which of the above, ratification by the Legislatures of not less than one-half of the States is required before presenting the bill to the President of India for assent?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -2786,14 +2757,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q059",
     "year": 2025,
     "paper": "gs1",
     "question_number": 59,
-    "question_text": "With reference to the Indian polity, consider the following statements :\n\nI. The Governor of a State is not answerable to any court for the exercise and performance of the powers and duties of his/her office.\nII. No criminal proceedings shall be instituted or continued against the Governor during his/her term of office.\nIII. Members of a State Legislature are not liable to any proceedings in any court in respect of anything said within the House.\n\nWhich of the statements given above are correct?",
+    "question_text": "With reference to the Indian polity, consider the following statements :\nI. The Governor of a State is not answerable to any court for the exercise and performance of the powers and duties of his/her office.\nII. No criminal proceedings shall be instituted or continued against the Governor during his/her term of office.\nIII. Members of a State Legislature are not liable to any proceedings in any court in respect of anything said within the House.\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -2806,19 +2777,19 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q060",
     "year": 2025,
     "paper": "gs1",
     "question_number": 60,
-    "question_text": "Consider the following activities :\n\nI. Production of crude oil\nII. Refining, storage and distribution of petroleum\nIII. Marketing and sale of petroleum products\nIV. Production of natural gas\n\nHow many of the above activities are regulated by the Petroleum and Natural Gas Regulatory Board in our country?",
+    "question_text": "Consider the following activities :\nI. Production of crude oil\nII. Refining, storage and distribution of petroleum\nIII. Marketing and sale of petroleum products\nIV. Production of natural gas\nHow many of the above activities are regulated by the Petroleum and Natural Gas Regulatory Board in our country?",
     "options": {
       "a": "Only one",
       "b": "Only two",
       "c": "Only three",
-      "d": "All the four"
+      "d": "All the four I"
     },
     "has_image": false,
     "image_paths": [],
@@ -2826,14 +2797,14 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q061",
     "year": 2025,
     "paper": "gs1",
     "question_number": 61,
-    "question_text": "Suppose the revenue expenditure is ₹ 80,000 crores and the revenue receipts of the Government are ₹ 60,000 crores. The Government budget also shows borrowings of ₹ 10,000 crores and interest payments of ₹ 6,000 crores. Which of the following statements are correct?\n\nI. Revenue deficit is ₹ 20,000 crores.\nII. Fiscal deficit is ₹ 10,000 crores.\nIII. Primary deficit is ₹ 4,000 crores.\n\nSelect the correct answer using the code given below.",
+    "question_text": "Suppose the revenue expenditure is \"' 80,000 crores and the revenue receipts of the Government are \"' 60,000 crores. The Government budget also shows borrowings of \"' 10,000 crorea and interest payments of \"' 6,000 crores. Which of the following statements are correct?\nI. Revenue deficit is \"' 20,000 crores.\nII. Fiscal deficit is \"' 10,000 crores.\nIII. Primary deficit is \"'4,000 crores.\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -2846,7 +2817,7 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q062",
@@ -2866,19 +2837,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0,
-    "disputed": true,
-    "disputed_answers": [
-      "d",
-      "a"
-    ]
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q063",
     "year": 2025,
     "paper": "gs1",
     "question_number": 63,
-    "question_text": "Consider the following statements :\n\nStatement I :\nOf the two major ethanol producers in the world, i.e., Brazil and the United States of America, the former produces more ethanol than the latter.\n\nStatement II :\nUnlike in the United States of America where corn is the principal feedstock for ethanol production, sugarcane is the principal feedstock for ethanol production in Brazil.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : Of the two major ethanol producers in the world, i.e., Brazil and the United States of America, the former produces more ethanol than the latter.\nStatement II : Unlike in the United States of America where com is the principal feedstock for ethanol production, sugarcane is the principal feedstock for ethanol production in Brazil. 29\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
       "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
@@ -2891,14 +2857,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q064",
     "year": 2025,
     "paper": "gs1",
     "question_number": 64,
-    "question_text": "The World Bank warned that India could become one of the first places where wet-bulb temperatures routinely exceed 35 °C. Which of the following statements best reflect(s) the implication of the above-said report?\n\nI. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.\nII. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.\n\nSelect the correct answer using the code given below.",
+    "question_text": "The World Bank warned that India could become one of the first places where wet-bulb temperatures routinely exceed 35 \u00b0C. Which of the following statements best reflect(s) the implication of the above-said report?\nI. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.\nII. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -2911,19 +2877,19 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q065",
     "year": 2025,
     "paper": "gs1",
     "question_number": 65,
-    "question_text": "A country's fiscal deficit stands at ₹ 50,000 crores. It is receiving ₹ 10,000 crores through non-debt creating capital receipts. The country's interest liabilities are ₹ 1,500 crores. What is the gross primary deficit?",
+    "question_text": "I. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.\nII. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.\nSelect the correct answer using the code given below.",
     "options": {
-      "a": "₹ 48,500 crores",
-      "b": "₹ 51,500 crores",
-      "c": "₹ 58,500 crores",
-      "d": "None of the above"
+      "a": "I only",
+      "b": "II only",
+      "c": "Both I and II",
+      "d": "Neither I nor II A country's fiscal deficit stands at \"\u00b0 50,000 crores. It is receiving \"\u00b0 10,000 crores through non-debt creating capital receipts. The country's interest liabilities are \"\u00b0 1,500 crores. What is the gross primary deficit?"
     },
     "has_image": false,
     "image_paths": [],
@@ -2931,14 +2897,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q066",
     "year": 2025,
     "paper": "gs1",
     "question_number": 66,
-    "question_text": "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct?\nI. It has recommended grants of ₹ 4,800 crores from the year 2022-23 to the year 2025-26 for incentivizing States to enhance educational outcomes.\nII. 45% of the net proceeds of Union taxes are to be shared with States.\nIII. ₹ 45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms.\nIV. It reintroduced tax effort criteria to reward fiscal performance.\nSelect the correct answer using the code given below.",
+    "question_text": "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct?\nI. It has recommended grants of \"'4,800 crores from the year 2022-23 to the year 2025-26 for incentivizing States to enhance educational outcomes.\nII. 45% of the net proceeds of Union taxes are to be shared with States.\nIII. \"'45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms.\nIV. It reintroduced tax effort criteria to reward fiscal performance.\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I, II and III",
       "b": "I, II and IV",
@@ -2951,7 +2917,7 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q067",
@@ -2961,7 +2927,7 @@
     "question_text": "Consider the following statements in respect of the International Bank for Reconstruction and Development (IBRD) :\nI. It provides loans and guarantees to middle income countries.\nII. It works single-handedly to help developing countries to reduce poverty.\nIII. It was established to help Europe rebuild after the World War II.\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
-      "b": "II and III only",
+      "b": "11 and III only",
       "c": "I and III only",
       "d": "I, II and III"
     },
@@ -2971,19 +2937,19 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q068",
     "year": 2025,
     "paper": "gs1",
     "question_number": 68,
-    "question_text": "Consider the following statements in respect of RTGS and NEFT :\nI. In RTGS, the settlement time is instantaneous while in case of NEFT, it takes some time to settle payments.\nII. In RTGS, the customer is charged for inward transactions while that is not the case for NEFT.\nIII. Operating hours for RTGS are restricted on certain days while this is not true for NEFT.\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements in respect of RTGS and NEFT :\nI. In RTGS, the settlement time is instantaneous while in case of NEFT, it takes some time to settle payments. 31\nII. In RTGS, the customer is charged for inward transactions while that is not the case for NEFT.\nIII. Operating hours for RTGS are restricted on certain days while this is not true for NEFT.\nWhich of the statements given is/ are correct?",
     "options": {
       "a": "I only",
+      "c": "I and 111",
       "b": "I and II",
-      "c": "I and III",
-      "d": "III only"
+      "d": "111 only above"
     },
     "has_image": false,
     "image_paths": [],
@@ -2991,7 +2957,7 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q069",
@@ -3011,18 +2977,18 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q070",
     "year": 2025,
     "paper": "gs1",
     "question_number": 70,
-    "question_text": "Consider the following statements about 'PM Surya Ghar Muft Bijli Yojana' :\nI. It targets installation of one crore solar rooftop panels in the residential sector.\nII. The Ministry of New and Renewable Energy aims to impart training on installation, operation, maintenance and repairs of solar rooftop systems at grassroot levels.\nIII. It aims to create more than three lakhs skilled manpower through fresh skilling, and up-skilling, under scheme component of capacity building.\nWhich of the statements given above are correct?",
+    "question_text": "Consider the following statements about 'PM Surya Ghar Muft Bijli Yojana':\nI. It targets installation of one crore solar rooftop panels in the residential sector.\nII. The Ministry of New and Renewable Energy aims to impart training on installation, operation, mainte- nance and repairs of solar rooftop systems at grassroot levels.\nIII. It aims to create more than three lakhs skilled manpower through fresh skilling, and up- skilling, under scheme component of capacity building.\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
       "b": "I and III only",
-      "c": "II and III only",
+      "c": "II-and III only",
       "d": "I, II and III"
     },
     "has_image": false,
@@ -3031,7 +2997,7 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q071",
@@ -3051,7 +3017,7 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q072",
@@ -3071,7 +3037,7 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q073",
@@ -3082,7 +3048,7 @@
     "options": {
       "a": "C. R. Das",
       "b": "Madan Mohan Malaviya and Krishna Kant",
-      "c": "Dr. Saifuddin Kitchlew and Khwaja Hasan Nizami",
+      "c": "Dr. Saifu.ddin Kitchlew and Khwaja Hasan Nizami",
       "d": "M. A. Jinnah"
     },
     "has_image": false,
@@ -3091,7 +3057,7 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q074",
@@ -3111,18 +3077,18 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q075",
     "year": 2025,
     "paper": "gs1",
     "question_number": 75,
-    "question_text": "Consider the following fruits :\nI. Papaya\nII. Pineapple\nIII. Guava\n\nHow many of the above were introduced in India by the Portuguese in the sixteenth and seventeenth centuries?",
+    "question_text": "Consider the following fruits :\nI. Papaya\nII. Pineapple\nIII. Guava\nHow many of the above were introduced in India by the Portuguese in the sixteenth and seventeenth centuries?",
     "options": {
       "a": "Only one",
-      "b": "Only two",
       "c": "All the three",
+      "b": "Only two",
       "d": "None"
     },
     "has_image": false,
@@ -3131,18 +3097,18 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q076",
     "year": 2025,
     "paper": "gs1",
     "question_number": 76,
-    "question_text": "Consider the following countries :\nI. United Kingdom\nII. Denmark\nIII. New Zealand\nIV. Australia\nV. Brazil\n\nHow many of the above countries have more than four time zones?",
+    "question_text": "Consider the following countries :\nI. United Kingdom\nII. Denmark\nIII. New Zealand\nIV. Australia\nV. Brazil\nHow many of the above countries have more than four time zones?",
     "options": {
       "a": "All the five",
-      "b": "Only four",
       "c": "Only three",
+      "b": "Only four",
       "d": "Only two"
     },
     "has_image": false,
@@ -3151,14 +3117,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q077",
     "year": 2025,
     "paper": "gs1",
     "question_number": 77,
-    "question_text": "Consider the following statements :\n\nI. Anadyr in Siberia and Nome in Alaska are a few kilometers from each other, but when people are waking up and getting set for breakfast in these cities, it would be different days.\n\nII. When it is Monday in Anadyr, it is Tuesday in Nome.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements :\nI. Anadyr in Siberia and Nome in Alaska are a few kilometers from each other, but when people are waking up and getting set for breakfast in these cities, it would be different days.\nII. When it is Monday in Anadyr, it is Tuesday in Nome.\nWhich of the statements given above is/arc correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -3171,7 +3137,7 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q078",
@@ -3191,14 +3157,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q079",
     "year": 2025,
     "paper": "gs1",
     "question_number": 79,
-    "question_text": "Consider the following pairs :\n\n| Country | Resource-rich in |\n|---|---|\n| I. Botswana | Diamond |\n| II. Chile | Lithium |\n| III. Indonesia | Nickel |\n\nIn how many of the above rows is the given information correctly matched?",
+    "question_text": "Consider the following pairs : Country : Resource-rich in\nI. Botswana : Diamond\nII. Chile : Lithium\nIII. Indonesia : Nickel\nIn how many of the above rows is the given information correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -3211,14 +3177,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q080",
     "year": 2025,
     "paper": "gs1",
     "question_number": 80,
-    "question_text": "Consider the following pairs :\n\n| Region | Country |\n|---|---|\n| I. Mallorca | Italy |\n| II. Normandy | Spain |\n| III. Sardinia | France |\n\nIn how many of the above rows is the given information correctly matched?",
+    "question_text": "Consider the following pairs : Region : Country\nI. Mallorca : Italy\nII. Normandy : Spain\nIII. Sardinia : France\nIn how many of the above rows is the given information correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -3231,14 +3197,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q081",
     "year": 2025,
     "paper": "gs1",
     "question_number": 81,
-    "question_text": "Consider the following statements :\nStatement I :\nSome rare earth elements are used in the manufacture of flat television screens and computer monitors.\nStatement II :\nSome rare earth elements have phosphorescent properties.\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : Some rare earth elements are used in the manufacture of flat television screens and computer monitors.\nStatement II : Some rare earth elements have phosphorescent properties.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
       "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
@@ -3251,19 +3217,19 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q082",
     "year": 2025,
     "paper": "gs1",
     "question_number": 82,
-    "question_text": "Consider the following statements :\nI. Indian Railways have prepared a National Rail Plan (NRP) to create a 'future ready' railway system by 2028.\nII. 'Kavach' is an Automatic Train Protection system developed in collaboration with Germany.\nIII. 'Kavach' system consists of RFID tags fitted on track in station section.\nWhich of the statements given above are not correct?",
+    "question_text": "Consider the following statements :\nI. Indian Railways have ' prepared a National Rail Plan (NRP) to create a 'future ready' railway system by 2028.\nII. 'Kavach' is an Automatic Train Protection system developed in collaboration with Germany.\nIII. 'Kavach' system consists of RFID tags fitted on track in station section.\nWhich of the statements given above are not correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
-      "c": "I and III only",
-      "d": "I, II and III"
+      "c": "1 and III only",
+      "d": "1, II and III"
     },
     "has_image": false,
     "image_paths": [],
@@ -3271,14 +3237,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q083",
     "year": 2025,
     "paper": "gs1",
     "question_number": 83,
-    "question_text": "Consider the following space missions :\nI. Axiom-4\nII. SpaDeX\nIII. Gaganyaan\nHow many of the space missions given above encourage and support microgravity research?",
+    "question_text": "Consider the following space missions :\nI. Axiom-4\nII. SpaDeX\nIII. Gaganyaan\nHow many of the space missions given above encourage and support micro-gravity research?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -3291,14 +3257,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q084",
     "year": 2025,
     "paper": "gs1",
     "question_number": 84,
-    "question_text": "With reference to India's defence, consider the following pairs :\n\n| Aircraft type | Description |\n|---|---|\n| I. Dornier-228 | Maritime patrol aircraft |\n| II. IL-76 | Supersonic combat aircraft |\n| III. C-17 Globemaster III | Military transport aircraft |\n\nHow many of the pairs given above are correctly matched?",
+    "question_text": "With reference to India's defence, consider the following pairs :\nI.\nII.\nIII. Aircraft type De\u25a0crlptlon Dornier-228 Maritime patrol aircraft IL-76 Supersonic combat aircraft C-17 Globe- Military transport master III aircraft\nHow many of the pairs given above are correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -3311,7 +3277,7 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q085",
@@ -3331,14 +3297,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q086",
     "year": 2025,
     "paper": "gs1",
     "question_number": 86,
-    "question_text": "Consider the following statements with regard to pardoning power of the President of India :\nI. The exercise of this power by the President can be subjected to limited judicial review.\nII. The President can exercise this power without the advice of the Central Government.\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements with regard to pardoning power of the President of India :\nI. The exercise of this power by the President can be subjected to limited judicial review.\nII. The President can exercise this power without the advice of the Central Government.\nWhich of the statements given above is/ are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -3351,14 +3317,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q087",
     "year": 2025,
     "paper": "gs1",
     "question_number": 87,
-    "question_text": "Consider the following statements :\nI. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution.\nII. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately.\nIII. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the then Members of the House, provided that no resolution shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.\n\nWhich of the statements given above are correct?",
+    "question_text": "Consider the following statements :\nI. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution.\nII. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately.\nIII. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People pa81ed by a majority of all the then Members of the House, provided that no resolution shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.\nWhich of the statements given above are correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -3371,14 +3337,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q088",
     "year": 2025,
     "paper": "gs1",
     "question_number": 88,
-    "question_text": "Consider the following statements :\nI. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the 10th Schedule, the President's decision in accordance with the opinion of the Council of Union Ministers shall be final.\nII. There is no mention of the word 'political party' in the Constitution of India.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements :\nI. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the 10th Schedule, the President's decision in accordance with the opinion of the Council of Union Ministers shall be final. n. There is no mention of the word 'political party' in the Constitution of India.\nWhich of the statements given above is/ are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -3391,14 +3357,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q089",
     "year": 2025,
     "paper": "gs1",
     "question_number": 89,
-    "question_text": "Consider the following statements :\n\nStatement I :\nIn India, State Governments have no power for making rules for grant of concessions in respect of extraction of minor minerals even though such minerals are located in their territories.\n\nStatement II :\nIn India, the Central Government has the power to notify minor minerals under the relevant law.\n\nWhich one of the following is correct in respect of the above statements?",
+    "question_text": "Consider the following statements :\nStatement I : In India, State Governments have no power for making rules for grant of concessions in respect of extraction of minor minerals even though such minerals are located in their territories.\nStatement II : In India, the Central Government has the power to notify minor minerals under the relevant law.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
       "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
@@ -3411,7 +3377,7 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q090",
@@ -3431,14 +3397,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q091",
     "year": 2025,
     "paper": "gs1",
     "question_number": 91,
-    "question_text": "Consider the following statements :\nI. Panchayats at the intermediate level exist in all States.\nII. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years.\nIII. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level.\n\nWhich of the statements given above are not correct?",
+    "question_text": "Consider the following statements :\nI. Panchayats at the intermediate level exist in all States.\nII. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years.\nIII. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate level and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level.\nWhich of the statements given above are not correct?",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -3451,14 +3417,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q092",
     "year": 2025,
     "paper": "gs1",
     "question_number": 92,
-    "question_text": "Consider the following statements in respect of BIMSTEC :\nI. It is a regional organization consisting of seven member States till January 2025.\nII. It came into existence with the signing of the Dhaka Declaration, 1999.\nIII. Bangladesh, India, Sri Lanka, Thailand and Nepal are founding member States of BIMSTEC.\nIV. In BIMSTEC, the subsector of 'tourism' is being led by India.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements in respect of BIMSTEC :\nI. It is a regional organization consisting of seven member States till January 2025.\nII. It came into existence with the signing of the Dhaka Declaration, 1999.\nIII. Bangladesh, India, Sri Lanka, Thailand and Nepal are founding member States of BIMSTEC.\nIV. In BIMSTEC, the subsector of 'tourism' is being led by India.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I and II",
       "b": "II and III",
@@ -3471,19 +3437,19 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q093",
     "year": 2025,
     "paper": "gs1",
     "question_number": 93,
-    "question_text": "Who amongst the following are members of the Jury to select the recipient of 'Gandhi Peace Prize'?\nI. The President of India\nII. The Prime Minister of India\nIII. The Chief Justice of India\nIV. The Leader of Opposition in the Lok Sabha\n\nSelect the correct answer using the code given below.",
+    "question_text": "Consider the following statements :\nI. Panchayats at the intermediate level exist in all States.\nII. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years.\nIII. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate level and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level.\nWhich of the statements given above are not correct?",
     "options": {
-      "a": "II and IV only",
-      "b": "I, II and III",
-      "c": "II, III and IV",
-      "d": "I and III only"
+      "a": "I and II only",
+      "c": "I and III only",
+      "b": "II and III only",
+      "d": "I, II and III"
     },
     "has_image": false,
     "image_paths": [],
@@ -3491,14 +3457,14 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q094",
     "year": 2025,
     "paper": "gs1",
     "question_number": 94,
-    "question_text": "GPS-Aided Geo Augmented Navigation (GAGAN) uses a system of ground stations to provide necessary augmentation. Which of the following statements is/are correct in respect of GAGAN?\nI. It is designed to provide additional accuracy and integrity.\nII. It will allow more uniform and high quality air traffic management.\nIII. It will provide benefits only in aviation but not in other modes of transportation.\n\nSelect the correct answer using the code given below.",
+    "question_text": "GPS-Aided Geo Augmented Navigation (GAGAN) uses a system of ground stations to provide necessary augmentation. Which of the following statements is/are correct in respect of GAGAN?\nI. It is designed to provide additional accuracy and integrity.\nII. It will allow more uniform and high quality air traffic management.\nIII. It will provide benefits only in aviation but not in other modes of transportation.\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I, II and III",
       "b": "II and III only",
@@ -3511,14 +3477,14 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q095",
     "year": 2025,
     "paper": "gs1",
     "question_number": 95,
-    "question_text": "Consider the following statements regarding AI Action Summit held in Grand Palais, Paris in February 2025 :\nI. Co-chaired with India, the event builds on the advances made at the Bletchley Park Summit held in 2023 and the Seoul Summit held in 2024.\nII. Along with other countries, US and UK also signed the declaration on inclusive and sustainable AI.\n\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements regarding AI Action Summit held in Grand Palais, Paris in February 2025:\nI. Co-chaired with India, the event builds on the advances made at the Bletchley Park Summit held in 2023 and the Seoul Summit held in 2024.\nII. Along with other countries, US and UK also signed the declaration on inclusive and sustainable AI.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -3531,14 +3497,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q096",
     "year": 2025,
     "paper": "gs1",
     "question_number": 96,
-    "question_text": "Consider the following pairs :\nI.  International Year of the Woman Farmer          : 2026\nII. International Year of Sustainable and Resilient Tourism : 2027\nIII. International Year of Peace and Trust              : 2025\nIV. International Year of Asteroid Awareness and Planetary Defence : 2029\n\nHow many of the pairs given above are correctly matched?",
+    "question_text": "Consider the following pairs :\nI. International Year of the 2026 Woman Farmer D. International Year of 2027 Sustainable and Resilient Tourism\nIII. International Year of Peace 2025 and Trust\nIV. International Year of Asteroid 2029 Awareness and PlanetaJy Defence\nHow many of the pairs given above are correctly matched?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -3551,7 +3517,7 @@
     "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q097",
@@ -3571,14 +3537,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q098",
     "year": 2025,
     "paper": "gs1",
     "question_number": 98,
-    "question_text": "Consider the following statements about Lokpal :\nI. The power of Lokpal applies to public servants of India, but not to the Indian public servants posted outside India.\nII. The Chairperson or a Member shall not be a Member of the Parliament or a Member of the Legislature of any State or Union Territory, and only the Chief Justice of India, whether incumbent or retired, has to be its Chairperson.\nIII. The Chairperson or a Member shall not be a person of less than forty-five years of age on the date of assuming office as the Chairperson or Member, as the case may be.\nIV. Lokpal cannot inquire into the allegations of corruption against a sitting Prime Minister of India.\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements about Lokpal:\nI. The power of Lokpal applies to public servants of India, but not to the Indian public servants posted outside India.\nII. The Chairperson or a Member shall not be a Member of the Parliament or a Member of the Legislature of any State or Union Territory, and only the Chief Justice of India, whether incumbent or retired, has to be its Chairperson.\nIII. The Chairperson or a Member shall not be a person of less than forty-five years of age on the date of assuming office as the Chairperson or Member, as the case may be.\nIV. Lokpal cannot inquire into the allegations of corruption against a sitting Prime Minister of India.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "III only",
       "b": "II and III",
@@ -3591,14 +3557,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q099",
     "year": 2025,
     "paper": "gs1",
     "question_number": 99,
-    "question_text": "Consider the following statements in respect of the first Kho Kho World Cup :\nI. The event was held in Delhi, India.\nII. Indian men beat Nepal with a score of 78-40 in the final to become the World Champion in men category.\nIII. Indian women beat Nepal with a score of 54-36 in the final to become the World Champion in women category.\nWhich of the statements given above is/are correct?",
+    "question_text": "Consider the following statements in respect of the first Kho Kho World Cup :\nI. The event was held in Delhi, India.\nII. Indian men beat Nepal with a score of 78-40 in the final to become the World Champion in men category.\nIII. Indian women beat Nepal with a score of 54-36 in the final to become the World Champion in women category.\nWhich of the statements given above is/ are correct?",
     "options": {
       "a": "I only",
       "b": "II and III only",
@@ -3611,14 +3577,14 @@
     "correct_answer": "a",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   },
   {
     "id": "gs1_2025_q100",
     "year": 2025,
     "paper": "gs1",
     "question_number": 100,
-    "question_text": "Consider the following statements :\nI. In the finals of the 45th Chess Olympiad held in 2024, Gukesh Dommaraju became the world's youngest winner after defeating the Russian player Ian Nepomniachtchi.\nII. Abhimanyu Mishra, an American chess player, holds the record of becoming world's youngest ever Grandmaster.\nWhich of the statements given above is/are correct?",
+    "question_text": ". Consider the following statements :\nI. In the finals of the 45th Chess Olympiad held in 2024, Gukesh Dommaraju became the world's youngest winner after defeating the Russian player Ian Nepomniachtchi.\nII. Abhimanyu Mishra, an American chess player, holds the record of becoming world's youngest ever Grandmaster.\nWhich of the statements given above is/are correct?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -3631,6 +3597,6 @@
     "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.66,
-    "marks_unanswered": 0
+    "marks_unanswered": 0.0
   }
 ]

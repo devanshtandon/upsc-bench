@@ -2,16 +2,19 @@
 
 import { useState } from "react";
 import Footer from "@/components/Footer";
-import ArenaEssayPanel from "@/components/ArenaEssayPanel";
+import ArenaAnswerPanel from "@/components/ArenaAnswerPanel";
 import { MODEL_DISPLAY_NAMES, MODEL_COLORS } from "@/lib/constants";
 import {
   buildPairings,
   computeVoteWinner,
   computeSummary,
   ROUNDS_PER_SESSION,
+  ARENA_PAPER_LABELS,
 } from "@/lib/arena";
 import type {
   ArenaData,
+  ArenaPaper,
+  ArenaQuestion,
   ArenaState,
   ArenaPairing,
   ArenaRoundResult,
@@ -21,11 +24,20 @@ import rawArenaData from "../../../data/arena_data.json";
 
 const arenaData = rawArenaData as ArenaData;
 
+const PAPER_OPTIONS: ArenaPaper[] = [
+  "mains_essay",
+  "mains_gs1",
+  "mains_gs2",
+  "mains_gs3",
+  "mains_gs4",
+];
+
 // ── Page Component ───────────────────────────────────
 
 export default function ArenaPage() {
+  const [selectedPaper, setSelectedPaper] = useState<ArenaPaper>("mains_essay");
   const [pairings, setPairings] = useState<ArenaPairing[]>(() =>
-    buildPairings(arenaData, ROUNDS_PER_SESSION)
+    buildPairings(arenaData, ROUNDS_PER_SESSION, selectedPaper)
   );
 
   const [state, setState] = useState<ArenaState>({
@@ -37,6 +49,19 @@ export default function ArenaPage() {
   });
 
   // ── Handlers ─────────────────────────────────────
+
+  function handlePaperChange(paper: ArenaPaper) {
+    setSelectedPaper(paper);
+    const newPairings = buildPairings(arenaData, ROUNDS_PER_SESSION, paper);
+    setPairings(newPairings);
+    setState({
+      stage: "comparing",
+      pairing: newPairings[0],
+      roundIndex: 0,
+      results: [],
+      revealed: false,
+    });
+  }
 
   function handleVote(vote: VoteChoice) {
     if (state.stage !== "comparing") return;
@@ -81,7 +106,7 @@ export default function ArenaPage() {
   }
 
   function handleRestart() {
-    const newPairings = buildPairings(arenaData, ROUNDS_PER_SESSION);
+    const newPairings = buildPairings(arenaData, ROUNDS_PER_SESSION, selectedPaper);
     setPairings(newPairings);
     setState({
       stage: "comparing",
@@ -91,6 +116,13 @@ export default function ArenaPage() {
       revealed: false,
     });
   }
+
+  // ── Subtitle text ────────────────────────────────
+  const paperLabel = ARENA_PAPER_LABELS[selectedPaper];
+  const subtitleText =
+    selectedPaper === "mains_essay"
+      ? `Two AI models, one UPSC essay question. Read both responses blind, then vote for the better answer. Model identities are revealed after you vote.`
+      : `Two AI models, one UPSC ${paperLabel} question. Read both answers blind, then vote for the better response. Model identities are revealed after you vote.`;
 
   // ── Render ───────────────────────────────────────
 
@@ -117,15 +149,33 @@ export default function ArenaPage() {
           </h1>
         </div>
 
+        {/* Paper selector */}
+        {state.stage !== "summary" && (
+          <div className="flex flex-wrap gap-2 mb-4">
+            {PAPER_OPTIONS.map((paper) => (
+              <button
+                key={paper}
+                onClick={() => handlePaperChange(paper)}
+                className={`pill-btn ${selectedPaper === paper ? "active" : "inactive"}`}
+                style={
+                  selectedPaper === paper
+                    ? { background: "var(--navy)", borderColor: "var(--navy)" }
+                    : {}
+                }
+              >
+                {ARENA_PAPER_LABELS[paper]}
+              </button>
+            ))}
+          </div>
+        )}
+
         {/* Subtitle */}
         {state.stage !== "summary" && (
           <p
             className="text-sm mb-6 leading-relaxed max-w-2xl"
             style={{ color: "rgba(26,17,69,0.5)" }}
           >
-            Two AI models, one UPSC essay question. Read both responses
-            blind, then vote for the better answer. Model identities are
-            revealed after you vote.
+            {subtitleText}
           </p>
         )}
 
@@ -161,7 +211,9 @@ export default function ArenaPage() {
           <ArenaSummary
             results={state.results}
             arenaData={arenaData}
+            selectedPaper={selectedPaper}
             onRestart={handleRestart}
+            onPaperChange={handlePaperChange}
           />
         )}
       </main>
@@ -234,9 +286,11 @@ function ComparingView({
     <div className="animate-fade-in-up space-y-4">
       <QuestionHeader question={question} />
 
-      <ArenaEssayPanel
+      <ArenaAnswerPanel
         answerA={answerA}
         answerB={answerB}
+        paper={question.paper}
+        maxMarks={question.max_marks}
         stage="comparing"
         vote={null}
         revealed={state.revealed}
@@ -289,9 +343,11 @@ function VotedView({
     <div className="animate-fade-in space-y-4">
       <QuestionHeader question={question} />
 
-      <ArenaEssayPanel
+      <ArenaAnswerPanel
         answerA={answerA}
         answerB={answerB}
+        paper={question.paper}
+        maxMarks={question.max_marks}
         stage="voted"
         vote={state.vote}
         revealed={true}
@@ -348,7 +404,7 @@ function VotedView({
             <span className="font-semibold">
               {modelBName} {answerB.total_score?.toFixed(1) ?? "—"}
             </span>
-            /125
+            /{question.max_marks}
           </p>
         )}
       </div>
@@ -372,11 +428,53 @@ function VotedView({
 
 // ── Question Header ─────────────────────────────────
 
-function QuestionHeader({
-  question,
-}: {
-  question: { question_text: string; section: string; word_limit: number; max_marks: number };
-}) {
+function QuestionHeader({ question }: { question: ArenaQuestion }) {
+  const paperLabel = ARENA_PAPER_LABELS[question.paper];
+  const isEssay = question.paper === "mains_essay";
+  const isCaseStudy = question.question_type === "case_study";
+
+  // Badge text
+  const badgeText = question.section
+    ? `${paperLabel} · Section ${question.section}`
+    : paperLabel;
+
+  // Task context varies by question type
+  let taskContext: React.ReactNode;
+  if (isEssay) {
+    taskContext = (
+      <>
+        <strong style={{ color: "rgba(26,17,69,0.7)" }}>The task:</strong>{" "}
+        UPSC Mains candidates must write a {question.word_limit}-word essay exploring this
+        topic from multiple dimensions — philosophical, social, political, and
+        practical — supported by examples from India and the world.{" "}
+        <strong style={{ color: "rgba(26,17,69,0.7)" }}>Judge on:</strong>{" "}
+        breadth of content, logical structure, depth of examples, analytical
+        insight, and clarity of writing.
+      </>
+    );
+  } else if (isCaseStudy) {
+    taskContext = (
+      <>
+        <strong style={{ color: "rgba(26,17,69,0.7)" }}>The task:</strong>{" "}
+        This is an ethics case study. Candidates must analyze the scenario and answer within{" "}
+        {question.word_limit} words, demonstrating ethical reasoning, stakeholder analysis,
+        and practical solutions.{" "}
+        <strong style={{ color: "rgba(26,17,69,0.7)" }}>Judge on:</strong>{" "}
+        accuracy of content, logical structure, use of examples, analytical depth, and presentation.
+      </>
+    );
+  } else {
+    taskContext = (
+      <>
+        <strong style={{ color: "rgba(26,17,69,0.7)" }}>The task:</strong>{" "}
+        Candidates must answer this {question.max_marks}-mark question within{" "}
+        {question.word_limit} words, demonstrating factual accuracy and analytical depth.{" "}
+        <strong style={{ color: "rgba(26,17,69,0.7)" }}>Judge on:</strong>{" "}
+        accuracy of content, logical structure, use of examples, analytical depth, and presentation.
+      </>
+    );
+  }
+
   return (
     <div className="glass-card p-4 sm:p-5">
       <div className="flex items-start gap-3">
@@ -387,18 +485,27 @@ function QuestionHeader({
             color: "var(--saffron)",
           }}
         >
-          Essay · Section {question.section}
+          {badgeText}
         </span>
         <div className="flex-1 min-w-0">
-          <h2
-            className="text-lg sm:text-xl font-bold leading-snug"
-            style={{
-              fontFamily: "var(--font-playfair), serif",
-              color: "var(--navy)",
-            }}
-          >
-            &ldquo;{question.question_text}&rdquo;
-          </h2>
+          {isEssay ? (
+            <h2
+              className="text-lg sm:text-xl font-bold leading-snug"
+              style={{
+                fontFamily: "var(--font-playfair), serif",
+                color: "var(--navy)",
+              }}
+            >
+              &ldquo;{question.question_text}&rdquo;
+            </h2>
+          ) : (
+            <div
+              className={`text-sm sm:text-base leading-relaxed ${isCaseStudy ? "max-h-48 overflow-y-auto scrollbar-hide" : ""}`}
+              style={{ color: "var(--navy)" }}
+            >
+              {question.question_text}
+            </div>
+          )}
           <p
             className="text-xs mt-1"
             style={{ color: "rgba(26,17,69,0.4)" }}
@@ -416,13 +523,7 @@ function QuestionHeader({
           color: "rgba(26,17,69,0.55)",
         }}
       >
-        <strong style={{ color: "rgba(26,17,69,0.7)" }}>The task:</strong>{" "}
-        UPSC Mains candidates must write a {question.word_limit}-word essay exploring this
-        topic from multiple dimensions — philosophical, social, political, and
-        practical — supported by examples from India and the world.{" "}
-        <strong style={{ color: "rgba(26,17,69,0.7)" }}>Judge on:</strong>{" "}
-        breadth of content, logical structure, depth of examples, analytical
-        insight, and clarity of writing.
+        {taskContext}
       </div>
     </div>
   );
@@ -474,11 +575,15 @@ function VoteButtons({ onVote }: { onVote: (v: VoteChoice) => void }) {
 function ArenaSummary({
   results,
   arenaData,
+  selectedPaper,
   onRestart,
+  onPaperChange,
 }: {
   results: ArenaRoundResult[];
   arenaData: ArenaData;
+  selectedPaper: ArenaPaper;
   onRestart: () => void;
+  onPaperChange: (paper: ArenaPaper) => void;
 }) {
   const { winCounts, tieCount, skipCount } = computeSummary(results);
 
@@ -498,7 +603,8 @@ function ArenaSummary({
           className="text-sm mt-3"
           style={{ color: "rgba(26,17,69,0.5)" }}
         >
-          Your preference rankings across {results.length} comparisons
+          Your preference rankings across {results.length}{" "}
+          {ARENA_PAPER_LABELS[selectedPaper]} comparisons
         </p>
       </div>
 
@@ -600,6 +706,13 @@ function ArenaSummary({
                 ? "Tie"
                 : "Skipped";
 
+            const isEssay = question?.paper === "mains_essay";
+            const questionLabel = question
+              ? isEssay
+                ? `\u201C${question.question_text}\u201D`
+                : question.question_text
+              : r.pairing.questionId;
+
             return (
               <div
                 key={i}
@@ -634,7 +747,7 @@ function ArenaSummary({
                   className="flex-1 truncate"
                   style={{ color: "rgba(26,17,69,0.6)" }}
                 >
-                  &ldquo;{question?.question_text ?? r.pairing.questionId}&rdquo;
+                  {questionLabel}
                 </span>
                 <span
                   className="text-xs flex-shrink-0"
@@ -659,7 +772,7 @@ function ArenaSummary({
       </div>
 
       {/* Actions */}
-      <div className="flex items-center justify-center gap-4">
+      <div className="flex flex-wrap items-center justify-center gap-3">
         <button
           onClick={onRestart}
           className="pill-btn active !px-6"
@@ -670,6 +783,16 @@ function ArenaSummary({
         >
           New session
         </button>
+        {/* Quick paper switch from summary */}
+        {PAPER_OPTIONS.filter((p) => p !== selectedPaper).map((paper) => (
+          <button
+            key={paper}
+            onClick={() => onPaperChange(paper)}
+            className="pill-btn inactive !px-5"
+          >
+            Try {ARENA_PAPER_LABELS[paper]}
+          </button>
+        ))}
         <a href="/" className="pill-btn inactive !px-6">
           Back to leaderboard
         </a>

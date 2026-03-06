@@ -302,6 +302,30 @@ body {
   border-radius: 2px;
 }
 
+/* Shorter answer panel for GS papers */
+.arena-answer {
+  max-height: 40vh;
+  overflow-y: auto;
+  font-size: 14px;
+  line-height: 1.75;
+  color: rgba(26, 17, 69, 0.8);
+  scrollbar-width: thin;
+  scrollbar-color: rgba(26, 17, 69, 0.15) transparent;
+}
+
+.arena-answer::-webkit-scrollbar {
+  width: 4px;
+}
+
+.arena-answer::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.arena-answer::-webkit-scrollbar-thumb {
+  background: rgba(26, 17, 69, 0.15);
+  border-radius: 2px;
+}
+
 /* ===== Hide scrollbar (for horizontal scroll containers) ===== */
 .scrollbar-hide {
   -ms-overflow-style: none;

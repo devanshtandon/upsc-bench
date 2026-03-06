@@ -73,16 +73,6 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3 sm:gap-4 mb-6">
             <div className="flex items-center gap-1 p-1 rounded-xl" style={{ backgroundColor: "rgba(26,17,69,0.04)" }}>
               <button
-                onClick={() => setExamType("prelims")}
-                className="px-4 py-2 rounded-lg text-sm font-semibold transition-all"
-                style={{
-                  backgroundColor: examType === "prelims" ? "var(--navy)" : "transparent",
-                  color: examType === "prelims" ? "#fff" : "rgba(26,17,69,0.5)",
-                }}
-              >
-                Prelims
-              </button>
-              <button
                 onClick={() => setExamType("mains")}
                 className="px-4 py-2 rounded-lg text-sm font-semibold transition-all"
                 style={{
@@ -91,6 +81,16 @@ export default function Home() {
                 }}
               >
                 Mains
+              </button>
+              <button
+                onClick={() => setExamType("prelims")}
+                className="px-4 py-2 rounded-lg text-sm font-semibold transition-all"
+                style={{
+                  backgroundColor: examType === "prelims" ? "var(--navy)" : "transparent",
+                  color: examType === "prelims" ? "#fff" : "rgba(26,17,69,0.5)",
+                }}
+              >
+                Prelims
               </button>
             </div>
 

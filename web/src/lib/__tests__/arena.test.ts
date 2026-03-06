@@ -11,7 +11,9 @@ function makeArenaData(
   const models = Array.from({ length: modelCount }, (_, i) => `model_${i}`);
   const questions = Array.from({ length: questionCount }, (_, i) => ({
     id: `q${i}`,
-    section: (i % 2 === 0 ? "A" : "B") as "A" | "B",
+    paper: "mains_essay" as const,
+    question_type: "essay" as const,
+    section: (i % 2 === 0 ? "A" : "B") as string | null,
     question_number: i + 1,
     question_text: `Question ${i}?`,
     word_limit: 1000,
@@ -75,6 +77,7 @@ describe("buildPairings", () => {
 describe("computeVoteWinner", () => {
   const pairing: ArenaPairing = {
     questionId: "q1",
+    paper: "mains_essay",
     modelA: "gpt5",
     modelB: "claude",
   };
@@ -101,9 +104,9 @@ describe("computeVoteWinner", () => {
 describe("computeSummary", () => {
   it("tallies wins correctly", () => {
     const results: ArenaRoundResult[] = [
-      { pairing: { questionId: "q1", modelA: "gpt5", modelB: "claude" }, vote: "A", winnerModel: "gpt5" },
-      { pairing: { questionId: "q2", modelA: "gpt5", modelB: "claude" }, vote: "B", winnerModel: "claude" },
-      { pairing: { questionId: "q3", modelA: "gpt5", modelB: "claude" }, vote: "A", winnerModel: "gpt5" },
+      { pairing: { questionId: "q1", paper: "mains_essay", modelA: "gpt5", modelB: "claude" }, vote: "A", winnerModel: "gpt5" },
+      { pairing: { questionId: "q2", paper: "mains_essay", modelA: "gpt5", modelB: "claude" }, vote: "B", winnerModel: "claude" },
+      { pairing: { questionId: "q3", paper: "mains_essay", modelA: "gpt5", modelB: "claude" }, vote: "A", winnerModel: "gpt5" },
     ];
     const summary = computeSummary(results);
     expect(summary.winCounts["gpt5"]).toBe(2);
@@ -114,9 +117,9 @@ describe("computeSummary", () => {
 
   it("counts ties and skips", () => {
     const results: ArenaRoundResult[] = [
-      { pairing: { questionId: "q1", modelA: "a", modelB: "b" }, vote: "tie", winnerModel: null },
-      { pairing: { questionId: "q2", modelA: "a", modelB: "b" }, vote: "skip", winnerModel: null },
-      { pairing: { questionId: "q3", modelA: "a", modelB: "b" }, vote: "tie", winnerModel: null },
+      { pairing: { questionId: "q1", paper: "mains_essay", modelA: "a", modelB: "b" }, vote: "tie", winnerModel: null },
+      { pairing: { questionId: "q2", paper: "mains_essay", modelA: "a", modelB: "b" }, vote: "skip", winnerModel: null },
+      { pairing: { questionId: "q3", paper: "mains_essay", modelA: "a", modelB: "b" }, vote: "tie", winnerModel: null },
     ];
     const summary = computeSummary(results);
     expect(summary.tieCount).toBe(2);

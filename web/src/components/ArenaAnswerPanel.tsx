@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, type ReactNode } from "react";
-import type { ArenaAnswer, VoteChoice } from "@/types/arena";
+import type { ArenaAnswer, ArenaPaper, VoteChoice } from "@/types/arena";
 
-const RUBRIC_LABELS: Record<string, string> = {
+const ESSAY_RUBRIC_LABELS: Record<string, string> = {
   content_breadth: "Content & Breadth",
   structure_flow: "Structure & Flow",
   depth_examples: "Depth & Examples",
@@ -11,13 +11,29 @@ const RUBRIC_LABELS: Record<string, string> = {
   presentation: "Presentation",
 };
 
-// Max per rubric dimension (125 total / 5 dimensions, weighted differently)
-// We use the max_marks/5 = 25 as baseline for bar display
-const RUBRIC_BAR_MAX = 40;
+const GS_RUBRIC_LABELS: Record<string, string> = {
+  content_accuracy: "Content & Accuracy",
+  structure_flow: "Structure & Flow",
+  depth_examples: "Depth & Examples",
+  analytical_depth: "Analytical Depth",
+  presentation: "Presentation",
+};
 
-interface ArenaEssayPanelProps {
+function getRubricLabels(paper: ArenaPaper): Record<string, string> {
+  return paper === "mains_essay" ? ESSAY_RUBRIC_LABELS : GS_RUBRIC_LABELS;
+}
+
+/** Max value for rubric bar display, scaled by question marks. */
+function getRubricBarMax(maxMarks: number): number {
+  if (maxMarks >= 125) return 40; // Essays: rubric values up to ~35
+  return maxMarks * 0.32;        // GS: proportional (3.2 for 10-mark, 4.8 for 15-mark)
+}
+
+interface ArenaAnswerPanelProps {
   answerA: ArenaAnswer;
   answerB: ArenaAnswer;
+  paper: ArenaPaper;
+  maxMarks: number;
   stage: "comparing" | "voted";
   vote: VoteChoice | null;
   revealed: boolean;
@@ -53,7 +69,7 @@ function renderInlineMarkdown(text: string): ReactNode[] {
   return parts;
 }
 
-function renderEssayText(text: string) {
+function renderAnswerText(text: string) {
   const paragraphs = text.split(/\n\n+/).filter((p) => p.trim());
   return paragraphs.map((p, i) => {
     const trimmed = p.trim();
@@ -88,9 +104,11 @@ function renderEssayText(text: string) {
   });
 }
 
-function EssayCard({
+function AnswerCard({
   label,
   answer,
+  paper,
+  maxMarks,
   won,
   color,
   stage,
@@ -98,6 +116,8 @@ function EssayCard({
 }: {
   label: string;
   answer: ArenaAnswer;
+  paper: ArenaPaper;
+  maxMarks: number;
   won: boolean;
   color: string | null;
   stage: "comparing" | "voted";
@@ -108,6 +128,10 @@ function EssayCard({
     : stage === "voted"
       ? "rgba(26,17,69,0.08)"
       : "var(--card-border)";
+
+  const rubricLabels = getRubricLabels(paper);
+  const rubricBarMax = getRubricBarMax(maxMarks);
+  const contentClass = paper === "mains_essay" ? "arena-essay" : "arena-answer";
 
   return (
     <div
@@ -156,9 +180,9 @@ function EssayCard({
         </span>
       </div>
 
-      {/* Essay text */}
-      <div className="arena-essay px-4 py-3">
-        {renderEssayText(answer.text)}
+      {/* Answer text */}
+      <div className={`${contentClass} px-4 py-3`}>
+        {renderAnswerText(answer.text)}
       </div>
 
       {/* Rubric scores (only after voting, only if available) */}
@@ -178,7 +202,7 @@ function EssayCard({
               className="text-sm font-bold tabular-nums"
               style={{ color: "var(--navy)" }}
             >
-              {answer.total_score?.toFixed(1)}/{answer.rubric_scores ? 125 : "—"}
+              {answer.total_score?.toFixed(1)}/{maxMarks}
             </span>
           </div>
           <div className="space-y-1.5">
@@ -188,7 +212,7 @@ function EssayCard({
                   className="text-[11px] w-28 flex-shrink-0 truncate"
                   style={{ color: "rgba(26,17,69,0.5)" }}
                 >
-                  {RUBRIC_LABELS[key] ?? key}
+                  {rubricLabels[key] ?? key}
                 </span>
                 <div
                   className="flex-1 h-1.5 rounded-full overflow-hidden"
@@ -197,7 +221,7 @@ function EssayCard({
                   <div
                     className="h-full rounded-full transition-all duration-700"
                     style={{
-                      width: `${Math.min(100, (value / RUBRIC_BAR_MAX) * 100)}%`,
+                      width: `${Math.min(100, (value / rubricBarMax) * 100)}%`,
                       backgroundColor: color ?? "var(--saffron)",
                     }}
                   />
@@ -240,9 +264,11 @@ function EssayCard({
   );
 }
 
-export default function ArenaEssayPanel({
+export default function ArenaAnswerPanel({
   answerA,
   answerB,
+  paper,
+  maxMarks,
   stage,
   vote,
   revealed,
@@ -251,7 +277,7 @@ export default function ArenaEssayPanel({
   modelAColor,
   modelBColor,
   onReveal,
-}: ArenaEssayPanelProps) {
+}: ArenaAnswerPanelProps) {
   const [activeTab, setActiveTab] = useState<"A" | "B">("A");
 
   const showNames = revealed || stage === "voted";
@@ -289,9 +315,11 @@ export default function ArenaEssayPanel({
             {labelB} {wonB ? " ✓" : ""}
           </button>
         </div>
-        <EssayCard
+        <AnswerCard
           label={activeTab === "A" ? labelA : labelB}
           answer={activeTab === "A" ? answerA : answerB}
+          paper={paper}
+          maxMarks={maxMarks}
           won={activeTab === "A" ? wonA : wonB}
           color={activeTab === "A" ? modelAColor : modelBColor}
           stage={stage}
@@ -301,17 +329,21 @@ export default function ArenaEssayPanel({
 
       {/* DESKTOP: true side-by-side */}
       <div className="hidden sm:grid grid-cols-2 gap-4">
-        <EssayCard
+        <AnswerCard
           label={labelA}
           answer={answerA}
+          paper={paper}
+          maxMarks={maxMarks}
           won={wonA}
           color={showNames ? modelAColor : null}
           stage={stage}
           showScores={stage === "voted"}
         />
-        <EssayCard
+        <AnswerCard
           label={labelB}
           answer={answerB}
+          paper={paper}
+          maxMarks={maxMarks}
           won={wonB}
           color={showNames ? modelBColor : null}
           stage={stage}

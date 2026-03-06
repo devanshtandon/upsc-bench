@@ -1,20 +1,34 @@
 // Arena logic: pairing generation, vote computation, summary aggregation
 
-import type { ArenaData, ArenaPairing, ArenaRoundResult, VoteChoice } from "@/types/arena";
+import type { ArenaData, ArenaPairing, ArenaPaper, ArenaRoundResult, VoteChoice } from "@/types/arena";
 import { shuffle } from "./utils";
 
 export const ROUNDS_PER_SESSION = 5;
+
+export const ARENA_PAPER_LABELS: Record<ArenaPaper, string> = {
+  mains_essay: "Essay",
+  mains_gs1: "GS-I",
+  mains_gs2: "GS-II",
+  mains_gs3: "GS-III",
+  mains_gs4: "GS-IV (Ethics)",
+};
 
 /**
  * Generate randomized pairings for an arena session.
  * Each round picks a question, then two distinct models that both
  * have answers for that question.
+ *
+ * If `paper` is provided, only questions from that paper are used.
  */
 export function buildPairings(
   data: ArenaData,
-  count: number = ROUNDS_PER_SESSION
+  count: number = ROUNDS_PER_SESSION,
+  paper?: ArenaPaper
 ): ArenaPairing[] {
-  const questions = shuffle(data.questions);
+  const filtered = paper
+    ? data.questions.filter((q) => q.paper === paper)
+    : data.questions;
+  const questions = shuffle(filtered);
   const pairings: ArenaPairing[] = [];
 
   for (let attempt = 0; pairings.length < count && attempt < count * 3; attempt++) {
@@ -30,6 +44,7 @@ export function buildPairings(
     const shuffled = shuffle(models);
     pairings.push({
       questionId: question.id,
+      paper: question.paper,
       modelA: shuffled[0],
       modelB: shuffled[1],
     });

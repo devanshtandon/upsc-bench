@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Build arena_data.json for the /arena frontend page.
 
-Reads mains essay answers from results/raw/ and writes a single JSON file
-to web/data/arena_data.json with questions and model answers keyed for
-efficient lookup.
+Reads graded mains answers (all papers: Essay + GS1-4) from results/raw/
+and writes a single JSON file to web/data/arena_data.json with questions
+and model answers keyed for efficient lookup.
 """
 
 import json
@@ -11,9 +11,13 @@ import os
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# Paper ordering for consistent output
+PAPER_ORDER = ["mains_essay", "mains_gs1", "mains_gs2", "mains_gs3", "mains_gs4"]
+
 # Graded results files (have rubric_scores, total_score, feedback)
 GRADED_FILES = [
     "results/raw/mains_results_gpt_5_2.json",
+    "results/raw/mains_results_gpt_5_4.json",
     "results/raw/mains_results_claude_opus_4_6.json",
     "results/raw/mains_results_gemini_3_1_pro_preview.json",
     "results/raw/mains_results_gemini_2_5_flash.json",
@@ -28,7 +32,7 @@ OUTPUT_PATH = "web/data/arena_data.json"
 
 
 def load_results(filepath, graded=True):
-    """Load a results/answers file and return (model_id, list of essay entries)."""
+    """Load a results/answers file and return (model_id, list of entries)."""
     with open(os.path.join(PROJECT_ROOT, filepath)) as f:
         data = json.load(f)
 
@@ -36,9 +40,6 @@ def load_results(filepath, graded=True):
     entries = []
 
     for r in data["results"]:
-        if r["paper"] != "mains_essay":
-            continue
-
         entry = {
             "text": r["raw_output"],
             "word_count": r.get("word_count", 0),
@@ -70,13 +71,15 @@ def main():
             continue
 
         model, entries = load_results(filepath, graded=True)
-        print(f"  {model}: {len(entries)} essay answers (graded)")
+        print(f"  {model}: {len(entries)} answers (graded)")
 
         for qid, raw, entry in entries:
             if qid not in questions:
                 questions[qid] = {
                     "id": qid,
-                    "section": raw["section"],
+                    "paper": raw["paper"],
+                    "question_type": raw.get("question_type", "essay"),
+                    "section": raw.get("section"),
                     "question_number": raw["question_number"],
                     "question_text": raw["question_text"],
                     "word_limit": raw["word_limit"],
@@ -92,13 +95,15 @@ def main():
             continue
 
         model, entries = load_results(filepath, graded=False)
-        print(f"  {model}: {len(entries)} essay answers (ungraded)")
+        print(f"  {model}: {len(entries)} answers (ungraded)")
 
         for qid, raw, entry in entries:
             if qid not in questions:
                 questions[qid] = {
                     "id": qid,
-                    "section": raw["section"],
+                    "paper": raw["paper"],
+                    "question_type": raw.get("question_type", "essay"),
+                    "section": raw.get("section"),
                     "question_number": raw["question_number"],
                     "question_text": raw["question_text"],
                     "word_limit": raw["word_limit"],
@@ -106,9 +111,15 @@ def main():
                 }
             answers.setdefault(qid, {})[model] = entry
 
-    # Build output
+    # Build output — sort by paper order then question number
+    paper_idx = {p: i for i, p in enumerate(PAPER_ORDER)}
+    sorted_questions = sorted(
+        questions.values(),
+        key=lambda q: (paper_idx.get(q["paper"], 99), q["question_number"]),
+    )
+
     output = {
-        "questions": sorted(questions.values(), key=lambda q: q["question_number"]),
+        "questions": sorted_questions,
         "answers": answers,
     }
 
@@ -119,9 +130,16 @@ def main():
     # Stats
     n_questions = len(output["questions"])
     n_models = len(set(m for qid in answers for m in answers[qid]))
+    paper_counts = {}
+    for q in sorted_questions:
+        paper_counts[q["paper"]] = paper_counts.get(q["paper"], 0) + 1
     file_size = os.path.getsize(out_path)
+
     print(f"\nWrote {out_path}")
     print(f"  {n_questions} questions, {n_models} models")
+    for p in PAPER_ORDER:
+        if p in paper_counts:
+            print(f"    {p}: {paper_counts[p]}")
     print(f"  File size: {file_size / 1024:.0f} KB")
 
 

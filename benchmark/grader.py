@@ -45,20 +45,22 @@ def normalize_answer(raw_output: str) -> str | None:
 
     text = raw_output.strip()
 
-    # Try patterns on original text first (preserves existing behavior)
+    # Try patterns on original text — take LAST match, not first.
+    # Models reason aloud ("could be A... actually it's B"), so the final
+    # mention is the intended answer.
     for pattern in ANSWER_PATTERNS:
-        match = re.search(pattern, text, re.IGNORECASE | re.MULTILINE)
-        if match:
-            return match.group(1).lower()
+        matches = re.findall(pattern, text, re.IGNORECASE | re.MULTILINE)
+        if matches:
+            return matches[-1].lower()
 
     # Retry with markdown bold/italic markers stripped —
     # e.g. Claude outputs "Answer: **(D)**" which the patterns can't parse
     stripped = re.sub(r"\*{1,2}", "", text)
     if stripped != text:
         for pattern in ANSWER_PATTERNS:
-            match = re.search(pattern, stripped, re.IGNORECASE | re.MULTILINE)
-            if match:
-                return match.group(1).lower()
+            matches = re.findall(pattern, stripped, re.IGNORECASE | re.MULTILINE)
+            if matches:
+                return matches[-1].lower()
 
     # Last resort: find the last occurrence of a standalone a/b/c/d
     # This handles cases where the model discusses options then states answer
@@ -69,7 +71,7 @@ def normalize_answer(raw_output: str) -> str | None:
             last_match = candidate
 
     # Only use last-resort if the text is short (likely just an answer)
-    if last_match and len(text) < 50:
+    if last_match and len(text) < 20:
         return last_match
 
     return None
@@ -94,18 +96,24 @@ def grade_answer(model_answer: str | None, correct_answer: str) -> str:
     return "wrong"
 
 
-def grade_response(raw_output: str, correct_answer: str) -> dict:
+def grade_response(raw_output: str, correct_answer: str, disputed_answers: list[str] | None = None) -> dict:
     """Extract answer from model output and grade it.
 
     Args:
         raw_output: Raw text output from the LLM.
         correct_answer: The correct answer letter.
+        disputed_answers: Optional list of acceptable answers for disputed questions.
 
     Returns:
         Dict with 'extracted_answer', 'correct_answer', 'result'
     """
     extracted = normalize_answer(raw_output)
     result = grade_answer(extracted, correct_answer)
+
+    # For disputed questions, accept any of the valid answers
+    if result == "wrong" and extracted and disputed_answers:
+        if extracted.lower() in [a.lower() for a in disputed_answers]:
+            result = "correct"
 
     return {
         "extracted_answer": extracted,

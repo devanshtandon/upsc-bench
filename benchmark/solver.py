@@ -174,6 +174,8 @@ def solve_question(
         messages=messages,
         temperature=temperature,
         max_tokens=max_tokens,
+        num_retries=3,       # LiteLLM built-in exponential backoff
+        timeout=120,         # 2 minute timeout per request
     )
 
     raw_output = response.choices[0].message.content or ""

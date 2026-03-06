@@ -10,8 +10,8 @@ import os
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SCORING = {
-    "gs1": {"marks_correct": 2.0, "marks_wrong": -0.66, "marks_unanswered": 0},
-    "csat": {"marks_correct": 2.5, "marks_wrong": -0.83, "marks_unanswered": 0},
+    "gs1": {"marks_correct": 2.0, "marks_wrong": -0.6667, "marks_unanswered": 0},
+    "csat": {"marks_correct": 2.5, "marks_wrong": -0.8333, "marks_unanswered": 0},
 }
 
 

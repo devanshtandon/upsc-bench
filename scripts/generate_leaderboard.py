@@ -123,6 +123,9 @@ def generate_leaderboard(
 ) -> dict:
     """Generate the full leaderboard from all model results.
 
+    Preserves existing human reference entries that can't be regenerated
+    from results/raw/ files.
+
     Args:
         results_dir: Directory containing per-model result JSONs.
         cutoffs_path: Path to cutoffs YAML.
@@ -134,6 +137,18 @@ def generate_leaderboard(
     """
     cutoffs = load_cutoffs(cutoffs_path)
     rank_data = load_rank_mapping()
+
+    # Preserve existing human reference entries before overwriting
+    human_entries = []
+    if Path(output_path).exists():
+        with open(output_path) as f:
+            existing = json.load(f)
+        human_entries = [
+            m for m in existing.get("models", [])
+            if m.get("model", "").startswith("human/")
+        ]
+        if human_entries:
+            print(f"Preserving {len(human_entries)} human reference entries")
 
     # Load all model results
     models = []
@@ -156,6 +171,11 @@ def generate_leaderboard(
     ), reverse=True)
     for i, model in enumerate(models):
         model["rank"] = i + 1
+
+    # Re-append preserved human reference entries (unranked)
+    for human in human_entries:
+        human["rank"] = 0
+        models.append(human)
 
     leaderboard = {
         "models": models,

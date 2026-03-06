@@ -1,8 +1,8 @@
 from __future__ import annotations
 """UPSC Prelims scoring formula.
 
-GS Paper I:  +2.0 correct, -0.66 wrong, 0 unanswered (100 Qs, max 200)
-CSAT Paper II: +2.5 correct, -0.83 wrong, 0 unanswered (80 Qs, max 200)
+GS Paper I:  +2.0 correct, -2/3 wrong, 0 unanswered (100 Qs, max 200)
+CSAT Paper II: +2.5 correct, -5/6 wrong, 0 unanswered (80 Qs, max 200)
 """
 
 import json
@@ -129,9 +129,9 @@ def calculate_score(
     """
     if marking_scheme is None:
         marking_scheme = {
-            "gs1": {"correct": 2.0, "wrong": -0.66, "unanswered": 0.0,
+            "gs1": {"correct": 2.0, "wrong": -0.6667, "unanswered": 0.0,
                     "total_questions": 100, "max_marks": 200},
-            "csat": {"correct": 2.5, "wrong": -0.83, "unanswered": 0.0,
+            "csat": {"correct": 2.5, "wrong": -0.8333, "unanswered": 0.0,
                      "total_questions": 80, "max_marks": 200},
         }
 

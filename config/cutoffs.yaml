@@ -26,13 +26,13 @@ cutoffs:
 marking_scheme:
   gs1:
     correct: 2.0
-    wrong: -0.66
+    wrong: -0.6667
     unanswered: 0.0
     total_questions: 100
     max_marks: 200
   csat:
     correct: 2.5
-    wrong: -0.83
+    wrong: -0.8333
     unanswered: 0.0
     total_questions: 80
     max_marks: 200

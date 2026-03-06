@@ -7,6 +7,7 @@ computes scores, and stores results.
 
 import argparse
 import json
+import sys
 import uuid
 from pathlib import Path
 
@@ -22,11 +23,12 @@ from benchmark.solver import solve_question
 from benchmark.db import BenchmarkDB
 
 
-def run_benchmark(config_or_path: str | dict) -> dict:
+def run_benchmark(config_or_path: str | dict, force: bool = False) -> dict:
     """Run a full benchmark evaluation.
 
     Args:
         config_or_path: Path to YAML config file, or a pre-built config dict.
+        force: If True, overwrite existing results file. Otherwise abort.
 
     Returns:
         Dict with run summary including scores and pass/fail results.
@@ -37,6 +39,13 @@ def run_benchmark(config_or_path: str | dict) -> dict:
     else:
         config = load_config(config_or_path)
         config_source = config_or_path
+
+    # Check overwrite protection before doing any work
+    output_path = config["output_filepath"]
+    if Path(output_path).exists() and not force:
+        print(f"ERROR: {output_path} already exists. Use --force to overwrite.")
+        sys.exit(1)
+
     model_config = config["model"]
     model_name = model_config["name"]
 
@@ -50,7 +59,7 @@ def run_benchmark(config_or_path: str | dict) -> dict:
 
     print(f"Model: {model_name}")
     print(f"Questions: {len(questions)}")
-    print(f"Vision: {model_config.get('supports_vision', False)}")
+    print(f"Vision: {model_config.get('supports_vision', True)}")
     print()
 
     # Init DB
@@ -81,7 +90,11 @@ def run_benchmark(config_or_path: str | dict) -> dict:
             }
 
         # Grade
-        grading = grade_response(response["raw_output"], question["correct_answer"])
+        grading = grade_response(
+            response["raw_output"],
+            question["correct_answer"],
+            disputed_answers=question.get("disputed_answers"),
+        )
 
         # Calculate marks for this question
         paper = question["paper"]
@@ -150,7 +163,6 @@ def run_benchmark(config_or_path: str | dict) -> dict:
     }
 
     # Save output
-    output_path = config["output_filepath"]
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w") as f:
         json.dump(summary, f, indent=2)
@@ -181,9 +193,10 @@ if __name__ == "__main__":
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--config", help="Path to model config YAML (legacy)")
     group.add_argument("--model", help="Model key from config/models.yaml (e.g., gpt5, claude_opus)")
+    parser.add_argument("--force", action="store_true", help="Overwrite existing results file")
     args = parser.parse_args()
 
     if args.model:
-        run_benchmark(resolve_model_config(args.model, exam_type="prelims"))
+        run_benchmark(resolve_model_config(args.model, exam_type="prelims"), force=args.force)
     else:
-        run_benchmark(args.config)
+        run_benchmark(args.config, force=args.force)

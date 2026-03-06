@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-BASE="/Users/devansht/Desktop/upsc-bench/data/pdfs"
+BASE="$(cd "$(dirname "$0")" && pwd)/../data/pdfs"
 
 download_with_fallback() {
     local output="$1"

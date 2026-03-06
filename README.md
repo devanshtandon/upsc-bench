@@ -95,7 +95,7 @@ Graded by a calibrated LLM judge (Claude Opus 4.6) using a 5-dimension rubric:
 
 ```bash
 # Clone the repo
-git clone https://github.com/devanshtakkar/upsc-bench.git
+git clone https://github.com/devanshtandon/upsc-bench.git
 cd upsc-bench
 
 # Install Python dependencies

@@ -138,17 +138,23 @@ def generate_leaderboard(
     cutoffs = load_cutoffs(cutoffs_path)
     rank_data = load_rank_mapping()
 
-    # Preserve existing human reference entries before overwriting
+    # Preserve existing data before overwriting:
+    # - Human reference entries (can't be regenerated from results/raw/)
+    # - Mains data attached to AI models (generated separately by mains pipeline)
     human_entries = []
+    existing_mains = {}
     if Path(output_path).exists():
         with open(output_path) as f:
             existing = json.load(f)
-        human_entries = [
-            m for m in existing.get("models", [])
-            if m.get("model", "").startswith("human/")
-        ]
+        for m in existing.get("models", []):
+            if m.get("model", "").startswith("human/"):
+                human_entries.append(m)
+            elif "mains" in m:
+                existing_mains[m["model"]] = m["mains"]
         if human_entries:
             print(f"Preserving {len(human_entries)} human reference entries")
+        if existing_mains:
+            print(f"Preserving mains data for {len(existing_mains)} AI models")
 
     # Load all model results
     models = []
@@ -161,6 +167,9 @@ def generate_leaderboard(
     for result_file in sorted(results_path.glob("results_*.json")):
         print(f"Loading {result_file.name}...")
         model_data = aggregate_model_results(str(result_file), cutoffs, rank_data)
+        # Re-attach preserved mains data
+        if model_data["model"] in existing_mains:
+            model_data["mains"] = existing_mains[model_data["model"]]
         models.append(model_data)
 
     # Rank by CSAT qualification first, then GS1 merit, then overall accuracy as tiebreaker

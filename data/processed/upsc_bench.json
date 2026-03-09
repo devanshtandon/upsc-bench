@@ -63,27 +63,6 @@
     "passage": "Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income."
   },
   {
-    "id": "csat_2025_q004",
-    "year": 2025,
-    "paper": "csat",
-    "question_number": 4,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\nI. Path-dependent green investments will eventually most likely benefit growth as well as public finances in a country like India.\n\nII. If other green technologies follow the same pattern as that of solar energy, there will most likely be an easy green transition.\n\nWhich of the above assumptions is/are valid ?",
-    "options": {
-      "a": "I only",
-      "b": "II only",
-      "c": "Both I and II",
-      "d": "Neither I nor II"
-    },
-    "has_image": false,
-    "image_paths": [],
-    "image_description": "",
-    "correct_answer": "a",
-    "marks_correct": 2.5,
-    "marks_wrong": -0.8333,
-    "marks_unanswered": 0,
-    "passage": "Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income."
-  },
-  {
     "id": "csat_2025_q005",
     "year": 2025,
     "paper": "csat",
@@ -108,7 +87,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 6,
-    "question_text": "Three prime numbers p, q and r, each less than 20, are such that p − q = q − r. How many distinct possible values can we get for (p + q + r) ?",
+    "question_text": "Three prime numbers p, q and r, each less than 20, are such that p \u2212 q = q \u2212 r. How many distinct possible values can we get for (p + q + r) ?",
     "options": {
       "a": "4",
       "b": "5",
@@ -190,10 +169,10 @@
     "question_number": 10,
     "question_text": "The price (p) of a commodity is first increased by k%; then decreased by k%; again increased by k%; and again decreased by k%. If the new price is q, then what is the relation between p and q?",
     "options": {
-      "a": "p(10⁴ − k²)² = q × 10⁸",
-      "b": "p(10⁴ − k²)² = q × 10⁴",
-      "c": "p(10⁴ − k²) = q × 10⁴",
-      "d": "p(10⁴ − k²) = q × 10⁸"
+      "a": "p(10\u2074 \u2212 k\u00b2)\u00b2 = q \u00d7 10\u2078",
+      "b": "p(10\u2074 \u2212 k\u00b2)\u00b2 = q \u00d7 10\u2074",
+      "c": "p(10\u2074 \u2212 k\u00b2) = q \u00d7 10\u2074",
+      "d": "p(10\u2074 \u2212 k\u00b2) = q \u00d7 10\u2078"
     },
     "has_image": false,
     "image_paths": [],
@@ -332,7 +311,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 17,
-    "question_text": "The petrol price shot up by 10% as a result of the hike in crude oil prices. The price of petrol before the hike was ₹ 90 per litre. A person travels 2200 km every month and his car gives a mileage of 16 km per litre. By how many km should he reduce his travel if he wants to maintain his expenditure at the previous level ?",
+    "question_text": "The petrol price shot up by 10% as a result of the hike in crude oil prices. The price of petrol before the hike was \u20b9 90 per litre. A person travels 2200 km every month and his car gives a mileage of 16 km per litre. By how many km should he reduce his travel if he wants to maintain his expenditure at the previous level ?",
     "options": {
       "a": "180 km",
       "b": "200 km",
@@ -372,7 +351,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 19,
-    "question_text": "Consider the following statements :\n\nI. If A ≤ B > C < D > E > F ≥ G = H; then B is always greater than E.\nII. If P > Q = R ≥ S = T ≤ U = V > W; then S is always less than V.\n\nWhich of the statements given above is/are correct ?",
+    "question_text": "Consider the following statements :\n\nI. If A \u2264 B > C < D > E > F \u2265 G = H; then B is always greater than E.\nII. If P > Q = R \u2265 S = T \u2264 U = V > W; then S is always less than V.\n\nWhich of the statements given above is/are correct ?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -392,7 +371,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 20,
-    "question_text": "What is the unit digit in the multiplication of\n\n1 × 3 × 5 × 7 × 9 × . . . × 999 ?",
+    "question_text": "What is the unit digit in the multiplication of\n\n1 \u00d7 3 \u00d7 5 \u00d7 7 \u00d7 9 \u00d7 . . . \u00d7 999 ?",
     "options": {
       "a": "1",
       "b": "3",
@@ -426,7 +405,7 @@
     "marks_correct": 2.5,
     "marks_wrong": -0.8333,
     "marks_unanswered": 0,
-    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3·5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
+    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3\u00b75% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
   },
   {
     "id": "csat_2025_q022",
@@ -447,28 +426,7 @@
     "marks_correct": 2.5,
     "marks_wrong": -0.8333,
     "marks_unanswered": 0,
-    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3·5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
-  },
-  {
-    "id": "csat_2025_q023",
-    "year": 2025,
-    "paper": "csat",
-    "question_number": 23,
-    "question_text": "Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage ?",
-    "options": {
-      "a": "We need to free the handloom industry from the limited narrative linked to preserving cultural heritage.",
-      "b": "Continued State support to the handloom industry ensures the preservation of some of our glorious art forms and old traditions.",
-      "c": "Household units of the handloom sector should be modernized and made an economically viable organized industry.",
-      "d": "Handloom products need to be converted to machine-made designer products so as to make them more popular."
-    },
-    "has_image": false,
-    "image_paths": [],
-    "image_description": "",
-    "correct_answer": "a",
-    "marks_correct": 2.5,
-    "marks_wrong": -0.8333,
-    "marks_unanswered": 0,
-    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3·5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
+    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3\u00b75% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
   },
   {
     "id": "csat_2025_q024",
@@ -489,7 +447,7 @@
     "marks_correct": 2.5,
     "marks_wrong": -0.8333,
     "marks_unanswered": 0,
-    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3·5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
+    "passage": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3\u00b75% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s."
   },
   {
     "id": "csat_2025_q025",
@@ -516,7 +474,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 26,
-    "question_text": "If 4 ≤ x ≤ 8 and 2 ≤ y ≤ 7, then what is the ratio of maximum value of (x + y) to minimum value of (x - y) ?",
+    "question_text": "If 4 \u2264 x \u2264 8 and 2 \u2264 y \u2264 7, then what is the ratio of maximum value of (x + y) to minimum value of (x - y) ?",
     "options": {
       "a": "6",
       "b": "15/2",
@@ -536,7 +494,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 27,
-    "question_text": "Let both p and k be prime numbers such that (p² + k) is also a prime number less than 30. What is the number of possible values of k ?",
+    "question_text": "Let both p and k be prime numbers such that (p\u00b2 + k) is also a prime number less than 30. What is the number of possible values of k ?",
     "options": {
       "a": "4",
       "b": "5",
@@ -700,7 +658,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 35,
-    "question_text": "What is the maximum value of n such that 7 × 343 × 385 × 1000 × 2401 × 77777 is divisible by 35^n ?",
+    "question_text": "What is the maximum value of n such that 7 \u00d7 343 \u00d7 385 \u00d7 1000 \u00d7 2401 \u00d7 77777 is divisible by 35^n ?",
     "options": {
       "a": "3",
       "b": "4",
@@ -760,7 +718,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 38,
-    "question_text": "If P = +, Q = -, R = ×, S = ÷, then insert the proper notations between the successive numbers in the equation 60 18 3 20 4 = 20.",
+    "question_text": "If P = +, Q = -, R = \u00d7, S = \u00f7, then insert the proper notations between the successive numbers in the equation 60 18 3 20 4 = 20.",
     "options": {
       "a": "SPRQ",
       "b": "QRPS",
@@ -879,27 +837,6 @@
     "passage": "Over the next 30 years, many countries are promising to move to net-zero carbon, implying that household emissions will have to be cut to close to nothing. A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures, such as behavioural changes by individuals and households. And even that would require companies and governments to provide more incentives to change through supply-side investments to make low-carbon options cheaper and more widely available."
   },
   {
-    "id": "csat_2025_q044",
-    "year": 2025,
-    "paper": "csat",
-    "question_number": 44,
-    "question_text": "With reference to the above passage, the following assumptions have been made :\n\n1. Automobile factories are examples of the circular economy.\nII. Economic growth is compatible with circular use of mineral resources.\n\nWhich of the above assumptions is/are valid ?",
-    "options": {
-      "a": "I only",
-      "b": "II only",
-      "c": "Both I and II",
-      "d": "Neither I nor II"
-    },
-    "has_image": false,
-    "image_paths": [],
-    "image_description": "",
-    "correct_answer": "b",
-    "marks_correct": 2.5,
-    "marks_wrong": -0.8333,
-    "marks_unanswered": 0,
-    "passage": "Over the next 30 years, many countries are promising to move to net-zero carbon, implying that household emissions will have to be cut to close to nothing. A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures, such as behavioural changes by individuals and households. And even that would require companies and governments to provide more incentives to change through supply-side investments to make low-carbon options cheaper and more widely available."
-  },
-  {
     "id": "csat_2025_q045",
     "year": 2025,
     "paper": "csat",
@@ -1004,7 +941,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 50,
-    "question_text": "Three teams P, Q, R participated in a tournament in which the teams play with one another exactly once. A win fetches a team 2 points and a draw 1 point. A team gets no point for a loss. Each team scored exactly one goal in the tournament. The team P got 3 points, Q got 2 points and R got 1 point. Which of the following statements is/are correct ?\nI. The result of the match between P and Q is a draw with the score 0 – 0.\nII. The number of goals scored by R against Q is 1.\nWhich of the statements given above is/are correct ?",
+    "question_text": "Three teams P, Q, R participated in a tournament in which the teams play with one another exactly once. A win fetches a team 2 points and a draw 1 point. A team gets no point for a loss. Each team scored exactly one goal in the tournament. The team P got 3 points, Q got 2 points and R got 1 point. Which of the following statements is/are correct ?\nI. The result of the match between P and Q is a draw with the score 0 \u2013 0.\nII. The number of goals scored by R against Q is 1.\nWhich of the statements given above is/are correct ?",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1168,7 +1105,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 58,
-    "question_text": "The 5-digit number PQRST (all distinct digits) is such that T ≠ 0. P is thrice T. S is greater than Q by 4, while Q is greater than R by 3. How many such 5-digit numbers are possible ?",
+    "question_text": "The 5-digit number PQRST (all distinct digits) is such that T \u2260 0. P is thrice T. S is greater than Q by 4, while Q is greater than R by 3. How many such 5-digit numbers are possible ?",
     "options": {
       "a": "3",
       "b": "4",
@@ -1188,7 +1125,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 59,
-    "question_text": "X can complete one-third of a certain work in 6 days, Y can complete one-third of the same work in 8 days and Z can complete three-fourth of the same work in 12 days. All of them work together for n days and then X and Z quit and Y alone finishes the remaining work in 8⅔ days. What is n equal to ?",
+    "question_text": "X can complete one-third of a certain work in 6 days, Y can complete one-third of the same work in 8 days and Z can complete three-fourth of the same work in 12 days. All of them work together for n days and then X and Z quit and Y alone finishes the remaining work in 8\u2154 days. What is n equal to ?",
     "options": {
       "a": "3",
       "b": "4",
@@ -1242,7 +1179,7 @@
     "marks_correct": 2.5,
     "marks_wrong": -0.8333,
     "marks_unanswered": 0,
-    "passage": "There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy and enabling the transition from rural to urban, and agriculture to industry and services, which are inevitable with growth. It generates jobs — and there is no other way to fix a country's unemployment challenge without a further impetus to private business. Big companies can operate on a large scale and become competitive both domestically and externally. A vibrant corporate capitalist base also leads to additional revenues for the State — which in turn, can be used for greater welfare for the marginalized and creating a more level playing field in terms of opportunities."
+    "passage": "There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy and enabling the transition from rural to urban, and agriculture to industry and services, which are inevitable with growth. It generates jobs \u2014 and there is no other way to fix a country's unemployment challenge without a further impetus to private business. Big companies can operate on a large scale and become competitive both domestically and externally. A vibrant corporate capitalist base also leads to additional revenues for the State \u2014 which in turn, can be used for greater welfare for the marginalized and creating a more level playing field in terms of opportunities."
   },
   {
     "id": "csat_2025_q062",
@@ -1263,7 +1200,7 @@
     "marks_correct": 2.5,
     "marks_wrong": -0.8333,
     "marks_unanswered": 0,
-    "passage": "There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy and enabling the transition from rural to urban, and agriculture to industry and services, which are inevitable with growth. It generates jobs — and there is no other way to fix a country's unemployment challenge without a further impetus to private business. Big companies can operate on a large scale and become competitive both domestically and externally. A vibrant corporate capitalist base also leads to additional revenues for the State — which in turn, can be used for greater welfare for the marginalized and creating a more level playing field in terms of opportunities."
+    "passage": "There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy and enabling the transition from rural to urban, and agriculture to industry and services, which are inevitable with growth. It generates jobs \u2014 and there is no other way to fix a country's unemployment challenge without a further impetus to private business. Big companies can operate on a large scale and become competitive both domestically and externally. A vibrant corporate capitalist base also leads to additional revenues for the State \u2014 which in turn, can be used for greater welfare for the marginalized and creating a more level playing field in terms of opportunities."
   },
   {
     "id": "csat_2025_q063",
@@ -1391,7 +1328,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 69,
-    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion:\n\nLet P, Q, R, S be distinct non-zero digits. If PP x PQ = RRSS, where P ≤ 3 and Q ≤ 4, then what is Q equal to?\n\nStatement I: R = 1.\n\nStatement II: S = 2.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion:\n\nLet P, Q, R, S be distinct non-zero digits. If PP x PQ = RRSS, where P \u2264 3 and Q \u2264 4, then what is Q equal to?\n\nStatement I: R = 1.\n\nStatement II: S = 2.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
     "options": {
       "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
       "b": "The Question can be answered by using either Statement alone.",
@@ -1445,7 +1382,7 @@
     "marks_correct": 2.5,
     "marks_wrong": -0.8333,
     "marks_unanswered": 0,
-    "passage": "A single number for inflation is an aggregate across different commodities and services — the price rise differs for different items of consumption. So, the single number is arrived at by assigning weights to different commodities and services. For WPI, the weights in production are used; for CPI, the consumption basket is used. But people are not homogeneous. The consumption basket is vastly different for the poor, the middle classes, and the rich. Hence, the CPI is different for each of these classes and a composite index requires averaging the baskets."
+    "passage": "A single number for inflation is an aggregate across different commodities and services \u2014 the price rise differs for different items of consumption. So, the single number is arrived at by assigning weights to different commodities and services. For WPI, the weights in production are used; for CPI, the consumption basket is used. But people are not homogeneous. The consumption basket is vastly different for the poor, the middle classes, and the rich. Hence, the CPI is different for each of these classes and a composite index requires averaging the baskets."
   },
   {
     "id": "csat_2025_q072",
@@ -1493,7 +1430,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 74,
-    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion:\n\nIs (p + q)² − 4pq, where p, q are natural numbers, positive?\n\nStatement I: p < q.\n\nStatement II: p > q.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "question_text": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion:\n\nIs (p + q)\u00b2 \u2212 4pq, where p, q are natural numbers, positive?\n\nStatement I: p < q.\n\nStatement II: p > q.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
     "options": {
       "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
       "b": "The Question can be answered by using either Statement alone.",
@@ -1533,7 +1470,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 76,
-    "question_text": "Let p + q = 10, where p, q are integers.\n\nValue-I = Maximum value of p × q when p, q are positive integers.\n\nValue-II = Maximum value of p × q when p ≥ -6, q ≥ -4.\n\nWhich one of the following is correct?",
+    "question_text": "Let p + q = 10, where p, q are integers.\n\nValue-I = Maximum value of p \u00d7 q when p, q are positive integers.\n\nValue-II = Maximum value of p \u00d7 q when p \u2265 -6, q \u2265 -4.\n\nWhich one of the following is correct?",
     "options": {
       "a": "Value-I < Value-II",
       "b": "Value-II < Value-I",
@@ -1553,7 +1490,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 77,
-    "question_text": "Consider a set of 11 numbers :\n\nValue-I = Minimum value of the average of the numbers of the set when they are consecutive integers ≥ -5.\n\nValue-II = Minimum value of the product of the numbers of the set when they are consecutive non-negative integers.\n\nWhich one of the following is correct?",
+    "question_text": "Consider a set of 11 numbers :\n\nValue-I = Minimum value of the average of the numbers of the set when they are consecutive integers \u2265 -5.\n\nValue-II = Minimum value of the product of the numbers of the set when they are consecutive non-negative integers.\n\nWhich one of the following is correct?",
     "options": {
       "a": "Value-I < Value-II",
       "b": "Value-II < Value-I",
@@ -1593,7 +1530,7 @@
     "year": 2025,
     "paper": "csat",
     "question_number": 79,
-    "question_text": "Let x be a real number between 0 and 1. Which of the following statements is/are correct?\n\nI.  x² > x³\n\nII.  x > √x\n\nSelect the correct answer using the code given below:",
+    "question_text": "Let x be a real number between 0 and 1. Which of the following statements is/are correct?\n\nI.  x\u00b2 > x\u00b3\n\nII.  x > \u221ax\n\nSelect the correct answer using the code given below:",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -1843,7 +1780,7 @@
     "has_image": false,
     "image_paths": [],
     "image_description": "",
-    "correct_answer": "a",
+    "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.6667,
     "marks_unanswered": 0
@@ -1923,7 +1860,7 @@
     "has_image": false,
     "image_paths": [],
     "image_description": "",
-    "correct_answer": "a",
+    "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.6667,
     "marks_unanswered": 0
@@ -1963,7 +1900,7 @@
     "has_image": false,
     "image_paths": [],
     "image_description": "",
-    "correct_answer": "d",
+    "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.6667,
     "marks_unanswered": 0
@@ -1983,7 +1920,7 @@
     "has_image": false,
     "image_paths": [],
     "image_description": "",
-    "correct_answer": "c",
+    "correct_answer": "d",
     "marks_correct": 2.0,
     "marks_wrong": -0.6667,
     "marks_unanswered": 0
@@ -2023,7 +1960,7 @@
     "has_image": false,
     "image_paths": [],
     "image_description": "",
-    "correct_answer": "b",
+    "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.6667,
     "marks_unanswered": 0
@@ -2073,7 +2010,7 @@
     "year": 2025,
     "paper": "gs1",
     "question_number": 23,
-    "question_text": "Consider the following water bodies :\nI. Lake Tanganyika\nII. Lake Tonlé Sap\nIII. Patos Lagoon\n\nThrough how many of them does the equator pass?",
+    "question_text": "Consider the following water bodies :\nI. Lake Tanganyika\nII. Lake Tonl\u00e9 Sap\nIII. Patos Lagoon\n\nThrough how many of them does the equator pass?",
     "options": {
       "a": "Only one",
       "b": "Only two",
@@ -2833,7 +2770,7 @@
     "year": 2025,
     "paper": "gs1",
     "question_number": 61,
-    "question_text": "Suppose the revenue expenditure is ₹ 80,000 crores and the revenue receipts of the Government are ₹ 60,000 crores. The Government budget also shows borrowings of ₹ 10,000 crores and interest payments of ₹ 6,000 crores. Which of the following statements are correct?\n\nI. Revenue deficit is ₹ 20,000 crores.\nII. Fiscal deficit is ₹ 10,000 crores.\nIII. Primary deficit is ₹ 4,000 crores.\n\nSelect the correct answer using the code given below.",
+    "question_text": "Suppose the revenue expenditure is \u20b9 80,000 crores and the revenue receipts of the Government are \u20b9 60,000 crores. The Government budget also shows borrowings of \u20b9 10,000 crores and interest payments of \u20b9 6,000 crores. Which of the following statements are correct?\n\nI. Revenue deficit is \u20b9 20,000 crores.\nII. Fiscal deficit is \u20b9 10,000 crores.\nIII. Primary deficit is \u20b9 4,000 crores.\n\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I and II only",
       "b": "II and III only",
@@ -2898,7 +2835,7 @@
     "year": 2025,
     "paper": "gs1",
     "question_number": 64,
-    "question_text": "The World Bank warned that India could become one of the first places where wet-bulb temperatures routinely exceed 35 °C. Which of the following statements best reflect(s) the implication of the above-said report?\n\nI. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.\nII. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.\n\nSelect the correct answer using the code given below.",
+    "question_text": "The World Bank warned that India could become one of the first places where wet-bulb temperatures routinely exceed 35 \u00b0C. Which of the following statements best reflect(s) the implication of the above-said report?\n\nI. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.\nII. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.\n\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I only",
       "b": "II only",
@@ -2908,7 +2845,7 @@
     "has_image": false,
     "image_paths": [],
     "image_description": "",
-    "correct_answer": "c",
+    "correct_answer": "b",
     "marks_correct": 2.0,
     "marks_wrong": -0.6667,
     "marks_unanswered": 0
@@ -2918,11 +2855,11 @@
     "year": 2025,
     "paper": "gs1",
     "question_number": 65,
-    "question_text": "A country's fiscal deficit stands at ₹ 50,000 crores. It is receiving ₹ 10,000 crores through non-debt creating capital receipts. The country's interest liabilities are ₹ 1,500 crores. What is the gross primary deficit?",
+    "question_text": "A country's fiscal deficit stands at \u20b9 50,000 crores. It is receiving \u20b9 10,000 crores through non-debt creating capital receipts. The country's interest liabilities are \u20b9 1,500 crores. What is the gross primary deficit?",
     "options": {
-      "a": "₹ 48,500 crores",
-      "b": "₹ 51,500 crores",
-      "c": "₹ 58,500 crores",
+      "a": "\u20b9 48,500 crores",
+      "b": "\u20b9 51,500 crores",
+      "c": "\u20b9 58,500 crores",
       "d": "None of the above"
     },
     "has_image": false,
@@ -2938,7 +2875,7 @@
     "year": 2025,
     "paper": "gs1",
     "question_number": 66,
-    "question_text": "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct?\nI. It has recommended grants of ₹ 4,800 crores from the year 2022-23 to the year 2025-26 for incentivizing States to enhance educational outcomes.\nII. 45% of the net proceeds of Union taxes are to be shared with States.\nIII. ₹ 45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms.\nIV. It reintroduced tax effort criteria to reward fiscal performance.\nSelect the correct answer using the code given below.",
+    "question_text": "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct?\nI. It has recommended grants of \u20b9 4,800 crores from the year 2022-23 to the year 2025-26 for incentivizing States to enhance educational outcomes.\nII. 45% of the net proceeds of Union taxes are to be shared with States.\nIII. \u20b9 45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms.\nIV. It reintroduced tax effort criteria to reward fiscal performance.\nSelect the correct answer using the code given below.",
     "options": {
       "a": "I, II and III",
       "b": "I, II and IV",
@@ -3151,7 +3088,11 @@
     "correct_answer": "c",
     "marks_correct": 2.0,
     "marks_wrong": -0.6667,
-    "marks_unanswered": 0
+    "marks_unanswered": 0,
+    "disputed_answers": [
+      "c",
+      "b"
+    ]
   },
   {
     "id": "gs1_2025_q077",

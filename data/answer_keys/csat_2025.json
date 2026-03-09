@@ -4,7 +4,7 @@
   "set": "A",
   "source": "Insights IAS (coaching institute answer key)",
   "total_questions": 80,
-  "dropped_questions": [],
+  "dropped_questions": [4, 23, 44],
   "disputed_questions": {},
   "answers": {
     "1": "c",

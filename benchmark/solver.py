@@ -17,8 +17,8 @@ SYSTEM_PROMPT = """You are taking the UPSC Civil Services Preliminary Examinatio
 Instructions:
 - Read the question carefully
 - Consider all options before answering
-- State your final answer clearly as a single letter (A, B, C, or D)
-- Format your answer as: "Answer: (X)" where X is your chosen option letter"""
+- First, state your final answer as: "Answer: (X)" where X is your chosen option letter
+- Then, briefly explain your reasoning"""
 
 
 QUESTION_TEMPLATE = """Question {number}:
@@ -31,7 +31,7 @@ Options:
 (C) {option_c}
 (D) {option_d}
 
-Provide your answer."""
+First state your answer, then explain your reasoning."""
 
 PASSAGE_QUESTION_TEMPLATE = """Question {number}:
 
@@ -48,7 +48,7 @@ Options:
 (C) {option_c}
 (D) {option_d}
 
-Provide your answer."""
+First state your answer, then explain your reasoning."""
 
 
 def build_prompt(question: dict) -> str:
